@@ -114,7 +114,7 @@ Government
 * UK 2011 Census Open Atlas Project: http://www.alex-singleton.com/2011-census-open-atlas-project/
 * United Nations: http://data.un.org/
 * US CDC Public Health datasets: http://www.cdc.gov/nchs/data_access/ftp_data.htm
-* Open Government Data (OGD) Platform India: http://http://www.data.gov.in/
+* Open Government Data (OGD) Platform India: http://www.data.gov.in/
 
 
 Data Challenges
