@@ -23,6 +23,21 @@ Economics
 * Internet Product Code Database: http://www.upcdatabase.com/
 * World bank: http://data.worldbank.org/indicator
 
+Energy
+------
+
+* AMPds: http://ampds.org/
+* BLUEd: http://nilm.cmubi.org/
+* COMBED: http://combed.github.io/
+* Dataport: https://dataport.pecanstreet.org/
+* ECO: http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+* iAWE: http://iawe.github.io/
+* HFED: http://hfed.github.io/
+* Plaid: http://plaidplug.com/
+* REDD: http://redd.csail.mit.edu/
+* UK-Dale: http://www.doc.ic.ac.uk/~dk3810/data/
+
+
 Finance
 -------
 
