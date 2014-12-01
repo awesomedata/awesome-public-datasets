@@ -281,5 +281,6 @@ Complementary Collections
 * DataWrangling: http://www.datawrangling.com/some-datasets-available-on-the-web
 * Inside-r: http://www.inside-r.org/howto/finding-data-internet
 * Quora: http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+* Reddit: http://www.reddit.com/r/datasets
 * RS Collection 100+ : http://rs.io/2014/05/29/list-of-data-sets.html
 * StaTrek: http://hsiamin.com/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
