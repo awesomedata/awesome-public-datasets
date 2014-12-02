@@ -266,7 +266,7 @@ Data SEs
 * Freebase: http://www.freebase.com/
 
 
-Public Doamins
+Public Domains
 --------------
 
 * Amazon: http://aws.amazon.com/datasets
