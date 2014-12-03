@@ -63,6 +63,9 @@ Biology
 * Public Gene Data: http://www.pubgene.org/
 * Stanford Microarray Data: http://smd.stanford.edu/
 * UniGene: http://www.ncbi.nlm.nih.gov/unigene
+* The Personal Genome Project: http://www.personalgenomes.org/ or https://my.pgp-hms.org/public_genetic_data
+* 1000 Genomes: http://www.1000genomes.org/data
+* UCSC Public Data: http://hgdownload.soe.ucsc.edu/downloads.html
 
 
 Physics
