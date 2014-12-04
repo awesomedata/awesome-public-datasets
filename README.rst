@@ -87,8 +87,10 @@ GeoSpace
 * EOSDIS: http://sedac.ciesin.columbia.edu/data/sets/browse
 * Factual Global Location Data: http://www.factual.com/
 * Geo Spatial Data: http://geodacenter.asu.edu/datalist/
-* OpenStreetMap (A free map worldwide): http://wiki.openstreetmap.org/wiki/Downloading_data
+* OpenStreetMap (a free map worldwide): http://wiki.openstreetmap.org/wiki/Downloading_data
 * GeoNames (over eight million placenames): http://www.geonames.org/
+* BODC (marine data of nearly 22,000 oceanographic vars): http://www.bodc.ac.uk/data/where_to_find_data/
+* GADM (Global Administrative Areas database): http://www.gadm.org/
 
 Transportation
 --------------
