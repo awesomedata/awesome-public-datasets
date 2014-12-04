@@ -87,7 +87,8 @@ GeoSpace
 * EOSDIS: http://sedac.ciesin.columbia.edu/data/sets/browse
 * Factual Global Location Data: http://www.factual.com/
 * Geo Spatial Data: http://geodacenter.asu.edu/datalist/
-
+* OpenStreetMap (A free map worldwide): http://wiki.openstreetmap.org/wiki/Downloading_data
+* GeoNames (over eight million placenames): http://www.geonames.org/
 
 Transportation
 --------------
