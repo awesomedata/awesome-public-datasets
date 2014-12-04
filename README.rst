@@ -120,6 +120,7 @@ Government
 * Guardian world governments: http://www.guardian.co.uk/world-government-data
 * HUD: http://www.huduser.org/portal/datasets/pdrdatas.html
 * London Datastore, U.K: http://data.london.gov.uk/dataset
+* Netherlands: https://data.overheid.nl/
 * New Zealand: http://www.stats.govt.nz/browse_for_stats.aspx
 * NYC betanyc: http://betanyc.us/
 * NYC Open Data: http://nycplatform.socrata.com/
