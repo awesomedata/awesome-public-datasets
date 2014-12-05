@@ -97,7 +97,7 @@ GeoSpace/GIS
 * GeoNames (over eight million placenames): http://www.geonames.org/
 * BODC (marine data of nearly 22,000 oceanographic vars): http://www.bodc.ac.uk/data/where_to_find_data/
 * GADM (Global Administrative Areas database): http://www.gadm.org/
-* twofishes (Foursquare's reverse geocoder): https://github.com/foursquare/twofishes
+* twofishes (Foursquare's coarse geocoder): https://github.com/foursquare/twofishes
 * Natural Earth (vectors and rasters of the world): http://www.naturalearthdata.com/
 * tz_world (timezone polygons): http://efele.net/maps/tz/world/
 * TIGER/Line (official United States boundaries and roads): http://www.census.gov/geo/maps-data/data/tiger-line.html
