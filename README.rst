@@ -107,6 +107,7 @@ Transportation
 * RITA transport data collection: http://www.transtats.bts.gov/DataIndex.asp
 * Transport for London: http://www.tfl.gov.uk/info-for/open-data-users/our-feeds
 * U.S. Freight Analysis Framework: http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
+* Marine Traffic - ship tracks, port calls and more: https://www.marinetraffic.com/de/p/api-services
 
 
 Government
