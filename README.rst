@@ -124,6 +124,7 @@ Government
 ----------
 
 * Archive-it: : https://www.archive-it.org/explore?show=Collections
+* Australia: https://data.gov.au/
 * Australia: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument
 * Canada: http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1
 * Chicago: https://data.cityofchicago.org/
