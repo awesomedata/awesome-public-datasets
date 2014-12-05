@@ -5,6 +5,7 @@ This list of public data sources are collected and tidyed from blogs, answers,
 and user reponses. Most of the data sets listed below are free, however, some
 are not. This list comes from https://github.com/caesar0301/awesome-public-datasets.
 
+
 Climate
 -------
 
@@ -15,6 +16,7 @@ Climate
 * NOAA climate datasets: http://ncdc.noaa.gov/data-access/quick-links
 * WU Historical Weather Worldwide: http://www.wunderground.com/history/index.html
 
+
 Economics
 ---------
 
@@ -22,6 +24,7 @@ Economics
 * EconData (UMD): http://inforumweb.umd.edu/econdata/econdata.html
 * Internet Product Code Database: http://www.upcdatabase.com/
 * World bank: http://data.worldbank.org/indicator
+
 
 Energy
 ------
@@ -50,6 +53,7 @@ Finance
 * Quandl: http://www.quandl.com/
 * St Louis Federal: http://research.stlouisfed.org/fred2/
 * Yahoo Finance: http://finance.yahoo.com/
+
 
 Biology
 -------
@@ -82,7 +86,8 @@ Healthcare
 * Gapminder: http://www.gapminder.org/data/
 * Medicare Data File: http://go.cms.gov/19xxPN4
 
-GeoSpace
+
+GeoSpace/GIS
 --------
 
 * EOSDIS: http://sedac.ciesin.columbia.edu/data/sets/browse
@@ -92,6 +97,11 @@ GeoSpace
 * GeoNames (over eight million placenames): http://www.geonames.org/
 * BODC (marine data of nearly 22,000 oceanographic vars): http://www.bodc.ac.uk/data/where_to_find_data/
 * GADM (Global Administrative Areas database): http://www.gadm.org/
+* twofishes (Foursquare's reverse geocoder): https://github.com/foursquare/twofishes
+* Natural Earth (vectors and rasters of the world): http://www.naturalearthdata.com/
+* tz_world (timezone polygons): http://efele.net/maps/tz/world/
+* TIGER/Line (official United States boundaries and roads): http://www.census.gov/geo/maps-data/data/tiger-line.html
+
 
 Transportation
 --------------
@@ -132,6 +142,7 @@ Government
 * The World Bank: http://wdronline.worldbank.org/
 * U.K. Government Data: http://data.gov.uk/data
 * U.S. Census Bureau: http://www.census.gov/data.html
+* U.S. American Community Survey: http://www.census.gov/acs/www/data_documentation/data_release_info/
 * U.S. Federal Government Agencies: http://www.data.gov/metric
 * U.S. Federal Government Data Catalog: http://catalog.data.gov/dataset
 * U.S. Open Government: http://www.data.gov/open-gov/
