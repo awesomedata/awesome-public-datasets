@@ -321,3 +321,10 @@ Complementary Collections
 * Reddit: http://www.reddit.com/r/datasets
 * RS Collection 100+ : http://rs.io/2014/05/29/list-of-data-sets.html
 * StaTrek: http://hsiamin.com/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
+
+Museums
+-------
+* Cooper-Hewitt's Collection Database: https://github.com/cooperhewitt/collection
+* Tate Collection metadata: https://github.com/tategallery/collection
+* Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
+* The Getty vocabularies: http://vocab.getty.edu
