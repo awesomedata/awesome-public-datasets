@@ -259,7 +259,7 @@ Complex Networks
 * The Koblenz Network Collection: http://konect.uni-koblenz.de/
 * UCI Network Data Repository: http://networkdata.ics.uci.edu/resources.php
 * UFL sparse matrix collection: http://www.cise.ufl.edu/research/sparse/matrices/
-* UNIMI Large Web Graph: http://law.di.unimi.it/datasets.php
+* The Laboratory for Web Algorithmics (UNIMI): http://law.di.unimi.it/datasets.php
 * WSU Graph Database: http://www.eecs.wsu.edu/mgd/gdb.html
 
 
@@ -275,6 +275,14 @@ Computer Networks
 * Dartmouth CRAWDAD Wireless datasets: http://crawdad.cs.dartmouth.edu/
 * OpenMobileData (MobiPerf): https://console.developers.google.com/storage/openmobiledata_public/
 * UCSD Network Telescope: http://www.caida.org/projects/network_telescope/
+
+
+Museums
+-------
+* Cooper-Hewitt's Collection Database: https://github.com/cooperhewitt/collection
+* Tate Collection metadata: https://github.com/tategallery/collection
+* Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
+* The Getty vocabularies: http://vocab.getty.edu
 
 
 Data SEs
@@ -321,10 +329,3 @@ Complementary Collections
 * Reddit: http://www.reddit.com/r/datasets
 * RS Collection 100+ : http://rs.io/2014/05/29/list-of-data-sets.html
 * StaTrek: http://hsiamin.com/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/
-
-Museums
--------
-* Cooper-Hewitt's Collection Database: https://github.com/cooperhewitt/collection
-* Tate Collection metadata: https://github.com/tategallery/collection
-* Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
-* The Getty vocabularies: http://vocab.getty.edu
