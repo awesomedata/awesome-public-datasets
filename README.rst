@@ -49,7 +49,7 @@ Finance
 * Google Trends: http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0
 * NASDAQ: https://data.nasdaq.com/
 * OANDA: http://www.oanda.com/
-* OSU Financial data: http://fisher.osu.edu/fin/osudata.htm
+* OSU Financial data: http://fisher.osu.edu/fin/osudata.htm or http://fisher.osu.edu/fin/fdf/osudata.htm
 * Quandl: http://www.quandl.com/
 * St Louis Federal: http://research.stlouisfed.org/fred2/
 * Yahoo Finance: http://finance.yahoo.com/
