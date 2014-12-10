@@ -107,7 +107,6 @@ Transportation
 --------------
 
 * Airlines Data (2009 ASA Challenge): http://stat-computing.org/dataexpo/2009/the-data.html
-* Airports and their locations: http://www.infochimps.com/datasets/airports-and-their-locations
 * Bike Share Data Systems: https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems
 * Edge data for US domestic flights 1990 to 2009: http://data.memect.com/?p=229
 * Half a million Hubway rides: http://hubwaydatachallenge.org/trip-history-data/
