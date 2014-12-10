@@ -157,6 +157,7 @@ Data Challenges
 ---------------
 
 * Challenges in Machine Learning: http://www.chalearn.org/
+* DrivenData Competitions for Social Good: http://www.drivendata.org/
 * ICWSM Data Challenge (since 2009): http://icwsm.cs.umbc.edu/
 * Kaggle Competition Data: http://www.kaggle.com/
 * KDD Cup by Tencent 2012: https://www.kddcup2012.org/
