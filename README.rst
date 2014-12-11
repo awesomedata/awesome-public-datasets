@@ -152,12 +152,15 @@ Government
 * US CDC Public Health datasets: http://www.cdc.gov/nchs/data_access/ftp_data.htm
 * Open Government Data (OGD) Platform India: http://www.data.gov.in/
 
+
 Sport
 ----------
 
 * Cricsheet (cricket): http://cricsheet.org/
 * Betfair (betting exchange) Event Results: http://data.betfair.com/
 * Lahman's Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
+* Retrosheet (baseball): http://www.retrosheet.org/game.htm
+* Ergast Formula 1 (API available): http://ergast.com/mrd/db
 
 
 Data Challenges
