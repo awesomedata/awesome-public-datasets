@@ -34,6 +34,7 @@ Energy
 * COMBED: http://combed.github.io/
 * Dataport: https://dataport.pecanstreet.org/
 * ECO: http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+* EIA: http://www.eia.gov/electricity/data/eia923/
 * iAWE: http://iawe.github.io/
 * HFED: http://hfed.github.io/
 * Plaid: http://plaidplug.com/
