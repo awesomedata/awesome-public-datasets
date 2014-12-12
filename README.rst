@@ -6,14 +6,16 @@ and user reponses. Most of the data sets listed below are free, however, some
 are not. This list comes from https://github.com/caesar0301/awesome-public-datasets.
 
 
-Climate
+Climate/Weather
 -------
 
 * Australian Weather: http://www.bom.gov.au/climate/dwo/
-* Climate data: http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/
-* Global climate data since 1929: http://www.tutiempo.net/en/Climate
+* Canadian Meteorological Centre: https://weather.gc.ca/grib/index_e.html
+* Climate Data: http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/
+* Global Climate Data Since 1929: http://www.tutiempo.net/en/Climate
 * NOAA Bering Sea Climate: http://www.beringclimate.noaa.gov/
-* NOAA climate datasets: http://ncdc.noaa.gov/data-access/quick-links
+* NOAA Climate Datasets: http://ncdc.noaa.gov/data-access/quick-links
+* NOAA Realtime Weather Models: http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction
 * WU Historical Weather Worldwide: http://www.wunderground.com/history/index.html
 
 
