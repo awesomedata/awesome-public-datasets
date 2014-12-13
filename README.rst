@@ -76,10 +76,16 @@ Biology
 * UCSC Public Data: http://hgdownload.soe.ucsc.edu/downloads.html
 
 
+Agriculture
+------------
+* U.S. Department of Agriculture's PLANTS Database: http://www.plants.usda.gov/dl_all.html
+
+
 Physics
 -------
 
 * NASA: http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
+* CERN Open Data Portal: http://opendata.cern.ch/
 
 
 Healthcare
