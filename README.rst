@@ -310,9 +310,11 @@ Data SEs
 * Academic Torrents: http://academictorrents.com/
 * Datahub.io: http://datahub.io/dataset
 * DataMarket: https://datamarket.com/data/list/?q=all
+* DBpedia: http://wiki.dbpedia.org/Datasets
 * Harvard Dataverse: http://thedata.harvard.edu/dvn/
 * Statista: http://www.statista.com/
 * Freebase: http://www.freebase.com/
+* Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
 
 
 Public Domains
