@@ -209,6 +209,7 @@ Natural Language
 * 40 Million Entities in Context: https://code.google.com/p/wiki-links/downloads/list
 * ClueWeb09 FACC: http://lemurproject.org/clueweb09/FACC1/
 * ClueWeb12 FACC: http://lemurproject.org/clueweb12/FACC1/
+* DBpedia: http://wiki.dbpedia.org/Datasets
 * Flickr personal taxonomies: http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html
 * Google Books Ngrams: http://aws.amazon.com/datasets/8172056142375670
 * Google Web 5gram, 2006 (1T): https://catalog.ldc.upenn.edu/LDC2006T13
@@ -217,6 +218,7 @@ Natural Language
 * Machine Translation: http://statmt.org/wmt11/translation-task.html#download
 * SMS Spam Collection: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
 * USENET corpus: http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
+* Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
 * WordNet: http://wordnet.princeton.edu/wordnet/download/
 
 
@@ -310,11 +312,9 @@ Data SEs
 * Academic Torrents: http://academictorrents.com/
 * Datahub.io: http://datahub.io/dataset
 * DataMarket: https://datamarket.com/data/list/?q=all
-* DBpedia: http://wiki.dbpedia.org/Datasets
 * Harvard Dataverse: http://thedata.harvard.edu/dvn/
 * Statista: http://www.statista.com/
 * Freebase: http://www.freebase.com/
-* Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
 
 
 Public Domains
