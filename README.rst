@@ -182,6 +182,7 @@ Data Challenges
 * KDD Cup by Tencent 2012: https://www.kddcup2012.org/
 * Netflix Prize: http://www.netflixprize.com/leaderboard
 * Yelp Dataset Challenge: http://www.yelp.com/dataset_challenge
+* Localytics Data Visualization Challenge: https://github.com/localytics/data-viz-challenge
 
 
 Machine Learning
