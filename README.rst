@@ -307,6 +307,11 @@ Museums
 * The Getty vocabularies: http://vocab.getty.edu
 
 
+Music
+-----
+* Discogs Data: http://www.discogs.com/data/
+
+
 Data SEs
 --------
 
