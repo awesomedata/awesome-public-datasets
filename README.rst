@@ -68,7 +68,7 @@ Biology
 * NIH Microarray data: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
 * Protein structure: http://www.infobiotic.net/PSPbenchmarks/
 * Protein Data Bank: http://pdb.org/
-* The PubChem Project: https://pubchem.ncbi.nlm.nih.gov/
+* PubChem Project: https://pubchem.ncbi.nlm.nih.gov/
 * Public Gene Data: http://www.pubgene.org/
 * Stanford Microarray Data: http://smd.stanford.edu/
 * UniGene: http://www.ncbi.nlm.nih.gov/unigene
