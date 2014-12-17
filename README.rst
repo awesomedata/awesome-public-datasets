@@ -149,6 +149,7 @@ Government
 * OECD: http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html
 * RITA: http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 * San Francisco Data sets: http://datasf.org/
+* South Africa: http://beta2.statssa.gov.za/
 * The World Bank: http://wdronline.worldbank.org/
 * U.K. Government Data: http://data.gov.uk/data
 * U.S. Census Bureau: http://www.census.gov/data.html
