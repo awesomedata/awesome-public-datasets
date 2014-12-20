@@ -243,7 +243,6 @@ Time Series
 Social Sciences
 ---------------
 
-* China Hotel Checkin/out data: http://www.360doc.com/content/13/1105/13/7863900_326788919.shtml
 * CMU Enron Email: http://www.cs.cmu.edu/~enron/
 * Facebook Social Networks (since 2007): http://law.di.unimi.it/datasets.php
 * Facebook100 (2005): https://archive.org/details/oxford-2005-facebook-matrix
