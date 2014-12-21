@@ -8,6 +8,10 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `another awesome <https://github.com/sindresorhus/awesome>`_ list.
 
+APIs of Web-Sites for Data Retrieval
+-------
+* data.stackexchange.com: http://data.stackexchange.com/
+
 Climate/Weather
 -------
 
