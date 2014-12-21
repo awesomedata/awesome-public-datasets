@@ -1,19 +1,23 @@
 Awesome Public Datasets
 =======================
 
-This list of public data sources are collected and tidyed from blogs, answers,
-and user reponses. Most of the data sets listed below are free, however, some
-are not. This list comes from https://github.com/caesar0301/awesome-public-datasets.
+`This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+are collected and tidyed from blogs, answers, and user reponses.
+Most of the data sets listed below are free, however, some are not.
+Other amazingly awesome lists can be found in the
+`awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
+`another awesome <https://github.com/sindresorhus/awesome>`_ list.
 
-
-Climate
+Climate/Weather
 -------
 
 * Australian Weather: http://www.bom.gov.au/climate/dwo/
-* Climate data: http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/
-* Global climate data since 1929: http://www.tutiempo.net/en/Climate
+* Canadian Meteorological Centre: https://weather.gc.ca/grib/index_e.html
+* Climate Data: http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/
+* Global Climate Data Since 1929: http://www.tutiempo.net/en/Climate
 * NOAA Bering Sea Climate: http://www.beringclimate.noaa.gov/
-* NOAA climate datasets: http://ncdc.noaa.gov/data-access/quick-links
+* NOAA Climate Datasets: http://ncdc.noaa.gov/data-access/quick-links
+* NOAA Realtime Weather Models: http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction
 * WU Historical Weather Worldwide: http://www.wunderground.com/history/index.html
 
 
@@ -34,6 +38,7 @@ Energy
 * COMBED: http://combed.github.io/
 * Dataport: https://dataport.pecanstreet.org/
 * ECO: http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+* EIA: http://www.eia.gov/electricity/data/eia923/
 * iAWE: http://iawe.github.io/
 * HFED: http://hfed.github.io/
 * Plaid: http://plaidplug.com/
@@ -65,6 +70,7 @@ Biology
 * NIH Microarray data: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
 * Protein structure: http://www.infobiotic.net/PSPbenchmarks/
 * Protein Data Bank: http://pdb.org/
+* PubChem Project: https://pubchem.ncbi.nlm.nih.gov/
 * Public Gene Data: http://www.pubgene.org/
 * Stanford Microarray Data: http://smd.stanford.edu/
 * UniGene: http://www.ncbi.nlm.nih.gov/unigene
@@ -73,10 +79,16 @@ Biology
 * UCSC Public Data: http://hgdownload.soe.ucsc.edu/downloads.html
 
 
+Agriculture
+------------
+* U.S. Department of Agriculture's PLANTS Database: http://www.plants.usda.gov/dl_all.html
+
+
 Physics
 -------
 
 * NASA: http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
+* CERN Open Data Portal: http://opendata.cern.ch/
 
 
 Healthcare
@@ -140,6 +152,7 @@ Government
 * OECD: http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html
 * RITA: http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 * San Francisco Data sets: http://datasf.org/
+* South Africa: http://beta2.statssa.gov.za/
 * The World Bank: http://wdronline.worldbank.org/
 * U.K. Government Data: http://data.gov.uk/data
 * U.S. Census Bureau: http://www.census.gov/data.html
@@ -153,15 +166,27 @@ Government
 * Open Government Data (OGD) Platform India: http://www.data.gov.in/
 
 
+Sport
+----------
+
+* Cricsheet (cricket): http://cricsheet.org/
+* Betfair (betting exchange) Event Results: http://data.betfair.com/
+* Lahman's Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
+* Retrosheet (baseball): http://www.retrosheet.org/game.htm
+* Ergast Formula 1 (API available): http://ergast.com/mrd/db
+
+
 Data Challenges
 ---------------
 
 * Challenges in Machine Learning: http://www.chalearn.org/
+* DrivenData Competitions for Social Good: http://www.drivendata.org/
 * ICWSM Data Challenge (since 2009): http://icwsm.cs.umbc.edu/
 * Kaggle Competition Data: http://www.kaggle.com/
 * KDD Cup by Tencent 2012: https://www.kddcup2012.org/
 * Netflix Prize: http://www.netflixprize.com/leaderboard
 * Yelp Dataset Challenge: http://www.yelp.com/dataset_challenge
+* Localytics Data Visualization Challenge: https://github.com/localytics/data-viz-challenge
 
 
 Machine Learning
@@ -189,6 +214,7 @@ Natural Language
 * 40 Million Entities in Context: https://code.google.com/p/wiki-links/downloads/list
 * ClueWeb09 FACC: http://lemurproject.org/clueweb09/FACC1/
 * ClueWeb12 FACC: http://lemurproject.org/clueweb12/FACC1/
+* DBpedia: http://wiki.dbpedia.org/Datasets
 * Flickr personal taxonomies: http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html
 * Google Books Ngrams: http://aws.amazon.com/datasets/8172056142375670
 * Google Web 5gram, 2006 (1T): https://catalog.ldc.upenn.edu/LDC2006T13
@@ -197,6 +223,7 @@ Natural Language
 * Machine Translation: http://statmt.org/wmt11/translation-task.html#download
 * SMS Spam Collection: http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/
 * USENET corpus: http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
+* Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
 * WordNet: http://wordnet.princeton.edu/wordnet/download/
 
 
@@ -218,7 +245,6 @@ Time Series
 Social Sciences
 ---------------
 
-* China Hotel Checkin/out data: http://www.360doc.com/content/13/1105/13/7863900_326788919.shtml
 * CMU Enron Email: http://www.cs.cmu.edu/~enron/
 * Facebook Social Networks (since 2007): http://law.di.unimi.it/datasets.php
 * Facebook100 (2005): https://archive.org/details/oxford-2005-facebook-matrix
@@ -282,6 +308,11 @@ Museums
 * Tate Collection metadata: https://github.com/tategallery/collection
 * Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
 * The Getty vocabularies: http://vocab.getty.edu
+
+
+Music
+-----
+* Discogs Data: http://www.discogs.com/data/
 
 
 Data SEs
