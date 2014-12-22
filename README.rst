@@ -139,8 +139,10 @@ Government
 * Australia: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument
 * Canada: http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1
 * Chicago: https://data.cityofchicago.org/
+* EU: http://ec.europa.eu/eurostat/data/database
 * FDA: https://open.fda.gov/index.html
 * Fed Stats: http://www.fedstats.gov/cgi-bin/A2Z.cgi
+* Germany: https://www-genesis.destatis.de/genesis/online
 * Guardian world governments: http://www.guardian.co.uk/world-government-data
 * HUD: http://www.huduser.org/portal/datasets/pdrdatas.html
 * London Datastore, U.K: http://data.london.gov.uk/dataset
