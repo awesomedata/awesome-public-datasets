@@ -260,6 +260,7 @@ Social Sciences
 * PewResearch Internet Project: http://www.pewinternet.org/datasets/pages/2/
 * Social Networking: http://www.cs.cmu.edu/~jelsas/data/ancestry.com/
 * SourceForge Graph: http://www.nd.edu/~oss/Data/data.html
+* Stack Exchange Network (Data Explorer): http://data.stackexchange.com/help
 * Titanic Survival Data Set: https://github.com/caesar0301/awesome-public-datasets/blob/master/Datasets/titanic.csv.zip
 * Twitter Graph: http://an.kaist.ac.kr/traces/WWW2010.html
 * UC Berkeley's D-Lab Achive: http://ucdata.berkeley.edu/
