@@ -171,11 +171,12 @@ Government
 Sport
 ----------
 
-* Cricsheet (cricket): http://cricsheet.org/
 * Betfair (betting exchange) Event Results: http://data.betfair.com/
+* Cricsheet (cricket): http://cricsheet.org/
+* Ergast Formula 1 (API available): http://ergast.com/mrd/db
+* Football/Soccer data and APIs: http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 * Lahman's Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
 * Retrosheet (baseball): http://www.retrosheet.org/game.htm
-* Ergast Formula 1 (API available): http://ergast.com/mrd/db
 
 
 Data Challenges
