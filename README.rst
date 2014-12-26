@@ -8,8 +8,33 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `another awesome <https://github.com/sindresorhus/awesome>`_ list.
 
-Climate/Weather
+
+Agriculture
+------------
+* U.S. Department of Agriculture's PLANTS Database: http://www.plants.usda.gov/dl_all.html
+
+
+Biology
 -------
+
+* 1000 Genomes: http://www.1000genomes.org/data
+* CRCNS: http://crcns.org/data-sets
+* Gene Expression Omnibus: http://www.ncbi.nlm.nih.gov/geo/
+* Human Microbiome Project: http://www.hmpdacc.org/reference_genomes/reference_genomes.php
+* MIT Cancer Genomics Data: http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi
+* NIH Microarray data: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
+* Protein Data Bank: http://pdb.org/
+* Protein structure: http://www.infobiotic.net/PSPbenchmarks/
+* PubChem Project: https://pubchem.ncbi.nlm.nih.gov/
+* Public Gene Data: http://www.pubgene.org/
+* Stanford Microarray Data: http://smd.stanford.edu/
+* The Personal Genome Project: http://www.personalgenomes.org/ or https://my.pgp-hms.org/public_genetic_data
+* UCSC Public Data: http://hgdownload.soe.ucsc.edu/downloads.html
+* UniGene: http://www.ncbi.nlm.nih.gov/unigene
+
+
+Climate/Weather
+---------------
 
 * Australian Weather: http://www.bom.gov.au/climate/dwo/
 * Canadian Meteorological Centre: https://weather.gc.ca/grib/index_e.html
@@ -19,6 +44,52 @@ Climate/Weather
 * NOAA Climate Datasets: http://ncdc.noaa.gov/data-access/quick-links
 * NOAA Realtime Weather Models: http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction
 * WU Historical Weather Worldwide: http://www.wunderground.com/history/index.html
+
+
+Complex Networks
+----------------
+
+* CrossRef DOI URLs: https://archive.org/details/doi-urls
+* DBLP Citation dataset: https://kdl.cs.umass.edu/display/public/DBLP
+* NBER Patent Citations: http://nber.org/patents/
+* NIST complex networks data collection: http://math.nist.gov/~RPozo/complex_datasets.html
+* Protein-protein interaction network: http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm
+* PyPI and Maven Dependency Network: http://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/
+* Scopus Citation Database: http://www.elsevier.com/online-tools/scopus
+* Stanford GraphBase (Steven Skiena): http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml
+* Stanford Large Network Dataset Collection: http://snap.stanford.edu/data/
+* The Koblenz Network Collection: http://konect.uni-koblenz.de/
+* The Laboratory for Web Algorithmics (UNIMI): http://law.di.unimi.it/datasets.php
+* UCI Network Data Repository: http://networkdata.ics.uci.edu/resources.php
+* UFL sparse matrix collection: http://www.cise.ufl.edu/research/sparse/matrices/
+* WSU Graph Database: http://www.eecs.wsu.edu/mgd/gdb.html
+
+
+Computer Networks
+-----------------
+
+* 3.5B Web Pages: http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us
+* 53.5B Web clicks: http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset
+* CAIDA Internet Datasets: http://www.caida.org/data/overview/
+* ClueWeb09: http://lemurproject.org/clueweb09/
+* ClueWeb12: http://lemurproject.org/clueweb12/
+* CommonCrawl Web Data: http://commoncrawl.org/the-data/get-started/
+* Dartmouth CRAWDAD Wireless datasets: http://crawdad.cs.dartmouth.edu/
+* OpenMobileData (MobiPerf): https://console.developers.google.com/storage/openmobiledata_public/
+* UCSD Network Telescope: http://www.caida.org/projects/network_telescope/
+
+
+Data Challenges
+---------------
+
+* Challenges in Machine Learning: http://www.chalearn.org/
+* DrivenData Competitions for Social Good: http://www.drivendata.org/
+* ICWSM Data Challenge (since 2009): http://icwsm.cs.umbc.edu/
+* Kaggle Competition Data: http://www.kaggle.com/
+* KDD Cup by Tencent 2012: https://www.kddcup2012.org/
+* Localytics Data Visualization Challenge: https://github.com/localytics/data-viz-challenge
+* Netflix Prize: http://www.netflixprize.com/leaderboard
+* Yelp Dataset Challenge: http://www.yelp.com/dataset_challenge
 
 
 Economics
@@ -39,8 +110,8 @@ Energy
 * Dataport: https://dataport.pecanstreet.org/
 * ECO: http://www.vs.inf.ethz.ch/res/show.html?what=eco-data
 * EIA: http://www.eia.gov/electricity/data/eia923/
-* iAWE: http://iawe.github.io/
 * HFED: http://hfed.github.io/
+* iAWE: http://iawe.github.io/
 * Plaid: http://plaidplug.com/
 * REDD: http://redd.csail.mit.edu/
 * UK-Dale: http://www.doc.ic.ac.uk/~dk3810/data/
@@ -60,35 +131,57 @@ Finance
 * Yahoo Finance: http://finance.yahoo.com/
 
 
-Biology
--------
-
-* CRCNS: http://crcns.org/data-sets
-* Gene Expression Omnibus: http://www.ncbi.nlm.nih.gov/geo/
-* Human Microbiome Project: http://www.hmpdacc.org/reference_genomes/reference_genomes.php
-* MIT Cancer Genomics Data: http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi
-* NIH Microarray data: ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/
-* Protein structure: http://www.infobiotic.net/PSPbenchmarks/
-* Protein Data Bank: http://pdb.org/
-* PubChem Project: https://pubchem.ncbi.nlm.nih.gov/
-* Public Gene Data: http://www.pubgene.org/
-* Stanford Microarray Data: http://smd.stanford.edu/
-* UniGene: http://www.ncbi.nlm.nih.gov/unigene
-* The Personal Genome Project: http://www.personalgenomes.org/ or https://my.pgp-hms.org/public_genetic_data
-* 1000 Genomes: http://www.1000genomes.org/data
-* UCSC Public Data: http://hgdownload.soe.ucsc.edu/downloads.html
-
-
-Agriculture
+GeoSpace/GIS
 ------------
-* U.S. Department of Agriculture's PLANTS Database: http://www.plants.usda.gov/dl_all.html
+
+* BODC (marine data of nearly 22,000 oceanographic vars): http://www.bodc.ac.uk/data/where_to_find_data/
+* EOSDIS: http://sedac.ciesin.columbia.edu/data/sets/browse
+* Factual Global Location Data: http://www.factual.com/
+* GADM (Global Administrative Areas database): http://www.gadm.org/
+* Geo Spatial Data: http://geodacenter.asu.edu/datalist/
+* GeoNames (over eight million placenames): http://www.geonames.org/
+* Natural Earth (vectors and rasters of the world): http://www.naturalearthdata.com/
+* OpenStreetMap (a free map worldwide): http://wiki.openstreetmap.org/wiki/Downloading_data
+* TIGER/Line (official United States boundaries and roads): http://www.census.gov/geo/maps-data/data/tiger-line.html
+* twofishes (Foursquare's coarse geocoder): https://github.com/foursquare/twofishes
+* tz_world (timezone polygons): http://efele.net/maps/tz/world/
 
 
-Physics
--------
+Government
+----------
 
-* NASA: http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
-* CERN Open Data Portal: http://opendata.cern.ch/
+* Archive-it: : https://www.archive-it.org/explore?show=Collections
+* Australia: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument
+* Australia: https://data.gov.au/
+* Canada: http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1
+* Chicago: https://data.cityofchicago.org/
+* EU: http://ec.europa.eu/eurostat/data/database
+* FDA: https://open.fda.gov/index.html
+* Fed Stats: http://www.fedstats.gov/cgi-bin/A2Z.cgi
+* Germany: https://www-genesis.destatis.de/genesis/online
+* Glasgow, Scotland, UK: http://data.glasgow.gov.uk/
+* Guardian world governments: http://www.guardian.co.uk/world-government-data
+* HUD: http://www.huduser.org/portal/datasets/pdrdatas.html
+* London Datastore, U.K: http://data.london.gov.uk/dataset
+* Netherlands: https://data.overheid.nl/
+* New Zealand: http://www.stats.govt.nz/browse_for_stats.aspx
+* NYC betanyc: http://betanyc.us/
+* NYC Open Data: http://nycplatform.socrata.com/
+* OECD: http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html
+* Open Government Data (OGD) Platform India: http://www.data.gov.in/
+* RITA: http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
+* San Francisco Data sets: http://datasf.org/
+* South Africa: http://beta2.statssa.gov.za/
+* The World Bank: http://wdronline.worldbank.org/
+* U.K. Government Data: http://data.gov.uk/data
+* U.S. American Community Survey: http://www.census.gov/acs/www/data_documentation/data_release_info/
+* U.S. Census Bureau: http://www.census.gov/data.html
+* U.S. Federal Government Agencies: http://www.data.gov/metric
+* U.S. Federal Government Data Catalog: http://catalog.data.gov/dataset
+* U.S. Open Government: http://www.data.gov/open-gov/
+* UK 2011 Census Open Atlas Project: http://www.alex-singleton.com/2011-census-open-atlas-project/
+* United Nations: http://data.un.org/
+* US CDC Public Health datasets: http://www.cdc.gov/nchs/data_access/ftp_data.htm
 
 
 Healthcare
@@ -99,97 +192,12 @@ Healthcare
 * Medicare Data File: http://go.cms.gov/19xxPN4
 
 
-GeoSpace/GIS
---------
+Image Processing
+----------------
 
-* EOSDIS: http://sedac.ciesin.columbia.edu/data/sets/browse
-* Factual Global Location Data: http://www.factual.com/
-* Geo Spatial Data: http://geodacenter.asu.edu/datalist/
-* OpenStreetMap (a free map worldwide): http://wiki.openstreetmap.org/wiki/Downloading_data
-* GeoNames (over eight million placenames): http://www.geonames.org/
-* BODC (marine data of nearly 22,000 oceanographic vars): http://www.bodc.ac.uk/data/where_to_find_data/
-* GADM (Global Administrative Areas database): http://www.gadm.org/
-* twofishes (Foursquare's coarse geocoder): https://github.com/foursquare/twofishes
-* Natural Earth (vectors and rasters of the world): http://www.naturalearthdata.com/
-* tz_world (timezone polygons): http://efele.net/maps/tz/world/
-* TIGER/Line (official United States boundaries and roads): http://www.census.gov/geo/maps-data/data/tiger-line.html
-
-
-Transportation
---------------
-
-* Airlines Data (2009 ASA Challenge): http://stat-computing.org/dataexpo/2009/the-data.html
-* Bike Share Data Systems: https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems
-* Edge data for US domestic flights 1990 to 2009: http://data.memect.com/?p=229
-* Half a million Hubway rides: http://hubwaydatachallenge.org/trip-history-data/
-* NYC Taxi Trip Data 2013 (FOIA/FOIL): https://archive.org/details/nycTaxiTripData2013
-* OpenFlights (airport, airline and route data): http://openflights.org/data.html
-* RITA Airline On-Time Performance Data: http://www.transtats.bts.gov/Tables.asp?DB_ID=120
-* RITA transport data collection: http://www.transtats.bts.gov/DataIndex.asp
-* Transport for London: http://www.tfl.gov.uk/info-for/open-data-users/our-feeds
-* U.S. Freight Analysis Framework: http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
-* Marine Traffic - ship tracks, port calls and more: https://www.marinetraffic.com/de/p/api-services
-
-
-Government
-----------
-
-* Archive-it: : https://www.archive-it.org/explore?show=Collections
-* Australia: https://data.gov.au/
-* Australia: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument
-* Canada: http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1
-* Chicago: https://data.cityofchicago.org/
-* EU: http://ec.europa.eu/eurostat/data/database
-* FDA: https://open.fda.gov/index.html
-* Fed Stats: http://www.fedstats.gov/cgi-bin/A2Z.cgi
-* Germany: https://www-genesis.destatis.de/genesis/online
-* Guardian world governments: http://www.guardian.co.uk/world-government-data
-* HUD: http://www.huduser.org/portal/datasets/pdrdatas.html
-* London Datastore, U.K: http://data.london.gov.uk/dataset
-* Glasgow, Scotland, UK: http://data.glasgow.gov.uk/
-* Netherlands: https://data.overheid.nl/
-* New Zealand: http://www.stats.govt.nz/browse_for_stats.aspx
-* NYC betanyc: http://betanyc.us/
-* NYC Open Data: http://nycplatform.socrata.com/
-* OECD: http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html
-* RITA: http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
-* San Francisco Data sets: http://datasf.org/
-* South Africa: http://beta2.statssa.gov.za/
-* The World Bank: http://wdronline.worldbank.org/
-* U.K. Government Data: http://data.gov.uk/data
-* U.S. Census Bureau: http://www.census.gov/data.html
-* U.S. American Community Survey: http://www.census.gov/acs/www/data_documentation/data_release_info/
-* U.S. Federal Government Agencies: http://www.data.gov/metric
-* U.S. Federal Government Data Catalog: http://catalog.data.gov/dataset
-* U.S. Open Government: http://www.data.gov/open-gov/
-* UK 2011 Census Open Atlas Project: http://www.alex-singleton.com/2011-census-open-atlas-project/
-* United Nations: http://data.un.org/
-* US CDC Public Health datasets: http://www.cdc.gov/nchs/data_access/ftp_data.htm
-* Open Government Data (OGD) Platform India: http://www.data.gov.in/
-
-
-Sport
-----------
-
-* Betfair (betting exchange) Event Results: http://data.betfair.com/
-* Cricsheet (cricket): http://cricsheet.org/
-* Ergast Formula 1 (API available): http://ergast.com/mrd/db
-* Football/Soccer data and APIs: http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
-* Lahman's Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
-* Retrosheet (baseball): http://www.retrosheet.org/game.htm
-
-
-Data Challenges
----------------
-
-* Challenges in Machine Learning: http://www.chalearn.org/
-* DrivenData Competitions for Social Good: http://www.drivendata.org/
-* ICWSM Data Challenge (since 2009): http://icwsm.cs.umbc.edu/
-* Kaggle Competition Data: http://www.kaggle.com/
-* KDD Cup by Tencent 2012: https://www.kddcup2012.org/
-* Netflix Prize: http://www.netflixprize.com/leaderboard
-* Yelp Dataset Challenge: http://www.yelp.com/dataset_challenge
-* Localytics Data Visualization Challenge: https://github.com/localytics/data-viz-challenge
+* 2GB of photos of cats: http://137.189.35.203/WebUI/CatDatabase/catData.html
+* Face Recognition Benchmark: http://www.face-rec.org/databases/
+* ImageNet: http://www.image-net.org/
 
 
 Machine Learning
@@ -211,6 +219,20 @@ Machine Learning
 * Yahoo Ratings and Classification Data: http://webscope.sandbox.yahoo.com/catalog.php?datatype=r
 
 
+Museums
+-------
+
+* Cooper-Hewitt's Collection Database: https://github.com/cooperhewitt/collection
+* Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
+* Tate Collection metadata: https://github.com/tategallery/collection
+* The Getty vocabularies: http://vocab.getty.edu
+
+
+Music
+-----
+* Discogs Data: http://www.discogs.com/data/
+
+
 Natural Language
 ----------------
 
@@ -230,19 +252,46 @@ Natural Language
 * WordNet: http://wordnet.princeton.edu/wordnet/download/
 
 
-Image Processing
-----------------
+Physics
+-------
 
-* 2GB of photos of cats: http://137.189.35.203/WebUI/CatDatabase/catData.html
-* Face Recognition Benchmark: http://www.face-rec.org/databases/
-* ImageNet: http://www.image-net.org/
+* CERN Open Data Portal: http://opendata.cern.ch/
+* NASA: http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
 
 
-Time Series
------------
+Public Domains
+--------------
 
-* Time Series data Library: https://datamarket.com/data/list/?q=provider:tsdl
-* UC Riverside Time Series: http://www.cs.ucr.edu/~eamonn/time_series_data/
+* Amazon: http://aws.amazon.com/datasets
+* Archive.org Datasets: https://archive.org/details/datasets
+* CMU JASA data archive: http://lib.stat.cmu.edu/jasadata/
+* CMU StatLab collections: http://lib.stat.cmu.edu/datasets/
+* Data360: http://www.data360.org/index.aspx
+* Datamob.org: http://datamob.org/datasets
+* Google: http://www.google.com/publicdata/directory
+* infochimps: http://www.infochimps.com/
+* KDNuggets Data Collections: http://www.kdnuggets.com/datasets/index.html
+* Numbray: http://numbrary.com/
+* RevolutionAnalytics Collection: http://www.revolutionanalytics.com/subscriptions/datasets/
+* Sample R data sets: http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html
+* Stats4Stem R data sets: http://www.stats4stem.org/data-sets.html
+* StatSci.org: http://www.statsci.org/datasets.html
+* The Washington Post List: http://www.washingtonpost.com/wp-srv/metro/data/datapost.html
+* UCLA SOCR data collection: http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data
+* UFO Reports: http://www.nuforc.org/webreports.html
+* Wikileaks 911 pager intercepts: http://911.wikileaks.org/files/index.html
+* Yahoo Webscope: http://webscope.sandbox.yahoo.com/catalog.php
+
+
+Search Engines
+--------------
+
+* Academic Torrents: http://academictorrents.com/
+* Datahub.io: http://datahub.io/dataset
+* DataMarket: https://datamarket.com/data/list/?q=all
+* Freebase: http://www.freebase.com/
+* Harvard Dataverse: http://thedata.harvard.edu/dvn/
+* Statista: http://www.statista.com/
 
 
 Social Sciences
@@ -273,85 +322,38 @@ Social Sciences
 * Youtube Graph (2007,2008): http://netsg.cs.sfu.ca/youtubedata/
 
 
-Complex Networks
-----------------
+Sports
+------
 
-* CrossRef DOI URLs: https://archive.org/details/doi-urls
-* DBLP Citation dataset: https://kdl.cs.umass.edu/display/public/DBLP
-* NBER Patent Citations: http://nber.org/patents/
-* NIST complex networks data collection: http://math.nist.gov/~RPozo/complex_datasets.html
-* Protein-protein interaction network: http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm
-* PyPI and Maven Dependency Network: http://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/
-* Scopus Citation Database: http://www.elsevier.com/online-tools/scopus
-* Stanford GraphBase (Steven Skiena): http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml
-* Stanford Large Network Dataset Collection: http://snap.stanford.edu/data/
-* The Koblenz Network Collection: http://konect.uni-koblenz.de/
-* UCI Network Data Repository: http://networkdata.ics.uci.edu/resources.php
-* UFL sparse matrix collection: http://www.cise.ufl.edu/research/sparse/matrices/
-* The Laboratory for Web Algorithmics (UNIMI): http://law.di.unimi.it/datasets.php
-* WSU Graph Database: http://www.eecs.wsu.edu/mgd/gdb.html
+* Betfair (betting exchange) Event Results: http://data.betfair.com/
+* Cricsheet (cricket): http://cricsheet.org/
+* Ergast Formula 1 (API available): http://ergast.com/mrd/db
+* Football/Soccer data and APIs: http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+* Lahman's Baseball Database: http://www.seanlahman.com/baseball-archive/statistics/
+* Retrosheet (baseball): http://www.retrosheet.org/game.htm
 
 
-Computer Networks
------------------
+Time Series
+-----------
 
-* 3.5B Web Pages: http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us
-* 53.5B Web clicks: http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset
-* CAIDA Internet Datasets: http://www.caida.org/data/overview/
-* ClueWeb09: http://lemurproject.org/clueweb09/
-* ClueWeb12: http://lemurproject.org/clueweb12/
-* CommonCrawl Web Data: http://commoncrawl.org/the-data/get-started/
-* Dartmouth CRAWDAD Wireless datasets: http://crawdad.cs.dartmouth.edu/
-* OpenMobileData (MobiPerf): https://console.developers.google.com/storage/openmobiledata_public/
-* UCSD Network Telescope: http://www.caida.org/projects/network_telescope/
+* Time Series data Library: https://datamarket.com/data/list/?q=provider:tsdl
+* UC Riverside Time Series: http://www.cs.ucr.edu/~eamonn/time_series_data/
 
 
-Museums
--------
-* Cooper-Hewitt's Collection Database: https://github.com/cooperhewitt/collection
-* Tate Collection metadata: https://github.com/tategallery/collection
-* Minneapolis Institute of Arts metadata: https://github.com/artsmia/collection
-* The Getty vocabularies: http://vocab.getty.edu
-
-
-Music
------
-* Discogs Data: http://www.discogs.com/data/
-
-
-Data SEs
---------
-
-* Academic Torrents: http://academictorrents.com/
-* Datahub.io: http://datahub.io/dataset
-* DataMarket: https://datamarket.com/data/list/?q=all
-* Harvard Dataverse: http://thedata.harvard.edu/dvn/
-* Statista: http://www.statista.com/
-* Freebase: http://www.freebase.com/
-
-
-Public Domains
+Transportation
 --------------
 
-* Amazon: http://aws.amazon.com/datasets
-* Archive.org Datasets: https://archive.org/details/datasets
-* CMU JASA data archive: http://lib.stat.cmu.edu/jasadata/
-* CMU StatLab collections: http://lib.stat.cmu.edu/datasets/
-* Data360: http://www.data360.org/index.aspx
-* Datamob.org: http://datamob.org/datasets
-* Google: http://www.google.com/publicdata/directory
-* infochimps: http://www.infochimps.com/
-* KDNuggets Data Collections: http://www.kdnuggets.com/datasets/index.html
-* Numbray: http://numbrary.com/
-* RevolutionAnalytics Collection: http://www.revolutionanalytics.com/subscriptions/datasets/
-* Sample R data sets: http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html
-* Stats4Stem R data sets: http://www.stats4stem.org/data-sets.html
-* StatSci.org: http://www.statsci.org/datasets.html
-* The Washington Post List: http://www.washingtonpost.com/wp-srv/metro/data/datapost.html
-* UCLA SOCR data collection: http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data
-* UFO Reports: http://www.nuforc.org/webreports.html
-* Wikileaks 911 pager intercepts: http://911.wikileaks.org/files/index.html
-* Yahoo Webscope: http://webscope.sandbox.yahoo.com/catalog.php
+* Airlines Data (2009 ASA Challenge): http://stat-computing.org/dataexpo/2009/the-data.html
+* Bike Share Data Systems: https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems
+* Edge data for US domestic flights 1990 to 2009: http://data.memect.com/?p=229
+* Half a million Hubway rides: http://hubwaydatachallenge.org/trip-history-data/
+* Marine Traffic - ship tracks, port calls and more: https://www.marinetraffic.com/de/p/api-services
+* NYC Taxi Trip Data 2013 (FOIA/FOIL): https://archive.org/details/nycTaxiTripData2013
+* OpenFlights (airport, airline and route data): http://openflights.org/data.html
+* RITA Airline On-Time Performance Data: http://www.transtats.bts.gov/Tables.asp?DB_ID=120
+* RITA transport data collection: http://www.transtats.bts.gov/DataIndex.asp
+* Transport for London: http://www.tfl.gov.uk/info-for/open-data-users/our-feeds
+* U.S. Freight Analysis Framework: http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm
 
 
 Complementary Collections
