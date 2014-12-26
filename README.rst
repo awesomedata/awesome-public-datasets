@@ -23,12 +23,12 @@ Biology
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
-* `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
+* `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
 * `Protein Data Bank <http://pdb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
-* `The Personal Genome Project <http://www.personalgenomes.org/ or https://my.pgp-hms.org/public_genetic_data>`_
+* `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
 
@@ -124,7 +124,7 @@ Finance
 * `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
 * `NASDAQ <https://data.nasdaq.com/>`_
 * `OANDA <http://www.oanda.com/>`_
-* `OSU Financial data <http://fisher.osu.edu/fin/osudata.htm or http://fisher.osu.edu/fin/fdf/osudata.htm>`_
+* `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
 * `Quandl <http://www.quandl.com/>`_
 * `St Louis Federal <http://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
