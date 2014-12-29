@@ -165,7 +165,6 @@ Government
 * `NYC Open Data <http://nycplatform.socrata.com/>`_
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
-* `RITA <http://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
@@ -344,17 +343,18 @@ Time Series
 Transportation
 --------------
 
-* `Airlines Data (2009 ASA Challenge) <http://stat-computing.org/dataexpo/2009/the-data.html>`_
-* `Bike Share Data Systems <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+* `Airlines Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_: Flight OD data used by ASA Challenge, 2009, originally published by RITA.
+* `Bike Share Data Systems <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_: A collection of bike sharing systems and trip histories over the world.
 * `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
-* `Half a million Hubway rides <http://hubwaydatachallenge.org/trip-history-data/>`_
+* `Half a million Hubway rides <http://hubwaydatachallenge.org/trip-history-data/>`_: Bike trip histories (since July, 2011) in MA published by Hubway Corp..
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
-* `NYC Taxi Trip Data 2013 (FOIA/FOIL) <https://archive.org/details/nycTaxiTripData2013>`_
-* `OpenFlights (airport, airline and route data) <http://openflights.org/data.html>`_
-* `RITA Airline On-Time Performance Data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
-* `RITA transport data collection <http://www.transtats.bts.gov/DataIndex.asp>`_
-* `Transport for London <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
-* `U.S. Freight Analysis Framework <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `NYC Taxi Trip Data 2013 <https://archive.org/details/nycTaxiTripData2013>`_: FOIA/FOILed Taxi Trip Data from the NYC Taxi and Limousine Commission 2013, released by a civic hacker, Chris Whong.
+* `OpenFlights <http://openflights.org/data.html>`_: Airport, airline and route data collected from public resources and contributed by the open community.
+* `RITA Airline On-Time Performance Data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_: This table contains on-time arrival details for non-stop domestic flights by major air carriers in United States.
+* `RITA transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_: Various transportation databases published by BTS, which are categorized into different modes and subjects.
+* `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_: Providing London transportation data including bike sharing system, bus, train, and networking statistics.
+* `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_: As part of the RITA, BTS covers nearly all of transportation resources to create, manage, and share transportation statistical knowledge with public.
+* `U.S. Freight Analysis Framework <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_: Freight movement data among states and major metropolitan areas since 2007.
 
 
 Complementary Collections
