@@ -133,6 +133,7 @@ Finance
 GeoSpace/GIS
 ------------
 
+* `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `BODC (marine data of nearly 22,000 oceanographic vars) <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `EOSDIS <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <http://www.factual.com/>`_
@@ -151,6 +152,7 @@ Government
 
 * `Australia <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ (abs.gov.au)
 * `Australia <https://data.gov.au/>`_ (data.gov.au)
+* `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
