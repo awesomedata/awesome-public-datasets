@@ -336,8 +336,9 @@ Sports
 Time Series
 -----------
 
-* `Time Series data Library <https://datamarket.com/data/list/?q=provider:tsdl>`_
-* `UC Riverside Time Series <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
+* `Time Series data Library (TSDL) <https://datamarket.com/data/list/?q=provider:tsdl>`_: The Time Series Data Library was created by Rob Hyndman, Professor of Statistics at Monash University, Australia.
+
+* `UC Riverside Time Series <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_: This data resource was created as a public service to the data mining/machine learning community, to encourage reproducible research for time series classification and clustering.
 
 
 Transportation
