@@ -344,17 +344,30 @@ Time Series
 Transportation
 --------------
 
-* `Airlines Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_: Flight OD data used by ASA Challenge, 2009, originally published by RITA.
+* `Airlines Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_: Flight OD data used by ASA Challenge, 2009.
+
 * `Bike Share Data Systems <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_: A collection of bike sharing systems and trip histories over the world.
+
 * `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
-* `Half a million Hubway rides <http://hubwaydatachallenge.org/trip-history-data/>`_: Bike trip histories (since July, 2011) in MA published by Hubway Corp..
+
+* `Half a million Hubway rides <http://hubwaydatachallenge.org/trip-history-data/>`_: Bike trip histories (since 2011) in MA published by Hubway.
+
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
+
 * `NYC Taxi Trip Data 2013 <https://archive.org/details/nycTaxiTripData2013>`_: FOIA/FOILed Taxi Trip Data from the NYC Taxi and Limousine Commission 2013, released by a civic hacker, Chris Whong.
-* `OpenFlights <http://openflights.org/data.html>`_: Airport, airline and route data collected from public resources and contributed by the open community.
-* `RITA Airline On-Time Performance Data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_: This table contains on-time arrival details for non-stop domestic flights by major air carriers in United States.
-* `RITA transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_: Various transportation databases published by BTS, which are categorized into different modes and subjects.
+
+* `OpenFlights <http://openflights.org/data.html>`_: Airport, airline and route data collected contributed by open communities.
+
+* `RITA Airline On-Time Performance Data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_: On-time arrival details for domestic flights by major air carriers in US.
+
+* `RITA transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_: Various transportation databases published by BTS.
+
 * `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_: Providing London transportation data including bike sharing system, bus, train, and networking statistics.
+
+* `Travel Tracker Survey, Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_: Data collection took place between January 2007 and February 2008. A total of 10,552 households participated in either a 1-day or 2-day survey, providing a detailed travel inventory for each member of their household on the assigned travel day(s).
+
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_: As part of the RITA, BTS covers nearly all of transportation resources to create, manage, and share transportation statistical knowledge with public.
+
 * `U.S. Freight Analysis Framework <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_: Freight movement data among states and major metropolitan areas since 2007.
 
 
