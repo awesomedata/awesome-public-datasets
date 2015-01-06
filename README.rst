@@ -336,39 +336,39 @@ Sports
 Time Series
 -----------
 
-* `Time Series data Library (TSDL) <https://datamarket.com/data/list/?q=provider:tsdl>`_: The Time Series Data Library was created by Rob Hyndman, Professor of Statistics at Monash University, Australia.
+* `Time Series data Library (TSDL), created by Rob Hyndman, MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 
-* `UC Riverside Time Series <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_: This data resource was created as a public service to the data mining/machine learning community, to encourage reproducible research for time series classification and clustering.
+* `UC Riverside Time Series, for classification and clustering. <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 
 
 Transportation
 --------------
 
-* `Airlines Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_: Flight OD data used by ASA Challenge, 2009.
+* `Airlines OD Data 1987-2008,  used by ASA Challenge 2009 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
 
-* `Bike Share Data Systems <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_: A collection of bike sharing systems and trip histories over the world.
+* `Bike Share Data Systems - trip histories, site maps etc. <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
 
 * `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
 
-* `Half a million Hubway rides <http://hubwaydatachallenge.org/trip-history-data/>`_: Bike trip histories (since 2011) in MA published by Hubway.
+* `Half a million Hubway rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 
-* `NYC Taxi Trip Data 2013 <https://archive.org/details/nycTaxiTripData2013>`_: FOIA/FOILed Taxi Trip Data from the NYC Taxi and Limousine Commission 2013, released by a civic hacker, Chris Whong.
+* `NYC Taxi Trip Data 2013 - FOIA/FOILed by Chris Whong <https://archive.org/details/nycTaxiTripData2013>`_
 
-* `OpenFlights <http://openflights.org/data.html>`_: Airport, airline and route data collected contributed by open communities.
+* `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
 
-* `RITA Airline On-Time Performance Data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_: On-time arrival details for domestic flights by major air carriers in US.
+* `RITA Airline On-Time Performance Data of major air carriers in US <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 
-* `RITA transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_: Various transportation databases published by BTS.
+* `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
 
-* `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_: Providing London transportation data including bike sharing system, bus, train, and networking statistics.
+* `Transport for London (TFL) - trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 
-* `Travel Tracker Survey, Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_: Data collection took place between January 2007 and February 2008. A total of 10,552 households participated in either a 1-day or 2-day survey, providing a detailed travel inventory for each member of their household on the assigned travel day(s).
+* `Travel Tracker Survey (TTS), Chicago, 1990, 2007-2008 <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 
-* `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_: As part of the RITA, BTS covers nearly all of transportation resources to create, manage, and share transportation statistical knowledge with public.
+* `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 
-* `U.S. Freight Analysis Framework <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_: Freight movement data among states and major metropolitan areas since 2007.
+* `U.S. Freight Analysis Framework - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
 Complementary Collections
