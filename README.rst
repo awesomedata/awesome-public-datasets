@@ -253,8 +253,8 @@ Natural Language
 Physics
 -------
 
-* `CERN Open Data Portal <http://opendata.cern.ch/>`_
-* `NASA <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
+* `CERN Open Data Portal - Experimental data of CMS experiment, ALICE, ATLAS and LHCb <http://opendata.cern.ch/>`_
+* `NSSDC (NASA) - More than 230 TB of data from about 550 space science spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 
 
 Public Domains
@@ -285,14 +285,14 @@ Public Domains
 Search Engines
 --------------
 
-* `Academic Torrents <http://academictorrents.com/>`_
-* `Archive-it <https://www.archive-it.org/explore?show=Collections>`_
-* `Datahub.io <http://datahub.io/dataset>`_
-* `DataMarket.com <https://datamarket.com/data/list/?q=all>`_
-* `Freebase.com <http://www.freebase.com/>`_
-* `Harvard Dataverse <http://thedata.harvard.edu/dvn/>`_
-* `ICPSR <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
-* `Statista.com <http://www.statista.com/>`_
+* `Academic Torrents (UMB) - Sharing enormous datasets, for researchers, by researchers. <http://academictorrents.com/>`_
+* `Archive-it - Web archiving service built at the Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
+* `Datahub.io - The easy way to get, use and share data <http://datahub.io/dataset>`_
+* `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
+* `Freebase.com - A community-curated database of well-known people, places, and things <http://www.freebase.com/>`_
+* `Harvard Dataverse Network - Scientific data for reproducible research <http://thedata.harvard.edu/dvn/>`_
+* `ICPSR (UMICH) - Find and analyze data <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
+* `Statista.com - Statistics and Studies from more than 18,000 Sources <http://www.statista.com/>`_
 
 
 Social Sciences
@@ -304,22 +304,22 @@ Social Sciences
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
 * `Foursquare (2010, 2011) - Social networks, check-in locations and categories <http://www.public.asu.edu/~hgao16/dataset.html>`_
 * `Foursquare from UMN/Sarwat (2013) - Users, venues, check-ins, ratings etc. <https://archive.org/details/201309_foursquare_dataset_umn>`_
-* `General Social Survey (GSS, since 1972) - Demographic and attitudinal questions, plus topics of interests <http://www3.norc.org/GSS+Website/>`_
+* `General Social Survey (GSS, since 1972) - Demographic and attitudinal questions, topics etc. <http://www3.norc.org/GSS+Website/>`_
 * `GetGlue - Users rating TV shows <http://bit.ly/1aL8XS0>`_
 * `GitHub Archive - Programmers collaboration, projects progress etc. <http://www.githubarchive.org/>`_
 * `Mobile Social Networks (UMASS) - Timestamped mote-to-mote (up to 27 subjects) connections <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
-* `PewResearch Internet Project - A wide range of surveys about library usage, cell ownership, online dating etc. <http://www.pewinternet.org/datasets/pages/2/>`_
-* `SourceForge.net Research Data (authority requested) - Historic and status statistics of projects and users' activities <http://www.nd.edu/~oss/Data/data.html>`_
+* `PewResearch Internet Project - A wide range of surveys about library usage, online dating etc. <http://www.pewinternet.org/datasets/pages/2/>`_
+* `SourceForge.net Research Data - Historic and status statistics of projects and users' activities <http://www.nd.edu/~oss/Data/data.html>`_
 * `Stack Exchange Data Explorer - User-contributed content on the Stack Exchange network <http://data.stackexchange.com/help>`_
 * `Titanic Survival Data Set - Demographic information of Titanic passengers <http://bit.do/dataset-titanic-csv-zip>`_
-* `Twitter Graph (authority requested) - Crawled entire Twitter site including user profiles, relations, topics and tweets <http://an.kaist.ac.kr/traces/WWW2010.html>`_
+* `Twitter Graph - Crawled entire Twitter site including tweets, user profiles, relations <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) - Holdings of political, social and health areas <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive - A collection of social science data on the Web, e.g., DHS surveys <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
-* `UNIMI/LAW Social Network Datasets - Multiple social networks like amazon, LiveJournal, dblp, hollywood and more <http://law.di.unimi.it/datasets.php>`_
+* `UNIMI/LAW Social Network Datasets - Social networks like amazon, LiveJournal, dblp and more <http://law.di.unimi.it/datasets.php>`_
 * `Universities Worldwide - Links to 9307 Universities in 205 countries <http://univ.cc/>`_
 * `UPJOHN for Employment Research - Labor surveys, unemployment spells and more <http://www.upjohn.org/erdc/erdc.html>`_
 * `Yahoo Graph and Social Data - Web page hyperlink graph, user-group membership, IM friends etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
-* `Youtube Video Graph (2007,2008) - video relations, uploader, category, views, ratings and more <http://netsg.cs.sfu.ca/youtubedata/>`_
+* `Youtube Video Graph (2007,2008) - Video relations, uploaders, views, ratings and more <http://netsg.cs.sfu.ca/youtubedata/>`_
 
 
 Sports
