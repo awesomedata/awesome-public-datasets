@@ -195,6 +195,11 @@ Image Processing
 * `2GB of photos of cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `ImageNet <http://www.image-net.org/>`_
+* `SUN database <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
+* `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
+* `Affective Image Classification <http://www.imageemotion.org/>`_
+* `International Affective Picture System <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
+* `Massive Visual Memory Stimuli <http://cvcl.mit.edu/MM/stimuli.html>`_
 
 
 Machine Learning
