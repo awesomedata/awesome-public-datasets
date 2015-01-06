@@ -291,53 +291,52 @@ Search Engines
 * `DataMarket.com <https://datamarket.com/data/list/?q=all>`_
 * `Freebase.com <http://www.freebase.com/>`_
 * `Harvard Dataverse <http://thedata.harvard.edu/dvn/>`_
+* `ICPSR <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
 * `Statista.com <http://www.statista.com/>`_
 
 
 Social Sciences
 ---------------
 
-* `CMU Enron Email <http://www.cs.cmu.edu/~enron/>`_
-* `Facebook Social Networks (since 2007) <http://law.di.unimi.it/datasets.php>`_
-* `Facebook100 (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
-* `Foursquare (2010,2011) <http://www.public.asu.edu/~hgao16/dataset.html>`_
-* `Foursquare (UMN/Sarwat, 2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
-* `General Social Survey (GSS) <http://www3.norc.org/GSS+Website/>`_
-* `GetGlue (users rating TV shows) <http://bit.ly/1aL8XS0>`_
-* `GitHub Archive <http://www.githubarchive.org/>`_
-* `ICPSR <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
-* `Mobile Social Networks (UMASS) <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
-* `PewResearch Internet Project <http://www.pewinternet.org/datasets/pages/2/>`_
-* `Social Networking <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
-* `SourceForge Graph <http://www.nd.edu/~oss/Data/data.html>`_
-* `Stack Exchange Network (Data Explorer) <http://data.stackexchange.com/help>`_
-* `Titanic Survival Data Set <http://bit.do/dataset-titanic-csv-zip>`_
-* `Twitter Graph <http://an.kaist.ac.kr/traces/WWW2010.html>`_
-* `UC Berkeley's D-Lab Achive <http://ucdata.berkeley.edu/>`_
-* `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
-* `UNIMI Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
-* `Universities Worldwide <http://univ.cc/>`_
-* `UPJOHN for Employment Research <http://www.upjohn.org/erdc/erdc.html>`_
-* `Yahoo Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
-* `Youtube Graph (2007,2008) <http://netsg.cs.sfu.ca/youtubedata/>`_
+* `Ancestry.com Forum Dataset - Forum users and messages over ten years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
+* `CMU Enron Email - 150 users, mostly senior management of Enron <http://www.cs.cmu.edu/~enron/>`_
+* `Facebook Data Scrape (2005) - 100 American colleges and univ. <https://archive.org/details/oxford-2005-facebook-matrix>`_
+* `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
+* `Foursquare (2010, 2011) - Social networks, check-in locations and categories <http://www.public.asu.edu/~hgao16/dataset.html>`_
+* `Foursquare from UMN/Sarwat (2013) - Users, venues, check-ins, ratings etc. <https://archive.org/details/201309_foursquare_dataset_umn>`_
+* `General Social Survey (GSS, since 1972) - Demographic and attitudinal questions, plus topics of interests <http://www3.norc.org/GSS+Website/>`_
+* `GetGlue - Users rating TV shows <http://bit.ly/1aL8XS0>`_
+* `GitHub Archive - Programmers collaboration, projects progress etc. <http://www.githubarchive.org/>`_
+* `Mobile Social Networks (UMASS) - Timestamped mote-to-mote (up to 27 subjects) connections <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
+* `PewResearch Internet Project - A wide range of surveys about library usage, cell ownership, online dating etc. <http://www.pewinternet.org/datasets/pages/2/>`_
+* `SourceForge.net Research Data (authority requested) - Historic and status statistics of projects and users' activities <http://www.nd.edu/~oss/Data/data.html>`_
+* `Stack Exchange Data Explorer - User-contributed content on the Stack Exchange network <http://data.stackexchange.com/help>`_
+* `Titanic Survival Data Set - Demographic information of Titanic passengers <http://bit.do/dataset-titanic-csv-zip>`_
+* `Twitter Graph (authority requested) - Crawled entire Twitter site including user profiles, relations, topics and tweets <http://an.kaist.ac.kr/traces/WWW2010.html>`_
+* `UCB's Archive of Social Science Data (D-Lab) - Holdings of political, social and health areas <http://ucdata.berkeley.edu/>`_
+* `UCLA Social Sciences Data Archive - A collection of social science data on the Web, e.g., DHS surveys <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
+* `UNIMI/LAW Social Network Datasets - Multiple social networks like amazon, LiveJournal, dblp, hollywood and more <http://law.di.unimi.it/datasets.php>`_
+* `Universities Worldwide - Links to 9307 Universities in 205 countries <http://univ.cc/>`_
+* `UPJOHN for Employment Research - Labor surveys, unemployment spells and more <http://www.upjohn.org/erdc/erdc.html>`_
+* `Yahoo Graph and Social Data - Web page hyperlink graph, user-group membership, IM friends etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
+* `Youtube Video Graph (2007,2008) - video relations, uploader, category, views, ratings and more <http://netsg.cs.sfu.ca/youtubedata/>`_
 
 
 Sports
 ------
 
-* `Betfair (betting exchange) Event Results <http://data.betfair.com/>`_
-* `Cricsheet (cricket) <http://cricsheet.org/>`_
-* `Ergast Formula 1 (API available) <http://ergast.com/mrd/db>`_
-* `Football/Soccer data and APIs <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
-* `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
-* `Retrosheet (baseball) <http://www.retrosheet.org/game.htm>`_
+* `Betfair Event Results - Fully time-stamped historical Betfair exchange data <http://data.betfair.com/>`_
+* `Cricsheet (baseball) - Thousands of Cricket matches <http://cricsheet.org/>`_
+* `Ergast Formula 1, from 1950 up to date (API available) <http://ergast.com/mrd/db>`_
+* `Football/Soccer resouces (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
+* `Lahman's Baseball Database - Batting and pitching statistics, team stats etc. <http://www.seanlahman.com/baseball-archive/statistics/>`_
+* `Retrosheet (baseball) - Play-by-Play files, game logs and schedules <http://www.retrosheet.org/game.htm>`_
 
 
 Time Series
 -----------
 
 * `Time Series data Library (TSDL), created by Rob Hyndman, MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
-
 * `UC Riverside Time Series, for classification and clustering. <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 
 
@@ -345,29 +344,17 @@ Transportation
 --------------
 
 * `Airlines OD Data 1987-2008,  used by ASA Challenge 2009 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
-
-* `Bike Share Data Systems - trip histories, site maps etc. <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
-
+* `Bike Share Data Systems - Trip histories, site maps etc. <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
 * `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
-
 * `Half a million Hubway rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
-
-* `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
-
+* `Marine Traffic - Ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 * `NYC Taxi Trip Data 2013 - FOIA/FOILed by Chris Whong <https://archive.org/details/nycTaxiTripData2013>`_
-
-* `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
-
-* `RITA Airline On-Time Performance Data of major air carriers in US <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
-
+* `OpenFlights - Airport, airline and route data <http://openflights.org/data.html>`_
+* `RITA Airline On-Time Performance data of major air carriers in US <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
-
-* `Transport for London (TFL) - trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
-
+* `Transport for London (TFL) - Trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 * `Travel Tracker Survey (TTS), Chicago, 1990, 2007-2008 <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
-
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
-
 * `U.S. Freight Analysis Framework - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
