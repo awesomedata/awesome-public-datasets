@@ -234,20 +234,20 @@ Music
 Natural Language
 ----------------
 
-* `40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
-* `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
-* `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
-* `DBpedia <http://wiki.dbpedia.org/Datasets>`_
-* `Flickr personal taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
-* `Google Books Ngrams <http://aws.amazon.com/datasets/8172056142375670>`_
-* `Google Web 5gram, 2006 (1T) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
-* `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
-* `Hansards <http://www.isi.edu/natural-language/download/hansard/>`_
-* `Machine Translation <http://statmt.org/wmt11/translation-task.html#download>`_
-* `SMS Spam Collection <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
-* `USENET corpus <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
-* `Wikidata <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
-* `WordNet <http://wordnet.princeton.edu/wordnet/download/>`_
+* `ClueWeb09 FACC - Annotated English-language Web pages from the ClueWeb09 corpora. <http://lemurproject.org/clueweb09/FACC1/>`_
+* `ClueWeb12 FACC - Annotated English-language Web pages from the ClueWeb12 corpora. <http://lemurproject.org/clueweb12/FACC1/>`_
+* `DBpedia - Multi-domain ontology describing 4.58M “things” with 583M “facts”. <http://wiki.dbpedia.org/Datasets>`_
+* `Flickr Personal Taxonomies - Personalized tagging pictures with descriptive labels. <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
+* `Google Books Ngrams (2.2TB) - N-gram corpuses extracted from Google Books. <http://aws.amazon.com/datasets/8172056142375670>`_
+* `Google Web 5gram (1TB, 2006) - 5-gram corpuses extracted from Web pages. <https://catalog.ldc.upenn.edu/LDC2006T13>`_
+* `Gutenberg eBooks List - Basic information about each eBook from Project Gutenberg. <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* `Hansards - 1.3M aligned text chunks from official records of Canadian Parliament. <http://www.isi.edu/natural-language/download/hansard/>`_
+* `Machine Translation - The recurring translation task focusing on European languages. <http://statmt.org/wmt11/translation-task.html#download>`_
+* `SMS Spam Collection - 5,574 real English messages, labled as being ham or spam. <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
+* `USENET corpus - A collection of public USENET postings between Oct 2005 and Jan 2011. <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
+* `Wikidata - Wikipedia databases available in JSON and XML formats. <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
+* `Wikipedia Links data - 40 Million Entities in Context. <https://code.google.com/p/wiki-links/downloads/list>`_
+* `WordNet - Databases, associated packages and tools. <http://wordnet.princeton.edu/wordnet/download/>`_
 
 
 Physics
@@ -314,11 +314,11 @@ Social Sciences
 * `Titanic Survival Data Set - Demographic information of Titanic passengers <http://bit.do/dataset-titanic-csv-zip>`_
 * `Twitter Graph - Crawled entire Twitter site including tweets, user profiles, relations <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) - Holdings of political, social and health areas <http://ucdata.berkeley.edu/>`_
-* `UCLA Social Sciences Data Archive - A collection of social science data on the Web, e.g., DHS surveys <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
+* `UCLA Social Sciences Data Archive - A collection of social science data on the Web <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UNIMI/LAW Social Network Datasets - Social networks like amazon, LiveJournal, dblp and more <http://law.di.unimi.it/datasets.php>`_
 * `Universities Worldwide - Links to 9307 Universities in 205 countries <http://univ.cc/>`_
 * `UPJOHN for Employment Research - Labor surveys, unemployment spells and more <http://www.upjohn.org/erdc/erdc.html>`_
-* `Yahoo Graph and Social Data - Web page hyperlink graph, user-group membership, IM friends etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
+* `Yahoo Graph and Social Data - Web page graph, user-group membership, IM friends etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Graph (2007,2008) - Video relations, uploaders, views, ratings and more <http://netsg.cs.sfu.ca/youtubedata/>`_
 
 
@@ -355,7 +355,7 @@ Transportation
 * `Transport for London (TFL) - Trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 * `Travel Tracker Survey (TTS), Chicago, 1990, 2007-2008 <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
-* `U.S. Freight Analysis Framework - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `**U.S. Freight Analysis Framework** - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
 Complementary Collections
