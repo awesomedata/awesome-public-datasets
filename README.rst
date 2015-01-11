@@ -358,7 +358,7 @@ Transportation
 * `Transport for London (TFL) - Trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 * `Travel Tracker Survey (TTS), Chicago, 1990, 2007-2008 <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
-* `**U.S. Freight Analysis Framework** - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `U.S. Freight Analysis Framework - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
 Complementary Collections
