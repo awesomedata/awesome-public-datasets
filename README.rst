@@ -192,7 +192,7 @@ Healthcare
 Image Processing
 ----------------
 
-* `2GB of photos of cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `ImageNet <http://www.image-net.org/>`_
 
@@ -200,20 +200,20 @@ Image Processing
 Machine Learning
 ----------------
 
-* `eBay Online Auctions <http://www.modelingonlineauctions.com/datasets>`_
-* `IMDb database <http://www.imdb.com/interfaces>`_
-* `Keel Repository <http://sci2s.ugr.es/keel/datasets.php>`_
-* `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
-* `Machine Learning Data Set Repository <http://mldata.org/>`_
-* `Million Song Dataset <http://blog.echonest.com/post/3639160982/million-song-dataset>`_
-* `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
-* `MovieLens Data Sets <http://datahub.io/dataset/movielens>`_
-* `RDataMining R and Data Mining ebook data <http://www.rdatamining.com/data>`_
-* `Registered meteorites on Earth <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
-* `SF restaurants dataset <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
-* `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
-* `University of Toronto Delve Datasets <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
-* `Yahoo Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+* `Delve Datasets (Univ. of Toronto) - Evaluating datasets for classification and regression. <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
+* `eBay Online Auctions (2012) - Seller-auction-bidder data with closing prices. <http://www.modelingonlineauctions.com/datasets>`_
+* `IMDb Database - An online database of films, TB programs, and video games. <http://www.imdb.com/interfaces>`_
+* `Keel Repository - Multiple datasets for classification, regression, time series. <http://sci2s.ugr.es/keel/datasets.php>`_
+* `Lending Club Loan Data - Loan status (Current, Late, Fully Paid, etc.) and latest payment info. <https://www.lendingclub.com/info/download-data.action>`_
+* `Machine Learning Data Set Repository - A data search engine for machine learning tasks. <http://mldata.org/>`_
+* `Million Song Dataset - Audio features and metadata for a million popular music tracks. <http://labrosa.ee.columbia.edu/millionsong/>`_
+* `More Song Datasets - Complementary data of cover songs, lyrics, user listening data. <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+* `MovieLens Data Sets - Online movie recommendation including movie tags, user ratings. <http://datahub.io/dataset/movielens>`_
+* `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
+* `Registered Meteorites on Earth - 34,513 meteorites updated to 2012. <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
+* `Restaurants Health Score Data - Health status of restaurants in San Francisco. <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
+* `UCI Machine Learning Repository - One of most famous ML data repositories. <http://archive.ics.uci.edu/ml/>`_
+* `Yahoo Ratings and Classification Data - About music, movies, user clicks, images etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
 
 
 Museums
@@ -228,7 +228,7 @@ Museums
 Music
 -----
 
-* `Discogs Data <http://www.discogs.com/data/>`_
+* `Discogs Data - Monthly dumps of Discogs Release, Artist and Label data. <http://www.discogs.com/data/>`_
 
 
 Natural Language
