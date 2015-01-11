@@ -184,17 +184,20 @@ Government
 Healthcare
 ----------
 
-* `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
-* `Gapminder <http://www.gapminder.org/data/>`_
+* `EHDP Large Health Data Sets - A collection of health datasets across domains and countries. <http://www.ehdp.com/vitalnet/datasets.htm>`_
+* `Gapminder World - A collection of multi-domain, demographic databases for our world. <http://www.gapminder.org/data/>`_
+* `Medicare Coverage Database (MCD) - Containing national and local Coverage Determinations. <http://www.cms.gov/medicare-coverage-database/>`_
+* `Medicare Data Engine - Download, Explore, and Visualize Medicare.gov Data. <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
+
 
 
 Image Processing
 ----------------
 
-* `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
-* `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
-* `ImageNet <http://www.image-net.org/>`_
+* `2GB of Photos of Cats - 10K cat images with basic annotations. <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `Face Recognition Benchmark - A collection of face datasets for benchmarking algorithms. <http://www.face-rec.org/databases/>`_
+* `ImageNet - An image database organized according to the WordNet hierarchy. <http://www.image-net.org/>`_
 
 
 Machine Learning
