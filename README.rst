@@ -68,15 +68,15 @@ Complex Networks
 Computer Networks
 -----------------
 
-* `3.5B Web Pages <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
-* `53.5B Web clicks <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset>`_
-* `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
-* `ClueWeb09 <http://lemurproject.org/clueweb09/>`_
-* `ClueWeb12 <http://lemurproject.org/clueweb12/>`_
-* `CommonCrawl Web Data <http://commoncrawl.org/the-data/get-started/>`_
-* `Dartmouth CRAWDAD Wireless datasets <http://crawdad.cs.dartmouth.edu/>`_
-* `OpenMobileData (MobiPerf) <https://console.developers.google.com/storage/openmobiledata_public/>`_
-* `UCSD Network Telescope <http://www.caida.org/projects/network_telescope/>`_
+* `3.5B Web Pages - Web graph extracted from CommonCraw 2012 web corpus. <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
+* `53.5B Web clicks - Anonymized HTTP records from 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset>`_
+* `CAIDA Internet Datasets - Network traces and topologies at geographically diverse locations. <http://www.caida.org/data/overview/>`_
+* `ClueWeb09 - About 1B web pages in ten languages that were collected in Jan. and Feb. 2009. <http://lemurproject.org/clueweb09/>`_
+* `ClueWeb12 - About 733M web pages collected between Feb. and May 2012. <http://lemurproject.org/clueweb12/>`_
+* `CommonCrawl Web Data - Petabytes of data collected over 7 years of web crawling. <http://commoncrawl.org/the-data/get-started/>`_
+* `CRAWDAD Wireless datasets (Dartmouth) - A wireless network data resource for research communities. <http://crawdad.cs.dartmouth.edu/>`_
+* `OpenMobileData (MobiPerf) - Mobile performance measurement data collected with active tests. <https://console.developers.google.com/storage/openmobiledata_public/>`_
+* `UCSD Network Telescope - A passive traffic monitoring system covering IPv4 /8 net. <http://www.caida.org/projects/network_telescope/>`_
 
 
 Data Challenges
@@ -133,17 +133,17 @@ Finance
 GeoSpace/GIS
 ------------
 
-* `BODC (marine data of nearly 22,000 oceanographic vars) <http://www.bodc.ac.uk/data/where_to_find_data/>`_
-* `EOSDIS <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
-* `Factual Global Location Data <http://www.factual.com/>`_
-* `GADM (Global Administrative Areas database) <http://www.gadm.org/>`_
-* `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
-* `GeoNames (over eight million placenames) <http://www.geonames.org/>`_
-* `Natural Earth (vectors and rasters of the world) <http://www.naturalearthdata.com/>`_
-* `OpenStreetMap (a free map worldwide) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
-* `TIGER/Line (official United States boundaries and roads) <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
-* `twofishes (Foursquare's coarse geocoder) <https://github.com/foursquare/twofishes>`_
-* `tz_world (timezone polygons) <http://efele.net/maps/tz/world/>`_
+* `BODC - Marine data of nearly 22,000 oceanographic vars. <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `EOSDIS - A data collection of NASA's earth observing system data and information system. <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* `Factual Global Location Data - 65M POIs with extended attributes in 50 countries. <http://www.factual.com/>`_
+* `Global Administrative Areas Database (GADM) - For countries and low-level subdivisions. <http://www.gadm.org/>`_
+* `Geo Spatial Data from ASU - Several small spatial or GIS datasets. <http://geodacenter.asu.edu/datalist/>`_
+* `GeoNames - Over eight million placenames (countries, city stat etc.) of the world. <http://www.geonames.org/>`_
+* `Natural Earth - Vectors and rasters of the world in multiple scales. <http://www.naturalearthdata.com/>`_
+* `OpenStreetMap - A free map worldwide maintained by the communities. <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `TIGER/Line - Official United States boundaries and roads. <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* `TwoFishes - Foursquare's coarse geocoder. <https://github.com/foursquare/twofishes>`_
+* `TZ Timezones - A shapefile of the TZ timezones of the world. <http://efele.net/maps/tz/world/>`_
 
 
 Government
@@ -187,7 +187,7 @@ Healthcare
 * `EHDP Large Health Data Sets - A collection of health datasets across domains and countries. <http://www.ehdp.com/vitalnet/datasets.htm>`_
 * `Gapminder World - A collection of multi-domain, demographic databases for our world. <http://www.gapminder.org/data/>`_
 * `Medicare Coverage Database (MCD) - Containing national and local Coverage Determinations. <http://www.cms.gov/medicare-coverage-database/>`_
-* `Medicare Data Engine - Download, Explore, and Visualize Medicare.gov Data. <https://data.medicare.gov/>`_
+* `Medicare Data Engine - Download, explore, and visualize Medicare.gov Data. <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
 
 
