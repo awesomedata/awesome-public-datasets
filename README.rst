@@ -151,6 +151,7 @@ Government
 
 * `Australia <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ (abs.gov.au)
 * `Australia <https://data.gov.au/>`_ (data.gov.au)
+* `Brazil <http://dados.gov.br/dataset>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
