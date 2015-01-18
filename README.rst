@@ -155,6 +155,7 @@ Government
 * `Chicago <https://data.cityofchicago.org/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
+* `France <https://www.data.gouv.fr/en/datasets/>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Glasgow, Scotland, UK <http://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
