@@ -211,7 +211,7 @@ Machine Learning
 * `Machine Learning Data Set Repository - A data search engine for machine learning tasks. <http://mldata.org/>`_
 * `Million Song Dataset - Audio features and metadata for a million popular music tracks. <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets - Complementary data of cover songs, lyrics, user listening data. <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
-* `MovieLens Data Sets - Online movie recommendation including movie tags, user ratings. <http://datahub.io/dataset/movielens>`_
+* `MovieLens Data Sets - Online movie recommendation including movie tags, user ratings. <http://grouplens.org/datasets/movielens/>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth - 34,513 meteorites updated to 2012. <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
 * `Restaurants Health Score Data - Health status of restaurants in San Francisco. <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
