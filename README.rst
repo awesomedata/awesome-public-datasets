@@ -348,6 +348,7 @@ Transportation
 
 * `Airlines OD Data 1987-2008,  used by ASA Challenge 2009 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
 * `Bike Share Data Systems - Trip histories, site maps etc. <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+* `Bay Area Bike Share Data - Bike availability and trip history <http://www.bayareabikeshare.com/datachallenge>`_
 * `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
 * `Half a million Hubway rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - Ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
