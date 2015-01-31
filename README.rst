@@ -38,7 +38,7 @@ Climate/Weather
 
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
 * `Canadian Meteorological Centre <https://weather.gc.ca/grib/index_e.html>`_
-* `Climate Data from UEA (updated at roughly monthly intervals) <http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
+* `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
 * `Global Climate Data Since 1929 <http://www.tutiempo.net/en/Climate>`_
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://ncdc.noaa.gov/data-access/quick-links>`_
@@ -68,15 +68,15 @@ Complex Networks
 Computer Networks
 -----------------
 
-* `3.5B Web Pages - Web graph extracted from CommonCraw 2012 web corpus. <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
-* `53.5B Web clicks - Anonymized HTTP records from 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset>`_
-* `CAIDA Internet Datasets - Network traces and topologies at geographically diverse locations. <http://www.caida.org/data/overview/>`_
-* `ClueWeb09 - About 1B web pages in ten languages that were collected in Jan. and Feb. 2009. <http://lemurproject.org/clueweb09/>`_
-* `ClueWeb12 - About 733M web pages collected between Feb. and May 2012. <http://lemurproject.org/clueweb12/>`_
-* `CommonCrawl Web Data - Petabytes of data collected over 7 years of web crawling. <http://commoncrawl.org/the-data/get-started/>`_
-* `CRAWDAD Wireless datasets (Dartmouth) - A wireless network data resource for research communities. <http://crawdad.cs.dartmouth.edu/>`_
-* `OpenMobileData (MobiPerf) - Mobile performance measurement data collected with active tests. <https://console.developers.google.com/storage/openmobiledata_public/>`_
-* `UCSD Network Telescope - A passive traffic monitoring system covering IPv4 /8 net. <http://www.caida.org/projects/network_telescope/>`_
+* `3.5B Web Pages from CommonCraw 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
+* `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset>`_
+* `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
+* `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
+* `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_
+* `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_
+* `CRAWDAD Wireless datasets from Dartmouth Univ. <http://crawdad.cs.dartmouth.edu/>`_
+* `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
+* `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
 Data Challenges
@@ -95,7 +95,7 @@ Data Challenges
 Economics
 ---------
 
-* `American Economic Ass. (AEA) <http://www.aeaweb.org/RFE/toc.php?show=complete>`_
+* `American Economic Ass (AEA) <http://www.aeaweb.org/RFE/toc.php?show=complete>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
 
@@ -133,24 +133,24 @@ Finance
 GeoSpace/GIS
 ------------
 
-* `BODC - Marine data of nearly 22,000 oceanographic vars. <http://www.bodc.ac.uk/data/where_to_find_data/>`_
-* `EOSDIS - A data collection of NASA's earth observing system data and information system. <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
-* `Factual Global Location Data - 65M POIs with extended attributes in 50 countries. <http://www.factual.com/>`_
-* `Global Administrative Areas Database (GADM) - For countries and low-level subdivisions. <http://www.gadm.org/>`_
-* `Geo Spatial Data from ASU - Several small spatial or GIS datasets. <http://geodacenter.asu.edu/datalist/>`_
-* `GeoNames - Over eight million placenames (countries, city stat etc.) of the world. <http://www.geonames.org/>`_
-* `Natural Earth - Vectors and rasters of the world in multiple scales. <http://www.naturalearthdata.com/>`_
-* `OpenStreetMap - A free map worldwide maintained by the communities. <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
-* `TIGER/Line - Official United States boundaries and roads. <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
-* `TwoFishes - Foursquare's coarse geocoder. <https://github.com/foursquare/twofishes>`_
-* `TZ Timezones - A shapefile of the TZ timezones of the world. <http://efele.net/maps/tz/world/>`_
+* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* `Factual Global Location Data <http://www.factual.com/>`_
+* `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
+* `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
+* `GeoNames Worldwide <http://www.geonames.org/>`_
+* `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
+* `Open Street Map (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
+* `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 
 
 Government
 ----------
 
-* `Australia <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ (abs.gov.au)
-* `Australia <https://data.gov.au/>`_ (data.gov.au)
+* `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
+* `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
@@ -185,10 +185,10 @@ Government
 Healthcare
 ----------
 
-* `EHDP Large Health Data Sets - A collection of health datasets across domains and countries. <http://www.ehdp.com/vitalnet/datasets.htm>`_
-* `Gapminder World - A collection of multi-domain, demographic databases for our world. <http://www.gapminder.org/data/>`_
-* `Medicare Coverage Database (MCD) - Containing national and local Coverage Determinations. <http://www.cms.gov/medicare-coverage-database/>`_
-* `Medicare Data Engine - Download, explore, and visualize Medicare.gov Data. <https://data.medicare.gov/>`_
+* `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
+* `Gapminder World, demographic databases <http://www.gapminder.org/data/>`_
+* `Medicare Coverage Database (MCD), U.S. <http://www.cms.gov/medicare-coverage-database/>`_
+* `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
 
 
@@ -196,28 +196,29 @@ Healthcare
 Image Processing
 ----------------
 
-* `2GB of Photos of Cats - 10K cat images with basic annotations. <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
-* `Face Recognition Benchmark - A collection of face datasets for benchmarking algorithms. <http://www.face-rec.org/databases/>`_
-* `ImageNet - An image database organized according to the WordNet hierarchy. <http://www.image-net.org/>`_
+* `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
+* `ImageNet - an image database in WordNet hierarchy <http://www.image-net.org/>`_
 
 
 Machine Learning
 ----------------
 
-* `Delve Datasets (Univ. of Toronto) - Evaluating datasets for classification and regression. <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
-* `eBay Online Auctions (2012) - Seller-auction-bidder data with closing prices. <http://www.modelingonlineauctions.com/datasets>`_
-* `IMDb Database - An online database of films, TB programs, and video games. <http://www.imdb.com/interfaces>`_
-* `Keel Repository - Multiple datasets for classification, regression, time series. <http://sci2s.ugr.es/keel/datasets.php>`_
-* `Lending Club Loan Data - Loan status (Current, Late, Fully Paid, etc.) and latest payment info. <https://www.lendingclub.com/info/download-data.action>`_
-* `Machine Learning Data Set Repository - A data search engine for machine learning tasks. <http://mldata.org/>`_
-* `Million Song Dataset - Audio features and metadata for a million popular music tracks. <http://labrosa.ee.columbia.edu/millionsong/>`_
-* `More Song Datasets - Complementary data of cover songs, lyrics, user listening data. <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
-* `MovieLens Data Sets - Online movie recommendation including movie tags, user ratings. <http://grouplens.org/datasets/movielens/>`_
+* `Delve Datasets for classification and regression (Univ. of Toronto) <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
+* `Discogs Monthly Data <http://www.discogs.com/data/>`_
+* `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
+* `IMDb Database <http://www.imdb.com/interfaces>`_
+* `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
+* `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
+* `Machine Learning Data Set Repository <http://mldata.org/>`_
+* `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
+* `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+* `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
-* `Registered Meteorites on Earth - 34,513 meteorites updated to 2012. <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
-* `Restaurants Health Score Data - Health status of restaurants in San Francisco. <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
-* `UCI Machine Learning Repository - One of most famous ML data repositories. <http://archive.ics.uci.edu/ml/>`_
-* `Yahoo Ratings and Classification Data - About music, movies, user clicks, images etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+* `Registered Meteorites on Earth <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
+* `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
+* `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
+* `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
 
 
 Museums
@@ -229,36 +230,30 @@ Museums
 * `The Getty vocabularies <http://vocab.getty.edu>`_
 
 
-Music
------
-
-* `Discogs Data - Monthly dumps of Discogs Release, Artist and Label data. <http://www.discogs.com/data/>`_
-
-
 Natural Language
 ----------------
 
-* `ClueWeb09 FACC - Annotated English-language Web pages from the ClueWeb09 corpora. <http://lemurproject.org/clueweb09/FACC1/>`_
-* `ClueWeb12 FACC - Annotated English-language Web pages from the ClueWeb12 corpora. <http://lemurproject.org/clueweb12/FACC1/>`_
-* `DBpedia - Multi-domain ontology describing 4.58M “things” with 583M “facts”. <http://wiki.dbpedia.org/Datasets>`_
-* `Flickr Personal Taxonomies - Personalized tagging pictures with descriptive labels. <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
-* `Google Books Ngrams (2.2TB) - N-gram corpuses extracted from Google Books. <http://aws.amazon.com/datasets/8172056142375670>`_
-* `Google Web 5gram (1TB, 2006) - 5-gram corpuses extracted from Web pages. <https://catalog.ldc.upenn.edu/LDC2006T13>`_
-* `Gutenberg eBooks List - Basic information about each eBook from Project Gutenberg. <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
-* `Hansards - 1.3M aligned text chunks from official records of Canadian Parliament. <http://www.isi.edu/natural-language/download/hansard/>`_
-* `Machine Translation - The recurring translation task focusing on European languages. <http://statmt.org/wmt11/translation-task.html#download>`_
-* `SMS Spam Collection - 5,574 real English messages, labled as being ham or spam. <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
-* `USENET corpus - A collection of public USENET postings between Oct 2005 and Jan 2011. <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
-* `Wikidata - Wikipedia databases available in JSON and XML formats. <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
-* `Wikipedia Links data - 40 Million Entities in Context. <https://code.google.com/p/wiki-links/downloads/list>`_
-* `WordNet - Databases, associated packages and tools. <http://wordnet.princeton.edu/wordnet/download/>`_
+* `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
+* `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
+* `DBpedia - 4.58M “things” with 583M “facts”<http://wiki.dbpedia.org/Datasets>`_
+* `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
+* `Google Books Ngrams (2.2TB) <http://aws.amazon.com/datasets/8172056142375670>`_
+* `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
+* `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
+* `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
+* `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
+* `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
+* `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
+* `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
+* `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 
 
 Physics
 -------
 
-* `CERN Open Data Portal - Experimental data of CMS experiment, ALICE, ATLAS and LHCb <http://opendata.cern.ch/>`_
-* `NSSDC (NASA) - More than 230 TB of data from about 550 space science spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
+* `CERN Open Data Portal <http://opendata.cern.ch/>`_
+* `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 
 
 Public Domains
@@ -289,77 +284,77 @@ Public Domains
 Search Engines
 --------------
 
-* `Academic Torrents (UMB) - Sharing enormous datasets, for researchers, by researchers. <http://academictorrents.com/>`_
-* `Archive-it - Web archiving service built at the Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
-* `Datahub.io - The easy way to get, use and share data <http://datahub.io/dataset>`_
+* `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
+* `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
+* `Datahub.io <http://datahub.io/dataset>`_
 * `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
-* `Freebase.com - A community-curated database of well-known people, places, and things <http://www.freebase.com/>`_
-* `Harvard Dataverse Network - Scientific data for reproducible research <http://thedata.harvard.edu/dvn/>`_
-* `ICPSR (UMICH) - Find and analyze data <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
-* `Statista.com - Statistics and Studies from more than 18,000 Sources <http://www.statista.com/>`_
+* `Freebase.com of people, places, and things <http://www.freebase.com/>`_
+* `Harvard Dataverse Network of scientific data <http://thedata.harvard.edu/dvn/>`_
+* `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
+* `Statista.com - statistics and Studies <http://www.statista.com/>`_
 
 
 Social Sciences
 ---------------
 
-* `Ancestry.com Forum Dataset - Forum users and messages over ten years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
-* `CMU Enron Email - 150 users, mostly senior management of Enron <http://www.cs.cmu.edu/~enron/>`_
-* `Facebook Data Scrape (2005) - 100 American colleges and univ. <https://archive.org/details/oxford-2005-facebook-matrix>`_
+* `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
+* `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
+* `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
-* `Foursquare (2010, 2011) - Social networks, check-in locations and categories <http://www.public.asu.edu/~hgao16/dataset.html>`_
-* `Foursquare from UMN/Sarwat (2013) - Users, venues, check-ins, ratings etc. <https://archive.org/details/201309_foursquare_dataset_umn>`_
-* `General Social Survey (GSS, since 1972) - Demographic and attitudinal questions, topics etc. <http://www3.norc.org/GSS+Website/>`_
-* `GetGlue - Users rating TV shows <http://bit.ly/1aL8XS0>`_
-* `GitHub Archive - Programmers collaboration, projects progress etc. <http://www.githubarchive.org/>`_
-* `Mobile Social Networks (UMASS) - Timestamped mote-to-mote (up to 27 subjects) connections <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
-* `PewResearch Internet Project - A wide range of surveys about library usage, online dating etc. <http://www.pewinternet.org/datasets/pages/2/>`_
-* `SourceForge.net Research Data - Historic and status statistics of projects and users' activities <http://www.nd.edu/~oss/Data/data.html>`_
-* `Stack Exchange Data Explorer - User-contributed content on the Stack Exchange network <http://data.stackexchange.com/help>`_
-* `Titanic Survival Data Set - Demographic information of Titanic passengers <http://bit.do/dataset-titanic-csv-zip>`_
-* `Twitter Graph - Crawled entire Twitter site including tweets, user profiles, relations <http://an.kaist.ac.kr/traces/WWW2010.html>`_
-* `UCB's Archive of Social Science Data (D-Lab) - Holdings of political, social and health areas <http://ucdata.berkeley.edu/>`_
-* `UCLA Social Sciences Data Archive - A collection of social science data on the Web <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
-* `UNIMI/LAW Social Network Datasets - Social networks like amazon, LiveJournal, dblp and more <http://law.di.unimi.it/datasets.php>`_
-* `Universities Worldwide - Links to 9307 Universities in 205 countries <http://univ.cc/>`_
-* `UPJOHN for Employment Research - Labor surveys, unemployment spells and more <http://www.upjohn.org/erdc/erdc.html>`_
-* `Yahoo Graph and Social Data - Web page graph, user-group membership, IM friends etc. <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
-* `Youtube Video Graph (2007,2008) - Video relations, uploaders, views, ratings and more <http://netsg.cs.sfu.ca/youtubedata/>`_
+* `Foursquare Social Network in 2010, 2011 <http://www.public.asu.edu/~hgao16/dataset.html>`_
+* `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
+* `General Social Survey (GSS) since 1972 <http://www3.norc.org/GSS+Website/>`_
+* `GetGlue - users rating TV shows <http://bit.ly/1aL8XS0>`_
+* `GitHub Collaboration Archive <http://www.githubarchive.org/>`_
+* `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
+* `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
+* `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
+* `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
+* `Titanic Survival Data Set <http://bit.do/dataset-titanic-csv-zip>`_
+* `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
+* `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
+* `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
+* `Universities Worldwide <http://univ.cc/>`_
+* `UPJOHN for Labor Employment Research <http://www.upjohn.org/erdc/erdc.html>`_
+* `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
+* `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
 
 
 Sports
 ------
 
-* `Betfair Event Results - Fully time-stamped historical Betfair exchange data <http://data.betfair.com/>`_
-* `Cricsheet (baseball) - Thousands of Cricket matches <http://cricsheet.org/>`_
-* `Ergast Formula 1, from 1950 up to date (API available) <http://ergast.com/mrd/db>`_
+* `Betfair Historical Exchange Data <http://data.betfair.com/>`_
+* `Cricsheet Matches (baseball) <http://cricsheet.org/>`_
+* `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
 * `Football/Soccer resouces (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
-* `Lahman's Baseball Database - Batting and pitching statistics, team stats etc. <http://www.seanlahman.com/baseball-archive/statistics/>`_
-* `Retrosheet (baseball) - Play-by-Play files, game logs and schedules <http://www.retrosheet.org/game.htm>`_
+* `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
+* `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
 
 
 Time Series
 -----------
 
-* `Time Series data Library (TSDL), created by Rob Hyndman, MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
-* `UC Riverside Time Series, for classification and clustering. <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
+* `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
+* `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 
 
 Transportation
 --------------
 
-* `Airlines OD Data 1987-2008,  used by ASA Challenge 2009 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
-* `Bike Share Data Systems - Trip histories, site maps etc. <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
-* `Edge data for US domestic flights 1990 to 2009 <http://data.memect.com/?p=229>`_
-* `Half a million Hubway rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
-* `Marine Traffic - Ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
-* `NYC Taxi Trip Data 2013 - FOIA/FOILed by Chris Whong <https://archive.org/details/nycTaxiTripData2013>`_
-* `OpenFlights - Airport, airline and route data <http://openflights.org/data.html>`_
-* `RITA Airline On-Time Performance data of major air carriers in US <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
+* `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
+* `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+* `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
+* `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
+* `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
+* `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
-* `Transport for London (TFL) - Trip histories and networking statistics <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
-* `Travel Tracker Survey (TTS), Chicago, 1990, 2007-2008 <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
+* `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
+* `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
-* `U.S. Freight Analysis Framework - Freight movement among states since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `U.S. Domestic Flights 1990 to 2009 <http://data.memect.com/?p=229>`_
+* `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
 
 
 Complementary Collections
