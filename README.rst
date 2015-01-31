@@ -235,7 +235,7 @@ Natural Language
 
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
 * `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
-* `DBpedia - 4.58M “things” with 583M “facts”<http://wiki.dbpedia.org/Datasets>`_
+* `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
 * `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
 * `Google Books Ngrams (2.2TB) <http://aws.amazon.com/datasets/8172056142375670>`_
 * `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
