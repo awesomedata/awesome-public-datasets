@@ -153,6 +153,8 @@ Government
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
+* `Dallas Open Data <https://www.dallasopendata.com/>`_
+* `Denver Open Data <http://data.denvergov.org//>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
@@ -167,6 +169,7 @@ Government
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
+* `Seattle <https://data.seattle.gov/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
