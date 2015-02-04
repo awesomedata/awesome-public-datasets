@@ -340,6 +340,7 @@ Time Series
 
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
+* `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
 
 
 Transportation
