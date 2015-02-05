@@ -366,6 +366,7 @@ Complementary Collections
 
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
+* Open Data Certificates - Certified Open Data (beta) `<https://certificates.theodi.org/datasets>`_
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/2014/05/29/list-of-data-sets.html>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://hsiamin.com/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
