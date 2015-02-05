@@ -134,11 +134,12 @@ GeoSpace/GIS
 ------------
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <http://www.factual.com/>`_
-* `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
+* `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `Open Street Map (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
@@ -151,12 +152,15 @@ Government
 
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
+* `Brazil <http://dados.gov.br/dataset>`_
+* `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
+* `France <https://www.data.gouv.fr/en/datasets/>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Glasgow, Scotland, UK <http://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
@@ -199,9 +203,14 @@ Healthcare
 Image Processing
 ----------------
 
+* `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
 * `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
-* `ImageNet - an image database in WordNet hierarchy <http://www.image-net.org/>`_
+* `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
+* `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
+* `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+* `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
 
 
 Machine Learning
@@ -294,6 +303,7 @@ Search Engines
 * `Freebase.com of people, places, and things <http://www.freebase.com/>`_
 * `Harvard Dataverse Network of scientific data <http://thedata.harvard.edu/dvn/>`_
 * `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
+* `Open Data Certificates (beta) <https://certificates.theodi.org/datasets>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 
 
@@ -348,6 +358,7 @@ Transportation
 
 * `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
 * `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+* `Bay Area Bike Share Data <http://www.bayareabikeshare.com/datachallenge>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
