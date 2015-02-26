@@ -246,6 +246,7 @@ Museums
 Natural Language
 ----------------
 
+* `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
 * `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
 * `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
