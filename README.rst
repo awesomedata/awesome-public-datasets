@@ -334,6 +334,8 @@ Social Sciences
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/erdc/erdc.html>`_
 * `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+* `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
+* `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
 
 
 Sports
