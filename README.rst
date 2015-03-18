@@ -383,4 +383,4 @@ Complementary Collections
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/2014/05/29/list-of-data-sets.html>`_
-* StaTrek: `Leveraging open data to understand urban lives <http://hsiamin.com/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
+* StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
