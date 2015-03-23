@@ -140,6 +140,7 @@ GeoSpace/GIS
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
+* `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `Open Street Map (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
