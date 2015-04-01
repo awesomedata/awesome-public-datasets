@@ -75,6 +75,7 @@ Computer Networks
 * `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_
 * `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <http://crawdad.cs.dartmouth.edu/>`_
+* `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releses-its-new-dataset/>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
