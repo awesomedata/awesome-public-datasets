@@ -323,6 +323,7 @@ Social Sciences
 * `General Social Survey (GSS) since 1972 <http://www3.norc.org/GSS+Website/>`_
 * `GetGlue - users rating TV shows <http://bit.ly/1aL8XS0>`_
 * `GitHub Collaboration Archive <http://www.githubarchive.org/>`_
+* `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
 * `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
@@ -365,6 +366,7 @@ Transportation
 * `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
 * `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
 * `Bay Area Bike Share Data <http://www.bayareabikeshare.com/datachallenge>`_
+* `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <https://www.marinetraffic.com/de/p/api-services>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
