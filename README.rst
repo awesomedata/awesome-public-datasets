@@ -150,6 +150,7 @@ GeoSpace/GIS
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
+* `World countries in multiple formats <https://github.com/mledoze/countries>`_
 
 
 Government
