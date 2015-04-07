@@ -40,6 +40,7 @@ Climate/Weather
 * `Canadian Meteorological Centre <https://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
 * `Global Climate Data Since 1929 <http://www.tutiempo.net/en/Climate>`_
+* `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://ncdc.noaa.gov/data-access/quick-links>`_
 * `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
@@ -92,6 +93,7 @@ Data Challenges
 * `Kaggle Competition Data <http://www.kaggle.com/>`_
 * `KDD Cup by Tencent 2012 <https://www.kddcup2012.org/>`_
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
+* `Space Apps Challenge <https://www.spaceappschallenge.org>`_
 * `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
