@@ -63,6 +63,7 @@ Complex Networks
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
+* `The Nexus Network Repository <http://nexus.igraph.org/>`_
 * `UCI Network Data Repository <http://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
