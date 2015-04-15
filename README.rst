@@ -94,8 +94,9 @@ Data Challenges
 * `Kaggle Competition Data <http://www.kaggle.com/>`_
 * `KDD Cup by Tencent 2012 <https://www.kddcup2012.org/>`_
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
-* `Space Apps Challenge <https://www.spaceappschallenge.org>`_
 * `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
+* `Space Apps Challenge <https://www.spaceappschallenge.org>`_
+* `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
 
