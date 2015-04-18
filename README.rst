@@ -397,3 +397,4 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/2014/05/29/list-of-data-sets.html>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
+* OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
