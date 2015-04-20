@@ -163,6 +163,7 @@ Government
 
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
+* `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://www.data.gc.ca/default.asp?lang=En&n=5BCD274E-1>`_
