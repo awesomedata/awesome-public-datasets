@@ -169,6 +169,7 @@ Government
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
+* `England LGInform <http://lginform.local.gov.uk/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
 * `Finland <https://www.opendata.fi/en>`_
@@ -193,6 +194,7 @@ Government
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
 * `U.S. Census Bureau <http://www.census.gov/data.html>`_
+* `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.org/portal/datasets/pdrdatas.html>`_
 * `U.S. Federal Government Agencies <http://www.data.gov/metric>`_
 * `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
