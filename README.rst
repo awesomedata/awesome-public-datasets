@@ -197,6 +197,7 @@ Government
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
+* `Uruguay <https://catalogodatos.gub.uy/>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
 * `U.S. Census Bureau <http://www.census.gov/data.html>`_
