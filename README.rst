@@ -186,6 +186,7 @@ Government
 * `NYC Open Data <http://nycplatform.socrata.com/>`_
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
+* `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
