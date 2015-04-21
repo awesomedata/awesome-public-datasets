@@ -163,6 +163,7 @@ GeoSpace/GIS
 Government
 ----------
 
+* `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Brazil <http://dados.gov.br/dataset>`_
