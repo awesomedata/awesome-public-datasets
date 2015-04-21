@@ -44,7 +44,8 @@ Climate/Weather
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://ncdc.noaa.gov/data-access/quick-links>`_
 * `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
-* `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`
+* `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
+* `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
 * `WU Historical Weather Worldwide <http://www.wunderground.com/history/index.html>`_
 
 
