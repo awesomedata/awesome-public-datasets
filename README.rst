@@ -264,6 +264,7 @@ Museums
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
+* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 
 
 Natural Language
