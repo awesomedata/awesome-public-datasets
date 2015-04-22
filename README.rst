@@ -209,7 +209,7 @@ Government
 * `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
-* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/2011-census-open-atlas-project/>`_
+* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
 * `United Nations <http://data.un.org/>`_
 
 
