@@ -184,6 +184,7 @@ Government
 * `Indian Government Data <http://www.data.gov.in>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
+* `Mexico <http://catalogo.datos.gob.mx/dataset>`_
 * `Netherlands <https://data.overheid.nl/>`_
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
 * `NYC betanyc <http://betanyc.us/>`_
