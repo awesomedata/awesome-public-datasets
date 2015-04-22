@@ -335,6 +335,7 @@ Social Sciences
 
 * `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
 * `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
+* `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/917205>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
 * `Foursquare Social Network in 2010, 2011 <http://www.public.asu.edu/~hgao16/dataset.html>`_
