@@ -196,6 +196,7 @@ Government
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
+* `Texas Open Data <https://data.texas.gov/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
