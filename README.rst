@@ -236,6 +236,7 @@ Image Processing
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
+* `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
 
 
 Machine Learning
