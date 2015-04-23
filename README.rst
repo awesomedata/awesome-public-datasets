@@ -32,8 +32,14 @@ Biology
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+
+Nature
+------
+
 * `Nature Blogs API <http://www.nature.com/developers/documentation/api-references/blogs-api/>`_
 * `Nature OpenSearch API <http://www.nature.com/developers/documentation/api-references/opensearch-api/>`_
+* `IRIS Seismographs in Schools API <http://www.iris.edu/hq/ssn/app/webroot/api_doc/>`_
+* `IRIS DMC Web Services  <http://service.iris.edu/>` _
 
 
 Climate/Weather
