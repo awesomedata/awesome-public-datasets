@@ -32,6 +32,8 @@ Biology
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* `Nature Blogs API <http://www.nature.com/developers/documentation/api-references/blogs-api/>`_
+* `Nature OpenSearch API <http://www.nature.com/developers/documentation/api-references/opensearch-api/>`_
 
 
 Climate/Weather
@@ -159,6 +161,7 @@ GeoSpace/GIS
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
 * `OpenAddresses <http://openaddresses.io/>`_
+* `NASA API Catalog <https://data.nasa.gov/developer>`_
 
 
 Government
