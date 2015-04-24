@@ -158,6 +158,7 @@ GeoSpace/GIS
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
+* `List of all countries with names and ISO 3166-1 codes in all languages and all data formats <https://github.com/umpirsky/country-list>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 
 
