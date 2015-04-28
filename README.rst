@@ -140,6 +140,11 @@ Finance
 * `St Louis Federal <http://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 
+Geology
+-------
+* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+* `Smithsonian Institution Global Volcano and Eruption Database <http://www.volcano.si.edu>`_
+
 
 GeoSpace/GIS
 ------------
