@@ -309,6 +309,7 @@ Public Domains
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
+* `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Numbray <http://numbrary.com/>`_
 * `Reddit Datasets <http://www.reddit.com/r/datasets>`_
 * `RevolutionAnalytics Collection <http://www.revolutionanalytics.com/subscriptions/datasets/>`_
