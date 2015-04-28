@@ -6,7 +6,7 @@ are collected and tidyed from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
-`another awesome <https://github.com/sindresorhus/awesome>`_ list.
+`sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
 
 Agriculture
@@ -163,7 +163,7 @@ GeoSpace/GIS
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
-* `List of all countries with names and ISO 3166-1 codes in all languages and all data formats <https://github.com/umpirsky/country-list>`_
+* `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 
 
@@ -361,7 +361,7 @@ Social Sciences
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
 * `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
-* `Titanic Survival Data Set <http://bit.do/dataset-titanic-csv-zip>`_
+* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
