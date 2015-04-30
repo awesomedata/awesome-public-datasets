@@ -301,6 +301,7 @@ Physics
 
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
+* `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
 
 
 Public Domains
