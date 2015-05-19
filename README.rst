@@ -304,6 +304,11 @@ Physics
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 * `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
 
+Psychology/Cognition
+--------------
+
+* `OSU Cognitive Modeling Repositor Datasets <http://www.cmr.osu.edu/browse/datasets>`_
+
 
 Public Domains
 --------------
