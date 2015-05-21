@@ -307,7 +307,7 @@ Physics
 Psychology/Cognition
 --------------
 
-* `OSU Cognitive Modeling Repositor Datasets <http://www.cmr.osu.edu/browse/datasets>`_
+* `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
 
 Public Domains
