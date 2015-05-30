@@ -38,6 +38,7 @@ Climate/Weather
 ---------------
 
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
+* `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
 * `Canadian Meteorological Centre <https://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
 * `Global Climate Data Since 1929 <http://www.tutiempo.net/en/Climate>`_
@@ -199,6 +200,7 @@ Government
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
+* `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
 * `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
@@ -303,6 +305,7 @@ Physics
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 * `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
+* `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
 
 Psychology/Cognition
 --------------
