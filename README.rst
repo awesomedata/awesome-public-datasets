@@ -191,6 +191,7 @@ Government
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Indian Government Data <http://www.data.gov.in>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
+* `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
 * `Mexico <http://catalogo.datos.gob.mx/dataset>`_
 * `Netherlands <https://data.overheid.nl/>`_
