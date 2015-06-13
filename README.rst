@@ -189,6 +189,7 @@ Government
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Glasgow, Scotland, UK <http://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
+* `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <http://www.data.gov.in>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
