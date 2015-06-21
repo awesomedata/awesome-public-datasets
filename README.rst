@@ -363,6 +363,7 @@ Social Sciences
 * `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/917205>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
+* `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`
 * `Foursquare Social Network in 2010, 2011 <http://www.public.asu.edu/~hgao16/dataset.html>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
 * `General Social Survey (GSS) since 1972 <http://www3.norc.org/GSS+Website/>`_
