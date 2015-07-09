@@ -226,7 +226,7 @@ Government
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
 * `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
 * `United Nations <http://data.un.org/>`_
-* `Vancouver, BC Open Data Catalog<http://data.vancouver.ca/datacatalogue/>`_
+* `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 
 
 Healthcare
