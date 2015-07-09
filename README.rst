@@ -191,6 +191,7 @@ Government
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <http://www.data.gov.in>`_
+* `Indonesian Data Portal <http://data.go.id/>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
@@ -206,6 +207,7 @@ Government
 * `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
+* `Singapore Government Data <http://www.data.gov.sg/`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
