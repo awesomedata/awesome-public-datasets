@@ -159,7 +159,7 @@ GeoSpace/GIS
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
-* `Open Street Map (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
