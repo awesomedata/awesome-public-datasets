@@ -332,6 +332,7 @@ Public Domains
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Numbray <http://numbrary.com/>`_
+* `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `Reddit Datasets <http://www.reddit.com/r/datasets>`_
 * `RevolutionAnalytics Collection <http://www.revolutionanalytics.com/subscriptions/datasets/>`_
 * `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_
