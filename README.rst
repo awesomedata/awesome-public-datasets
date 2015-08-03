@@ -25,6 +25,7 @@ Biology
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
+* `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Protein Data Bank <http://pdb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
