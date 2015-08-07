@@ -1,6 +1,8 @@
 Awesome Public Datasets
 =======================
-
+.. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+   :alt: Awesome
+   :target: https://github.com/sindresorhus/awesome
 `This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
 are collected and tidyed from blogs, answers, and user reponses.
 Most of the data sets listed below are free, however, some are not.
