@@ -365,12 +365,12 @@ Search Engines
 Social Networks
 ---------------
 
-* `May 2011 Calufa Twitter Scrape` <http://www.archive.org/details/2011-05-calufa-twitter-sql>_
-* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape` <http://www.archive.org/details/twitter_cikm_2010>_
-* `Twitter Data for Sentiment Analysis` <http://help.sentiment140.com/for-students/>_
-* `Network Twitter Data` <http://snap.stanford.edu/data/higgs-twitter.html>_
-* `Social Twitter Data` <http://snap.stanford.edu/data/egonets-Twitter.html>_
-* `72 hours #gamergate scrape` <http://waxy.org/random/misc/gamergate_tweets.csv>_
+* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
+* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <http://www.archive.org/details/twitter_cikm_2010>`_
+* `May 2011 Calufa Twitter Scrape <http://www.archive.org/details/2011-05-calufa-twitter-sql>`_
+* `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
+* `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
+* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 
 Social Sciences
 ---------------
