@@ -184,6 +184,7 @@ Government
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
+* `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `England LGInform <http://lginform.local.gov.uk/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
@@ -361,6 +362,15 @@ Search Engines
 * `Open Data Certificates (beta) <https://certificates.theodi.org/datasets>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 
+Social Networks
+---------------
+
+* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
+* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <http://www.archive.org/details/twitter_cikm_2010>`_
+* `May 2011 Calufa Twitter Scrape <http://www.archive.org/details/2011-05-calufa-twitter-sql>`_
+* `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
+* `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
+* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 
 Social Sciences
 ---------------
@@ -383,6 +393,7 @@ Social Sciences
 * `SourceForge.net Research Data <http://www.nd.edu/~oss/Data/data.html>`_
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
