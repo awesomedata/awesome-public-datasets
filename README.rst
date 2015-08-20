@@ -248,7 +248,7 @@ Image Processing
 ----------------
 
 * `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
-* `2GB of Photos of Cats (Down - 20Agst2015) <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `2GB of Photos of Cats (Original down - 20Agst2015) <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
