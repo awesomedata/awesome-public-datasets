@@ -259,6 +259,7 @@ Image Processing
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
+* `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 
 
 Machine Learning
