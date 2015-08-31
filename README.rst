@@ -449,6 +449,7 @@ Transportation
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
 * `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
 
 
 Complementary Collections
