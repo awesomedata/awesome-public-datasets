@@ -418,7 +418,7 @@ Sports
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
 * `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
-* `Football/Soccer resouces (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
+* `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
 * `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
 
