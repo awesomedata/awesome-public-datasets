@@ -20,14 +20,15 @@ Biology
 -------
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
+* `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
-* `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `ICOS PSP Benchmark <http://www.infobiotic.net/PSPbenchmarks/>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
+* `Pathguid: Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://pdb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
@@ -61,17 +62,17 @@ Complex Networks
 * `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
 * `NBER Patent Citations <http://nber.org/patents/>`_
 * `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
-* `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
-* `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
 * `PyPI and Maven Dependency Network <http://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`_
 * `Scopus Citation Database <http://www.elsevier.com/online-tools/scopus>`_
+* `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
 * `Stanford GraphBase (Steven Skiena) <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
 * `The Nexus Network Repository <http://nexus.igraph.org/>`_
 * `UCI Network Data Repository <http://networkdata.ics.uci.edu/resources.php>`_
+* `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
 
