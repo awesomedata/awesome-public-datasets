@@ -97,7 +97,7 @@ Data Challenges
 
 * `Challenges in Machine Learning <http://www.chalearn.org/>`_
 * `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_
-* `dataX <https://www.crowdanalytix.com/datax>`_
+* `CrowdANALYTIX dataX <https://www.crowdanalytix.com/datax>`_
 * `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_
 * `ICWSM Data Challenge (since 2009) <http://icwsm.cs.umbc.edu/>`_
 * `Kaggle Competition Data <http://www.kaggle.com/>`_
