@@ -10,6 +10,8 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
+* `Visit our Google Group on HQOD <https://groups.google.com/forum/#!forum/awesomepublicdatasets>`_
+
 
 Agriculture
 ------------
