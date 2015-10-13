@@ -43,6 +43,14 @@ Biology
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 
+Nature
+------
+
+* `Nature Blogs API <http://www.nature.com/developers/documentation/api-references/blogs-api/>`_
+* `Nature OpenSearch API <http://www.nature.com/developers/documentation/api-references/opensearch-api/>`_
+* `IRIS Seismographs in Schools API <http://www.iris.edu/hq/ssn/app/webroot/api_doc/>`_
+* `IRIS DMC Web Services  <http://service.iris.edu/>` _
+
 
 Climate/Weather
 ---------------
@@ -177,6 +185,7 @@ GeoSpace/GIS
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `OpenAddresses <http://openaddresses.io/>`_
+* `NASA API Catalog <https://data.nasa.gov/developer>`_
 
 
 Government
