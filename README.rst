@@ -299,9 +299,10 @@ Museums
 
 * `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
+* `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
+* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
-* `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 
 
 Natural Language
