@@ -28,6 +28,7 @@ Biology
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
+* `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
 * `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
 * `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
 * `EBI ArrayExrepss <http://www.ebi.ac.uk/arrayexpress/>`_
