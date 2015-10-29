@@ -103,6 +103,12 @@ Computer Networks
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
+Contextual Data
+---------------
+
+* `Context-aware data sets from five domains <http://students.depaul.edu/~yzheng8/DataSets.html#Data>`_ or `GitHub <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
+
+
 Data Challenges
 ---------------
 
