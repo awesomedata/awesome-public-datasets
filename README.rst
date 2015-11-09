@@ -229,6 +229,8 @@ Government
 * `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <http://www.data.gov.in/>`_
+* `Oregon <https://data.oregon.gov/>`_
+* `Portland, Oregon <http://www.portlandoregon.gov/28130/>`_
 * `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
 * `Romania <http://data.gov.ro/>`_
 * `San Francisco Data sets <http://datasf.org/>`_
