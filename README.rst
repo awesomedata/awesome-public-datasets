@@ -302,7 +302,7 @@ Machine Learning
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
-* `Registered Meteorites on Earth <http://www.analyticbridge.com/profiles/blogs/registered-meteorites-that-has-impacted-on-earth-visualized>`_
+* `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
