@@ -233,6 +233,7 @@ Government
 * `Portland, Oregon <http://www.portlandonline.com/28130/>`_
 * `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
 * `Romania <http://data.gov.ro/>`_
+* `Russia <http://data.gov.ru>`_
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Seattle <https://data.seattle.gov/>`_
 * `Singapore Government Data <https://data.gov.sg/>`_
