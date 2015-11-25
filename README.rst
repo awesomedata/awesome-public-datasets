@@ -471,6 +471,7 @@ Transportation
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* `OpenTraffic - global traffic speed data set linked to OpenStreetMap built with open source software <http://opentraffic.io/>`_
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
