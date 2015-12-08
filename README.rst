@@ -440,7 +440,7 @@ Social Sciences
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
 * `Universities Worldwide <http://univ.cc/>`_
-* `UPJOHN for Labor Employment Research <http://www.upjohn.org/erdc/erdc.html>`_
+* `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
 * `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
 
