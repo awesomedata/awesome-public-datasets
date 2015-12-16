@@ -29,6 +29,7 @@ Biology
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `EBI ArrayExrepss <http://www.ebi.ac.uk/arrayexpress/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
+* `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
 * `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
 * `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
