@@ -185,6 +185,7 @@ GeoSpace/GIS
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ (capable of 1m lookups/s); `additional high-resolution data files <http://dx.doi.org/10.5282/ubm/data.61>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
