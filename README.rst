@@ -321,6 +321,7 @@ Museums
 * `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
+* `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
 
 
 Natural Language
