@@ -56,7 +56,7 @@ Climate/Weather
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
 * `Canadian Meteorological Centre <https://weather.gc.ca/grib/index_e.html>`_
-* `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
+* `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
 * `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
 * `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
@@ -186,7 +186,7 @@ GeoSpace/GIS
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
-* `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://dx.doi.org/10.5282/ubm/data.61>`_
+* `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
@@ -216,7 +216,7 @@ Government
 * `France <https://www.data.gouv.fr/en/datasets/>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Ghent, Belgium <https://data.stad.gent/datasets>`_
-* `Glasgow, Scotland, UK <http://data.glasgow.gov.uk/>`_
+* `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.theguardian.com/world-government-data>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
@@ -423,7 +423,7 @@ Social Sciences
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
-* `General Social Survey (GSS) since 1972 <http://www3.norc.org/GSS+Website/>`_
+* `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `GetGlue - users rating TV shows <http://bit.ly/1aL8XS0>`_
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
@@ -484,7 +484,7 @@ Transportation
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
-* `Transport for London (TFL) <http://www.tfl.gov.uk/info-for/open-data-users/our-feeds>`_
+* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 * `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
