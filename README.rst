@@ -36,7 +36,7 @@ Biology
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
-* `NIH Microarray data (FTP) <http://bit.do/VVW6>`_
+* `NIH Microarray data (FTP) <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid: Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
@@ -217,7 +217,7 @@ Government
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Ghent, Belgium <https://data.stad.gent/datasets>`_
 * `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
-* `Guardian world governments <http://www.theguardian.com/world-government-data>`_
+* `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
@@ -233,7 +233,7 @@ Government
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
 * `Oregon <https://data.oregon.gov/>`_
-* `Portland, Oregon <http://www.portlandonline.com/28130/>`_
+* `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
 * `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
 * `Romania <http://data.gov.ro/>`_
@@ -425,7 +425,7 @@ Social Sciences
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
-* `GetGlue - users rating TV shows <http://bit.ly/1aL8XS0>`_
+* `GetGlue - users rating TV shows <http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz>`_
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_

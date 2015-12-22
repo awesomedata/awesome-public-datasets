@@ -1,8 +1,7 @@
-language: bash
-sudo: false
-
-before_install:
-  - set -e
-
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
 script:
-  - ag -o '([^\s<>]+://[^\s<>]+)' README.rst | while read url; do if [[ "$url" != '' ]]; then echo "$url"; curl --output /dev/null --silent --head --fail --location --insecure "$url" || exit 1; fi; done
+  - awesome_bot README.rst --allow-dupe --allow-redirect --white-list travis
