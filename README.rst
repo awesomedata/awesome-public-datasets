@@ -36,7 +36,7 @@ Biology
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
-* `NIH Microarray data (FTP) <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
+* `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid: Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
