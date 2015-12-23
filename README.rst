@@ -279,7 +279,7 @@ Image Processing
 ----------------
 
 * `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
-* `2GB of Photos of Cats (Original down - 20Agst2015) <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
