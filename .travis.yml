@@ -4,4 +4,5 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.rst --allow-dupe --allow-redirect --white-list travis
+  - site404=www.datawrangling.com,getglue-data.s3.amazonaws.com,archive.org/details/2011-05-calufa-twitter-sql,www.stats4stem.org,lib.stat.cmu.edu
+  - awesome_bot README.rst --allow-dupe --allow-redirect --white-list travis,crawdad.cs.dartmouth.edu,data.nasdaq.com,137.189.35.203/WebUI/CatDatabase/catData.html,datamob.org,numbrary.com,gdeltproject.org,www.cmr.osu.edu,$site404

@@ -65,7 +65,7 @@ Climate/Weather
 * `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
 * `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
 * `WorldClim - Global Climate Data <http://www.worldclim.org>`_
-* `WU Historical Weather Worldwide <http://www.wunderground.com/history/index.html>`_
+* `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
 
 
 Complex Networks
@@ -119,7 +119,7 @@ Data Challenges
 * `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_
 * `ICWSM Data Challenge (since 2009) <http://icwsm.cs.umbc.edu/>`_
 * `Kaggle Competition Data <https://www.kaggle.com/>`_
-* `KDD Cup by Tencent 2012 <https://www.kddcup2012.org/>`_
+* `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
 * `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
@@ -211,7 +211,7 @@ Government
 * `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `England LGInform <http://lginform.local.gov.uk/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
-* `FedStats <http://www.fedstats.gov/cgi-bin/A2Z.cgi>`_
+* `FedStats <http://fedstats.sites.usa.gov/>`_
 * `Finland <https://www.opendata.fi/en>`_
 * `France <https://www.data.gouv.fr/en/datasets/>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
@@ -298,7 +298,7 @@ Machine Learning
 ----------------
 
 * `Delve Datasets for classification and regression (Univ. of Toronto) <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
-* `Discogs Monthly Data <http://www.discogs.com/data/>`_
+* `Discogs Monthly Data <http://data.discogs.com/>`_
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
 * `IMDb Database <http://www.imdb.com/interfaces>`_
 * `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
