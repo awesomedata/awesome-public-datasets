@@ -197,12 +197,15 @@ Government
 ----------
 
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
+* `Argentina <http://datos.argentina.gob.ar/>`_
+* `Argentina (non official) <http://datar.noip.me/>`_
 * `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Austria (data.gv.at) <https://www.data.gv.at/>`_
 * `Belgium <http://data.gov.be/nl/datasets>`_
 * `Brazil <http://dados.gov.br/dataset>`_
+* `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
