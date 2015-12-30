@@ -132,7 +132,7 @@ Economics
 * `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
-
+* `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
 
 Energy
 ------
