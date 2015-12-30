@@ -13,8 +13,6 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
-* `Visit our Google Group on APD <https://groups.google.com/forum/#!forum/awesomepublicdatasets>`_
-
 
 Agriculture
 ------------
@@ -339,12 +337,13 @@ Natural Language
 * `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
 * `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
 * `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
+* `Freebase.com of people, places, and things <http://www.freebase.com/>`_
 * `Google Books Ngrams (2.2TB) <https://aws.amazon.com/datasets/google-books-ngrams/>`_
 * `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
 * `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
-* `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
+* `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
@@ -401,28 +400,18 @@ Search Engines
 * `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
 * `Datahub.io <https://datahub.io/dataset>`_
 * `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
-* `Freebase.com of people, places, and things <http://www.freebase.com/>`_
 * `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
 * `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
 * `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 
 
-Social Networks
----------------
-
-* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
-* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
-* `May 2011 Calufa Twitter Scrape <http://archive.org/details/2011-05-calufa-twitter-sql>`_
-* `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
-* `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
-* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
-
-
 Social Sciences
 ---------------
 
+* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
 * `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
+* `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
 * `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
 * `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
@@ -436,15 +425,20 @@ Social Sciences
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
+* `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
+* `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
 * `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
+* `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
 * `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
+* `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
