@@ -207,7 +207,7 @@ Government
 * `Belgium <http://data.gov.be/nl/datasets>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
-* `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`
+* `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
@@ -226,8 +226,8 @@ Government
 * `Ghent, Belgium <https://data.stad.gent/datasets>`_
 * `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
-* `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`
-* `Helsinki Region, Finland <http://www.hri.fi/en/>`
+* `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_
+* `Helsinki Region, Finland <http://www.hri.fi/en/>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
@@ -266,7 +266,7 @@ Government
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `Texas Open Data <https://data.texas.gov/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
-* `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`
+* `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
