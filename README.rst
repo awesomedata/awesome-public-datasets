@@ -86,6 +86,7 @@ Complex Networks
 * `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
+* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 
 
 Computer Networks
@@ -133,6 +134,19 @@ Economics
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
 * `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
+* `Joint External Debt Data Hub <http://www.jedh.org/>`_
+* `The Atlas of Economic Complexity <atlas.cid.harvard.edu>`_
+* `The Observatory of Economic Complexity <atlas.media.mit.edu/en/>`_
+* `The Center for International Data <cid.econ.ucdavis.edu>`_
+* `UN Commodity Trade Statistics <comtrade.un.org/db/>`_
+* `UN Human Development Reports <hdr.undp.org/en>`_
+* `International Trade Statistics <http://www.econostatistics.co.za/>`_
+* `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
+* `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+* `Our World in Data <http://ourworldindata.org/>`_
+
 
 Energy
 ------
@@ -163,11 +177,13 @@ Finance
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 
+
 Geology
 -------
 
 * `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
 * `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+* `Earth Models <http://www.earthmodels.org/>`_ 
 
 
 GeoSpace/GIS
@@ -175,7 +191,7 @@ GeoSpace/GIS
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ 
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
@@ -190,6 +206,9 @@ GeoSpace/GIS
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
+* `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
+* `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
+* `UN Environmental Data <http://geodata.grid.unep.ch/>`_
 
 
 Government
@@ -262,6 +281,7 @@ Government
 * `Seattle <https://data.seattle.gov/>`_
 * `Singapore Government Data <https://data.gov.sg/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
+* `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
 * `State of Utah, US <https://opendata.utah.gov/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `Texas Open Data <https://data.texas.gov/>`_
@@ -285,12 +305,11 @@ Government
 * `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
 
 
-
 Healthcare
 ----------
 
 * `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
-* `Gapminder World, demographic databases <http://www.gapminder.org/data/>`_
+* `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
 * `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
@@ -298,6 +317,7 @@ Healthcare
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
+* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ 
 
 
 Image Processing
@@ -322,6 +342,7 @@ Legal
 ----------------
 
 * `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+
 
 Machine Learning
 ----------------
@@ -430,6 +451,8 @@ Search Engines
 * `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
 * `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
+* `Institute of Education Sciences <http://eric.ed.gov>`_
+* `National Technical Reports Library <https://ntrl.ntis.giv/NTRL>`_
 
 
 Social Sciences
@@ -472,12 +495,23 @@ Social Sciences
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
 * `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
-* `The MacroData Guide - Norsk samfunnsvitenskapelig datatjeneste<http://nsd.uib.no>`_
-* `Cryptome - Random Government Items <http://cryptome.org>`_
-* `Datacards<http://>`_
-* `<http://>`_
-* `<http://>`_
-* `<http://>`_
+* `Correlates of War Project <http://www.correlatesofwar.org/>`_
+* `The MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
+* `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
+* `Datacards <http://datacards.org>`_
+* `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
+* `Institute for Demographic Studies <http://www.ined.fr/en/>`_
+* `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
+* `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
+* `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
+* `International Networks Archive <http://www.princeton.edu/~ina/>`_
+* `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
+* `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
+* `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
+* `European Social Survey <www.europeansocialsurvey.org/data/>`_
+* `General Social Survey <gss.norc.org/Get-The-Data>`_ 
+* `International Social Survey Program ISSP <http://www.issp.org>`_
+* `German Social Survey <http://www.gesis.org/en/home/>`_
 
 
 Sports
@@ -498,6 +532,7 @@ Time Series
 * `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
+* `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
 
 
 Transportation
@@ -537,3 +572,5 @@ Complementary Collections
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 * Zenodo: `An open dependable home for the long-tail of science, enabling researchers to share and preserve any research outputs in any size, any format and from any science. <https://zenodo.org/collection/datasets>`_
+* `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
+
