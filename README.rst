@@ -132,7 +132,7 @@ Economics
 * `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
-
+* `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
 
 Energy
 ------
@@ -195,6 +195,7 @@ GeoSpace/GIS
 Government
 ----------
 
+* `Alberta, Province of Canada <http://open.alberta.ca>`_
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
 * `Argentina <http://datos.argentina.gob.ar/>`_
 * `Argentina (non official) <http://datar.noip.me/>`_
@@ -202,31 +203,43 @@ Government
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Austria (data.gv.at) <https://www.data.gv.at/>`_
+* `Baton Rouge, LA, US <https://data.brla.gov/>`_
 * `Belgium <http://data.gov.be/nl/datasets>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
+* `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
 * `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
+* `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
 * `England LGInform <http://lginform.local.gov.uk/>`_
 * `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
 * `FedStats <http://fedstats.sites.usa.gov/>`_
 * `Finland <https://www.opendata.fi/en>`_
 * `France <https://www.data.gouv.fr/en/datasets/>`_
+* `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_
+* `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Ghent, Belgium <https://data.stad.gent/datasets>`_
 * `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
+* `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_
+* `Helsinki Region, Finland <http://www.hri.fi/en/>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
+* `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
+* `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
 * `Mexico <http://catalogo.datos.gob.mx/dataset>`_
+* `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
+* `Moncton, NB, Canada <http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue.htm>`_
+* `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
 * `Netherlands <https://data.overheid.nl/>`_
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
 * `NYC betanyc <http://betanyc.us/>`_
@@ -235,18 +248,25 @@ Government
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
 * `Oregon <https://data.oregon.gov/>`_
+* `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
+* `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
+* `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
+* `Regina SK, Canada <http://open.regina.ca/>`_
 * `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
 * `Romania <http://data.gov.ro/>`_
 * `Russia <http://data.gov.ru>`_
 * `San Francisco Data sets <http://datasf.org/>`_
+* `Saskatchewan, Province of Canada <http://opendatask.ca/data/>`_
 * `Seattle <https://data.seattle.gov/>`_
 * `Singapore Government Data <https://data.gov.sg/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
+* `State of Utah, US <https://opendata.utah.gov/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `Texas Open Data <https://data.texas.gov/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
+* `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
@@ -261,6 +281,7 @@ Government
 * `United Nations <http://data.un.org/>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
+* `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
 * `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
 
 
@@ -297,6 +318,10 @@ Image Processing
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 
+Legal
+----------------
+
+* `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
 
 Machine Learning
 ----------------
@@ -485,6 +510,7 @@ Transportation
 * `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
+* `Montreal BIXI Bike Share <https://montreal.bixi.com/donn%C3%A9es-libre-service>`_
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
@@ -492,6 +518,7 @@ Transportation
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
+* `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_
 * `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-feeds>`_
 * `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
