@@ -264,6 +264,7 @@ Government
 * `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
 
 
+
 Healthcare
 ----------
 
@@ -446,6 +447,12 @@ Social Sciences
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
 * `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+* `The MacroData Guide - Norsk samfunnsvitenskapelig datatjeneste<http://nsd.uib.no>`_
+* `Cryptome - Random Government Items <http://cryptome.org>`_
+* `<http://>`_
+* `<http://>`_
+* `<http://>`_
+* `<http://>`_
 
 
 Sports
