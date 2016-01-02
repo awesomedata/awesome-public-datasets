@@ -36,7 +36,7 @@ Biology
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
-* `Pathguid: Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
+* `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
@@ -132,20 +132,20 @@ Economics
 
 * `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
+* `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+* `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* `International Trade Statistics <http://www.econostatistics.co.za/>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
-* `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
 * `Joint External Debt Data Hub <http://www.jedh.org/>`_
+* `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
+* `Our World in Data <http://ourworldindata.org/>`_
+* `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
 * `The Atlas of Economic Complexity <atlas.cid.harvard.edu>`_
-* `The Observatory of Economic Complexity <atlas.media.mit.edu/en/>`_
 * `The Center for International Data <cid.econ.ucdavis.edu>`_
+* `The Observatory of Economic Complexity <atlas.media.mit.edu/en/>`_
 * `UN Commodity Trade Statistics <comtrade.un.org/db/>`_
 * `UN Human Development Reports <hdr.undp.org/en>`_
-* `International Trade Statistics <http://www.econostatistics.co.za/>`_
-* `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
-* `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
-* `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
-* `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
-* `Our World in Data <http://ourworldindata.org/>`_
 
 
 Energy
@@ -181,9 +181,9 @@ Finance
 Geology
 -------
 
+* `Earth Models <http://www.earthmodels.org/>`_
 * `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
 * `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
-* `Earth Models <http://www.earthmodels.org/>`_ 
 
 
 GeoSpace/GIS
@@ -194,8 +194,10 @@ GeoSpace/GIS
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ 
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
+* `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
+* `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
@@ -205,10 +207,8 @@ GeoSpace/GIS
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
-* `World countries in multiple formats <https://github.com/mledoze/countries>`_
-* `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
-* `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
+* `World countries in multiple formats <https://github.com/mledoze/countries>`_
 
 
 Government
@@ -216,8 +216,8 @@ Government
 
 * `Alberta, Province of Canada <http://open.alberta.ca>`_
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
-* `Argentina <http://datos.argentina.gob.ar/>`_
 * `Argentina (non official) <http://datar.noip.me/>`_
+* `Argentina <http://datos.argentina.gob.ar/>`_
 * `Austin, TX, US <https://data.austintexas.gov/>`_
 * `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
 * `Australia (data.gov.au) <https://data.gov.au/>`_
@@ -231,6 +231,7 @@ Government
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
+* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
 * `Denver Open Data <http://data.denvergov.org//>`_
 * `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
@@ -251,8 +252,8 @@ Government
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
 * `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
-* `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
+* `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
 * `Mexico <http://catalogo.datos.gob.mx/dataset>`_
@@ -302,7 +303,6 @@ Government
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 * `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
-* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
 
 
 Healthcare
@@ -332,16 +332,11 @@ Image Processing
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+* `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
 * `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
-* `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
-
-Legal
-----------------
-
-* `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
 
 
 Machine Learning
@@ -367,13 +362,13 @@ Machine Learning
 Museums
 -------
 
+* `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
 * `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
 * `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
 * `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
 * `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
 * `Tate Collection metadata <https://github.com/tategallery/collection>`_
 * `The Getty vocabularies <http://vocab.getty.edu>`_
-* `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
 
 
 Natural Language
@@ -409,7 +404,7 @@ Physics
 
 
 Psychology/Cognition
---------------
+--------------------
 
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
@@ -449,69 +444,77 @@ Search Engines
 * `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
 * `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
 * `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
-* `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
-* `Statista.com - statistics and Studies <http://www.statista.com/>`_
 * `Institute of Education Sciences <http://eric.ed.gov>`_
-* `National Technical Reports Library <https://ntrl.ntis.giv/NTRL>`_
+* `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/login.xhtml>`_
+* `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
+* `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
+* `Statista.com - statistics and Studies <http://www.statista.com/>`_
+* `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
 
 
-Social Sciences
+Social Networks
 ---------------
 
-* `72 hours #gamergate scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
+* `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
 * `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
 * `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
 * `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
 * `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
-* `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
-* `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
-* `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `GetGlue - users rating TV shows <http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz>`_
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
-* `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
-* `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
-* `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
-* `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
 * `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
 * `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
-* `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
-* `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
-* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_
-* `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
-* `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
-* `Universities Worldwide <http://univ.cc/>`_
-* `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
 * `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
 * `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+
+
+Social Sciences
+---------------
+
+* `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
 * `Correlates of War Project <http://www.correlatesofwar.org/>`_
-* `The MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
 * `Datacards <http://datacards.org>`_
+* `European Social Survey <www.europeansocialsurvey.org/data/>`_
+* `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
+* `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
+* `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
+* `General Social Survey <http://gss.norc.org/Get-The-Data>`_ 
+* `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
-* `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
-* `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
-* `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
-* `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
-* `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
-* `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
-* `European Social Survey <www.europeansocialsurvey.org/data/>`_
-* `General Social Survey <gss.norc.org/Get-The-Data>`_ 
 * `International Social Survey Program ISSP <http://www.issp.org>`_
-* `German Social Survey <http://www.gesis.org/en/home/>`_
+* `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
+* `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
+* `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
+* `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
+* `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
+* `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
+* `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
+* `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
+* `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
+* `The MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
+* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
+* `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
+* `Universities Worldwide <http://univ.cc/>`_
+* `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
 
 
 Sports
@@ -528,11 +531,11 @@ Sports
 Time Series
 -----------
 
+* `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
 * `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
 * `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
-* `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
 
 
 Transportation
@@ -564,13 +567,11 @@ Transportation
 Complementary Collections
 -------------------------
 
+* `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
-* OpenDataNetwork: `A search engine of all Socrata powered data portals ranging from small cities to federal agencies and non-profits <http://www.opendatanetwork.com/>`_
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
-* Zenodo: `An open dependable home for the long-tail of science, enabling researchers to share and preserve any research outputs in any size, any format and from any science. <https://zenodo.org/collection/datasets>`_
-* `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 
