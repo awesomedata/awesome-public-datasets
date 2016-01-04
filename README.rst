@@ -492,7 +492,6 @@ Social Sciences
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
-* `General Social Survey <http://gss.norc.org/Get-The-Data>`_ 
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
