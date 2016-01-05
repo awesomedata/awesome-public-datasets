@@ -141,11 +141,11 @@ Economics
 * `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
 * `Our World in Data <http://ourworldindata.org/>`_
 * `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
-* `The Atlas of Economic Complexity <atlas.cid.harvard.edu>`_
-* `The Center for International Data <cid.econ.ucdavis.edu>`_
-* `The Observatory of Economic Complexity <atlas.media.mit.edu/en/>`_
-* `UN Commodity Trade Statistics <comtrade.un.org/db/>`_
-* `UN Human Development Reports <hdr.undp.org/en>`_
+* `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
+* `The Center for International Data <http://cid.econ.ucdavis.edu>`_
+* `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
+* `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* `UN Human Development Reports <http://hdr.undp.org/en>`_
 
 
 Energy
@@ -488,7 +488,7 @@ Social Sciences
 * `Correlates of War Project <http://www.correlatesofwar.org/>`_
 * `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
 * `Datacards <http://datacards.org>`_
-* `European Social Survey <www.europeansocialsurvey.org/data/>`_
+* `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
