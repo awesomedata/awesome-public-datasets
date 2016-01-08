@@ -13,6 +13,9 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
+Contents
+----------
+.. contents::
 
 Agriculture
 ------------
