@@ -360,6 +360,7 @@ Machine Learning
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+* `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 
 
 Museums
