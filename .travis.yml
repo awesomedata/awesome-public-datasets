@@ -5,6 +5,6 @@ before_script:
   - gem install awesome_bot
 script:
   - site404=www.datawrangling.com,getglue-data.s3.amazonaws.com,archive.org/details/2011-05-calufa-twitter-sql,www.stats4stem.org,lib.stat.cmu.edu
-  - whtlist=travis,crawdad.cs.dartmouth.edu,data.nasdaq.com,137.189.35.203/WebUI/CatDatabase/catData.html,numbrary.com,www.cmr.osu.edu,wiki.earthdata.nasa.gov,missionlocal.org
+  - whtlist=travis,crawdad.cs.dartmouth.edu,data.nasdaq.com,137.189.35.203/WebUI/CatDatabase/catData.html,numbrary.com,www.cmr.osu.edu,wiki.earthdata.nasa.gov,missionlocal.org,gutenberg.org
   - site503=labrosa.ee.columbia.edu/millionsong,datamob.org
   - awesome_bot README.rst --allow-dupe --allow-redirect --white-list $site404,$whtlist,$site503
