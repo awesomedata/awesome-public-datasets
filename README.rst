@@ -528,6 +528,7 @@ Sports
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
 * `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
+* `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker`_
 * `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
 
 
