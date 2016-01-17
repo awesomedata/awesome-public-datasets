@@ -226,7 +226,7 @@ Government
 * `Australia (data.gov.au) <https://data.gov.au/>`_
 * `Austria (data.gv.at) <https://www.data.gv.at/>`_
 * `Baton Rouge, LA, US <https://data.brla.gov/>`_
-* `Belgium <http://data.gov.be/nl/datasets>`_
+* `Belgium <http://data.gov.be/>`_
 * `Brazil <http://dados.gov.br/dataset>`_
 * `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
 * `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_
@@ -267,7 +267,7 @@ Government
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
 * `NYC betanyc <http://betanyc.us/>`_
 * `NYC Open Data <https://nycplatform.socrata.com/>`_
-* `OECD <http://www.oecd.org/document/0,3746,en_2649_201185_46462759_1_1_1_1,00.html>`_
+* `OECD <https://data.oecd.org/>`_
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
 * `Oregon <https://data.oregon.gov/>`_
@@ -449,7 +449,7 @@ Search Engines
 * `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
 * `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
 * `Institute of Education Sciences <http://eric.ed.gov>`_
-* `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/login.xhtml>`_
+* `National Technical Reports Library <http://www.ntis.gov/products/ntrl/>`_
 * `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
 * `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
