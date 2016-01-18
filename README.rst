@@ -518,6 +518,7 @@ Social Sciences
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
+* `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
 Sports
