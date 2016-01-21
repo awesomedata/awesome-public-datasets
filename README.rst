@@ -27,15 +27,19 @@ Biology
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
-* `EBI ArrayExrepss <http://www.ebi.ac.uk/arrayexpress/>`_
+* `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
+* `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
 * `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
 * `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
 * `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
+* `Harvard Medical School (HMS) LINCS Project <http://lincs.hms.harvard.edu>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
+* `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
@@ -45,6 +49,8 @@ Biology
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
 * `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
+* `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
+* `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
