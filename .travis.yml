@@ -5,6 +5,6 @@ before_script:
   - gem install awesome_bot
 script:
   - site404=www.datawrangling.com,getglue-data.s3.amazonaws.com,archive.org/details/2011-05-calufa-twitter-sql,www.stats4stem.org,lib.stat.cmu.edu,http://www.oecd.org/document/0,data.gov.be,census.gov/acs/www/data_documentation/data_release_info/,europeansocialsurvey.org/data/
-  - whtlist=travis,crawdad.cs.dartmouth.edu,data.nasdaq.com,137.189.35.203/WebUI/CatDatabase/catData.html,numbrary.com,www.cmr.osu.edu,wiki.earthdata.nasa.gov,missionlocal.org,gutenberg.org,donnees.gouv.qc.ca,data.rio.rj.gov.br,cvcl.mit.edu,data.ohouston.org,ntrl.ntis.gov,networkdata.ics.uci.edu,sinda.crn2.inpe.br,archive.ics.uci.edu
-  - site503=labrosa.ee.columbia.edu/millionsong,datamob.org
+  - whtlist=travis,crawdad.cs.dartmouth.edu,data.nasdaq.com,137.189.35.203/WebUI/CatDatabase/catData.html,numbrary.com,www.cmr.osu.edu,wiki.earthdata.nasa.gov,missionlocal.org,gutenberg.org,donnees.gouv.qc.ca,data.rio.rj.gov.br,cvcl.mit.edu,data.ohouston.org,ntrl.ntis.gov,networkdata.ics.uci.edu,sinda.crn2.inpe.br,archive.ics.uci.edu,hmpdacc
+  - site503=labrosa.ee.columbia.edu/millionsong,datamob.org,wikileaks
   - awesome_bot README.rst --allow-dupe --allow-redirect --white-list $site404,$whtlist,$site503
