@@ -142,6 +142,7 @@ Economics
 * `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+* `Federal Reserve Economic Data - FRED <https://research.stlouisfed.org/fred2/>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
 * `International Trade Statistics <http://www.econostatistics.co.za/>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
