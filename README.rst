@@ -29,6 +29,7 @@ Biology
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
@@ -37,8 +38,10 @@ Biology
 * `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
 * `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
 * `Harvard Medical School (HMS) LINCS Project <http://lincs.hms.harvard.edu>`_
+* `Human Genome Diversity Project <http://www.hagsc.org/hgdp/files.html>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
+* `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
