@@ -564,6 +564,7 @@ Transportation
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
