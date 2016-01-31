@@ -200,7 +200,7 @@ GeoSpace/GIS
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ 
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
@@ -240,7 +240,7 @@ Government
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
-* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
+* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
 * `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
@@ -279,11 +279,12 @@ Government
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
+* `Portugal - Pordata <http://www.pordata.pt/en/Home>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
 * `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
 * `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
 * `Regina SK, Canada <http://open.regina.ca/>`_
-* `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
+* `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
 * `Romania <http://data.gov.ro/>`_
 * `Russia <http://data.gov.ru>`_
 * `San Francisco Data sets <http://datasf.org/>`_
@@ -326,7 +327,7 @@ Healthcare
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
-* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ 
+* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
 Image Processing
