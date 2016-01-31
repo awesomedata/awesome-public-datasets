@@ -279,7 +279,7 @@ Government
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
-* `Portugal - Pordata <http://www.pordata.pt/en/Home>`_
+* `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
 * `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
 * `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
