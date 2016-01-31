@@ -460,7 +460,7 @@ Search Engines
 * `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 * `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
-
+* `Reportstream.io - A search engine of information about USA Corps & LLCs <http://reportstream.io/>`_
 
 Social Networks
 ---------------
