@@ -104,11 +104,14 @@ Computer Networks
 * `3.5B Web Pages from CommonCraw 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
 * `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/>`_
 * `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
+* `Censys.IO <https://censys.io>`_
 * `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
 * `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_
 * `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
 * `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
+* `Internet Census 2012 <https://internetcensus2012.bitbucket.org>`_
+* `Shodan <https://shodan.io>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
@@ -279,6 +282,7 @@ Government
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
+* `Poland <https://mojepanstwo.pl/>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
 * `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
 * `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
