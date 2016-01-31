@@ -132,7 +132,7 @@ Data Challenges
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
 * `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
-* `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
+* `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ and `alternative description and source <http://www.nature.com/articles/sdata201555>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
 
