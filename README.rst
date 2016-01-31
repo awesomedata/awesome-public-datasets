@@ -307,7 +307,7 @@ Government
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
-* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
+* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
 * `United Nations <http://data.un.org/>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
