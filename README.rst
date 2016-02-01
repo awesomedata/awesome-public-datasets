@@ -157,6 +157,12 @@ Economics
 * `UN Human Development Reports <http://hdr.undp.org/en>`_
 
 
+Education
+------------
+
+* `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
+
+
 Energy
 ------
 
