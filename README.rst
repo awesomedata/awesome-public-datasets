@@ -51,6 +51,7 @@ Biology
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
 * `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
 * `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
+* `Temple University Hospital EEG Database <https://www.nedcdata.org/drupal/node/12>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
