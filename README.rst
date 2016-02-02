@@ -508,7 +508,7 @@ Social Sciences
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
-* `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>_
+* `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
 * `International Social Survey Program ISSP <http://www.issp.org>`_
