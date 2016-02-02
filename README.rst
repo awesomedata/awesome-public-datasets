@@ -197,6 +197,7 @@ Geology
 
 GeoSpace/GIS
 ------------
+
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ 
