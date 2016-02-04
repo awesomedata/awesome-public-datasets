@@ -27,6 +27,7 @@ Biology
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
@@ -51,10 +52,13 @@ Biology
 * `Protein Data Bank <http://www.rcsb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
+* `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
+* `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <http://www.cancerrxgene.org/>`_
 * `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
 * `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
 * `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
+* `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
