@@ -280,6 +280,7 @@ Government
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
 * `Ireland's Open Data Portal <https://data.gov.ie/data>`_
+* `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_
 * `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
 * `Lexington, KY <http://data.lexingtonky.gov/>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
