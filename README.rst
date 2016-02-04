@@ -223,14 +223,17 @@ GeoSpace/GIS
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
+* `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
+* `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
 
 
@@ -512,6 +515,7 @@ Social Networks
 Social Sciences
 ---------------
 
+* `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
 * `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
 * `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
 * `Correlates of War Project <http://www.correlatesofwar.org/>`_
@@ -523,6 +527,7 @@ Social Sciences
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
+* `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
 * `International Social Survey Program ISSP <http://www.issp.org>`_
