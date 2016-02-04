@@ -274,6 +274,7 @@ Government
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
+* `Ireland's Open Data Portal <https://data.gov.ie/data>`_
 * `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
