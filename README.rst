@@ -100,13 +100,13 @@ Complex Networks
 * `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
 * `Stanford GraphBase (Steven Skiena) <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
+* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
 * `The Nexus Network Repository <http://nexus.igraph.org/>`_
 * `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
-* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 
 
 Computer Networks
@@ -221,6 +221,7 @@ GeoSpace/GIS
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
+* `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
@@ -231,7 +232,6 @@ GeoSpace/GIS
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
 * `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
-* `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
@@ -383,6 +383,7 @@ Machine Learning
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
 * `IMDb Database <http://www.imdb.com/interfaces>`_
 * `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
+* `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
@@ -393,7 +394,6 @@ Machine Learning
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
-* `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 
 
 Museums
@@ -596,9 +596,9 @@ Transportation
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
+* `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
 * `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
-* `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
@@ -613,6 +613,7 @@ Transportation
 Complementary Collections
 -------------------------
 
+* `Data Packaged Core Datasets <https://github.com/datasets/>`_
 * `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
@@ -620,5 +621,4 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
-* `Data Packaged Core Datasets <https://github.com/datasets/>`_
 
