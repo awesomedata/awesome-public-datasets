@@ -13,9 +13,11 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
+
 Contents
 ----------
 .. contents::
+
 
 Agriculture
 ------------
@@ -535,7 +537,9 @@ Social Sciences
 * `International Social Survey Program ISSP <http://www.issp.org>`_
 * `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
 * `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
+* `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
 * `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
@@ -543,13 +547,13 @@ Social Sciences
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
-* `The MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
+* `World Bank Data <http://data.worldbank.org/>`_
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
