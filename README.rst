@@ -67,6 +67,7 @@ Biology
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
+* `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
 
 
