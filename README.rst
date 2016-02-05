@@ -47,6 +47,8 @@ Biology
 * `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
+* `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
+* `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
 * `NeuroData <http://neurodata.io>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
