@@ -13,9 +13,11 @@ Other amazingly awesome lists can be found in the
 `awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
 `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
+
 Contents
 ----------
 .. contents::
+
 
 Agriculture
 ------------
@@ -27,8 +29,10 @@ Biology
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
@@ -37,20 +41,27 @@ Biology
 * `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
 * `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
 * `Harvard Medical School (HMS) LINCS Project <http://lincs.hms.harvard.edu>`_
+* `Human Genome Diversity Project <http://www.hagsc.org/hgdp/files.html>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
+* `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
+* `NeuroData <http://neurodata.io>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
+* `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
+* `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <http://www.cancerrxgene.org/>`_
 * `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
 * `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
 * `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
+* `Temple University Hospital EEG Database <https://www.nedcdata.org/drupal/node/12>`_
+* `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
@@ -89,13 +100,13 @@ Complex Networks
 * `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
 * `Stanford GraphBase (Steven Skiena) <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
+* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
 * `The Nexus Network Repository <http://nexus.igraph.org/>`_
 * `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
-* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 
 
 Computer Networks
@@ -157,6 +168,12 @@ Economics
 * `UN Human Development Reports <http://hdr.undp.org/en>`_
 
 
+Education
+------------
+
+* `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
+
+
 Energy
 ------
 
@@ -200,23 +217,27 @@ GeoSpace/GIS
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ 
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
+* `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
+* `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
 * `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
 * `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ & `additional high-resolution data files <http://data.ub.uni-muenchen.de/61/>`_
 * `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
 * `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
+* `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
 
 
@@ -240,7 +261,7 @@ Government
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
-* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_ 
+* `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
 * `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_
 * `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
@@ -260,7 +281,10 @@ Government
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
+* `Ireland's Open Data Portal <https://data.gov.ie/data>`_
+* `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_
 * `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
+* `Lexington, KY <http://data.lexingtonky.gov/>`_
 * `London Datastore, UK <http://data.london.gov.uk/dataset>`_
 * `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
@@ -279,11 +303,12 @@ Government
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
+* `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
 * `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
 * `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
 * `Regina SK, Canada <http://open.regina.ca/>`_
-* `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ 
+* `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
 * `Romania <http://data.gov.ro/>`_
 * `Russia <http://data.gov.ru>`_
 * `San Francisco Data sets <http://datasf.org/>`_
@@ -307,11 +332,12 @@ Government
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
-* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2013/02/05/2011-census-open-atlas-project/>`_
+* `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
 * `United Nations <http://data.un.org/>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 * `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
+* `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
 
 
 Healthcare
@@ -325,8 +351,9 @@ Healthcare
 * `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
+* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ 
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
-* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_ 
+* `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
 Image Processing
@@ -356,6 +383,7 @@ Machine Learning
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
 * `IMDb Database <http://www.imdb.com/interfaces>`_
 * `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
+* `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
@@ -366,7 +394,6 @@ Machine Learning
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
-* `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 
 
 Museums
@@ -385,6 +412,7 @@ Natural Language
 ----------------
 
 * `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
+* `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
 * `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
 * `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
@@ -396,6 +424,7 @@ Natural Language
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
+* `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
@@ -493,6 +522,7 @@ Social Networks
 Social Sciences
 ---------------
 
+* `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
 * `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
 * `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
 * `Correlates of War Project <http://www.correlatesofwar.org/>`_
@@ -504,12 +534,15 @@ Social Sciences
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
+* `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
 * `International Social Survey Program ISSP <http://www.issp.org>`_
 * `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
 * `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
+* `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
 * `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
@@ -517,13 +550,13 @@ Social Sciences
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
-* `The MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
+* `World Bank Data <http://data.worldbank.org/>`_
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
@@ -563,7 +596,9 @@ Transportation
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
+* `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
 * `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
 * `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
@@ -578,6 +613,7 @@ Transportation
 Complementary Collections
 -------------------------
 
+* `Data Packaged Core Datasets <https://github.com/datasets/>`_
 * `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
