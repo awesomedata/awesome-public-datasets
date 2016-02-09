@@ -193,6 +193,11 @@ Energy
 * `UK-Dale <http://www.doc.ic.ac.uk/~dk3810/data/>`_
 
 
+Environment
+-----------
+
+* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
+
 Finance
 -------
 
