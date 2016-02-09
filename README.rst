@@ -282,6 +282,7 @@ Government
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_
 * `Helsinki Region, Finland <http://www.hri.fi/en/>`_
+* `Hong Kong, China <https://data.gov.hk/en/>`_
 * `Houston Open Data <http://data.ohouston.org>`_
 * `Indian Government Data <https://data.gov.in/>`_
 * `Indonesian Data Portal <http://data.go.id/>`_
