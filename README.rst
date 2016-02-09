@@ -517,6 +517,7 @@ Social Networks
 * `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
 * `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
 * `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
+* `Twitter Data for Online Reputation Management <http://nlp.uned.es/replab2013/>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_
 * `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
