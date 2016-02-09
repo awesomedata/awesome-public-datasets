@@ -47,6 +47,8 @@ Biology
 * `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
+* `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
+* `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
 * `NeuroData <http://neurodata.io>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
@@ -65,6 +67,7 @@ Biology
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
+* `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
 
 
