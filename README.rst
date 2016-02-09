@@ -278,6 +278,7 @@ Government
 * `Germany <https://www-genesis.destatis.de/genesis/online>`_
 * `Ghent, Belgium <https://data.stad.gent/datasets>`_
 * `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
+* `Greece <http://www.data.gov.gr/>`_
 * `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
 * `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_
 * `Helsinki Region, Finland <http://www.hri.fi/en/>`_
