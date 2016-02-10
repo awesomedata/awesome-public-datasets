@@ -510,6 +510,7 @@ Social Networks
 * `GetGlue - users rating TV shows <http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz>`_
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
+* `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
