@@ -148,7 +148,7 @@ Data Challenges
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
-
+* `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 
 Economics
 ---------
