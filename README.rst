@@ -54,6 +54,7 @@ Biology
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
+* `Psychiatric Genomics Consortium <https://www.med.unc.edu/pgc/downloads>`_
 * `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
 * `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
 * `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
