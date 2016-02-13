@@ -264,6 +264,7 @@ Government
 * `Cambridge, MA, US <https://data.cambridgema.gov/>`_
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
+* `Chile <http://datos.gob.cl/dataset>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
