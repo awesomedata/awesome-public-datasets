@@ -328,6 +328,8 @@ Government
 * `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
 * `State of Utah, US <https://opendata.utah.gov/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
+* `Taiwan <http://data.gov.tw/>`_
+* `Taiwan g0v <http://data.g0v.tw/>`_
 * `Texas Open Data <https://data.texas.gov/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
 * `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
