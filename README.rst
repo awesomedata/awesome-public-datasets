@@ -466,6 +466,7 @@ Public Domains
 --------------
 
 * `Amazon <http://aws.amazon.com/datasets/>`_
+* `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
 * `Archive.org Datasets <https://archive.org/details/datasets>`_
 * `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
@@ -476,6 +477,7 @@ Public Domains
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Numbray <http://numbrary.com/>`_
+* `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
 * `Reddit Datasets <https://www.reddit.com/r/datasets>`_
 * `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
 * `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_
@@ -492,7 +494,6 @@ Search Engines
 --------------
 
 * `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
-* `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
 * `Datahub.io <https://datahub.io/dataset>`_
 * `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
 * `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
