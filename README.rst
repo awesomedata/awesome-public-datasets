@@ -217,8 +217,8 @@ Geology
 * `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
 
 
-GeoSpace/GIS
-------------
+GIS/Environment
+---------------
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
@@ -229,6 +229,7 @@ GeoSpace/GIS
 * `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
+* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
@@ -245,7 +246,6 @@ GeoSpace/GIS
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
 * `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
-
 
 Government
 ----------
