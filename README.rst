@@ -299,6 +299,7 @@ Government
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
 * `Mexico <http://catalogo.datos.gob.mx/dataset>`_
 * `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
+* `Moldova <http://data.gov.md/>`_
 * `Moncton, NB, Canada <http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue.htm>`_
 * `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
 * `Netherlands <https://data.overheid.nl/>`_
