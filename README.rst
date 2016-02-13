@@ -232,6 +232,7 @@ GeoSpace/GIS
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
+* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
