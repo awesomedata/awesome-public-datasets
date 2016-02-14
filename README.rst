@@ -39,7 +39,7 @@ Biology
 * `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
 * `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
-* `Global Biotic Interations (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
+* `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
 * `Harvard Medical School (HMS) LINCS Project <http://lincs.hms.harvard.edu>`_
 * `Human Genome Diversity Project <http://www.hagsc.org/hgdp/files.html>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
@@ -104,7 +104,7 @@ Complex Networks
 * `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
 * `Stanford GraphBase (Steven Skiena) <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
 * `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
-* `Stanford Longitudnal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
+* `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
 * `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
 * `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
 * `The Nexus Network Repository <http://nexus.igraph.org/>`_
