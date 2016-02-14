@@ -451,6 +451,7 @@ Physics
 -------
 
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
+* `Crystallography Open Database <http://www.crystallography.net/>`_
 * `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 * `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
