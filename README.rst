@@ -578,6 +578,11 @@ Social Sciences
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
+Software
+--------
+
+* `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+
 Sports
 ------
 
