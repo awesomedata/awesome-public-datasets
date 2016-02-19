@@ -207,6 +207,7 @@ Finance
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
+* `U.S. Treasury Specially Designated Nationals List <treasury.gov/ofac/downloads/sdn.xml>`_
 
 
 Geology
