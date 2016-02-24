@@ -111,7 +111,7 @@ Complex Networks
 * `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
-
+* `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
 
 Computer Networks
 -----------------
