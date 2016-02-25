@@ -94,6 +94,7 @@ Climate/Weather
 Complex Networks
 ----------------
 
+* `AMiner Citation Network Dataset <http://aminer.org/citation>`_
 * `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
 * `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
 * `NBER Patent Citations <http://nber.org/patents/>`_
