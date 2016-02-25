@@ -97,6 +97,7 @@ Complex Networks
 * `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
 * `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
 * `NBER Patent Citations <http://nber.org/patents/>`_
+* `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
 * `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
 * `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
 * `PyPI and Maven Dependency Network <https://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`_
