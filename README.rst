@@ -230,6 +230,7 @@ GIS/Environment
 * `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
+* `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
 * `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
 * `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
