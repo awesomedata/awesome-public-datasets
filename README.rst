@@ -205,8 +205,11 @@ Finance
 * `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
+* `Treasury Specially Designated Nationals List <treasury.gov/ofac/downloads/sdn.xml>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
-
+* `U.S. Treasury Specially Designated Nationals List <treasury.gov/ofac/downloads/sdn.xml>`_
+fff
+fff
 
 Geology
 -------
