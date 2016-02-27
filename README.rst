@@ -137,6 +137,7 @@ Contextual Data
 Data Challenges
 ---------------
 
+* `Numerai: a global AI tournament to predict the stock market <https://numer.ai/>`_
 * `Challenges in Machine Learning <http://www.chalearn.org/>`_
 * `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_
 * `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_
