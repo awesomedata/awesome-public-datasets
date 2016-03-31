@@ -542,6 +542,7 @@ Complementary Collections
 * `Data Packaged Core Datasets <https://github.com/datasets/>`_
 * `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
+* Google: `Datasets on BigQuery from health to public records <https://cloud.google.com/bigquery/public-data>`_ 
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
