@@ -516,6 +516,7 @@ Transportation
 * `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
 * `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
 * `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
+* `German license plate prefixes <https://github.com/derhuerst/german-license-plate-prefixes>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
 * `Montreal BIXI Bike Share <https://montreal.bixi.com/donn%C3%A9es-libre-service>`_
