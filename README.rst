@@ -33,6 +33,7 @@ Biology
 * `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
+* `Electron Microscopy Pilot Image Archive (EMPIAR) <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
 * `ENCODE project <https://www.encodeproject.org>`_
 * `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
 * `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
