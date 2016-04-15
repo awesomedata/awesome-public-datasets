@@ -223,6 +223,7 @@ GIS/Environment
 
 * `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
+* `Canadian Federal Geospatial Platform <https://gcgeo.gc.ca/en/fgp-intranet.html>`_
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
