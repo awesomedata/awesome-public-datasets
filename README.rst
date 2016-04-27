@@ -208,6 +208,7 @@ Finance
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
+* `NYSE Market Data <ftp://ftp.nyxdata.com>`_
 
 
 Geology
