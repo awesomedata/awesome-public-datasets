@@ -177,6 +177,7 @@ Economics
 Education
 ------------
 
+* `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
 
 
