@@ -178,6 +178,7 @@ Education
 ------------
 
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
+* `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
 
 
 Energy
@@ -487,6 +488,7 @@ Software
 --------
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+* `2016 New Coder Survey open dataset of responses to 48 questions from 15,000 people new to software development <https://github.com/FreeCodeCamp/2016-new-coder-survey>`_
 
 Sports
 ------
