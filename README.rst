@@ -126,7 +126,7 @@ Computer Networks
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
 * `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
-* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ 
+* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
@@ -209,6 +209,7 @@ Finance
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 * `NYSE Market Data <ftp://ftp.nyxdata.com>`_
+* `pystock-data <https://github.com/eliangcs/pystock-data>`_
 
 
 Geology
@@ -268,7 +269,7 @@ Healthcare
 * `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
-* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ 
+* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
