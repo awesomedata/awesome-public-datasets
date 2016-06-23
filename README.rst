@@ -26,6 +26,7 @@ Biology
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* `Brain Catalogue <http://braincatalogue.org/>`_
 * `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
