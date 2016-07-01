@@ -464,7 +464,7 @@ Social Sciences
 * `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
 * `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
 * `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
-* `Minnesota Population Center <https://www.ipums.org/>` _
+* `Minnesota Population Center <https://www.ipums.org/>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
