@@ -156,7 +156,7 @@ Data Challenges
 Economics
 ---------
 
-* `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
+* `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
