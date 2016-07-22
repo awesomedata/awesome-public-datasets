@@ -307,6 +307,7 @@ Machine Learning
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+* `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
