@@ -75,6 +75,7 @@ Climate/Weather
 ---------------
 
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
+* `Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system <https://aviationweather.gov/adds/dataserver>`_
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
 * `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
