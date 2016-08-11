@@ -160,6 +160,7 @@ Economics
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* `International Economics Database <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
 * `International Trade Statistics <http://www.econostatistics.co.za/>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
 * `Joint External Debt Data Hub <http://www.jedh.org/>`_
