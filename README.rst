@@ -29,7 +29,6 @@ Biology
 * `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
-* `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
 * `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
@@ -48,7 +47,6 @@ Biology
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
 * `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
-* `NeuroData <http://neurodata.io>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
@@ -62,7 +60,6 @@ Biology
 * `Stanford Microarray Data <http://smd.stanford.edu/>`_
 * `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
 * `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
-* `Temple University Hospital EEG Database <https://www.nedcdata.org/drupal/node/12>`_
 * `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
@@ -356,6 +353,25 @@ Natural Language
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
   
+
+Neuroscience
+-------------
+
+* `Allen Institute Datasets <http://www.brain-map.org/>`_
+* `Brain Catalogue <http://braincatalogue.org/>`_
+* `Brainomics <http://brainomics.cea.fr/localizer>`_ 
+* `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ 
+* `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
+* `Human Connectome Project <http://www.humanconnectome.org/data/>`_ 
+* `NDAR <https://ndar.nih.gov/>`_
+* `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
+* `NeuroData <http://neurodata.io>`_
+* `OASIS <http://www.oasis-brains.org/>`_
+* `OpenfMRI <https://openfmri.org/>`_
+* `Neuroelectro <http://neuroelectro.org/>`_
+* `Study Forrest <http://studyforrest.org>`_
+
 
 Physics
 -------
