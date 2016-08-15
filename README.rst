@@ -352,8 +352,10 @@ Natural Language
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
+* `Universal Dependencies <http://universaldependencies.org>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
-
+* `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
+  
 
 Physics
 -------
