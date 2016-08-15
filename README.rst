@@ -3,8 +3,6 @@ Awesome Public Datasets
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
-.. image:: https://travis-ci.org/caesar0301/awesome-public-datasets.svg
-   :target: https://travis-ci.org/caesar0301/awesome-public-datasets
 
 `This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
 are collected and tidied from blogs, answers, and user responses.
@@ -151,6 +149,20 @@ Data Challenges
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 
+
+Earth Science
+-------------
+
+* `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
+* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `Earth Models <http://www.earthmodels.org/>`_
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
+* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
+* `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
+* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+
+
 Economics
 ---------
 
@@ -215,20 +227,10 @@ Finance
 * `NYSE Market Data <ftp://ftp.nyxdata.com>`_
 
 
-Geology
--------
+GIS
+---
 
-* `Earth Models <http://www.earthmodels.org/>`_
-* `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
-* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
-
-
-GIS/Environment
----------------
-
-* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
@@ -236,11 +238,8 @@ GIS/Environment
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
-* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
-* `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
-* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
@@ -253,6 +252,7 @@ GIS/Environment
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
 * `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
+
 
 Government
 ----------
