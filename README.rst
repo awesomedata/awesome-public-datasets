@@ -127,7 +127,7 @@ Computer Networks
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
 * `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
-* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ 
+* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
@@ -148,7 +148,7 @@ Data Challenges
 * `Kaggle Competition Data <https://www.kaggle.com/>`_
 * `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
-* `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
+* `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
@@ -270,7 +270,7 @@ Healthcare
 * `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
-* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ 
+* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
@@ -552,4 +552,3 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
-
