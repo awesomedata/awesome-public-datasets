@@ -186,13 +186,18 @@ Energy
 * `BLUEd <http://nilm.cmubi.org/>`_
 * `COMBED <http://combed.github.io/>`_
 * `Dataport <https://dataport.pecanstreet.org/>`_
+* `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
 * `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
 * `EIA <http://www.eia.gov/electricity/data/eia923/>`_
+* `HES <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ - Household Electricity Study, UK
 * `HFED <http://hfed.github.io/>`_
 * `iAWE <http://iawe.github.io/>`_
-* `Plaid <http://plaidplug.com/>`_
+* `PLAID <http://plaidplug.com/>`_ - the Plug Load Appliance Identification Dataset
 * `REDD <http://redd.csail.mit.edu/>`_
-* `UK-Dale <http://www.doc.ic.ac.uk/~dk3810/data/>`_
+* `Tracebase <https://www.tracebase.org>`_
+* `UK-DALE <http://www.doc.ic.ac.uk/~dk3810/data/>`_ - UK Domestic Appliance-Level Electricity
+* `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
+
 
 
 Finance
