@@ -363,10 +363,13 @@ Neuroscience
 -------------
 
 * `Allen Institute Datasets <http://www.brain-map.org/>`_
+* `Arnaud Delorme's EEG Datasets <https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html>`_
+* `BNCI Horizon 2020 Datasets <http://bnci-horizon-2020.eu/database/data-sets>`_
 * `Brain Catalogue <http://braincatalogue.org/>`_
 * `Brainomics <http://brainomics.cea.fr/localizer>`_ 
 * `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ 
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `EEG Study Catalog <http://www.studycatalog.org/>`_
 * `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
 * `Human Connectome Project <http://www.humanconnectome.org/data/>`_ 
 * `NDAR <https://ndar.nih.gov/>`_
