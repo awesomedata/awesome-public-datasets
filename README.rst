@@ -3,8 +3,6 @@ Awesome Public Datasets
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
-.. image:: https://travis-ci.org/caesar0301/awesome-public-datasets.svg
-   :target: https://travis-ci.org/caesar0301/awesome-public-datasets
 
 `This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
 are collected and tidied from blogs, answers, and user responses.
@@ -47,7 +45,7 @@ Biology
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
 * `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
-* `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
+* `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
 * `Protein Data Bank <http://www.rcsb.org/>`_
@@ -72,6 +70,7 @@ Climate/Weather
 ---------------
 
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
+* `Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system <https://aviationweather.gov/adds/dataserver>`_
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
 * `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
@@ -123,7 +122,7 @@ Computer Networks
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
 * `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
-* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ 
+* `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
@@ -144,19 +143,34 @@ Data Challenges
 * `Kaggle Competition Data <https://www.kaggle.com/>`_
 * `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
-* `Netflix Prize <http://www.netflixprize.com/leaderboard>`_
+* `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 
+
+Earth Science
+-------------
+
+* `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
+* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `Earth Models <http://www.earthmodels.org/>`_
+* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
+* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
+* `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
+* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+
+
 Economics
 ---------
 
-* `American Economic Ass (AEA) <https://www.aeaweb.org/RFE/toc.php?show=complete>`_
+* `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* `International Economics Database <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
 * `International Trade Statistics <http://www.econostatistics.co.za/>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
 * `Joint External Debt Data Hub <http://www.jedh.org/>`_
@@ -184,13 +198,18 @@ Energy
 * `BLUEd <http://nilm.cmubi.org/>`_
 * `COMBED <http://combed.github.io/>`_
 * `Dataport <https://dataport.pecanstreet.org/>`_
+* `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
 * `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
 * `EIA <http://www.eia.gov/electricity/data/eia923/>`_
+* `HES <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ - Household Electricity Study, UK
 * `HFED <http://hfed.github.io/>`_
 * `iAWE <http://iawe.github.io/>`_
-* `Plaid <http://plaidplug.com/>`_
+* `PLAID <http://plaidplug.com/>`_ - the Plug Load Appliance Identification Dataset
 * `REDD <http://redd.csail.mit.edu/>`_
-* `UK-Dale <http://www.doc.ic.ac.uk/~dk3810/data/>`_
+* `Tracebase <https://www.tracebase.org>`_
+* `UK-DALE <http://www.doc.ic.ac.uk/~dk3810/data/>`_ - UK Domestic Appliance-Level Electricity
+* `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
+
 
 
 Finance
@@ -205,23 +224,13 @@ Finance
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
-* `NYSE Market Data <ftp://ftp.nyxdata.com>`_
+* `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 
 
-Geology
--------
+GIS
+---
 
-* `Earth Models <http://www.earthmodels.org/>`_
-* `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
-* `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
-
-
-GIS/Environment
----------------
-
-* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
-* `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
 * `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
@@ -229,11 +238,8 @@ GIS/Environment
 * `GeoNames Worldwide <http://www.geonames.org/>`_
 * `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
 * `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
-* `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
-* `International Institute for Systems Analysis - GIS Datasets <http://www.iiasa.ac.at/web/home/research/modelsData/Models--Tools--Data.en.html>`_
 * `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
 * `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
-* `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
 * `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
 * `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
 * `OpenAddresses <http://openaddresses.io/>`_
@@ -246,6 +252,7 @@ GIS/Environment
 * `UN Environmental Data <http://geodata.grid.unep.ch/>`_
 * `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
+
 
 Government
 ----------
@@ -265,7 +272,7 @@ Healthcare
 * `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
-* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ 
+* `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
 * `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
@@ -304,6 +311,7 @@ Machine Learning
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
+* `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
@@ -346,7 +354,10 @@ Natural Language
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
+* `Universal Dependencies <http://universaldependencies.org>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
+* `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
+  
 
 Neuroscience
 -------------
@@ -365,6 +376,7 @@ Neuroscience
 * `OpenfMRI <https://openfmri.org/>`_
 * `Neuroelectro <http://neuroelectro.org/>`_
 * `Study Forrest <http://studyforrest.org>`_
+
 
 Physics
 -------
@@ -478,6 +490,7 @@ Social Sciences
 * `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
 * `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
 * `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
+* `Minnesota Population Center <https://www.ipums.org/>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
 * `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
@@ -489,6 +502,7 @@ Social Sciences
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* `Uppsala Conflict Data Program <http://ucdp.uu.se/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
@@ -546,7 +560,7 @@ Transportation
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
 * `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_
-* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-feeds>`_
+* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/data-feeds>`_
 * `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
@@ -564,4 +578,3 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
-
