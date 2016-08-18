@@ -390,7 +390,8 @@ Physics
 
 Psychology/Cognition
 --------------------
-
+* `The Journal of Open Psychology Data <http://openpsychologydata.metajnl.com>`_
+* `OSF Reproducibility Project: Psychology <https://osf.io/ezcuj>`_
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
 
