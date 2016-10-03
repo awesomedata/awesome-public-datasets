@@ -289,6 +289,7 @@ Image Processing
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+* `Open Images <https://github.com/openimages/dataset>`_
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
