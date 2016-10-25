@@ -225,6 +225,8 @@ Finance
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 * `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
+* `S&P 500 Companies with Financial Information <http://data.okfn.org/data/core/s-and-p-500-companies>`_
+
 
 
 GIS
