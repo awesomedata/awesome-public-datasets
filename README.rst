@@ -110,6 +110,10 @@ Complex Networks
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
 * `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
 
+Computer Systems Research 
+-------------------------
+* `cTuning datasets for popular benchmarks in the Collective Knowledge format <https://github.com/ctuning/ctuning-datasets-min>`_
+
 Computer Networks
 -----------------
 
