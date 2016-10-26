@@ -332,6 +332,12 @@ Museums
 * `The Getty vocabularies <http://vocab.getty.edu>`_
 
 
+Music
+-----
+
+* `MusicBrainz Database <https://musicbrainz.org/doc/MusicBrainz_Database>`_
+
+
 Natural Language
 ----------------
 
