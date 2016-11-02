@@ -183,7 +183,7 @@ Economics
 * `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
 * `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
 * `UN Human Development Reports <http://hdr.undp.org/en>`_
-
+* `ICIJ Offshore Leaks Database <https://offshoreleaks.icij.org/pages/database>`_ (including the Panama Papers and Bahamas Leaks)
 
 Education
 ------------
