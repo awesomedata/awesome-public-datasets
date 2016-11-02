@@ -225,6 +225,7 @@ Finance
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
 * `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
+* `Exchange rates in Ukraine and Russia (Cash, Visa, Mastercard, Interbank, Webmoney) <https://www.datacrucis.com/datasets.html>`_
 
 
 GIS
