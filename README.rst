@@ -500,7 +500,7 @@ Social Sciences
 * `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
 * `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
-* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_ or `on Kaggle <https://www.kaggle.com/c/titanic/data>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
 * `Uppsala Conflict Data Program <http://ucdp.uu.se/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
