@@ -289,6 +289,7 @@ Image Processing
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+* `Open Images <https://github.com/openimages/dataset>`_
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
@@ -363,10 +364,13 @@ Neuroscience
 -------------
 
 * `Allen Institute Datasets <http://www.brain-map.org/>`_
+* `Arnaud Delorme's EEG Datasets <https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html>`_
+* `BNCI Horizon 2020 Datasets <http://bnci-horizon-2020.eu/database/data-sets>`_
 * `Brain Catalogue <http://braincatalogue.org/>`_
 * `Brainomics <http://brainomics.cea.fr/localizer>`_ 
 * `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ 
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `EEG Study Catalog <http://www.studycatalog.org/>`_
 * `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
 * `Human Connectome Project <http://www.humanconnectome.org/data/>`_ 
 * `NDAR <https://ndar.nih.gov/>`_
@@ -383,6 +387,7 @@ Physics
 
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
 * `Crystallography Open Database <http://www.crystallography.net/>`_
+* `Minor Planet Center Data <http://minorplanetcenter.net/data>`_
 * `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 * `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
@@ -390,7 +395,8 @@ Physics
 
 Psychology/Cognition
 --------------------
-
+* `The Journal of Open Psychology Data <http://openpsychologydata.metajnl.com>`_
+* `OSF Reproducibility Project: Psychology <https://osf.io/ezcuj>`_
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
 
 
