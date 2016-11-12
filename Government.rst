@@ -18,6 +18,7 @@ Government
 * `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
 * `Chicago <https://data.cityofchicago.org/>`_
 * `Chile <http://datos.gob.cl/dataset>`_
+* `China, National Bureau of Statistics <http://www.stats.gov.cn/english/>`_
 * `Dallas Open Data <https://www.dallasopendata.com/>`_
 * `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_
 * `Denver Open Data <http://data.denvergov.org//>`_
@@ -75,6 +76,7 @@ Government
 * `San Francisco Data sets <http://datasf.org/>`_
 * `Saskatchewan, Province of Canada <http://opendatask.ca/data/>`_
 * `Seattle <https://data.seattle.gov/>`_
+* `Shanghai, China <http://www.datashanghai.gov.cn/>`_
 * `Singapore Government Data <https://data.gov.sg/>`_
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
