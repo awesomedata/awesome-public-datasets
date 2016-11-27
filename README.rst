@@ -408,6 +408,7 @@ Public Domains
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
+* `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
 * `Numbray <http://numbrary.com/>`_
 * `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
 * `Reddit Datasets <https://www.reddit.com/r/datasets>`_
