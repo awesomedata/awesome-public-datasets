@@ -357,6 +357,7 @@ Natural Language
 * `Universal Dependencies <http://universaldependencies.org>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
+* `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
   
 
 Neuroscience
