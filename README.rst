@@ -148,6 +148,7 @@ Data Challenges
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
+* `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
 
 
 Earth Science
