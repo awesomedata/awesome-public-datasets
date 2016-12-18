@@ -284,11 +284,13 @@ Image Processing
 * `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
+* `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
+* `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
@@ -343,11 +345,14 @@ Natural Language
 * `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
 * `Freebase.com of people, places, and things <http://www.freebase.com/>`_
 * `Google Books Ngrams (2.2TB) <https://aws.amazon.com/datasets/google-books-ngrams/>`_
+* `Google MC-AFP, generated based on the public available Gigaword dataset using Paragraph Vectors <https://github.com/google/mcafp>`_
 * `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
 * `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
+* `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
+* `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
 * `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
