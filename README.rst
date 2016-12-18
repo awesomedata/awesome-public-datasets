@@ -362,7 +362,7 @@ Natural Language
 * `Universal Dependencies <http://universaldependencies.org>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
-  
+* `Web Data Commons - Gold Standard for Product Matching and Product Feature Extraction <http://www.webdatacommons.org/productcorpus/>`_ 
 
 Neuroscience
 -------------
