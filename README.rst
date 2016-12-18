@@ -456,7 +456,6 @@ Social Networks
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
-* `GetGlue - users rating TV shows <http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz>`_
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
