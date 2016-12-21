@@ -530,6 +530,7 @@ Software
 * `Unix history: Git repository with 46 years of Unix history evolution <https://github.com/dspinellis/unix-history-repo>`_
 * `tera-PROMISE: Research dataset repository specializing in software engineering research datasets <http://openscience.us/repo/>`_
 * `Boa: Domain-specific language and infrastructure that eases mining software repositories <http://boa.cs.iastate.edu/>`_
+* `Stack Exchange - an anonymized dump of all user-contributed content on the Stack Exchange network <https://archive.org/details/stackexchange>`_
 
 Sports
 ------
