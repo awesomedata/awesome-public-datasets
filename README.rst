@@ -132,6 +132,11 @@ Contextual Data
 
 * `Context-aware data sets from five domains <http://students.depaul.edu/~yzheng8/DataSets.html#Data>`_ or `GitHub <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
 
+Crime
+-----
+
+* [data.police.uk](https://data.police.uk/data/) open data about crime and policing in England, Wales and Northern Ireland.
+
 
 Data Challenges
 ---------------
