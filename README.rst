@@ -526,11 +526,11 @@ Software
 * `AndroZoo: a growing collection of Android Applications <https://androzoo.uni.lu/>`_
 * `Code Reviews of OpenStack, LibreOffice, AOSP, Qt, Eclipse <http://kin-y.github.io/miningReviewRepo/>`_
 * `GHTorrent: Scalable, queriable, offline mirror of data offered through the Github REST API <http://ghtorrent.org/>`_
-* `mzdata: Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History <https://github.com/jxshin/mzdata>`_
-* `Unix history: Git repository with 46 years of Unix history evolution <https://github.com/dspinellis/unix-history-repo>`_
+* `mzdata: Multi-extract and Multi-level Dataset of Mozilla Issue Tracking History <https://github.com/jxshin/mzdata/>`_
+* `Unix history: Git repository with 46 years of Unix history evolution <https://github.com/dspinellis/unix-history-repo/>`_
 * `tera-PROMISE: Research dataset repository specializing in software engineering research datasets <http://openscience.us/repo/>`_
 * `Boa: Domain-specific language and infrastructure that eases mining software repositories <http://boa.cs.iastate.edu/>`_
-* `Stack Exchange - an anonymized dump of all user-contributed content on the Stack Exchange network <https://archive.org/details/stackexchange>`_
+* `Stack Exchange - an anonymized dump of all user-contributed content on the Stack Exchange network <https://archive.org/details/stackexchange/>`_
 
 Sports
 ------
