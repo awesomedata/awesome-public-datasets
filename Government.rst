@@ -85,6 +85,7 @@ Government
 * `Texas Open Data <https://data.texas.gov/>`_
 * `The World Bank <http://wdronline.worldbank.org/>`_
 * `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
+* `Tunisia <http://www.data.gov.tn/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
