@@ -386,6 +386,16 @@ Neuroscience
 * `Neuroelectro <http://neuroelectro.org/>`_
 * `Study Forrest <http://studyforrest.org>`_
 
+Predictive Maintenance
+-------
+
+* `kaggle Bosch Production Line Performance <https://www.kaggle.com/c/bosch-production-line-performance>`_
+* `kaggle Predictive Maintenance <https://www.kaggle.com/ludobenistant/predictive-maintenance>`_
+* `PHM Society Conference Data Challenge 2011 <https://www.phmsociety.org/competition/phm/11>`_
+* `Prognostics Data Repository <https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/>`_
+* `SQL R Services: Predictive Maintenance Modeling Guide <https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/PredictiveMaintanenceModelingGuide>`_
+* `CERN Open Data Portal <http://opendata.cern.ch/>`_
+
 
 Physics
 -------
