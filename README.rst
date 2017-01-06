@@ -113,7 +113,7 @@ Complex Networks
 Computer Networks
 -----------------
 
-* `3.5B Web Pages from CommonCraw 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
+* `3.5B Web Pages from CommonCrawl 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
 * `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/>`_
 * `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
 * `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
