@@ -146,7 +146,7 @@ Data Challenges
 * `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
 * `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
-* `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
+* `Telecom Italia Big Data Challenge <https://dataverse.harvard.edu/dataverse/bigdatachallenge>`_ & `dataset description <http://www.nature.com/articles/sdata201555>`_ & `alternative source <https://dandelion.eu/datamine/open-big-data/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
