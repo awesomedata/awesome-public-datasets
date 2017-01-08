@@ -68,7 +68,7 @@ Biology
 
 Climate/Weather
 ---------------
-
+* `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
 * `Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system <https://aviationweather.gov/adds/dataserver>`_
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
@@ -150,7 +150,6 @@ Data Challenges
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 * `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
-
 
 Earth Science
 -------------
@@ -259,7 +258,8 @@ GIS
 Government
 ----------
 
-* `OpenDataSoft's list of 1,600 open data portals <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
+* `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
+* `Open Data for Africa <http://opendataforafrica.org/>`_
 * `A list of cities and countries contributed by community <https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst>`_
 
 
@@ -487,11 +487,13 @@ Social Sciences
 * `Datacards <http://datacards.org>`_
 * `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
+* `Fragile States Index <http://fsi.fundforpeace.org/data>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
 * `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
+* `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
 * `International Social Survey Program ISSP <http://www.issp.org>`_
@@ -500,6 +502,7 @@ Social Sciences
 * `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `Minnesota Population Center <https://www.ipums.org/>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_
 * `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
@@ -515,7 +518,7 @@ Social Sciences
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
-* `World Bank Data <http://data.worldbank.org/>`_
+* `World Bank Open Data <http://data.worldbank.org/>`_
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
