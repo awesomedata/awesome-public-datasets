@@ -80,6 +80,7 @@ Climate/Weather
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
 * `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
+* `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_
 * `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
 * `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
 * `WorldClim - Global Climate Data <http://www.worldclim.org>`_
