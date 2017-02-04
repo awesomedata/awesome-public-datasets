@@ -156,7 +156,7 @@ Earth Science
 -------------
 
 * `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
-* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
 * `Earth Models <http://www.earthmodels.org/>`_
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
