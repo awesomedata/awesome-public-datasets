@@ -131,7 +131,7 @@ Computer Networks
 Contextual Data
 ---------------
 
-* `Context-aware data sets from five domains <http://students.depaul.edu/~yzheng8/DataSets.html#Data>`_ or `GitHub <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
+* `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
 
 
 Data Challenges
