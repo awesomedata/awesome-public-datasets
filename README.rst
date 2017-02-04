@@ -232,6 +232,7 @@ Finance
 GIS
 ---
 
+* `ArcGIS Open Data portal <http://opendata.arcgis.com/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
