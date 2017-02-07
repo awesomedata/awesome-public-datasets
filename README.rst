@@ -45,6 +45,7 @@ Biology
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
 * `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
+* `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
