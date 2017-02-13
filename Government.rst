@@ -1,6 +1,8 @@
 Government
 ----------
 
+* `EveryPolitician, ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`_
+
 * `Alberta, Province of Canada <http://open.alberta.ca>`_
 * `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
 * `Argentina (non official) <http://datar.noip.me/>`_
