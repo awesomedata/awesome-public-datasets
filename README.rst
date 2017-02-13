@@ -544,6 +544,7 @@ Sports
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
 * `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
 * `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
+* `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_, `WTA <https://github.com/JeffSackmann/tennis_wta>`_, `Grand Slams <https://github.com/JeffSackmann/tennis_slam_pointbypoint>`_ and `Match Charting Project <https://github.com/JeffSackmann/tennis_MatchChartingProject>`_
 
 
 Time Series
