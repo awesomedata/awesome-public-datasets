@@ -17,6 +17,7 @@ Other amazingly awesome lists can be found in the
 Agriculture
 ------------
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
+* `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
 
 
 Biology
