@@ -371,7 +371,9 @@ Natural Language
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
 * `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
-  
+* `News headlines from "The Wall Street Journal" (English text, 2017) <https://github.com/saippuakauppias/training-data/tree/master/titles_wsj.com>`_
+* `News headlines from "Lenta.ru" (Russian text, 2017) <https://github.com/saippuakauppias/training-data/tree/master/titles_lenta.ru>`_
+
 
 Neuroscience
 -------------
