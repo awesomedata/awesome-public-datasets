@@ -66,6 +66,7 @@ Biology
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
 * `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* `ZINC <http://zinc.docking.org/>`_
 
 
 Climate/Weather
