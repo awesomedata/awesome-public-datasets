@@ -534,6 +534,8 @@ Software
 --------
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+* `GHTorrent: Most of GitHub's Open-Source software development data in one convenient, queriable package (data and APIs) <http://ghtorrent.org/>`_
+* `TravisTorrent, free and easy-to-use Travis CI build data through its open database (data and APIs) <https://travistorrent.testroots.org/>`_
 
 Sports
 ------
