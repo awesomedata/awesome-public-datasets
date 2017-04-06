@@ -372,6 +372,7 @@ Natural Language
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
 * `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
+* `News/Blogs in multiple languages <https://webhose.io/datasets/>`_
   
 
 Neuroscience
