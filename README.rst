@@ -41,6 +41,7 @@ Biology
 * `Human Genome Diversity Project <http://www.hagsc.org/hgdp/files.html>`_
 * `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
 * `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
+* `Image Data Repository <http://idr-demo.openmicroscopy.org/about/>`_
 * `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
