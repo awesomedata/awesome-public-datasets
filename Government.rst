@@ -81,6 +81,7 @@ Government
 * `South Africa <http://beta2.statssa.gov.za/>`_
 * `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
 * `State of Utah, US <https://opendata.utah.gov/>`_
+* `Swedish parliament <https://data.riksdagen.se/in-english/>`_
 * `Switzerland <http://www.opendata.admin.ch/>`_
 * `Taiwan <http://data.gov.tw/>`_
 * `Taiwan g0v <http://data.g0v.tw/>`_
