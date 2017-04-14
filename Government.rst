@@ -91,11 +91,12 @@ Government
 * `U.K. Government Data <http://data.gov.uk/data>`_
 * `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
 * `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
-* `U.S. Census Bureau <http://www.census.gov/data.html>`_
+* `U.S. Census Bureau <https://www.census.gov/data.html>`_
 * `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
 * `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
 * `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
-* `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
+* `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/>`_
+* `U.S. GovTrack <https://www.govtrack.us/developers>`_
 * `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
 * `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
