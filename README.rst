@@ -170,6 +170,7 @@ Economics
 * `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+* `Federal Reserve Economic Data - FRED <https://research.stlouisfed.org/fred2/>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
 * `International Economics Database <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
 * `International Trade Statistics <http://www.econostatistics.co.za/>`_
