@@ -423,6 +423,7 @@ Public Domains
 * `Datamob.org <http://datamob.org/datasets>`_
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
+* `Kaggle Datasets <https://www.kaggle.com/datasets>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
