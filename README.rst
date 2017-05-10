@@ -319,6 +319,7 @@ Machine Learning
 * `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
+* `Free Music Archive <https://github.com/mdeff/fma>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
