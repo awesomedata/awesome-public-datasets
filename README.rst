@@ -370,6 +370,7 @@ Neuroscience
 * `Brainomics <http://brainomics.cea.fr/localizer>`_ 
 * `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ 
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
+* `Developing Human Connectome Project <http://www.developingconnectome.org>`_
 * `EEG Study Catalog <http://www.studycatalog.org/>`_
 * `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
 * `Human Connectome Project <http://www.humanconnectome.org/data/>`_ 
