@@ -261,6 +261,7 @@ Government
 
 * `A list of cities and countries contributed by community <https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst>`_
 * `Open Data for Africa <http://opendataforafrica.org/>`_
+* `Open Data for India <https://data.gov.in/>`_
 * `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
 
 
