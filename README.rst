@@ -149,6 +149,7 @@ Data Challenges
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
+* `DEBS Grand Challenge 2017 - <http://www.debs2017.org/call-for-grand-challenge-solutions/>` or `<http://hobbitdata.informatik.uni-leipzig.de/DEBS_GC/>`
 
 
 Earth Science
