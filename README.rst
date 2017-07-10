@@ -416,15 +416,17 @@ Public Domains
 --------------
 
 * `Amazon <http://aws.amazon.com/datasets/>`_
-* `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
 * `Archive.org Datasets <https://archive.org/details/datasets>`_
 * `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
 * `Data.World <https://data.world>`_
 * `Data360 <http://www.data360.org/index.aspx>`_
 * `Datamob.org <http://datamob.org/datasets>`_
+* `Enigma Public <https://public.enigma.com/>`_
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
+* `Internet Archive: Archive-It <https://www.archive-it.org/explore?show=Collections>`_
+* `Internet Archive: The Data Collection <https://archive.org/details/datasets>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
 * `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
 * `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
