@@ -560,7 +560,6 @@ Time Series
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
 * `UCI Machine Learning Repository <https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=ts&sort=nameUp&view=table>`_
-* `Million Song Dataset <https://labrosa.ee.columbia.edu/millionsong/>`_
 * `PhysioBank Databases <https://www.physionet.org/physiobank/database/>`_
 
 
