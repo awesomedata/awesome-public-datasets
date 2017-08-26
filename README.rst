@@ -290,7 +290,7 @@ Image Processing
 * `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
-* `Caltech Pedestrian Detection Benchmark <https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
+* `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
 * `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
