@@ -212,6 +212,8 @@ Energy
 * `Tracebase <https://www.tracebase.org>`_
 * `UK-DALE <http://www.doc.ic.ac.uk/~dk3810/data/>`_ - UK Domestic Appliance-Level Electricity
 * `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
+* `Windnode Berliner Stromverteilungsnetz <http://windnode.fokus.fraunhofer.de/dataset>`_
+
 
 
 
