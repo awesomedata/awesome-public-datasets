@@ -4,7 +4,7 @@ Awesome Public Datasets
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
 
-`This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_ in high quality. They
 are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
@@ -17,6 +17,7 @@ Other amazingly awesome lists can be found in the
 Agriculture
 ------------
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
+* `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
 
 
 Biology
@@ -24,8 +25,8 @@ Biology
 
 * `1000 Genomes <http://www.1000genomes.org/data>`_
 * `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
-* `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
+* `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
 * `Cell Image Library <http://www.cellimagelibrary.org>`_
 * `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
 * `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
@@ -45,6 +46,7 @@ Biology
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
 * `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
+* `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_
 * `NIH Microarray data <http://bit.do/VVW6>`_ or `FTP <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 * `OpenSNP genotypes data <https://opensnp.org/>`_
 * `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
@@ -62,13 +64,14 @@ Biology
 * `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
 * `The Personal Genome Project <http://www.personalgenomes.org/>`_ or `PGP <https://my.pgp-hms.org/public_genetic_data>`_
 * `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
-* `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 * `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
 
 
 Climate/Weather
 ---------------
 
+* `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
 * `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
 * `Aviation Weather Center - Consistent, timely and accurate weather information for the world airspace system <https://aviationweather.gov/adds/dataserver>`_
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
@@ -81,6 +84,7 @@ Climate/Weather
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
 * `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
 * `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
+* `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_
 * `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
 * `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
 * `WorldClim - Global Climate Data <http://www.worldclim.org>`_
@@ -93,6 +97,7 @@ Complex Networks
 * `AMiner Citation Network Dataset <http://aminer.org/citation>`_
 * `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
 * `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
+* `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
 * `NBER Patent Citations <http://nber.org/patents/>`_
 * `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
 * `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
@@ -109,12 +114,12 @@ Complex Networks
 * `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
 * `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
 * `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
-* `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
+
 
 Computer Networks
 -----------------
 
-* `3.5B Web Pages from CommonCraw 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
+* `3.5B Web Pages from CommonCrawl 2012 <http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us>`_
 * `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/>`_
 * `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
 * `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
@@ -128,15 +133,10 @@ Computer Networks
 * `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
 
 
-Contextual Data
----------------
-
-* `Context-aware data sets from five domains <http://students.depaul.edu/~yzheng8/DataSets.html#Data>`_ or `GitHub <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
-
-
 Data Challenges
 ---------------
 
+* `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 * `Challenges in Machine Learning <http://www.chalearn.org/>`_
 * `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_
 * `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_
@@ -148,16 +148,15 @@ Data Challenges
 * `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
-* `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
-* `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
+* `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
 
 Earth Science
 -------------
 
 * `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
-* `BODC - marine data of ~22K vars <http://www.bodc.ac.uk/data/where_to_find_data/>`_
+* `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
 * `Earth Models <http://www.earthmodels.org/>`_
 * `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
 * `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ or `on S3 <http://imos-data.s3-website-ap-southeast-2.amazonaws.com/>`_
@@ -191,6 +190,7 @@ Economics
 Education
 ------------
 
+* `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
 
 
@@ -216,7 +216,6 @@ Energy
 
 
 
-
 Finance
 -------
 
@@ -224,17 +223,18 @@ Finance
 * `Google Finance <https://www.google.com/finance>`_
 * `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
 * `NASDAQ <https://data.nasdaq.com/>`_
+* `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 * `OANDA <http://www.oanda.com/>`_
 * `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
 * `Quandl <https://www.quandl.com/>`_
 * `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
 * `Yahoo Finance <http://finance.yahoo.com/>`_
-* `NYSE Market Data <ftp://ftp.nyxdata.com>`_ (see FTP link on `RAW <https://raw.githubusercontent.com/caesar0301/awesome-public-datasets/master/README.rst>`_)
 
 
 GIS
 ---
 
+* `ArcGIS Open Data portal <http://opendata.arcgis.com/>`_
 * `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
 * `Factual Global Location Data <https://www.factual.com/>`_
 * `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
@@ -262,8 +262,9 @@ GIS
 Government
 ----------
 
-* `OpenDataSoft's list of 1,600 open data portals <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
 * `A list of cities and countries contributed by community <https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst>`_
+* `Open Data for Africa <http://opendataforafrica.org/>`_
+* `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
 
 
 Healthcare
@@ -271,6 +272,8 @@ Healthcare
 
 * `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
 * `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
+* `GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_
+* `PhysioBank Databases - a large and growing archive of physiological data <https://www.physionet.org/physiobank/database/>`_
 * `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
@@ -278,7 +281,7 @@ Healthcare
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
-* `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
+* The Cancer Genome Atlas project (TCGA) (refer to `GDC <https://portal.gdc.cancer.gov/>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_)
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
@@ -287,10 +290,14 @@ Image Processing
 
 * `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
 * `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ or `Archive version <https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
+* `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
+* `Caltech Pedestrian Detection Benchmark <https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
 * `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
+* `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
+* `GDXray: X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
 * `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
@@ -299,15 +306,17 @@ Image Processing
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
 * `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
 * `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
-* `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
-* `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
-* `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_
+* `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
 * `Violent-Flows - Crowd Violence \ Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_
+* `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_
+* `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
+
 
 Machine Learning
 ----------------
 
+* `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
 * `Delve Datasets for classification and regression (Univ. of Toronto) <http://www.cs.toronto.edu/~delve/data/datasets.html>`_
 * `Discogs Monthly Data <http://data.discogs.com/>`_
 * `eBay Online Auctions (2012) <http://www.modelingonlineauctions.com/datasets>`_
@@ -316,15 +325,17 @@ Machine Learning
 * `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
+* `Free Music Archive <https://github.com/mdeff/fma>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
-* `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
+* `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
 * `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
+* `Youtube 8m <https://research.google.com/youtube8m/download.html>`_
 
 
 Museums
@@ -342,6 +353,7 @@ Museums
 Natural Language
 ----------------
 
+* `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
 * `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
 * `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
@@ -356,36 +368,36 @@ Natural Language
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
-* `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
 * `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
+* `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
+* `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
 * `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
+* `Universal Dependencies <http://universaldependencies.org>`_
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
+* `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
-* `Universal Dependencies <http://universaldependencies.org>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
-* `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
-* `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
-  
+
 
 Neuroscience
 -------------
 
 * `Allen Institute Datasets <http://www.brain-map.org/>`_
 * `Brain Catalogue <http://braincatalogue.org/>`_
-* `Brainomics <http://brainomics.cea.fr/localizer>`_ 
-* `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ 
+* `Brainomics <http://brainomics.cea.fr/localizer>`_
+* `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_
 * `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
 * `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
-* `Human Connectome Project <http://www.humanconnectome.org/data/>`_ 
+* `Human Connectome Project <http://www.humanconnectome.org/data/>`_
 * `NDAR <https://ndar.nih.gov/>`_
-* `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
 * `NeuroData <http://neurodata.io>`_
+* `Neuroelectro <http://neuroelectro.org/>`_
+* `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
 * `OASIS <http://www.oasis-brains.org/>`_
 * `OpenfMRI <https://openfmri.org/>`_
-* `Neuroelectro <http://neuroelectro.org/>`_
 * `Study Forrest <http://studyforrest.org>`_
 
 Predictive Maintenance
@@ -423,8 +435,8 @@ Public Domains
 * `Archive.org Datasets <https://archive.org/details/datasets>`_
 * `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
+* `Data.World <https://data.world>`_
 * `Data360 <http://www.data360.org/index.aspx>`_
-* `Datamob.org <http://datamob.org/datasets>`_
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
@@ -474,14 +486,15 @@ Social Networks
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
+* `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
 * `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
 * `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
 * `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
-* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 * `Twitter Data for Online Reputation Management <http://nlp.uned.es/replab2013/>`_
+* `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
 * `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
 * `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_
 * `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
@@ -500,11 +513,13 @@ Social Sciences
 * `Datacards <http://datacards.org>`_
 * `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
+* `Fragile States Index <http://fsi.fundforpeace.org/data>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
 * `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
 * `German Social Survey <http://www.gesis.org/en/home/>`_
 * `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
 * `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
+* `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
 * `Institute for Demographic Studies <http://www.ined.fr/en/>`_
 * `International Networks Archive <http://www.princeton.edu/~ina/>`_
 * `International Social Survey Program ISSP <http://www.issp.org>`_
@@ -513,6 +528,7 @@ Social Sciences
 * `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
 * `Minnesota Population Center <https://www.ipums.org/>`_
 * `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_
 * `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
 * `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
@@ -523,12 +539,12 @@ Social Sciences
 * `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
 * `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_ or `on Kaggle <https://www.kaggle.com/c/titanic/data>`_
 * `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
-* `Uppsala Conflict Data Program <http://ucdp.uu.se/>`_
 * `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
 * `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
 * `Universities Worldwide <http://univ.cc/>`_
 * `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
-* `World Bank Data <http://data.worldbank.org/>`_
+* `Uppsala Conflict Data Program <http://ucdp.uu.se/>`_
+* `World Bank Open Data <http://data.worldbank.org/>`_
 * `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
 
 
@@ -548,6 +564,7 @@ Sports
 * `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
 * `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
 * `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
+* `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_, `WTA <https://github.com/JeffSackmann/tennis_wta>`_, `Grand Slams <https://github.com/JeffSackmann/tennis_slam_pointbypoint>`_ and `Match Charting Project <https://github.com/JeffSackmann/tennis_MatchChartingProject>`_
 
 
 Time Series
@@ -570,7 +587,7 @@ Transportation
 * `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
 * `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
-* `Montreal BIXI Bike Share <https://montreal.bixi.com/donn%C3%A9es-libre-service>`_
+* `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
 * `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
@@ -581,7 +598,7 @@ Transportation
 * `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
 * `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
 * `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_
-* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/data-feeds>`_
+* `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-open-data>`_
 * `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
 * `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
 * `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
@@ -593,6 +610,7 @@ Complementary Collections
 
 * `Data Packaged Core Datasets <https://github.com/datasets/>`_
 * `Database of Scientific Code Contributions <https://mozillascience.org/collaborate>`_
+* A growing collection of public datasets: `CoolDatasets. <http://cooldatasets.com/>`_
 * DataWrangling: `Some Datasets Available on the Web <http://www.datawrangling.com/some-datasets-available-on-the-web>`_
 * Inside-r: `Finding Data on the Internet <http://www.inside-r.org/howto/finding-data-internet>`_
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
