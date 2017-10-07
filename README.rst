@@ -543,7 +543,6 @@ Software
 Sports
 ------
 
-* `Basketball (NBA/NCAA/Euro) Player Database and Statistics <http://www.draftexpress.com/stats.php>`_
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
 * `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
