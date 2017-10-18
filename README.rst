@@ -191,7 +191,9 @@ Education
 
 * `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
-
+* `WSJ - Longitudinal Study - Salaries by Type of College <http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Type-sort.html>`_
+* `WSJ - Longitudinal Study - Salaries for Colleges by Major <http://online.wsj.com/public/resources/documents/info-Degrees_that_Pay_you_Back-sort.html>`_
+* `WSJ - Longitudinal Study - Salaries for Colleges by Region <http://online.wsj.com/public/resources/documents/info-Salaries_for_Colleges_by_Region-sort.html>`_
 
 Energy
 ------
