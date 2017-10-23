@@ -148,6 +148,7 @@ Data Challenges
 * `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
 * `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
+* `TunedIT  - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_
 * `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
 
 
@@ -171,6 +172,7 @@ Economics
 * `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
 * `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* `INFORUM - EconData <http://inforumweb.umd.edu/>`_
 * `International Economics Database <http://widukind.cepremap.org/>`_ and `various data tools <https://github.com/Widukind>`_
 * `International Trade Statistics <http://www.econostatistics.co.za/>`_
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
@@ -420,6 +422,7 @@ Public Domains
 * `Amazon <http://aws.amazon.com/datasets/>`_
 * `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
 * `Archive.org Datasets <https://archive.org/details/datasets>`_
+* `Causality Workbench Data Repository <http://www.causality.inf.ethz.ch/repository.php/>`_
 * `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
 * `Data.World <https://data.world>`_
