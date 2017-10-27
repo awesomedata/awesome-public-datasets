@@ -409,6 +409,7 @@ Physics
 * `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
 * `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
+* `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_
 
 
 Psychology/Cognition
