@@ -199,7 +199,7 @@ Energy
 * `AMPds <http://ampds.org/>`_
 * `BLUEd <http://nilm.cmubi.org/>`_
 * `COMBED <http://combed.github.io/>`_
-* `Dataport <https://dataport.pecanstreet.org/>`_
+* `Dataport <https://dataport.cloud/>`_
 * `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
 * `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
 * `EIA <http://www.eia.gov/electricity/data/eia923/>`_
