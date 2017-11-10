@@ -575,7 +575,6 @@ Transportation
 * `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
 * `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
-* `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
 * `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
