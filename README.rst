@@ -292,12 +292,16 @@ Image Processing
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
 * `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
 * `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
+* `DukeMTMC-reID <https://github.com/layumi/DukeMTMC-reID_evaluation/>`_
+* `DukeMTMC-attribute <https://github.com/vana77/DukeMTMC-attribute/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
 * `GDXray: X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
 * `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
 * `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
+* `Market-1501 <http://www.liangzheng.org/Project/project_reid.html>`_
+* `Market-1501-attribute <https://github.com/vana77/Market-1501_Attribute>`_
 * `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_
 * `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
