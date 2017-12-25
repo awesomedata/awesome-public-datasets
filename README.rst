@@ -380,6 +380,7 @@ Natural Language
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
+* `Summary of News Articles <https://www.kaggle.com/sunnysai12345/news-summary>`_
 
 
 Neuroscience
