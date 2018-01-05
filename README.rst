@@ -427,6 +427,7 @@ Public Domains
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
 * `Data.World <https://data.world>`_
 * `Data360 <http://www.data360.org/index.aspx>`_
+* `Enigma Public <https://public.enigma.com/>`_
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
