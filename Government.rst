@@ -51,20 +51,24 @@ Government
 * `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
 * `Los Angeles Open Data <https://data.lacity.org/>`_
 * `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
+* `Metropolitain Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_
 * `Mexico <http://catalogo.datos.gob.mx/dataset>`_
 * `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
 * `Moldova <http://data.gov.md/>`_
 * `Moncton, NB, Canada <http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue.htm>`_
+* `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_
 * `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
 * `Netherlands <https://data.overheid.nl/>`_
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
 * `NYC betanyc <http://betanyc.us/>`_
 * `NYC Open Data <https://nycplatform.socrata.com/>`_
+* `Oakland, California, US <https://data.oaklandnet.com/>`_
 * `OECD <https://data.oecd.org/>`_
 * `Oklahoma <https://data.ok.gov/>`_
 * `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
 * `Oregon <https://data.oregon.gov/>`_
 * `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
+* `Palo Alto, California, US <http://data.cityofpaloalto.org/home>`_
 * `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
 * `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
 * `Puerto Rico Government <https://data.pr.gov//>`_
@@ -75,6 +79,8 @@ Government
 * `Romania <http://data.gov.ro/>`_
 * `Russia <http://data.gov.ru>`_
 * `San Francisco Data sets <http://datasf.org/>`_
+* `San Jose, California, US <http://data.sanjoseca.gov/home/>`_
+* `San Mateo County, California, US <https://data.smcgov.org/>`_
 * `Saskatchewan, Province of Canada <http://opendatask.ca/data/>`_
 * `Seattle <https://data.seattle.gov/>`_
 * `Singapore Government Data <https://data.gov.sg/>`_
@@ -89,8 +95,8 @@ Government
 * `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
 * `Tunisia <http://www.data.gov.tn/>`_
 * `U.K. Government Data <http://data.gov.uk/data>`_
-* `U.S. American Community Survey <http://www.census.gov/acs/www/data_documentation/data_release_info/>`_
-* `U.S. CDC Public Health datasets <http://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
+* `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
+* `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
 * `U.S. Census Bureau <http://www.census.gov/data.html>`_
 * `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
 * `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
@@ -102,6 +108,7 @@ Government
 * `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
 * `United Nations <http://data.un.org/>`_
 * `Uruguay <https://catalogodatos.gub.uy/>`_
+* `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 * `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
 * `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_

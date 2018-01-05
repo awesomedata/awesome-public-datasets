@@ -4,7 +4,7 @@ Awesome Public Datasets
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
 
-`This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_ in high quality. They
 are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
@@ -199,7 +199,6 @@ Energy
 * `AMPds <http://ampds.org/>`_
 * `BLUEd <http://nilm.cmubi.org/>`_
 * `COMBED <http://combed.github.io/>`_
-* `Dataport <https://dataport.pecanstreet.org/>`_
 * `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
 * `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
 * `EIA <http://www.eia.gov/electricity/data/eia923/>`_
@@ -269,6 +268,8 @@ Healthcare
 
 * `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
 * `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
+* `GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_
+* `PhysioBank Databases - a large and growing archive of physiological data <https://www.physionet.org/physiobank/database/>`_
 * `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
@@ -276,7 +277,7 @@ Healthcare
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
-* `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
+* The Cancer Genome Atlas project (TCGA) (refer to `GDC <https://portal.gdc.cancer.gov/>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_)
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
@@ -288,7 +289,7 @@ Image Processing
 * `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
 * `Affective Image Classification <http://www.imageemotion.org/>`_
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
-* `Caltech Pedestrian Detection Benchmark <https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
+* `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
 * `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
 * `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
@@ -326,7 +327,7 @@ Machine Learning
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
 * `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
 * `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
-* `Registered Meteorites on Earth <http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized>`_
+* `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_
 * `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
@@ -348,7 +349,8 @@ Museums
 Natural Language
 ----------------
 
-* `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
+* `POS/NER/Chunk annotated data <https://github.com/aritter/twitter_nlp/tree/master/data/annotated>`_
+* `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
 * `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
 * `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
@@ -363,12 +365,15 @@ Natural Language
 * `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
 * `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html>`_
 * `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
+* `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_
+* `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_
 * `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
 * `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
 * `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
 * `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
 * `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
 * `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
+* `Stanford Question Answering Dataset (SQuAD) <https://rajpurkar.github.io/SQuAD-explorer/>`_
 * `Universal Dependencies <http://universaldependencies.org>`_
 * `USENET postings corpus of 2005~2011 <http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html>`_
 * `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_
@@ -422,7 +427,6 @@ Public Domains
 * `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
 * `Data.World <https://data.world>`_
 * `Data360 <http://www.data360.org/index.aspx>`_
-* `Datamob.org <http://datamob.org/datasets>`_
 * `Google <http://www.google.com/publicdata/directory>`_
 * `Infochimps <http://www.infochimps.com/>`_
 * `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
@@ -472,6 +476,7 @@ Social Networks
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
 * `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
 * `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
+* `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
 * `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
 * `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
@@ -541,7 +546,6 @@ Software
 Sports
 ------
 
-* `Basketball (NBA/NCAA/Euro) Player Database and Statistics <http://www.draftexpress.com/stats.php>`_
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
 * `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
 * `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
@@ -571,7 +575,6 @@ Transportation
 * `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
 * `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
 * `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
-* `Marine Traffic - ship tracks, port calls and more <http://www.marinetraffic.com/de/ais-api-services>`_
 * `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
 * `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
 * `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
