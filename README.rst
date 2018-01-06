@@ -543,6 +543,7 @@ Software
 --------
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+* `Libraries.io Open Source Repository and Dependency Metadata <https://zenodo.org/record/808273>`_
 
 Sports
 ------
