@@ -503,6 +503,7 @@ Social Sciences
 * `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
 * `Datacards <http://datacards.org>`_
 * `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
+* `Earth Policy Institute <http://www.earth-policy.org/data_center/>`_
 * `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
 * `Fragile States Index <http://fsi.fundforpeace.org/data>`_
 * `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
