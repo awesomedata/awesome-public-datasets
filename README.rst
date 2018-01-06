@@ -176,6 +176,7 @@ Economics
 * `Internet Product Code Database <http://www.upcdatabase.com/>`_
 * `Joint External Debt Data Hub <http://www.jedh.org/>`_
 * `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* `New Zealand Institute of Economic Research Data1850 <https://data1850.nz/>`_
 * `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
 * `Our World in Data <http://ourworldindata.org/>`_
 * `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
