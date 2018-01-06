@@ -471,6 +471,7 @@ Social Networks
 * `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
 * `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
 * `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_
+* `Facebook Comment Volume Data (2015) <http://archive.ics.uci.edu/ml/datasets/Facebook+Comment+Volume+Dataset>`_
 * `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
 * `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
 * `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
