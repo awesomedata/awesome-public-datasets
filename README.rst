@@ -332,7 +332,7 @@ Machine Learning
 * `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
 * `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
 * `Youtube 8m <https://research.google.com/youtube8m/download.html>`_
-
+* `RateBeer Reviews <https://s3.amazonaws.com/demo-datasets/beer_reviews.tar.gz>`_
 
 Museums
 -------
