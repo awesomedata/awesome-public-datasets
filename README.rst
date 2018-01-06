@@ -561,7 +561,7 @@ Time Series
 -----------
 
 * `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
-* `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
+* `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_ (`and here are some tools doing some preprocessing <https://github.com/KOLANICH/backblaze_analytics>`_)
 * `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
 * `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
 * `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
