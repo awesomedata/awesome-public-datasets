@@ -112,3 +112,4 @@ Government
 * `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
 * `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
 * `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
+* `Haldimand County, Ontario, Canada <http://opendata.haldimandcounty.on.ca/>`_
