@@ -44,6 +44,7 @@ Biology
 * `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
 * `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
 * `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
+* `NCBI Genome <https://www.ncbi.nlm.nih.gov/genome/>`_
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
 * `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
 * `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_
