@@ -543,6 +543,7 @@ Software
 --------
 
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+* `Unofficial GitHub datasets - commits, repositories, source code <https://data.world/vmarkovtsev>`_
 
 Sports
 ------
