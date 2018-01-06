@@ -78,6 +78,7 @@ Climate/Weather
 * `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
 * `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
+* `DWD Climate Data Center (CDC) - Deutscher Wetterdienst ftp://ftp-cdc.dwd.de/pub/CDC/ <ftp://ftp-cdc.dwd.de/pub/CDC/>`_
 * `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
 * `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
 * `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
@@ -210,6 +211,8 @@ Energy
 * `Tracebase <https://www.tracebase.org>`_
 * `UK-DALE <http://www.doc.ic.ac.uk/~dk3810/data/>`_ - UK Domestic Appliance-Level Electricity
 * `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
+* `Windnode Berliner Stromverteilungsnetz <http://windnode.fokus.fraunhofer.de/dataset>`_
+
 
 
 Finance
@@ -399,6 +402,16 @@ Neuroscience
 * `OASIS <http://www.oasis-brains.org/>`_
 * `OpenfMRI <https://openfmri.org/>`_
 * `Study Forrest <http://studyforrest.org>`_
+
+Predictive Maintenance
+-------
+
+* `kaggle Bosch Production Line Performance <https://www.kaggle.com/c/bosch-production-line-performance>`_
+* `kaggle Predictive Maintenance <https://www.kaggle.com/ludobenistant/predictive-maintenance>`_
+* `PHM Society Conference Data Challenge 2011 <https://www.phmsociety.org/competition/phm/11>`_
+* `Prognostics Data Repository <https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/>`_
+* `SQL R Services: Predictive Maintenance Modeling Guide <https://github.com/Microsoft/SQL-Server-R-Services-Samples/tree/master/PredictiveMaintanenceModelingGuide>`_
+* `CERN Open Data Portal <http://opendata.cern.ch/>`_
 
 
 Physics
