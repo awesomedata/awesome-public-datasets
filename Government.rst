@@ -104,6 +104,7 @@ Government
 * `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
 * `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
 * `U.S. Open Government <http://www.data.gov/open-gov/>`_
+* `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
 * `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
 * `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
 * `United Nations <http://data.un.org/>`_
