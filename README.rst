@@ -459,6 +459,7 @@ Search Engines
 * `National Technical Reports Library <http://www.ntis.gov/products/ntrl/>`_
 * `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
 * `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
+* `PodcastSummaries - A dataset for analyzing query biased summaries of podcasts <http://damiano.github.io/podcastsummaries/>`_
 * `Statista.com - statistics and Studies <http://www.statista.com/>`_
 * `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
 
