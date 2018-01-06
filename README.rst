@@ -126,6 +126,7 @@ Computer Networks
 * `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_
 * `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
 * `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
+* `Domains-Index Free Datasets - 100K Registered domain names <https://domains-index.com/downloads/category/free/>`_
 * `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
 * `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
 * `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
