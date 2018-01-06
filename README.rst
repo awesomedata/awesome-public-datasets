@@ -380,6 +380,7 @@ Natural Language
 * `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_
 * `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
 * `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
+* `Dialog System Technology Challenges 6 (DSTC6) <http://workshop.colips.org/dstc6/call.html>`_ 
 
 
 Neuroscience
