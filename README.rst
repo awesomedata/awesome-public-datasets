@@ -310,7 +310,7 @@ Image Processing
 
 Audio Processing
 ----------------
-* _`Detection and Classification of Acoustic Sounds and Events <http://www.cs.tut.fi/sgn/arg/dcase2017/challenge/>`_
+* _`Detection and Classification of Acoustic Sounds and Events 2017 - DCASE 2017 <http://www.cs.tut.fi/sgn/arg/dcase2017/challenge/>`_
 
 Machine Learning
 ----------------
