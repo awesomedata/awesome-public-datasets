@@ -308,6 +308,9 @@ Image Processing
 * `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_
 * `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
 
+Audio Processing
+----------------
+* _`Detection and Classification of Acoustic Sounds and Events 2017 - DCASE 2017 <http://www.cs.tut.fi/sgn/arg/dcase2017/challenge/>`_
 
 Machine Learning
 ----------------
