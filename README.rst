@@ -25,14 +25,14 @@ Other amazingly awesome lists can be found in the
 
     
 Agriculture
------------ contribute
+-----------
         
 * `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
         
 * `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
     
 Biology
-------- contribute
+-------
         
 * `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
         
@@ -121,7 +121,7 @@ Biology
 * `1000 Genomes <http://www.1000genomes.org/data>`_
     
 Climate+Weather
---------------- contribute
+---------------
         
 * `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
@@ -158,7 +158,7 @@ Climate+Weather
 * `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_
     
 ComplexNetworks
---------------- contribute
+---------------
         
 * `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
@@ -201,7 +201,7 @@ ComplexNetworks
 * `AMiner Citation Network Dataset <http://aminer.org/citation>`_
     
 ComputerNetworks
----------------- contribute
+----------------
         
 * `53.5B Web clicks of 100K users in Indiana Univ. <http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/>`_
         
@@ -228,7 +228,7 @@ ComputerNetworks
 * `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_
     
 DataChallenges
--------------- contribute
+--------------
         
 * `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
         
@@ -259,7 +259,7 @@ DataChallenges
 * `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
     
 EarthScience
------------- contribute
+------------
         
 * `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
         
@@ -278,7 +278,7 @@ EarthScience
 * `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
     
 Economics
---------- contribute
+---------
         
 * `The Center for International Data <http://cid.econ.ucdavis.edu>`_
         
@@ -315,14 +315,14 @@ Economics
 * `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
     
 Education
---------- contribute
+---------
         
 * `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_
         
 * `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
     
 Energy
------- contribute
+------
         
 * `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_
         
@@ -353,7 +353,7 @@ Energy
 * `REDD <http://redd.csail.mit.edu/>`_
     
 Finance
-------- contribute
+-------
         
 * `NASDAQ <https://data.nasdaq.com/>`_
         
@@ -376,7 +376,7 @@ Finance
 * `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
     
 GIS
---- contribute
+---
         
 * `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -425,7 +425,7 @@ GIS
 * `World countries in multiple formats <https://github.com/mledoze/countries>`_
     
 Government
----------- contribute
+----------
         
 * `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
         
@@ -652,7 +652,7 @@ Government
 * `Taiwan <http://data.gov.tw/>`_
     
 Healthcare
----------- contribute
+----------
         
 * `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
@@ -681,7 +681,7 @@ Healthcare
 * `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
     
 ImageProcessing
---------------- contribute
+---------------
         
 * `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
         
@@ -730,7 +730,7 @@ ImageProcessing
 * `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
     
 MachineLearning
---------------- contribute
+---------------
         
 * `Discogs Monthly Data <http://data.discogs.com/>`_
         
@@ -773,7 +773,7 @@ MachineLearning
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
     
 Museums
-------- contribute
+-------
         
 * `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
         
@@ -790,7 +790,7 @@ Museums
 * `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
     
 NaturalLanguage
---------------- contribute
+---------------
         
 * `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_
         
@@ -855,7 +855,7 @@ NaturalLanguage
 * `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
     
 Neuroscience
------------- contribute
+------------
         
 * `Human Connectome Project <http://www.humanconnectome.org/data/>`_
         
@@ -886,7 +886,7 @@ Neuroscience
 * `Study Forrest <http://studyforrest.org>`_
     
 Physics
-------- contribute
+-------
         
 * `CERN Open Data Portal <http://opendata.cern.ch/>`_
         
@@ -899,12 +899,12 @@ Physics
 * `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_
     
 Psychology+Cognition
--------------------- contribute
+--------------------
         
 * `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
     
 PublicDomains
-------------- contribute
+-------------
         
 * `Google <http://www.google.com/publicdata/directory>`_
         
@@ -957,7 +957,7 @@ PublicDomains
 * `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
     
 SearchEngines
-------------- contribute
+-------------
         
 * `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
@@ -982,7 +982,7 @@ SearchEngines
 * `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
     
 SocialNetworks
--------------- contribute
+--------------
         
 * `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
         
@@ -1035,7 +1035,7 @@ SocialNetworks
 * `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
     
 SocialSciences
--------------- contribute
+--------------
         
 * `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
         
@@ -1120,12 +1120,12 @@ SocialSciences
 * `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
     
 Software
--------- contribute
+--------
         
 * `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
     
 Sports
------- contribute
+------
         
 * `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
@@ -1144,7 +1144,7 @@ Sports
 * `Betfair Historical Exchange Data <http://data.betfair.com/>`_
     
 TimeSeries
----------- contribute
+----------
         
 * `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
         
@@ -1157,7 +1157,7 @@ TimeSeries
 * `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
     
 Transportation
--------------- contribute
+--------------
         
 * `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
         
