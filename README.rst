@@ -15,9 +15,7 @@ to contribute to Awesome Public Datasets. The original PR entrance directly on r
 `This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
-Other amazingly awesome lists can be found in the
-`awesome-awesomeness <https://github.com/bayandin/awesome-awesomeness>`_ and
-`sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
+Other amazingly awesome lists can be found in `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
 
 
 .. contents:: Table of Contents
