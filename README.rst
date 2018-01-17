@@ -219,6 +219,8 @@ ComputerNetworks
         
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
+        
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
 * |OK_ICON| `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
@@ -256,6 +258,8 @@ DataChallenges
         
 * |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
         
+* |OK_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_
+        
 * |OK_ICON| `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
     
 EarthScience
@@ -287,6 +291,8 @@ Economics
 * |FIXME_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
         
 * |OK_ICON| `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+        
+* |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
 * |OK_ICON| `International Economics Database <http://widukind.cepremap.org/>`_
         
@@ -609,7 +615,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
@@ -636,6 +642,8 @@ Government
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
 * |FIXME_ICON| `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
+        
+* |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
@@ -814,7 +822,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
@@ -924,7 +932,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1039,7 +1047,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
