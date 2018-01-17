@@ -14,7 +14,7 @@ Please **DO NOT** modify this file directly. We have provided
 to contribute to Awesome Public Datasets. The original PR entrance directly on repo is closed forever.
 
 
-`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of a topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in `sindresorhus's awesome <https://github.com/sindresorhus/awesome>`_ list.
@@ -577,7 +577,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
+* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -609,7 +609,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
@@ -674,7 +674,7 @@ Healthcare
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
         
-* |FIXME_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
+* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
         
@@ -814,7 +814,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
@@ -924,7 +924,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1039,7 +1039,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
@@ -1101,7 +1101,7 @@ SocialSciences
         
 * |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
-* |OK_ICON| `Titanic Survival Data Set <https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets>`_
+* |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
         
 * |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
         
