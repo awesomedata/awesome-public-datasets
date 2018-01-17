@@ -455,7 +455,7 @@ Government
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
         
-* |FIXME_ICON| `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
+* |OK_ICON| `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
@@ -577,7 +577,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
+* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -674,7 +674,7 @@ Healthcare
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
         
-* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
+* |FIXME_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
         
@@ -703,7 +703,7 @@ ImageProcessing
         
 * |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
-* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
+* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
         
@@ -721,7 +721,7 @@ ImageProcessing
         
 * |OK_ICON| `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_
         
-* |FIXME_ICON| `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
+* |OK_ICON| `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_
         
@@ -871,9 +871,9 @@ Neuroscience
         
 * |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_
         
-* |FIXME_ICON| `NDAR <https://ndar.nih.gov/>`_
+* |OK_ICON| `NDAR <https://ndar.nih.gov/>`_
         
-* |FIXME_ICON| `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
+* |OK_ICON| `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
         
 * |OK_ICON| `NeuroData <http://neurodata.io>`_
         
@@ -924,7 +924,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
