@@ -485,7 +485,7 @@ Government
         
 * |OK_ICON| `EveryPolitician - Ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`_
         
-* |OK_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
+* |FIXME_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
         
 * |OK_ICON| `Finland <https://www.opendata.fi/en>`_
         
@@ -585,7 +585,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
+* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -605,7 +605,7 @@ Government
         
 * |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
         
-* |FIXME_ICON| `South Africa <http://beta2.statssa.gov.za/>`_
+* |OK_ICON| `South Africa <http://beta2.statssa.gov.za/>`_
         
 * |OK_ICON| `State of Utah, US <https://opendata.utah.gov/>`_
         
@@ -828,7 +828,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
