@@ -708,7 +708,8 @@ ImageProcessing
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
-        
+
+* |OK_ICON| `DukeMTMC-reID Pedestrian Re-identification Benchmark <https://github.com/layumi/DukeMTMC-reID_evaluation/>`_       
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
 * |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
