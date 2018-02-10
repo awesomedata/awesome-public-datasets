@@ -13,6 +13,8 @@ Please **DO NOT** modify this file directly. We have provided
 `a new way <https://github.com/awesomedata/apd-core/wiki/HOW_TO_CONTRIBUTE-%E5%A6%82%E4%BD%95%E8%B4%A1%E7%8C%AE>`_
 to contribute to Awesome Public Datasets. The original PR entrance directly on repo is closed forever.
 
+* |OK_ICON| I am well.
+* |FIXME_ICON| Please fix me.
 
 `This list of a topic-centric public data sources <https://github.com/awesomedata/awesome-public-datasets>`_
 in high quality. They are collected and tidied from blogs, answers, and user responses.
@@ -209,7 +211,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
         
-* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
+* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
         
@@ -388,7 +390,7 @@ GIS
         
 * |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
         
-* |OK_ICON| `Factual Global Location Data <https://www.factual.com/>`_
+* |FIXME_ICON| `Factual Global Location Data <https://www.factual.com/>`_
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
         
@@ -455,7 +457,7 @@ Government
         
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
-* |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
+* |FIXME_ICON| `Brazil <http://dados.gov.br/dataset>`_
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
         
@@ -485,7 +487,7 @@ Government
         
 * |OK_ICON| `EveryPolitician - Ongoing project collating and sharing data on every politician. <http://everypolitician.org/>`_
         
-* |FIXME_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
+* |OK_ICON| `FedStats <http://fedstats.sites.usa.gov/>`_
         
 * |OK_ICON| `Finland <https://www.opendata.fi/en>`_
         
@@ -617,9 +619,9 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
-* |OK_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
+* |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
 * |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
@@ -647,7 +649,7 @@ Government
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
-* |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
+* |FIXME_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
@@ -713,7 +715,7 @@ ImageProcessing
         
 * |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
         
-* |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
+* |FIXME_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
 * |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
@@ -877,7 +879,7 @@ Neuroscience
         
 * |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
         
-* |OK_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_
+* |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_
         
 * |OK_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
         
@@ -940,7 +942,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
