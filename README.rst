@@ -1081,7 +1081,7 @@ SocialSciences
         
 * |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
         
-* |FIXME_ICON| `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
+* |FIXME_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
         
 * |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
         
