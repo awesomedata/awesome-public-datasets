@@ -76,6 +76,8 @@ Biology
         
 * |OK_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
         
+* |OK_ICON| `KEGG: Kyoto Encyclopedia of Genes and Genomes <http://www.genome.jp/kegg/>`_
+
 * |OK_ICON| `MIT Cancer Genomics Data <http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi>`_
         
 * |OK_ICON| `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
