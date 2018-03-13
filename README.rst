@@ -499,7 +499,7 @@ Government
         
 * |OK_ICON| `Germany <https://www-genesis.destatis.de/genesis/online>`_
         
-* |FIXME_ICON| `Ghent, Belgium <https://data.stad.gent/datasets>`_
+* |FIXME_ICON| `Ghent, Belgium <https://data.stad.gent/data>`_
         
 * |FIXME_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
         
