@@ -659,7 +659,7 @@ Government
         
 * |OK_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
         
-* |FIXME_ICON| `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
+* |FIXME_ICON| `Victoria, BC, Canada <http://www.victoria.ca/EN/main/online-services/open-data-catalogue.html>`_
         
 * |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
     
