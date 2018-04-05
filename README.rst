@@ -404,7 +404,7 @@ GIS
         
 * |OK_ICON| `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
         
-* |OK_ICON| `Homeland Infrastructure Foundation-Level Data <https://hifld-dhs-gii.opendata.arcgis.com/>`_
+* |OK_ICON| `Homeland Infrastructure Foundation-Level Data <https://hifld-geoplatform.opendata.arcgis.com/>`_
         
 * |OK_ICON| `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
         
@@ -619,7 +619,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
