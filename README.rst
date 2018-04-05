@@ -627,7 +627,7 @@ Government
         
 * |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
-* |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
+* |OK_ICON| `Toronto, ON, Canada <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/>`_
         
 * |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
