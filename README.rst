@@ -137,13 +137,13 @@ Climate+Weather
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
         
-* |OK_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
+* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
 * |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
         
-* |FIXME_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
+* |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
         
 * |OK_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
         
@@ -166,7 +166,7 @@ ComplexNetworks
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
-* |OK_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
+* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
 * |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
@@ -457,7 +457,7 @@ Government
         
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
-* |FIXME_ICON| `Brazil <http://dados.gov.br/dataset>`_
+* |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
         
@@ -465,7 +465,7 @@ Government
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
         
-* |OK_ICON| `Canada <http://open.canada.ca/en?lang=En&n=5BCD274E-1>`_
+* |OK_ICON| `Canada <http://open.canada.ca/>`_
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
@@ -501,7 +501,7 @@ Government
         
 * |FIXME_ICON| `Ghent, Belgium <https://data.stad.gent/datasets>`_
         
-* |FIXME_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
+* |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
         
 * |OK_ICON| `Greece <http://www.data.gov.gr/>`_
         
@@ -619,7 +619,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
@@ -649,7 +649,7 @@ Government
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
-* |FIXME_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
+* |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
@@ -715,7 +715,7 @@ ImageProcessing
         
 * |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
         
-* |FIXME_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
+* |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
 * |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
@@ -828,9 +828,9 @@ NaturalLanguage
         
 * |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset using Paragraph Vectors <https://github.com/google/mcafp>`_
         
-* |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
+* |FIXME_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
@@ -868,7 +868,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_
         
-* |OK_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
+* |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
     
 Neuroscience
 ------------
@@ -946,7 +946,7 @@ PublicDomains
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
-* |OK_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
+* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
         
@@ -1026,7 +1026,7 @@ SocialNetworks
         
 * |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
         
-* |OK_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
+* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
@@ -1081,7 +1081,7 @@ SocialSciences
         
 * |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
         
-* |FIXME_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
+* |FIXME_ICON| `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
         
 * |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
         
