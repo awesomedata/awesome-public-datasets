@@ -2,8 +2,8 @@ Awesome Public Datasets
 =======================
 
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-:alt: Awesome
-:target: https://github.com/sindresorhus/awesome
+   :alt: Awesome
+   :target: https://github.com/sindresorhus/awesome
 
 
 .. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
@@ -87,7 +87,7 @@ Biology
         
 * |OK_ICON| `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `NIH Microarray data <http://bit.do/VVW6>`_ [`fixme <None>`_]
+* |FIXME_ICON| `NIH Microarray data <http://bit.do/VVW6>`_
         
 * |OK_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_ [`fixme <None>`_]
         
@@ -107,7 +107,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_ [`fixme <None>`_]
         
@@ -140,7 +140,7 @@ Climate+Weather
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`fixme <None>`_]
         
@@ -169,7 +169,7 @@ ComplexNetworks
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_ [`fixme <None>`_]
+* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
 * |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_ [`fixme <None>`_]
         
@@ -197,7 +197,7 @@ ComplexNetworks
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `The Nexus Network Repository <http://nexus.igraph.org/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `The Nexus Network Repository <http://nexus.igraph.org/>`_
         
 * |OK_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_ [`fixme <None>`_]
         
@@ -243,11 +243,11 @@ DataChallenges
         
 * |OK_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`fixme <None>`_]
+* |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_
         
 * |OK_ICON| `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `ICWSM Data Challenge (since 2009) <http://icwsm.cs.umbc.edu/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `ICWSM Data Challenge (since 2009) <http://icwsm.cs.umbc.edu/>`_
         
 * |OK_ICON| `KDD Cup by Tencent 2012 <http://www.kddcup2012.org/>`_ [`fixme <None>`_]
         
@@ -293,7 +293,7 @@ Economics
         
 * |OK_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
         
 * |OK_ICON| `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_ [`fixme <None>`_]
         
@@ -351,7 +351,7 @@ Energy
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
         
 * |OK_ICON| `REDD <http://redd.csail.mit.edu/>`_ [`fixme <None>`_]
         
@@ -366,7 +366,7 @@ Energy
 Finance
 -------
         
-* |FIXME_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/Data/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/Data/>`_
         
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`fixme <None>`_]
         
@@ -393,7 +393,7 @@ GIS
         
 * |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Factual Global Location Data <https://www.factual.com/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Factual Global Location Data <https://www.factual.com/>`_
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_ [`fixme <None>`_]
         
@@ -405,7 +405,7 @@ GIS
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_
         
 * |OK_ICON| `Homeland Infrastructure Foundation-Level Data <https://hifld-geoplatform.opendata.arcgis.com/>`_ [`fixme <None>`_]
         
@@ -425,7 +425,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_ [`fixme <None>`_]
         
@@ -433,7 +433,7 @@ GIS
         
 * |OK_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_ [`fixme <None>`_]
+* |FIXME_ICON| `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_
         
 * |OK_ICON| `World countries in multiple formats <https://github.com/mledoze/countries>`_ [`fixme <None>`_]
     
@@ -464,7 +464,7 @@ Government
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_ [`fixme <None>`_]
         
@@ -510,13 +510,13 @@ Government
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Halifax, NS, Canada <http://www.halifax.ca/opendata/index.php>`_
         
 * |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_ [`fixme <None>`_]
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Houston Open Data <http://data.ohouston.org>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Houston Open Data <http://data.ohouston.org>`_
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_ [`fixme <None>`_]
         
@@ -554,7 +554,7 @@ Government
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `NYC Open Data <https://nycplatform.socrata.com/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `NYC Open Data <https://nycplatform.socrata.com/>`_
         
 * |OK_ICON| `NYC betanyc <http://betanyc.us/>`_ [`fixme <None>`_]
         
@@ -592,7 +592,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_ [`fixme <None>`_]
         
@@ -628,7 +628,7 @@ Government
         
 * |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_
         
 * |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <None>`_]
         
@@ -652,7 +652,7 @@ Government
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `UK 2011 Census Open Atlas Project <http://www.alex-singleton.com/r/2014/02/05/2011-census-open-atlas-project-version-two/>`_
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_ [`fixme <None>`_]
         
@@ -666,7 +666,7 @@ Government
         
 * |OK_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_
         
 * |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_ [`fixme <None>`_]
     
@@ -689,7 +689,7 @@ Healthcare
         
 * |OK_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
         
 * |OK_ICON| `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_ [`fixme <None>`_]
         
@@ -708,7 +708,7 @@ ImageProcessing
         
 * |OK_ICON| `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_
         
 * |OK_ICON| `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_ [`fixme <None>`_]
         
@@ -738,7 +738,7 @@ ImageProcessing
         
 * |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_
         
 * |OK_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_ [`fixme <None>`_]
         
@@ -785,11 +785,11 @@ MachineLearning
         
 * |OK_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_
         
 * |OK_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
         
 * |OK_ICON| `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_ [`fixme <None>`_]
         
@@ -849,7 +849,7 @@ NaturalLanguage
         
 * |OK_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_
         
 * |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`fixme <None>`_]
         
@@ -877,7 +877,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/wordnet/download/>`_
     
 Neuroscience
 ------------
@@ -888,7 +888,7 @@ Neuroscience
         
 * |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_
         
 * |OK_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_ [`fixme <None>`_]
         
@@ -928,7 +928,7 @@ Physics
 Psychology+Cognition
 --------------------
         
-* |FIXME_ICON| `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_ [`fixme <None>`_]
+* |FIXME_ICON| `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_
     
 PublicDomains
 -------------
@@ -951,15 +951,15 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_ [`fixme <None>`_]
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Numbray <http://numbrary.com/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Numbray <http://numbrary.com/>`_
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`fixme <None>`_]
         
@@ -971,7 +971,7 @@ PublicDomains
         
 * |OK_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Stats4Stem R data sets <http://www.stats4stem.org/data-sets.html>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Stats4Stem R data sets <http://www.stats4stem.org/data-sets.html>`_
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_ [`fixme <None>`_]
         
@@ -981,7 +981,7 @@ PublicDomains
         
 * |OK_ICON| `Wikileaks 911 pager intercepts <https://911.wikileaks.org/files/index.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_
     
 SearchEngines
 -------------
@@ -998,7 +998,7 @@ SearchEngines
         
 * |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `National Technical Reports Library <http://www.ntis.gov/products/ntrl/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `National Technical Reports Library <http://www.ntis.gov/products/ntrl/>`_
         
 * |OK_ICON| `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_ [`fixme <None>`_]
         
@@ -1035,7 +1035,7 @@ SocialNetworks
         
 * |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`fixme <None>`_]
         
@@ -1053,11 +1053,11 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`fixme <None>`_]
     
@@ -1072,15 +1072,15 @@ SocialSciences
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`fixme <None>`_]
+* |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Datacards <http://datacards.org>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Datacards <http://datacards.org>`_
         
 * |OK_ICON| `European Social Survey <http://www.europeansocialsurvey.org/data/>`_ [`fixme <None>`_]
         
 * |OK_ICON| `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Fragile States Index <http://fsi.fundforpeace.org/data>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Fragile States Index <http://fsi.fundforpeace.org/data>`_
         
 * |OK_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_ [`fixme <None>`_]
         
@@ -1090,7 +1090,7 @@ SocialSciences
         
 * |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_
         
 * |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`fixme <None>`_]
         
@@ -1118,7 +1118,7 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/datasets/pages/2/>`_
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`fixme <None>`_]
         
@@ -1134,7 +1134,7 @@ SocialSciences
         
 * |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_ [`fixme <None>`_]
+* |FIXME_ICON| `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_
         
 * |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`fixme <None>`_]
         
@@ -1216,7 +1216,7 @@ Transportation
         
 * |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_ [`fixme <None>`_]
         
@@ -1224,7 +1224,7 @@ Transportation
         
 * |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_ [`fixme <None>`_]
         
-* |FIXME_ICON| `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_ [`fixme <None>`_]
+* |FIXME_ICON| `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_
         
 * |OK_ICON| `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-open-data>`_ [`fixme <None>`_]
         
