@@ -347,6 +347,8 @@ Energy
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
         
+* |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_
+        
 * |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
@@ -632,7 +634,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |FIXME_ICON| `Toronto, ON, Canada <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=1a66e03bb8d1e310VgnVCM10000071d60f89RCRD>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
@@ -1095,6 +1097,8 @@ SocialSciences
 * |OK_ICON| `German Social Survey <http://www.gesis.org/en/home/>`_
         
 * |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
+        
+* |OK_ICON| `Gun Violence Data - A comprehensive, accessible database that contains [...] <https://github.com/jamesqo/gun-violence-data>`_
         
 * |FIXME_ICON| `Humanitarian Data Exchange <https://data.hdx.rwlabs.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Humanitarian-Data-Exchange.yml>`_]
         
