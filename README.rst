@@ -347,8 +347,6 @@ Energy
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
         
-* |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_
-        
 * |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
@@ -1074,7 +1072,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
