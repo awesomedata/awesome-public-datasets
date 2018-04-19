@@ -201,7 +201,7 @@ ComplexNetworks
         
 * |OK_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
         
-* |FIXME_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UFL-sparse-matrix-collection.yml>`_]
+* |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
         
 * |OK_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
     
@@ -346,6 +346,8 @@ Energy
 * |OK_ICON| `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
+        
+* |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_
         
 * |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_
         
@@ -582,6 +584,8 @@ Government
         
 * |OK_ICON| `Palo Alto, California, US <http://data.cityofpaloalto.org/home>`_
         
+* |OK_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_
+        
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
         
 * |OK_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
@@ -590,15 +594,17 @@ Government
         
 * |OK_ICON| `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
         
-* |OK_ICON| `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_
+* |FIXME_ICON| `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`_]
+* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
 * |OK_ICON| `Russia <http://data.gov.ru>`_
+        
+* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
         
@@ -634,7 +640,7 @@ Government
         
 * |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
-* |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
+* |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
         
 * |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
         
@@ -750,7 +756,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_
         
 * |OK_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
     
@@ -965,7 +971,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1168,7 +1174,7 @@ Sports
         
 * |OK_ICON| `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
-* |OK_ICON| `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
+* |FIXME_ICON| `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
         
