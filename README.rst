@@ -1136,8 +1136,6 @@ SocialSciences
         
 * |OK_ICON| `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
         
-* |OK_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
-        
 * |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
 * |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
