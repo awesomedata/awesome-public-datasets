@@ -546,7 +546,7 @@ Government
         
 * |OK_ICON| `Metropolitain Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_
         
-* |OK_ICON| `Mexico <http://catalogo.datos.gob.mx/dataset>`_
+* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_
         
 * |OK_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
         
