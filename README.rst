@@ -85,7 +85,7 @@ Biology
         
 * |OK_ICON| `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
         
-* |OK_ICON| `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_
+* |FIXME_ICON| `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NCI-Genomic-Data-Commons.yml>`_]
         
 * |FIXME_ICON| `NIH Microarray data <http://bit.do/VVW6>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
         
@@ -99,7 +99,7 @@ Biology
         
 * |OK_ICON| `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
         
-* |OK_ICON| `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_
+* |FIXME_ICON| `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubGene-now-Coremine-Medical.yml>`_]
         
 * |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
         
@@ -130,11 +130,11 @@ Climate+Weather
         
 * |OK_ICON| `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
         
-* |OK_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
+* |FIXME_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Australian-Weather.yml>`_]
         
 * |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
         
-* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
+* |FIXME_ICON| `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
         
 * |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
         
@@ -179,7 +179,7 @@ ComplexNetworks
         
 * |OK_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
         
-* |OK_ICON| `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
+* |FIXME_ICON| `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Protein.yml>`_]
         
 * |OK_ICON| `PyPI and Maven Dependency Network <https://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`_
         
@@ -203,7 +203,7 @@ ComplexNetworks
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
         
-* |OK_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
+* |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
     
 ComputerNetworks
 ----------------
@@ -634,7 +634,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -642,11 +642,11 @@ Government
         
 * |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
         
-* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
+* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
-* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
+* |FIXME_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Census-Bureau.yml>`_]
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
@@ -670,7 +670,7 @@ Government
         
 * |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_
         
-* |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_
+* |FIXME_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml>`_]
         
 * |OK_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
         
@@ -691,13 +691,13 @@ Healthcare
         
 * |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
         
-* |OK_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
+* |FIXME_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Coverage-Database-MCD-U.S..yml>`_]
         
 * |OK_ICON| `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
         
-* |OK_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_
+* |FIXME_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Data-File.yml>`_]
         
-* |FIXME_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Number-of-Ebola-Cases-and-Deaths-in-Affected-Countries-2014.yml>`_]
+* |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_
         
 * |OK_ICON| `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
         
@@ -734,7 +734,7 @@ ImageProcessing
         
 * |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
-* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
+* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
         
@@ -779,7 +779,7 @@ MachineLearning
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
+* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -894,7 +894,7 @@ Neuroscience
         
 * |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
         
-* |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
+* |FIXME_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brainomics.yml>`_]
         
 * |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
@@ -953,7 +953,7 @@ PublicDomains
         
 * |OK_ICON| `Data.World <https://data.world>`_
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -967,7 +967,7 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
         
-* |FIXME_ICON| `Numbray <http://numbrary.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml>`_]
+* |OK_ICON| `Numbray <http://numbrary.com/>`_
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
@@ -1074,7 +1074,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
@@ -1120,7 +1120,7 @@ SocialSciences
         
 * |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
         
-* |OK_ICON| `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_
+* |FIXME_ICON| `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Notre-Dame-Global-Adaptation-Index-NG-DAIN.yml>`_]
         
 * |OK_ICON| `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
         
@@ -1176,7 +1176,7 @@ Sports
         
 * |OK_ICON| `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
-* |FIXME_ICON| `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <http://www.seanlahman.com/baseball-archive/statistics/>`_
         
 * |OK_ICON| `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
         
