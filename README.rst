@@ -130,7 +130,7 @@ Climate+Weather
         
 * |OK_ICON| `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
         
-* |FIXME_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Australian-Weather.yml>`_]
+* |OK_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
         
 * |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
         
@@ -281,6 +281,10 @@ EarthScience
 * |OK_ICON| `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_
         
 * |OK_ICON| `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
+        
+* |OK_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_
+        
+* |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - [...] <www.nerrsdata.org>`_
         
 * |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
         
@@ -598,7 +602,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`_]
+* |OK_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -642,11 +646,11 @@ Government
         
 * |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
         
-* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
-* |FIXME_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Census-Bureau.yml>`_]
+* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
@@ -691,11 +695,11 @@ Healthcare
         
 * |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
         
-* |FIXME_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Coverage-Database-MCD-U.S..yml>`_]
+* |OK_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
         
 * |OK_ICON| `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
         
-* |FIXME_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Data-File.yml>`_]
+* |OK_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_
         
 * |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_
         
@@ -953,13 +957,13 @@ PublicDomains
         
 * |OK_ICON| `Data.World <https://data.world>`_
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
