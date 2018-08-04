@@ -715,7 +715,7 @@ Healthcare
         
 * |OK_ICON| `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
     
-ImageProcessing
+ComputerVision
 ---------------
         
 * |OK_ICON| `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
@@ -765,7 +765,27 @@ ImageProcessing
 * |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_
         
 * |OK_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
+
+* |OK_ICON| `Microsoft COCO: Common Objects in Context <http://cocodataset.org/#home>`_
+
+* |OK_ICON| `DAVIS: Densely Annotated VIdeo Segmentation <https://davischallenge.org/>`_
+
+* |OK_ICON| `A Large-Scale Video Benchmark for Human Activity Understanding <http://activity-net.org/>`_
+
+* |OK_ICON| `ShapeNet <https://www.shapenet.org/>`_
+
+* |OK_ICON| `Berkeley DeepDrive Challenges <http://bdd-data.berkeley.edu/>`_
     
+* |OK_ICON| `WildDash Benchmark <http://www.wilddash.cc/>`_
+
+* |OK_ICON| `Matterport: 3D Camera and Virtual Tour Platform <https://matterport.com/>`_
+
+* |OK_ICON| `ScanNet | Richly-annotated 3D Reconstructions of Indoor Scenes <http://www.scan-net.org/>`_
+
+* |OK_ICON| `Multiple Object Tracking: Datasets, Benchmarks, Challenges <https://motchallenge.net/>`_
+
+* |OK_ICON| `DensePose: Dense Human Pose Estimation In The Wild <http://densepose.org/>`_
+
 MachineLearning
 ---------------
         
