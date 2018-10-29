@@ -1170,6 +1170,9 @@ Software
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
+
+* |OK_ICON| `PROMISE Software Engineering Repository <http://promise.site.uottawa.ca/SERepository/datasets-page.html>`_
+  
     
 Sports
 ------
