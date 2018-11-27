@@ -75,7 +75,7 @@ Biology
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
-* |FIXME_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
+* |OK_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions [...] <http://www.genome.jp/kegg/>`_
         
@@ -334,7 +334,7 @@ Education
         
 * |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
         
-* |FIXME_ICON| `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Education/Student-Data-from-Free-Code-Camp.yml>`_]
+* |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
     
 Energy
 ------
@@ -431,7 +431,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -638,7 +638,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -670,7 +670,7 @@ Government
         
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
-* |FIXME_ICON| `United Nations <http://data.un.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
+* |OK_ICON| `United Nations <http://data.un.org/>`_
         
 * |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
         
@@ -799,7 +799,7 @@ MachineLearning
         
 * |OK_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_
         
-* |FIXME_ICON| `Restaurants Health Score Data in San Francisco <http://missionlocal.org/san-francisco-restaurant-health-inspections/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Restaurants-Health-Score-Data-in-San-Francisco.yml>`_]
+* |OK_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_
         
 * |OK_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
         
