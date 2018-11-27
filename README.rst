@@ -334,7 +334,7 @@ Education
         
 * |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
         
-* |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
+* |FIXME_ICON| `Student Data from Free Code Camp <http://academictorrents.com/details/030b10dad0846b5aecc3905692890fb02404adbf>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Education/Student-Data-from-Free-Code-Camp.yml>`_]
     
 Energy
 ------
@@ -431,7 +431,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
