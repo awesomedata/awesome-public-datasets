@@ -85,7 +85,7 @@ Biology
         
 * |OK_ICON| `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
         
-* |FIXME_ICON| `NCI Genomic Data Commons <https://gdc-portal.nci.nih.gov>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NCI-Genomic-Data-Commons.yml>`_]
+* |OK_ICON| `NCI Genomic Data Commons <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
         
 * |FIXME_ICON| `NIH Microarray data <http://bit.do/VVW6>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
         
@@ -431,7 +431,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -967,7 +967,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1055,7 +1055,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
