@@ -30,7 +30,7 @@ Other amazingly awesome lists can be found in `sindresorhus's awesome <https://g
 Agriculture
 -----------
         
-* |FIXME_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
+* |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
         
 * |OK_ICON| `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
     
@@ -134,7 +134,7 @@ Climate+Weather
         
 * |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
         
-* |FIXME_ICON| `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
+* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_
         
 * |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
         
@@ -474,7 +474,7 @@ Government
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
         
-* |FIXME_ICON| `Calgary, AB, Canada <https://data.calgary.ca/OpenData/Pages/DatasetListingAlphabetical.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Calgary-AB-Canada.yml>`_]
+* |OK_ICON| `Calgary, AB, Canada <https://data.calgary.ca/>`_
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
         
@@ -1001,7 +1001,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1077,7 +1077,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
