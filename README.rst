@@ -648,7 +648,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -679,6 +679,8 @@ Government
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
+        
+* |OK_ICON| `Ukraine <https://data.gov.ua/>`_
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
@@ -936,6 +938,8 @@ Neuroscience
         
 * |OK_ICON| `NeuroData <http://neurodata.io>`_
         
+* |OK_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of [...] <http://neuromorpho.org/>`_
+        
 * |OK_ICON| `Neuroelectro <http://neuroelectro.org/>`_
         
 * |OK_ICON| `OASIS <http://www.oasis-brains.org/>`_
@@ -988,6 +992,8 @@ PublicDomains
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
+        
+* |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
 * |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
@@ -1079,7 +1085,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
