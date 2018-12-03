@@ -99,7 +99,7 @@ Biology
         
 * |OK_ICON| `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
         
-* |FIXME_ICON| `PubGene (now Coremine Medical) <http://www.pubgene.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubGene-now-Coremine-Medical.yml>`_]
+* |OK_ICON| `PubGene (now Coremine Medical) <https://www.coremine.com/>`_
         
 * |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
         
@@ -484,7 +484,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |OK_ICON| `China <http://data.stats.gov.cn/>`_
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -1077,7 +1077,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
@@ -1270,7 +1270,7 @@ Transportation
         
 * |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
         
-* |FIXME_ICON| `Toronto Bike Share Stations (XML file) <http://www.bikesharetoronto.com/data/stations/bikeStations.xml>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Toronto-Bike-Share-Stations-XML-file.yml>`_]
+* |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_
         
 * |OK_ICON| `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-open-data>`_
         
