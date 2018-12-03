@@ -524,7 +524,7 @@ Government
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
         
-* |OK_ICON| `Halifax, NS, Canada <https://catalogue-hrm.opendata.arcgis.com/>`_
+* |OK_ICON| `Halifax, NS, Canada <https://www.halifax.ca/home/open-data>`_
         
 * |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_
         
@@ -606,7 +606,7 @@ Government
         
 * |OK_ICON| `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
         
-* |FIXME_ICON| `Quebec Province of Canada <http://donnees.gouv.qc.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
+* |OK_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
@@ -690,7 +690,7 @@ Government
         
 * |OK_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
         
-* |FIXME_ICON| `Victoria, BC, Canada <http://www.victoria.ca/EN/main/city/open-data-catalogue.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Victoria-BC-Canada.yml>`_]
+* |OK_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`_
         
 * |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
     
@@ -995,7 +995,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1176,7 +1176,7 @@ SocialSciences
         
 * |OK_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
         
-* |FIXME_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
+* |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
 * |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
         
