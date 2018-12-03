@@ -230,6 +230,8 @@ ComputerNetworks
         
 * |OK_ICON| `Open Mobile Data by MobiPerf <https://console.developers.google.com/storage/openmobiledata_public/>`_
         
+* |OK_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role [...] <http://p2pta.ewi.tudelft.nl/>`_
+        
 * |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
@@ -1077,7 +1079,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
