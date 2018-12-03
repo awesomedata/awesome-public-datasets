@@ -566,7 +566,7 @@ Government
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_
         
-* |FIXME_ICON| `NYC Open Data <https://nycplatform.socrata.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml>`_]
+* |FIXME_ICON| `NYC Open Data <https://opendata.cityofnewyork.us/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml>`_]
         
 * |OK_ICON| `NYC betanyc <http://betanyc.us/>`_
         
@@ -853,6 +853,8 @@ NaturalLanguage
         
 * |OK_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_
         
+* |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from [...] <purl.org/corpus/german-speeches>`_
+        
 * |OK_ICON| `Google Books Ngrams (2.2TB) <https://aws.amazon.com/datasets/google-books-ngrams/>`_
         
 * |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset [...] <https://github.com/google/mcafp>`_
@@ -930,6 +932,8 @@ Neuroscience
         
 * |OK_ICON| `OASIS <http://www.oasis-brains.org/>`_
         
+* |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_
+        
 * |FIXME_ICON| `OpenfMRI <https://openfmri.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenfMRI.yml>`_]
         
 * |OK_ICON| `Study Forrest <http://studyforrest.org>`_
@@ -942,6 +946,8 @@ Physics
 * |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_
+        
+* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO [...] <https://losc.ligo.org>`_
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_
         
@@ -1178,6 +1184,8 @@ Software
 --------
         
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
+        
+* |OK_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <ghtorrent.org>`_
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
         
