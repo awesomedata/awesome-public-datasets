@@ -590,7 +590,7 @@ Government
         
 * |OK_ICON| `Palo Alto, California, US <http://data.cityofpaloalto.org/home>`_
         
-* |OK_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_
+* |FIXME_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Philadelphia-Open-Data.yml>`_]
         
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
         
@@ -614,7 +614,7 @@ Government
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
         
-* |OK_ICON| `San Jose, California, US <http://data.sanjoseca.gov/home/>`_
+* |FIXME_ICON| `San Jose, California, US <http://data.sanjoseca.gov/home/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Jose-California-US.yml>`_]
         
 * |OK_ICON| `San Mateo County, California, US <https://data.smcgov.org/>`_
         
@@ -640,7 +640,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -835,6 +835,8 @@ NaturalLanguage
         
 * |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
         
+* |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
+        
 * |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
@@ -858,6 +860,10 @@ NaturalLanguage
 * |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
+        
+* |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a [...] <https://keithito.com/LJ-Speech-Dataset>`_
+        
+* |OK_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_
         
 * |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
         
@@ -922,7 +928,7 @@ Neuroscience
         
 * |OK_ICON| `OASIS <http://www.oasis-brains.org/>`_
         
-* |OK_ICON| `OpenfMRI <https://openfmri.org/>`_
+* |FIXME_ICON| `OpenfMRI <https://openfmri.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenfMRI.yml>`_]
         
 * |OK_ICON| `Study Forrest <http://studyforrest.org>`_
     
@@ -967,7 +973,7 @@ PublicDomains
         
 * |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -979,7 +985,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1055,7 +1061,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
