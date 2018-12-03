@@ -524,7 +524,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |FIXME_ICON| `Houston Open Data <http://data.ohouston.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-Open-Data.yml>`_]
+* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -590,7 +590,7 @@ Government
         
 * |OK_ICON| `Palo Alto, California, US <http://data.cityofpaloalto.org/home>`_
         
-* |FIXME_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Philadelphia-Open-Data.yml>`_]
+* |OK_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_
         
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
         
@@ -985,7 +985,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
