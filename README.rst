@@ -411,7 +411,7 @@ GIS
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_
         
-* |FIXME_ICON| `Global Administrative Areas Database (GADM) <http://www.gadm.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Global-Administrative-Areas-Database-GADM.yml>`_]
+* |OK_ICON| `Global Administrative Areas Database (GADM) - Geospatial data organized [...] <https://gadm.org/>`_
         
 * |OK_ICON| `Homeland Infrastructure Foundation-Level Data <https://hifld-geoplatform.opendata.arcgis.com/>`_
         
@@ -1061,7 +1061,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
