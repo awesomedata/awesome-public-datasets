@@ -612,6 +612,8 @@ Government
         
 * |OK_ICON| `Russia <http://data.gov.ru>`_
         
+* |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
+        
 * |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
@@ -642,7 +644,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -988,6 +990,8 @@ PublicDomains
 * |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
+        
+* |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_
         
 * |OK_ICON| `Numbray <http://numbrary.com/>`_
         
