@@ -309,7 +309,7 @@ Economics
         
 * |OK_ICON| `International Economics Database <http://widukind.cepremap.org/>`_
         
-* |FIXME_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
+* |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
 * |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
         
@@ -435,7 +435,7 @@ GIS
         
 * |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_
         
-* |OK_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* |FIXME_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/OpenStreetMap-OSM.yml>`_]
         
 * |OK_ICON| `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
         
@@ -490,7 +490,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |OK_ICON| `China <http://data.stats.gov.cn/>`_
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -638,13 +638,13 @@ Government
         
 * |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
         
-* |FIXME_ICON| `South Africa <http://beta2.statssa.gov.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/South-Africa.yml>`_]
+* |OK_ICON| `South Africa <http://beta2.statssa.gov.za/>`_
         
 * |OK_ICON| `State of Utah, US <https://opendata.utah.gov/>`_
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
         
-* |FIXME_ICON| `Taiwan g0v <http://data.g0v.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
+* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_
         
@@ -684,7 +684,7 @@ Government
         
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
-* |OK_ICON| `Ukraine <https://data.gov.ua/>`_
+* |FIXME_ICON| `Ukraine <https://data.gov.ua/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ukraine.yml>`_]
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
@@ -801,7 +801,7 @@ MachineLearning
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
+* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -851,7 +851,7 @@ NaturalLanguage
         
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
         
-* |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
+* |FIXME_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
         
@@ -950,7 +950,7 @@ Neuroscience
         
 * |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_
         
-* |FIXME_ICON| `OpenfMRI <https://openfmri.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenfMRI.yml>`_]
+* |OK_ICON| `OpenfMRI <https://openfmri.org/>`_
         
 * |OK_ICON| `Study Forrest <http://studyforrest.org>`_
     
@@ -999,7 +999,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1013,7 +1013,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
