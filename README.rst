@@ -754,6 +754,8 @@ ImageProcessing
         
 * |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
+* |OK_ICON| `HumanEva Dataset - The HumanEva-I dataset contains 7 calibrated video [...] <http://humaneva.is.tue.mpg.de/>`_
+        
 * |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
