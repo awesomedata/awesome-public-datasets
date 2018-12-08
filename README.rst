@@ -568,7 +568,7 @@ Government
         
 * |OK_ICON| `Moldova <http://data.gov.md/>`_
         
-* |FIXME_ICON| `Moncton, NB, Canada <http://www.moncton.ca/Government/Terms_of_use/Open_Data_Purpose/Data_Catalogue.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
+* |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_
         
 * |OK_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
         
@@ -1013,7 +1013,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
