@@ -435,7 +435,7 @@ GIS
         
 * |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_
         
-* |FIXME_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/OpenStreetMap-OSM.yml>`_]
+* |OK_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
         
 * |OK_ICON| `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
         
@@ -652,7 +652,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -674,7 +674,7 @@ Government
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
-* |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
+* |FIXME_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-National-Center-for-Education-Statistics-NCES.yml>`_]
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
@@ -684,7 +684,7 @@ Government
         
 * |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
         
-* |FIXME_ICON| `Ukraine <https://data.gov.ua/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ukraine.yml>`_]
+* |OK_ICON| `Ukraine <https://data.gov.ua/>`_
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
@@ -853,7 +853,7 @@ NaturalLanguage
         
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
         
-* |FIXME_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
+* |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
         
@@ -1001,7 +1001,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1164,7 +1164,7 @@ SocialSciences
         
 * |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
         
-* |FIXME_ICON| `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Notre-Dame-Global-Adaptation-Index-NG-DAIN.yml>`_]
+* |OK_ICON| `Notre Dame Global Adaptation Index (ND-GAIN) <https://gain.nd.edu/our-work/country-index/download-data/>`_
         
 * |OK_ICON| `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
         
@@ -1188,7 +1188,7 @@ SocialSciences
         
 * |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
         
-* |FIXME_ICON| `UCLA Social Sciences Data Archive <http://dataarchives.ss.ucla.edu/Home.DataPortals.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCLA-Social-Sciences-Data-Archive.yml>`_]
+* |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
 * |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
         
