@@ -652,7 +652,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -674,7 +674,7 @@ Government
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
-* |FIXME_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-National-Center-for-Education-Statistics-NCES.yml>`_]
+* |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
@@ -991,7 +991,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1015,7 +1015,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1164,7 +1164,7 @@ SocialSciences
         
 * |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
         
-* |OK_ICON| `Notre Dame Global Adaptation Index (ND-GAIN) <https://gain.nd.edu/our-work/country-index/download-data/>`_
+* |FIXME_ICON| `Notre Dame Global Adaptation Index (NG-DAIN) <http://index.gain.org/about/download>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Notre-Dame-Global-Adaptation-Index-NG-DAIN.yml>`_]
         
 * |OK_ICON| `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
         
