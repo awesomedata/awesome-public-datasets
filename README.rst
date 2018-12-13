@@ -89,7 +89,7 @@ Biology
         
 * |OK_ICON| `NCI Genomic Data Commons <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
         
-* |FIXME_ICON| `NIH Microarray data <http://bit.do/VVW6>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
+* |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
 * |OK_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_
         
@@ -1091,7 +1091,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
