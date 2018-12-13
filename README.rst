@@ -30,7 +30,7 @@ Other amazingly awesome lists can be found in `sindresorhus's awesome <https://g
 Agriculture
 -----------
         
-* |FIXME_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Hyperspectral-Benchmark-Dataset-On-Soil-Moisture.yml>`_]
+* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_
         
 * |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
         
@@ -490,7 +490,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |OK_ICON| `China <http://data.stats.gov.cn/>`_
+* |FIXME_ICON| `China <http://data.stats.gov.cn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -1001,7 +1001,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1058,7 +1058,7 @@ SearchEngines
         
 * |OK_ICON| `Statista.com - statistics and Studies <http://www.statista.com/>`_
         
-* |FIXME_ICON| `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Zenodo.yml>`_]
+* |OK_ICON| `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
     
 SocialNetworks
 --------------
@@ -1091,7 +1091,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
@@ -1126,7 +1126,7 @@ SocialSciences
         
 * |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
         
-* |FIXME_ICON| `Datacards <http://datacards.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml>`_]
+* |FIXME_ICON| `Datacards <https://www.datacards.org/login/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml>`_]
         
 * |OK_ICON| `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
         
@@ -1188,7 +1188,7 @@ SocialSciences
         
 * |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
         
-* |FIXME_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCLA-Social-Sciences-Data-Archive.yml>`_]
+* |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
 * |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
         
@@ -1209,7 +1209,7 @@ Software
         
 * |OK_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <ghtorrent.org>`_
         
-* |FIXME_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`_]
+* |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
         
 * |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top- [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_
         
@@ -1280,9 +1280,9 @@ Transportation
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
         
-* |OK_ICON| `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
+* |FIXME_ICON| `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/RITA-Airline-On.yml>`_]
         
-* |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
+* |FIXME_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/RITA-BTS-transport-data-collection-TranStat.yml>`_]
         
 * |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_
         
