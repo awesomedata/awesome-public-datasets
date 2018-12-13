@@ -199,8 +199,6 @@ ComplexNetworks
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
-* |FIXME_ICON| `The Nexus Network Repository <http://nexus.igraph.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Nexus-Network-Repository.yml>`_]
-        
 * |OK_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
@@ -278,7 +276,7 @@ EarthScience
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
         
-* |OK_ICON| `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_
+* |FIXME_ICON| `EOSDIS - NASA's earth observing system data <http://sedac.ciesin.columbia.edu/data/sets/browse>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/EOSDIS.yml>`_]
         
 * |OK_ICON| `Earth Models <http://www.earthmodels.org/>`_
         
