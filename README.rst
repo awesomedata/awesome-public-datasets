@@ -347,8 +347,6 @@ Energy
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
-* |FIXME_ICON| `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DRED.yml>`_]
-        
 * |OK_ICON| `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
@@ -439,7 +437,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -650,7 +648,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -734,7 +732,7 @@ ImageProcessing
         
 * |OK_ICON| `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_
         
-* |FIXME_ICON| `2GB of Photos of Cats <http://137.189.35.203/WebUI/CatDatabase/catData.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/2GB-of-Photos-of-Cats.yml>`_]
+* |OK_ICON| `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_
         
 * |OK_ICON| `Adience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_
         
