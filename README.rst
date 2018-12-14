@@ -347,6 +347,8 @@ Energy
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
+* |FIXME_ICON| `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DRED.yml>`_]
+        
 * |OK_ICON| `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
@@ -1013,7 +1015,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1089,7 +1091,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
