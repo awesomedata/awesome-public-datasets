@@ -109,7 +109,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
+* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
@@ -347,8 +347,6 @@ Energy
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
-* |FIXME_ICON| `DRED <http://www.st.ewi.tudelft.nl/~akshay/dred/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DRED.yml>`_]
-        
 * |OK_ICON| `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
@@ -439,7 +437,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -991,7 +989,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
