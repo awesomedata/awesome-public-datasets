@@ -109,7 +109,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
+* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
@@ -140,7 +140,7 @@ Climate+Weather
         
 * |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
         
-* |OK_ICON| `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
+* |OK_ICON| `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/data/>`_
         
 * |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -439,7 +439,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <http://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -650,7 +650,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
+* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -1001,7 +1001,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
