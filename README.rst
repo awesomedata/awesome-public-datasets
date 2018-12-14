@@ -109,11 +109,11 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
+* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
-* |OK_ICON| `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
+* |FIXME_ICON| `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Systems-Science-of-Biological-Dynamics-SSBD-Database.yml>`_]
         
 * |OK_ICON| `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
         
@@ -365,7 +365,7 @@ Energy
         
 * |OK_ICON| `Smart Meter Data Portal - The Smart Meter Data Portal is part of the [...] <https://smda.github.io/smart-meter-data-portal>`_
         
-* |FIXME_ICON| `Tracebase <https://www.tracebase.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Tracebase.yml>`_]
+* |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <http://www.doc.ic.ac.uk/~dk3810/data/>`_
         
@@ -991,7 +991,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1001,7 +1001,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1091,7 +1091,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
