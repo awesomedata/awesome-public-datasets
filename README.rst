@@ -109,7 +109,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
+* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
@@ -386,7 +386,7 @@ Finance
         
 * |OK_ICON| `NASDAQ <https://data.nasdaq.com/>`_
         
-* |OK_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com>`_
+* |OK_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com/>`_
         
 * |OK_ICON| `OANDA <http://www.oanda.com/>`_
         
@@ -650,7 +650,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <http://wdronline.worldbank.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <http://wdronline.worldbank.org/>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
