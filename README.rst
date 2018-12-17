@@ -445,7 +445,7 @@ GIS
         
 * |OK_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_
         
-* |FIXME_ICON| `World boundaries from  the U.S. Department of State <https://hiu.state.gov/data/data.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/World-boundaries-from--the-U.S.-Department-of-State.yml>`_]
+* |OK_ICON| `World boundaries from  the U.S. Department of State <http://geonode.state.gov/layers/?limit=100&offset=0>`_
         
 * |OK_ICON| `World countries in multiple formats <https://github.com/mledoze/countries>`_
     
