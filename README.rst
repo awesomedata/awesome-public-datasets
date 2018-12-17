@@ -610,7 +610,7 @@ Government
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
-* |FIXME_ICON| `Rio de Janeiro, Brazil <http://data.rio.rj.gov.br/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`_]
+* |OK_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`_
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
@@ -989,7 +989,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1013,7 +1013,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1089,7 +1089,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
