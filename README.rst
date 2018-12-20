@@ -323,7 +323,7 @@ Economics
         
 * |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
         
-* |FIXME_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml>`_]
+* |OK_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
@@ -640,9 +640,9 @@ Government
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
         
-* |FIXME_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
+* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
-* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
+* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
         
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/index_en.html#/>`_
         
@@ -660,7 +660,7 @@ Government
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
-* |FIXME_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Census-Bureau.yml>`_]
+* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
@@ -948,7 +948,7 @@ Neuroscience
         
 * |OK_ICON| `OASIS <http://www.oasis-brains.org/>`_
         
-* |FIXME_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenNEURO>`_]
+* |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_
         
 * |OK_ICON| `OpenfMRI <https://openfmri.org/>`_
         
@@ -1003,7 +1003,7 @@ PublicDomains
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
-* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <http://datamarket.azure.com/browse/data?price=free>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
+* |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
         
@@ -1013,7 +1013,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1241,7 +1241,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
         
-* |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
+* |FIXME_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
         
