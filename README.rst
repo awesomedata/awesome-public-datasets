@@ -1021,7 +1021,7 @@ PublicDomains
         
 * |OK_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_
         
-* |FIXME_ICON| `Stats4Stem R data sets <http://www.stats4stem.org/data-sets.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
         
