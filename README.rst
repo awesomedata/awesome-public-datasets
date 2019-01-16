@@ -179,7 +179,7 @@ ComplexNetworks
         
 * |OK_ICON| `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
         
-* |OK_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
+* |FIXME_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Network-Repository-with-Interactive-Exploratory-Analysis-Tools.yml>`_]
         
 * |OK_ICON| `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
         
@@ -486,7 +486,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |OK_ICON| `China <http://data.stats.gov.cn/>`_
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -748,6 +748,8 @@ ImageProcessing
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
         
+* |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
+        
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
 * |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
@@ -782,7 +784,7 @@ ImageProcessing
         
 * |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_
         
-* |OK_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_
+* |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
 MachineLearning
 ---------------
@@ -940,7 +942,7 @@ Neuroscience
         
 * |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_
         
-* |FIXME_ICON| `NDAR <https://ndar.nih.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NDAR.yml>`_]
+* |OK_ICON| `NDAR <https://ndar.nih.gov/>`_
         
 * |OK_ICON| `NIMH Data Archive <http://data-archive.nimh.nih.gov/>`_
         
@@ -1093,7 +1095,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |OK_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_
+* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
@@ -1245,7 +1247,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
         
-* |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
+* |FIXME_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
         
