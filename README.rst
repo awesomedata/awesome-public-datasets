@@ -494,7 +494,7 @@ Government
         
 * |OK_ICON| `Denver Open Data <http://data.denvergov.org//>`_
         
-* |FIXME_ICON| `Durham, NC Open Data <https://opendurham.nc.gov/explore/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Durham-NC-Open-Data.yml>`_]
+* |OK_ICON| `Durham, NC Open Data <https://live-durhamnc.opendata.arcgis.com/>`_
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
         
@@ -995,7 +995,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1247,7 +1247,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
         
-* |FIXME_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
+* |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
         
