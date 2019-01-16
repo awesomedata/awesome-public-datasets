@@ -301,7 +301,7 @@ Economics
         
 * |OK_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
         
-* |OK_ICON| `Historical MacroEconomc Statistics <http://www.historicalstatistics.org/>`_
+* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
