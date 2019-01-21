@@ -486,7 +486,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
+* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -648,11 +648,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
         
@@ -670,7 +670,7 @@ Government
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
-* |FIXME_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-National-Center-for-Education-Statistics-NCES.yml>`_]
+* |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
         
 * |FIXME_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Open-Government.yml>`_]
         
@@ -752,7 +752,7 @@ ImageProcessing
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
-* |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
+* |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
         
 * |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
@@ -991,13 +991,13 @@ PublicDomains
         
 * |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
         
-* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
+* |FIXME_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
         
-* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
+* |FIXME_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1031,7 +1031,7 @@ PublicDomains
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
         
-* |OK_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_
+* |FIXME_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UCLA-SOCR-data-collection.yml>`_]
         
 * |OK_ICON| `UFO Reports <http://www.nuforc.org/webreports.html>`_
         
@@ -1095,7 +1095,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
-* |FIXME_ICON| `Reddit Comments <https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments <http://files.pushshift.io/reddit/comments/>`_
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
         
