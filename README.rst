@@ -63,7 +63,7 @@ Biology
         
 * |OK_ICON| `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
         
-* |OK_ICON| `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_
+* |FIXME_ICON| `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Gene-Ontology-GO.yml>`_]
         
 * |OK_ICON| `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
         
@@ -195,7 +195,7 @@ ComplexNetworks
         
 * |OK_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
         
-* |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
+* |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
@@ -272,6 +272,8 @@ DataChallenges
 EarthScience
 ------------
         
+* |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
+        
 * |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
@@ -305,7 +307,7 @@ Economics
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
-* |OK_ICON| `International Economics Database <http://widukind.cepremap.org/>`_
+* |FIXME_ICON| `International Economics Database <http://widukind.cepremap.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
         
 * |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
@@ -357,7 +359,7 @@ Energy
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
         
 * |OK_ICON| `REDD <http://redd.csail.mit.edu/>`_
         
@@ -486,7 +488,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
+* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -534,7 +536,7 @@ Government
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
-* |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_
+* |FIXME_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
         
 * |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_
         
@@ -606,7 +608,7 @@ Government
         
 * |OK_ICON| `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
         
-* |OK_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_
+* |FIXME_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
@@ -648,13 +650,13 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
-* |OK_ICON| `U.K. Government Data <http://data.gov.uk/data>`_
+* |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
 * |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_
         
@@ -664,15 +666,15 @@ Government
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
-* |FIXME_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Agencies.yml>`_]
+* |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
         
-* |FIXME_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
+* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
 * |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
         
-* |FIXME_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Open-Government.yml>`_]
+* |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
 * |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_
         
@@ -752,7 +754,7 @@ ImageProcessing
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
-* |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
+* |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
         
 * |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
@@ -811,7 +813,7 @@ MachineLearning
         
 * |OK_ICON| `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
         
-* |OK_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
+* |FIXME_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`_]
         
 * |OK_ICON| `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
         
@@ -883,7 +885,7 @@ NaturalLanguage
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a [...] <https://keithito.com/LJ-Speech-Dataset>`_
         
-* |OK_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_
+* |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
         
 * |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
         
@@ -991,13 +993,13 @@ PublicDomains
         
 * |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
         
-* |FIXME_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
+* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
         
-* |FIXME_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
+* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1031,7 +1033,7 @@ PublicDomains
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
         
-* |FIXME_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UCLA-SOCR-data-collection.yml>`_]
+* |OK_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_
         
 * |OK_ICON| `UFO Reports <http://www.nuforc.org/webreports.html>`_
         
