@@ -307,7 +307,7 @@ Economics
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
         
-* |FIXME_ICON| `International Economics Database <http://widukind.cepremap.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
+* |OK_ICON| `International Economics Database <https://db.nomics.world/>`_
         
 * |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
@@ -1023,7 +1023,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
