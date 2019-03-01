@@ -610,7 +610,7 @@ Government
         
 * |OK_ICON| `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
         
-* |FIXME_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
+* |OK_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_
         
 * |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
         
@@ -792,6 +792,8 @@ ImageProcessing
     
 MachineLearning
 ---------------
+        
+* |OK_ICON| `All-Age-Faces Dataset - Contains 13'322 Asian face images distributed [...] <https://github.com/JingchunCheng/All-Age-Faces-Dataset>`_
         
 * |OK_ICON| `Context-aware data sets from five domains <https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets>`_
         
@@ -1023,7 +1025,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
