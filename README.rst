@@ -512,7 +512,7 @@ Government
         
 * |OK_ICON| `Finland <https://www.opendata.fi/en>`_
         
-* |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_
+* |FIXME_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
 * |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_
         
@@ -656,7 +656,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -983,6 +983,93 @@ Physics
         
 * |OK_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_
     
+ProstateCancer
+--------------
+        
+* |OK_ICON| `EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer [...] <https://dcc.icgc.org/projects/EOPC-DE>`_
+        
+* |OK_ICON| `GENIE - Data from the Genomics Evidence Neoplasia Information Exchange [...] <https://www.synapse.org/genie>`_
+        
+* |OK_ICON| `Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE - Comprehensive [...] <http://www.cbioportal.org/study?id=prad_cpcg_2017>`_
+        
+* |OK_ICON| `MSK-IMPACT-Clinical-Sequencing-Cohort-MSKCC-Prostate-Cancer - Targeted [...] <http://www.cbioportal.org/study?id=prad_mskcc_2017>`_
+        
+* |OK_ICON| `Metastatic-Prostate-Adenocarcinoma-MCTP - Comprehensive profiling of 61 [...] <http://www.cbioportal.org/study?id=prad_mich>`_
+        
+* |OK_ICON| `Metastatic-Prostate-Cancer-SU2CPCF-Dream-Team - Comprehensive analysis of [...] <http://www.cbioportal.org/study?id=prad_su2c_2015>`_
+        
+* |OK_ICON| `NPCR-2001-2015 - Database from CDC's National Program of Cancer [...] <https://www.cdc.gov/cancer/uscs/public-use>`_
+        
+* |OK_ICON| `NPCR-2005-2015 - Database from CDC's National Program of Cancer [...] <https://www.cdc.gov/cancer/uscs/public-use>`_
+        
+* |OK_ICON| `NaF-Prostate - NaF Prostate is a collection of F-18 NaF positron emission [...] <https://wiki.cancerimagingarchive.net/display/Public/NaF+Prostate>`_
+        
+* |OK_ICON| `Neuroendocrine-Prostate-Cancer - Whole exome and RNA Seq data of [...] <http://www.cbioportal.org/study?id=nepc_wcm_2016>`_
+        
+* |OK_ICON| `PLCO-Prostate-Diagnostic-Procedures - The Prostate Diagnostic Procedures [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Medical-Complications - The Prostate Medical Complications [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Screening-Abnormalities - The Prostate Screening [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Screening - The Prostate Screening dataset (177,315 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate-Treatments - The Prostate Treatments dataset (13,409 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PLCO-Prostate - The Prostate dataset is a comprehensive dataset that [...] <https://biometry.nci.nih.gov/cdas/plco/>`_
+        
+* |OK_ICON| `PRAD-CA-Prostate-Adenocarcinoma-Canada - Prostate Adenocarcinoma - [...] <https://dcc.icgc.org/projects/PRAD-CA>`_
+        
+* |OK_ICON| `PRAD-FR-Prostate-Adenocarcinoma-France - Prostate Adenocarcinoma - [...] <https://dcc.icgc.org/projects/PRAD-FR>`_
+        
+* |OK_ICON| `PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom - Prostate Adenocarcinoma [...] <https://dcc.icgc.org/projects/PRAD-UK>`_
+        
+* |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All [...] <https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges>`_
+        
+* |OK_ICON| `Prostate-3T - The Prostate-3T project provided imaging data to TCIA as [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-3T>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Broad-Cornell-2012 - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_broad>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Broad-Cornell-2013 - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_broad_2013>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-CNA-study-MSKCC - Copy-number profiling of 103 [...] <http://www.cbioportal.org/study?id=prad_mskcc_2014>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Fred-Hutchinson-CRC - Comprehensive profiling of [...] <http://www.cbioportal.org/study?id=prad_fhcrc>`_
+        
+* |OK_ICON| `Prostate Adenocarcinoma (MSKCC/DFCI) - Whole Exome Sequencing of 1013 [...] <http://www.cbioportal.org/study?id=prad_p1000>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-MSKCC - MSKCC Prostate Oncogenome Project. 181 [...] <http://www.cbioportal.org/study?id=prad_mskcc>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Organoids-MSKCC - Exome profiling of prostate [...] <http://www.cbioportal.org/study?id=prad_mskcc_cheny1_organoids_2014>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-Sun-Lab - Whole-genome and Transcriptome [...] <http://www.cbioportal.org/study?id=prad_eururol_2017>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-TCGA-PanCancer-Atlas - Comprehensive TCGA [...] <http://www.cbioportal.org/study?id=prad_tcga_pan_can_atlas_2018>`_
+        
+* |OK_ICON| `Prostate-Adenocarcinoma-TCGA - Integrated profiling of 333 primary [...] <http://www.cbioportal.org/study?id=prad_tcga_pub>`_
+        
+* |OK_ICON| `Prostate-Diagnosis - PCa T1- and T2-weighted magnetic resonance images [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-DIAGNOSIS>`_
+        
+* |OK_ICON| `Prostate-Fused-MRI-Pathology - The Prostate Fused-MRI-Pathology [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology>`_
+        
+* |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_
+        
+* |OK_ICON| `Prostate-R - The popular statistical package R contains a prostate cancer [...] <https://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf>`_
+        
+* |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_
+        
+* |OK_ICON| `QIN-PROSTATE - The QIN PROSTATE collection of the Quantitative Imaging [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN+PROSTATE>`_
+        
+* |OK_ICON| `SEER-YR1973_2015.SEER9 - The SEER November 2017 Research Data files from [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR1992_2015.SJ_LA_RG_AK - The SEER November 2017 Research Data files [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The SEER November 2017 Research Data [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The July - December 2005 diagnoses for [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_
+        
+* |OK_ICON| `TCGA-PRAD-US - TCGA Prostate Adenocarcinoma (499 samples). <http://www.cbioportal.org/study?id=prad_tcga>`_
+    
 Psychology+Cognition
 --------------------
         
@@ -1003,7 +1090,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1021,11 +1108,11 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_
         
-* |OK_ICON| `Numbray <http://numbrary.com/>`_
+* |FIXME_ICON| `Numbray <http://numbrary.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml>`_]
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1234,7 +1321,7 @@ Sports
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
         
-* |OK_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
+* |FIXME_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Ergast-Formula-1-from-1950-up-to-date-API.yml>`_]
         
 * |OK_ICON| `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
