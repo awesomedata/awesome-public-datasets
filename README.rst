@@ -299,7 +299,7 @@ Economics
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
         
-* |OK_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
+* |FIXME_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/EconData-from-UMD.yml>`_]
         
 * |OK_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
         
@@ -652,11 +652,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -751,6 +751,8 @@ ImageProcessing
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
+        
+* |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image [...] <https://www.gwern.net/Danbooru>`_
         
 * |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
         
