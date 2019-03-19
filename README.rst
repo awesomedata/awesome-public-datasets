@@ -109,7 +109,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
+* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
@@ -193,7 +193,7 @@ ComplexNetworks
         
 * |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
         
-* |OK_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_
+* |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
 * |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
         
@@ -512,7 +512,7 @@ Government
         
 * |OK_ICON| `Finland <https://www.opendata.fi/en>`_
         
-* |FIXME_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
+* |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_
         
 * |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_
         
@@ -652,7 +652,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -1108,7 +1108,7 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_
         
-* |FIXME_ICON| `Numbray <http://numbrary.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml>`_]
+* |OK_ICON| `Numbray <http://numbrary.com/>`_
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
@@ -1176,7 +1176,7 @@ SocialNetworks
         
 * |OK_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
         
-* |OK_ICON| `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
+* |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_
         
 * |OK_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
         
@@ -1321,7 +1321,7 @@ Sports
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
         
-* |FIXME_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Ergast-Formula-1-from-1950-up-to-date-API.yml>`_]
+* |OK_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
         
 * |OK_ICON| `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
