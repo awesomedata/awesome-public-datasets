@@ -89,7 +89,7 @@ Biology
         
 * |OK_ICON| `NCI Genomic Data Commons <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
         
-* |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
+* |OK_ICON| `NIH Microarray data <https://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
 * |OK_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_
         
