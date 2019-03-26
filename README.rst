@@ -290,6 +290,8 @@ EarthScience
         
 * |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - [...] <http://nerrsdata.org>`_
         
+* |OK_ICON| `Oil and Gas Authority Open Data - The dataset covers 12,500 offshore [...] <https://data-ogauthority.opendata.arcgis.com/>`_
+        
 * |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
         
 * |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
@@ -642,7 +644,7 @@ Government
         
 * |OK_ICON| `State of Utah, US <https://opendata.utah.gov/>`_
         
-* |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
+* |FIXME_ICON| `Switzerland <http://www.opendata.admin.ch/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland.yml>`_]
         
 * |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
@@ -656,7 +658,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -764,7 +766,7 @@ ImageProcessing
         
 * |OK_ICON| `HumanEva Dataset - The HumanEva-I dataset contains 7 calibrated video [...] <http://humaneva.is.tue.mpg.de/>`_
         
-* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
+* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
         
@@ -950,7 +952,7 @@ Neuroscience
         
 * |OK_ICON| `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
         
-* |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_
+* |FIXME_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Human-Connectome-Project.yml>`_]
         
 * |OK_ICON| `NDAR <https://ndar.nih.gov/>`_
         
@@ -1371,7 +1373,7 @@ Transportation
         
 * |OK_ICON| `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
         
-* |OK_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
+* |FIXME_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/NYC-Taxi-Trip-Data-2013-FOIA-FOILed.yml>`_]
         
 * |OK_ICON| `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
         
