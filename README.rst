@@ -232,7 +232,7 @@ ComputerNetworks
         
 * |OK_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role [...] <http://p2pta.ewi.tudelft.nl/>`_
         
-* |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
+* |FIXME_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
     
@@ -644,7 +644,7 @@ Government
         
 * |OK_ICON| `State of Utah, US <https://opendata.utah.gov/>`_
         
-* |FIXME_ICON| `Switzerland <http://www.opendata.admin.ch/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland.yml>`_]
+* |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
         
 * |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
@@ -658,7 +658,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -1373,7 +1373,7 @@ Transportation
         
 * |OK_ICON| `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
         
-* |FIXME_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/NYC-Taxi-Trip-Data-2013-FOIA-FOILed.yml>`_]
+* |OK_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
         
 * |OK_ICON| `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
         
