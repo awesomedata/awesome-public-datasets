@@ -63,7 +63,7 @@ Biology
         
 * |OK_ICON| `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
         
-* |FIXME_ICON| `Gene Ontology (GO) <http://geneontology.org/page/download-annotations>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Gene-Ontology-GO.yml>`_]
+* |OK_ICON| `Gene Ontology (GO) - GO annotation files <http://geneontology.org/docs/download-go-annotations/>`_
         
 * |OK_ICON| `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
         
@@ -179,7 +179,7 @@ ComplexNetworks
         
 * |OK_ICON| `NIST complex networks data collection <http://math.nist.gov/~RPozo/complex_datasets.html>`_
         
-* |OK_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_
+* |FIXME_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Network-Repository-with-Interactive-Exploratory-Analysis-Tools.yml>`_]
         
 * |OK_ICON| `Protein-protein interaction network <http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_
         
@@ -232,7 +232,7 @@ ComputerNetworks
         
 * |OK_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role [...] <http://p2pta.ewi.tudelft.nl/>`_
         
-* |FIXME_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
+* |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
     
@@ -274,7 +274,7 @@ EarthScience
         
 * |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
         
-* |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
+* |FIXME_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
         
@@ -658,7 +658,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -766,7 +766,7 @@ ImageProcessing
         
 * |OK_ICON| `HumanEva Dataset - The HumanEva-I dataset contains 7 calibrated video [...] <http://humaneva.is.tue.mpg.de/>`_
         
-* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
+* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
         
@@ -852,7 +852,7 @@ Museums
         
 * |OK_ICON| `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
         
-* |OK_ICON| `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
+* |FIXME_ICON| `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Natural-History-Museum-London-Data-Portal.yml>`_]
         
 * |OK_ICON| `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
         
@@ -944,7 +944,7 @@ Neuroscience
         
 * |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
         
-* |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
+* |FIXME_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brainomics.yml>`_]
         
 * |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
@@ -952,7 +952,7 @@ Neuroscience
         
 * |OK_ICON| `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
         
-* |FIXME_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Human-Connectome-Project.yml>`_]
+* |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_
         
 * |OK_ICON| `NDAR <https://ndar.nih.gov/>`_
         
