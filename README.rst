@@ -654,7 +654,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -1265,6 +1265,8 @@ SocialSciences
         
 * |OK_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
         
+* |OK_ICON| `Microsoft Academic Knowledge Graph - The Microsoft Academic Knowledge [...] <http://ma-graph.org>`_
+        
 * |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
         
 * |OK_ICON| `Notre Dame Global Adaptation Index (ND-GAIN) <https://gain.nd.edu/our-work/country-index/download-data/>`_
@@ -1317,6 +1319,8 @@ Software
 * |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top- [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_
+        
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_
         
 * |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_
         
