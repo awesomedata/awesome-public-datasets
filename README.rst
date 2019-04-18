@@ -142,7 +142,7 @@ Climate+Weather
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/data/>`_
         
-* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
+* |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
@@ -658,7 +658,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -672,7 +672,7 @@ Government
         
 * |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
         
-* |FIXME_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
+* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
@@ -887,7 +887,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset [...] <https://github.com/google/mcafp>`_
         
-* |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
+* |FIXME_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-Web-5gram-1TB-2006.yml>`_]
         
 * |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
