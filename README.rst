@@ -331,7 +331,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -658,7 +658,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -852,7 +852,7 @@ Museums
         
 * |OK_ICON| `Minneapolis Institute of Arts metadata <https://github.com/artsmia/collection>`_
         
-* |FIXME_ICON| `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Natural-History-Museum-London-Data-Portal.yml>`_]
+* |OK_ICON| `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_
         
 * |OK_ICON| `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_
         
@@ -887,7 +887,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset [...] <https://github.com/google/mcafp>`_
         
-* |FIXME_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-Web-5gram-1TB-2006.yml>`_]
+* |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
 * |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
@@ -1143,7 +1143,7 @@ SearchEngines
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
-* |OK_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
+* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
@@ -1358,7 +1358,7 @@ TimeSeries
         
 * |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
-* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
+* |FIXME_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
 * |OK_ICON| `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
     
@@ -1379,7 +1379,7 @@ Transportation
         
 * |OK_ICON| `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
         
-* |OK_ICON| `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
+* |OK_ICON| `NYC Taxi Trip Data 2009- <https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page>`_
         
 * |OK_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
         
@@ -1405,7 +1405,7 @@ Transportation
         
 * |OK_ICON| `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
         
-* |OK_ICON| `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
+* |OK_ICON| `U.S. Bureau of Transportation Statistics (BTS) <https://www.bts.gov/browse-statistical-products-and-data>`_
         
 * |OK_ICON| `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
         
