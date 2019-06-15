@@ -162,7 +162,7 @@ Climate+Weather
         
 * |OK_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
         
-* |FIXME_ICON| `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WU-Historical-Weather-Worldwide.yml>`_]
+* |OK_ICON| `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_
     
@@ -319,7 +319,7 @@ Economics
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
-* |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* |FIXME_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
         
 * |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
@@ -445,7 +445,7 @@ GIS
         
 * |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_
         
-* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
         
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
@@ -752,13 +752,15 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+        
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
 * |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English [...] <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image [...] <https://www.gwern.net/Danbooru>`_
         
-* |OK_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_
+* |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -913,7 +915,7 @@ NaturalLanguage
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_
         
 * |OK_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_
         
@@ -972,7 +974,7 @@ Neuroscience
         
 * |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_
         
-* |FIXME_ICON| `OpenfMRI <https://openfmri.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenfMRI.yml>`_]
+* |OK_ICON| `OpenfMRI <https://openfmri.org/>`_
         
 * |OK_ICON| `Study Forrest <http://studyforrest.org>`_
     
@@ -1098,7 +1100,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1218,7 +1220,7 @@ SocialNetworks
         
 * |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
-* |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+* |FIXME_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
     
 SocialSciences
 --------------
