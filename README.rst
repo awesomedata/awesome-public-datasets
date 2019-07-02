@@ -197,7 +197,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
-* |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
+* |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
@@ -1100,7 +1100,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1124,7 +1124,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1149,7 +1149,7 @@ SearchEngines
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
-* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
+* |OK_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
@@ -1218,16 +1218,18 @@ SocialNetworks
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
         
+* |OK_ICON| `United States Congress Twitter Data - Daily datasets with tweets of 1100+ [...] <https://github.com/alexlitel/congresstweets>`_
+        
 * |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
         
-* |FIXME_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
+* |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
     
 SocialSciences
 --------------
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
@@ -1364,7 +1366,7 @@ TimeSeries
         
 * |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
-* |FIXME_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
+* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
         
 * |OK_ICON| `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
     
@@ -1397,7 +1399,7 @@ Transportation
         
 * |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
         
-* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
+* |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
         
