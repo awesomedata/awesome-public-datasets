@@ -39,7 +39,7 @@ Agriculture
 Biology
 -------
         
-* |OK_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_
+* |FIXME_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
         
 * |OK_ICON| `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
         
@@ -47,7 +47,7 @@ Biology
         
 * |OK_ICON| `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
         
-* |OK_ICON| `Cell Image Library <http://www.cellimagelibrary.org>`_
+* |FIXME_ICON| `Cell Image Library <http://www.cellimagelibrary.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
         
 * |OK_ICON| `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
         
@@ -123,7 +123,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |OK_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_
+* |FIXME_ICON| `UniGene <http://www.ncbi.nlm.nih.gov/unigene>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
     
@@ -197,7 +197,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
-* |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
+* |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
@@ -319,7 +319,7 @@ Economics
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
-* |FIXME_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
+* |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
         
 * |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
@@ -394,7 +394,7 @@ Finance
         
 * |OK_ICON| `OANDA <http://www.oanda.com/>`_
         
-* |OK_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_
+* |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_
         
@@ -776,7 +776,7 @@ ImageProcessing
         
 * |OK_ICON| `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
         
-* |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_
+* |FIXME_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
         
@@ -1102,7 +1102,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1124,7 +1124,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1229,7 +1229,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
         
@@ -1299,7 +1299,7 @@ SocialSciences
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_
         
-* |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* |FIXME_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCBs-Archive-of-Social-Science-Data-D-Lab.yml>`_]
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
@@ -1359,6 +1359,8 @@ Sports
     
 TimeSeries
 ----------
+        
+* |OK_ICON| `3W dataset - To the best of its authors' knowledge, this is the first [...] <https://github.com/ricardovvargas/3w_dataset>`_
         
 * |OK_ICON| `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
         
