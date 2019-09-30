@@ -361,7 +361,7 @@ Energy
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_
         
-* |FIXME_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/HES.yml>`_]
+* |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
         
@@ -386,7 +386,7 @@ Finance
         
 * |OK_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/market-data/>`_
         
-* |FIXME_ICON| `Google Finance <https://www.google.com/finance>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
+* |OK_ICON| `Google Finance <https://www.google.com/finance>`_
         
 * |OK_ICON| `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_
         
@@ -496,7 +496,7 @@ Government
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
+* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -768,11 +768,11 @@ ImageProcessing
         
 * |OK_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
         
-* |FIXME_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/GDXray.yml>`_]
+* |OK_ICON| `GDXray - X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
         
 * |OK_ICON| `HumanEva Dataset - The HumanEva-I dataset contains 7 calibrated video [...] <http://humaneva.is.tue.mpg.de/>`_
         
-* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
+* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
         
@@ -1102,7 +1102,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1151,7 +1151,7 @@ SearchEngines
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
-* |OK_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
+* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
@@ -1231,7 +1231,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
@@ -1273,7 +1273,7 @@ SocialSciences
         
 * |OK_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
         
-* |FIXME_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MacroData-Guide-by-Norsk-samfunnsvitenskapelig-datatjeneste.yml>`_]
+* |OK_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
         
 * |OK_ICON| `Microsoft Academic Knowledge Graph - The Microsoft Academic Knowledge [...] <http://ma-graph.org>`_
         
@@ -1353,6 +1353,8 @@ Sports
         
 * |OK_ICON| `Pinhooker: Thoroughbred Bloodstock Sale Data <https://github.com/phillc73/pinhooker>`_
         
+* |OK_ICON| `Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level [...] <https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats>`_
+        
 * |OK_ICON| `Retrosheet Baseball Statistics <http://www.retrosheet.org/game.htm>`_
         
 * |OK_ICON| `Tennis database of rankings, results, and stats for ATP <https://github.com/JeffSackmann/tennis_atp>`_
@@ -1370,7 +1372,7 @@ TimeSeries
         
 * |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
-* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
+* |FIXME_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
 * |OK_ICON| `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
     
