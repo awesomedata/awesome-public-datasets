@@ -345,6 +345,7 @@ Education
 * |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
         
 * |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
+* https://nces.ed.gov/collegenavigator/
     
 Energy
 ------
