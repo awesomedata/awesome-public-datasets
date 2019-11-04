@@ -278,7 +278,7 @@ EarthScience
         
 * |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
         
-* |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
+* |FIXME_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
         
@@ -335,7 +335,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -570,7 +570,7 @@ Government
         
 * |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_
         
-* |OK_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
+* |FIXME_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
         
 * |OK_ICON| `Moldova <http://data.gov.md/>`_
         
@@ -652,13 +652,13 @@ Government
         
 * |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
-* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
+* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
         
 * |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/index_en.html#/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -676,7 +676,7 @@ Government
         
 * |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
         
-* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
+* |FIXME_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
@@ -909,7 +909,7 @@ NaturalLanguage
         
 * |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_
         
-* |OK_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
+* |FIXME_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Machine-Translation-of-European-languages.yml>`_]
         
 * |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
@@ -1126,7 +1126,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1391,7 +1391,7 @@ Transportation
         
 * |OK_ICON| `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
         
-* |OK_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
+* |FIXME_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Hubway-Million-Rides-in-MA.yml>`_]
         
 * |OK_ICON| `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
         
@@ -1426,6 +1426,11 @@ Transportation
 * |OK_ICON| `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
         
 * |OK_ICON| `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+    
+eSports
+-------
+        
+* |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_
 
 
 Complementary Collections
