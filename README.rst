@@ -91,7 +91,7 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
-* |FIXME_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
+* |OK_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_
         
 * |OK_ICON| `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
         
@@ -173,7 +173,7 @@ ComplexNetworks
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
-* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml>`_]
+* |OK_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
 * |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
@@ -247,7 +247,7 @@ DataChallenges
         
 * |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_
         
-* |FIXME_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/CrowdANALYTIX-dataX.yml>`_]
+* |OK_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_
         
 * |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/D4D-Challenge-of-Orange.yml>`_]
         
@@ -278,7 +278,7 @@ EarthScience
         
 * |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
         
-* |FIXME_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
+* |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
         
 * |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
         
@@ -335,7 +335,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
+* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -351,7 +351,7 @@ Energy
         
 * |OK_ICON| `AMPds <http://ampds.org/>`_
         
-* |OK_ICON| `BLUEd <http://nilm.cmubi.org/>`_
+* |FIXME_ICON| `BLUEd <http://nilm.cmubi.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/BLUEd.yml>`_]
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
@@ -570,7 +570,7 @@ Government
         
 * |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_
         
-* |FIXME_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
+* |OK_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
         
 * |OK_ICON| `Moldova <http://data.gov.md/>`_
         
@@ -598,7 +598,7 @@ Government
         
 * |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
         
-* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
+* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_
         
 * |OK_ICON| `Oregon <https://data.oregon.gov/>`_
         
@@ -662,7 +662,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -676,7 +676,7 @@ Government
         
 * |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
         
-* |FIXME_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
+* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
         
 * |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
         
@@ -909,7 +909,7 @@ NaturalLanguage
         
 * |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_
         
-* |FIXME_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Machine-Translation-of-European-languages.yml>`_]
+* |OK_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_
         
 * |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
@@ -1102,7 +1102,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1126,7 +1126,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1198,7 +1198,7 @@ SocialNetworks
         
 * |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
         
-* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml>`_]
+* |OK_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
         
@@ -1231,7 +1231,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
