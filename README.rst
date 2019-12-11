@@ -77,7 +77,7 @@ Biology
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
-* |OK_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_
+* |FIXME_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions [...] <http://www.genome.jp/kegg/>`_
         
@@ -335,7 +335,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -351,7 +351,7 @@ Energy
         
 * |OK_ICON| `AMPds <http://ampds.org/>`_
         
-* |FIXME_ICON| `BLUEd <http://nilm.cmubi.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/BLUEd.yml>`_]
+* |OK_ICON| `BLUEd <http://nilm.cmubi.org/>`_
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
@@ -480,6 +480,8 @@ Government
         
 * |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_
         
+* |OK_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_
+        
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
 * |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
@@ -538,15 +540,17 @@ Government
         
 * |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_
         
-* |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
+* |FIXME_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China.yml>`_]
         
 * |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
-* |FIXME_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
+* |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_
         
 * |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_
+        
+* |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_
         
 * |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
         
@@ -658,11 +662,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -819,13 +823,13 @@ MachineLearning
         
 * |OK_ICON| `IMDb Database <http://www.imdb.com/interfaces>`_
         
-* |OK_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
+* |FIXME_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Keel-Repository-for-classification-regression-and-time-series.yml>`_]
         
 * |OK_ICON| `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
+* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -1102,7 +1106,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1126,7 +1130,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1192,7 +1196,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_
         
-* |OK_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
+* |FIXME_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
         
@@ -1231,7 +1235,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
@@ -1259,7 +1263,7 @@ SocialSciences
         
 * |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
         
-* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
+* |FIXME_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
         
 * |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_
         
@@ -1291,7 +1295,7 @@ SocialSciences
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
         
-* |OK_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
+* |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
 * |OK_ICON| `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
         
