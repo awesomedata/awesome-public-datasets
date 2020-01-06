@@ -197,7 +197,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
-* |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
+* |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
@@ -335,7 +335,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
+* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -343,6 +343,8 @@ Education
 ---------
         
 * |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
+        
+* |OK_ICON| `New York State Education Department Data - The New York State Education [...] <https://data.nysed.gov/downloads.php>`_
         
 * |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
     
@@ -365,7 +367,7 @@ Energy
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `REDD <http://redd.csail.mit.edu/>`_
         
@@ -540,7 +542,7 @@ Government
         
 * |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_
         
-* |FIXME_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China.yml>`_]
+* |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
 * |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
         
@@ -666,7 +668,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
@@ -688,7 +690,7 @@ Government
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
-* |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_
+* |FIXME_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
         
@@ -823,13 +825,13 @@ MachineLearning
         
 * |OK_ICON| `IMDb Database <http://www.imdb.com/interfaces>`_
         
-* |FIXME_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Keel-Repository-for-classification-regression-and-time-series.yml>`_]
+* |OK_ICON| `Keel Repository for classification, regression and time series <http://sci2s.ugr.es/keel/datasets.php>`_
         
 * |OK_ICON| `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
+* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -841,7 +843,7 @@ MachineLearning
         
 * |OK_ICON| `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
         
-* |OK_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_
+* |FIXME_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
         
 * |OK_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_
         
@@ -891,7 +893,7 @@ NaturalLanguage
         
 * |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
         
-* |OK_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_
+* |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
 * |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from [...] <purl.org/corpus/german-speeches>`_
         
@@ -954,9 +956,9 @@ Neuroscience
         
 * |OK_ICON| `Allen Institute Datasets <http://www.brain-map.org/>`_
         
-* |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
+* |FIXME_ICON| `Brain Catalogue <http://braincatalogue.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brain-Catalogue.yml>`_]
         
-* |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
+* |FIXME_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brainomics.yml>`_]
         
 * |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
@@ -991,7 +993,7 @@ Physics
         
 * |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_
         
-* |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_
+* |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
 * |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO [...] <https://losc.ligo.org>`_
         
@@ -1106,9 +1108,9 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1130,7 +1132,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1263,7 +1265,7 @@ SocialSciences
         
 * |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
         
-* |FIXME_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
+* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
         
 * |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_
         
