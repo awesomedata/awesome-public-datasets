@@ -357,6 +357,8 @@ Energy
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
+* |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_
+        
 * |OK_ICON| `ECO <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_
@@ -664,7 +666,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
