@@ -353,7 +353,7 @@ Energy
         
 * |OK_ICON| `AMPds - The Almanac of Minutely Power dataset <http://ampds.org/>`_
         
-* |OK_ICON| `BLUEd <http://nilm.cmubi.org/>`_
+* |OK_ICON| `BLUEd - Building-Level fUlly labeled Electricity Disaggregation dataset <https://energy.duke.edu/content/building-level-fully-labeled-electricity-disaggregation-blued>`_
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_
         
