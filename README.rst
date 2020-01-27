@@ -30,50 +30,50 @@ Other amazingly awesome lists can be found in `sindresorhus's awesome <https://g
 Agriculture
 -----------
         
-* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_
+* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture - This dataset was [...] <https://doi.org/10.5281/zenodo.1227837>`_
         
 * |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
         
-* |OK_ICON| `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
+* |OK_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS [...] <http://www.plants.usda.gov/dl_all.html>`_
     
 Biology
 -------
         
-* |FIXME_ICON| `1000 Genomes <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
+* |FIXME_ICON| `1000 Genomes - The 1000 Genomes Project ran between 2008 and 2015, [...] <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
         
-* |OK_ICON| `American Gut (Microbiome Project) <https://github.com/biocore/American-Gut>`_
+* |OK_ICON| `American Gut (Microbiome Project) - The American Gut project is the [...] <https://github.com/biocore/American-Gut>`_
         
-* |OK_ICON| `Broad Bioimage Benchmark Collection (BBBC) <https://www.broadinstitute.org/bbbc>`_
+* |OK_ICON| `Broad Bioimage Benchmark Collection (BBBC) - The Broad Bioimage Benchmark [...] <https://www.broadinstitute.org/bbbc>`_
         
 * |OK_ICON| `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
         
-* |OK_ICON| `Cell Image Library <http://www.cellimagelibrary.org>`_
+* |OK_ICON| `Cell Image Library - This library is a public and easily accessible [...] <http://www.cellimagelibrary.org>`_
         
-* |OK_ICON| `Complete Genomics Public Data <http://www.completegenomics.com/public-data/69-genomes/>`_
+* |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_
         
-* |OK_ICON| `EBI ArrayExpress <http://www.ebi.ac.uk/arrayexpress/>`_
+* |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_
         
-* |OK_ICON| `EBI Protein Data Bank in Europe <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
+* |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
         
-* |OK_ICON| `ENCODE project <https://www.encodeproject.org>`_
+* |OK_ICON| `ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium is [...] <https://www.encodeproject.org>`_
         
-* |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
+* |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
         
 * |OK_ICON| `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
         
-* |OK_ICON| `Gene Expression Omnibus (GEO) <http://www.ncbi.nlm.nih.gov/geo/>`_
+* |OK_ICON| `Gene Expression Omnibus (GEO) - GEO is a public functional genomics data [...] <http://www.ncbi.nlm.nih.gov/geo/>`_
         
 * |OK_ICON| `Gene Ontology (GO) - GO annotation files <http://geneontology.org/docs/download-go-annotations/>`_
         
 * |OK_ICON| `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
         
-* |OK_ICON| `Harvard Medical School (HMS) LINCS Project <http://lincs.hms.harvard.edu>`_
+* |OK_ICON| `Harvard Medical School (HMS) LINCS Project - The Harvard Medical School [...] <http://lincs.hms.harvard.edu>`_
         
-* |OK_ICON| `Human Genome Diversity Project <http://www.hagsc.org/hgdp/files.html>`_
+* |OK_ICON| `Human Genome Diversity Project - A group of scientists at Stanford [...] <http://www.hagsc.org/hgdp/files.html>`_
         
-* |OK_ICON| `Human Microbiome Project (HMP) <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
+* |OK_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_
         
-* |OK_ICON| `ICOS PSP Benchmark <http://ico2s.org/datasets/psp_benchmark.html>`_
+* |OK_ICON| `ICOS PSP Benchmark - The ICOS PSP benchmarks repository contains an [...] <http://ico2s.org/datasets/psp_benchmark.html>`_
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
@@ -85,47 +85,47 @@ Biology
         
 * |OK_ICON| `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_
         
-* |OK_ICON| `NCBI Taxonomy <http://www.ncbi.nlm.nih.gov/taxonomy>`_
+* |OK_ICON| `NCBI Taxonomy - The NCBI Taxonomy database is a curated set of names and [...] <http://www.ncbi.nlm.nih.gov/taxonomy>`_
         
-* |OK_ICON| `NCI Genomic Data Commons <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
+* |OK_ICON| `NCI Genomic Data Commons - The GDC Data Portal is a robust data-driven [...] <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
-* |OK_ICON| `OpenSNP genotypes data <https://opensnp.org/>`_
+* |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_
         
 * |OK_ICON| `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
         
-* |OK_ICON| `Protein Data Bank <http://www.rcsb.org/>`_
+* |OK_ICON| `Protein Data Bank - This resource is powered by the Protein Data Bank [...] <http://www.rcsb.org/>`_
         
-* |FIXME_ICON| `Psychiatric Genomics Consortium <https://www.med.unc.edu/pgc/downloads>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
+* |FIXME_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics [...] <https://www.med.unc.edu/pgc/downloads>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
         
-* |OK_ICON| `PubChem Project <https://pubchem.ncbi.nlm.nih.gov/>`_
+* |OK_ICON| `PubChem Project - PubChem is the world's largest collection of freely [...] <https://pubchem.ncbi.nlm.nih.gov/>`_
         
-* |OK_ICON| `PubGene (now Coremine Medical) <https://www.coremine.com/>`_
+* |OK_ICON| `PubGene (now Coremine Medical) - COREMINE™ is a family of tools developed [...] <https://www.coremine.com/>`_
         
-* |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) <http://cancer.sanger.ac.uk/cosmic>`_
+* |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) - COSMIC, the [...] <http://cancer.sanger.ac.uk/cosmic>`_
         
 * |OK_ICON| `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <http://www.cancerrxgene.org/>`_
         
-* |OK_ICON| `Sequence Read Archive(SRA) <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
+* |OK_ICON| `Sequence Read Archive(SRA) - The Sequence Read Archive (SRA) stores raw [...] <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
 * |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
-* |OK_ICON| `Systems Science of Biological Dynamics (SSBD) Database <http://ssbd.qbic.riken.jp>`_
+* |OK_ICON| `Systems Science of Biological Dynamics (SSBD) Database - Systems Science [...] <http://ssbd.qbic.riken.jp>`_
         
 * |OK_ICON| `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
         
-* |OK_ICON| `The Catalogue of Life <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
+* |OK_ICON| `The Catalogue of Life - The Catalogue of Life is a quality-assured [...] <http://www.catalogueoflife.org/content/annual-checklist-archive>`_
         
-* |OK_ICON| `The Personal Genome Project <http://www.personalgenomes.org/>`_
+* |OK_ICON| `The Personal Genome Project - The Personal Genome Project, initiated in [...] <http://www.personalgenomes.org/>`_
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
 * |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
         
-* |OK_ICON| `Universal Protein Resource (UnitProt) <http://www.uniprot.org/downloads>`_
+* |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
     
 Climate+Weather
 ---------------
@@ -727,7 +727,7 @@ Healthcare
         
 * |OK_ICON| `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
         
-* |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
+* |FIXME_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MeSH-the-vocabulary-thesaurus-used-for-indexing-articles-for-PubMed.yml>`_]
         
 * |OK_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
         
