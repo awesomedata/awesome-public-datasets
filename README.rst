@@ -678,11 +678,11 @@ Government
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
-* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_
+* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
-* |FIXME_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Census-Bureau.yml>`_]
+* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
