@@ -670,19 +670,19 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
 * |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
-* |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
+* |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
-* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
-* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
+* |FIXME_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Census-Bureau.yml>`_]
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
         
@@ -745,7 +745,7 @@ Healthcare
         
 * |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
-* |OK_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_
+* |FIXME_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
         
@@ -1080,7 +1080,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_
         
-* |OK_ICON| `Prostate-R - The popular statistical package R contains a prostate cancer [...] <https://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf>`_
+* |FIXME_ICON| `Prostate-R - The popular statistical package R contains a prostate cancer [...] <https://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_
         
