@@ -97,7 +97,7 @@ Biology
         
 * |OK_ICON| `Protein Data Bank - This resource is powered by the Protein Data Bank [...] <http://www.rcsb.org/>`_
         
-* |FIXME_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics [...] <https://www.med.unc.edu/pgc/downloads>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
+* |OK_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics [...] <https://www.med.unc.edu/pgc/downloads>`_
         
 * |OK_ICON| `PubChem Project - PubChem is the world's largest collection of freely [...] <https://pubchem.ncbi.nlm.nih.gov/>`_
         
@@ -538,7 +538,7 @@ Government
         
 * |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
         
-* |OK_ICON| `Greece <http://www.data.gov.gr/>`_
+* |FIXME_ICON| `Greece <http://www.data.gov.gr/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece.yml>`_]
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
         
@@ -662,9 +662,9 @@ Government
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
         
-* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
+* |FIXME_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
         
-* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
+* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_
         
@@ -678,7 +678,7 @@ Government
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
-* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_
         
 * |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
         
@@ -745,7 +745,7 @@ Healthcare
         
 * |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
         
-* |FIXME_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
+* |OK_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
         
@@ -885,6 +885,8 @@ NaturalLanguage
         
 * |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
         
+* |OK_ICON| `The Big Bad NLP Database <https://quantumstat.com/dataset/dataset.html>`_
+        
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
         
 * |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
@@ -917,7 +919,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
         
-* |FIXME_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/MS-MARCO.yml>`_]
+* |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
         
 * |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_
         
@@ -1116,7 +1118,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1222,7 +1224,7 @@ SocialNetworks
         
 * |OK_ICON| `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
         
-* |OK_ICON| `Twitter Data for Online Reputation Management <http://nlp.uned.es/replab2013/>`_
+* |FIXME_ICON| `Twitter Data for Online Reputation Management <http://nlp.uned.es/replab2013/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Online-Reputation-Management.yml>`_]
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
         
