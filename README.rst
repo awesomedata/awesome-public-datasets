@@ -113,7 +113,7 @@ Biology
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
-* |OK_ICON| `Systems Science of Biological Dynamics (SSBD) Database - Systems Science [...] <http://ssbd.qbic.riken.jp>`_
+* |FIXME_ICON| `Systems Science of Biological Dynamics (SSBD) Database - Systems Science [...] <http://ssbd.qbic.riken.jp>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Systems-Science-of-Biological-Dynamics-SSBD-Database.yml>`_]
         
 * |OK_ICON| `The Cancer Genome Atlas (TCGA), available via Broad GDAC <https://gdac.broadinstitute.org/>`_
         
@@ -538,7 +538,7 @@ Government
         
 * |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
         
-* |FIXME_ICON| `Greece <http://www.data.gov.gr/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece.yml>`_]
+* |OK_ICON| `Greece <http://www.data.gov.gr/>`_
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
         
@@ -662,9 +662,9 @@ Government
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
         
-* |FIXME_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
+* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
         
-* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
+* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
         
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_
         
@@ -790,7 +790,7 @@ ImageProcessing
         
 * |OK_ICON| `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
         
-* |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_
+* |FIXME_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
         
@@ -909,7 +909,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google MC-AFP - Generated based on the public available Gigaword dataset [...] <https://github.com/google/mcafp>`_
         
-* |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
+* |FIXME_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Google-Web-5gram-1TB-2006.yml>`_]
         
 * |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
         
@@ -1118,7 +1118,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
