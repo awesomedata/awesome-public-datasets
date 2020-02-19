@@ -91,7 +91,7 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
-* |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_
+* |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
         
 * |OK_ICON| `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
         
@@ -249,7 +249,7 @@ DataChallenges
         
 * |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_
         
-* |OK_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_
+* |FIXME_ICON| `CrowdANALYTIX dataX <http://data.crowdanalytix.com>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/CrowdANALYTIX-dataX.yml>`_]
         
 * |FIXME_ICON| `D4D Challenge of Orange <http://www.d4d.orange.com/en/home>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/D4D-Challenge-of-Orange.yml>`_]
         
@@ -290,7 +290,7 @@ EarthScience
         
 * |OK_ICON| `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_
         
-* |FIXME_ICON| `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Marinexplore.yml>`_]
+* |OK_ICON| `Marinexplore - Open Oceanographic Data <http://marinexplore.org/>`_
         
 * |OK_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_
         
@@ -329,7 +329,7 @@ Economics
         
 * |OK_ICON| `Our World in Data <http://ourworldindata.org/>`_
         
-* |OK_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
+* |FIXME_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
         
 * |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
         
@@ -371,7 +371,9 @@ Energy
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+        
+* |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
 * |OK_ICON| `REDD <http://redd.csail.mit.edu/>`_
         
@@ -921,7 +923,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
         
-* |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
+* |FIXME_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/MS-MARCO.yml>`_]
         
 * |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_
         
@@ -966,7 +968,7 @@ Neuroscience
         
 * |OK_ICON| `Allen Institute Datasets <http://www.brain-map.org/>`_
         
-* |FIXME_ICON| `Brain Catalogue <http://braincatalogue.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brain-Catalogue.yml>`_]
+* |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
         
 * |OK_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_
         
@@ -1118,7 +1120,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
@@ -1275,7 +1277,7 @@ SocialSciences
         
 * |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
         
-* |FIXME_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
+* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
         
 * |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_
         
