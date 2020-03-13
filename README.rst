@@ -126,6 +126,8 @@ Biology
 * |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
+        
+* |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each [...] <https://docs.rfam.org/en/latest/database.html>`_
     
 Climate+Weather
 ---------------
@@ -317,7 +319,7 @@ Economics
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
         
-* |FIXME_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
+* |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
 * |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
         
@@ -373,7 +375,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -445,7 +447,7 @@ GIS
         
 * |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
         
-* |OK_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
+* |FIXME_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/National-Weather-Service-GIS-Data-Portal.yml>`_]
         
 * |OK_ICON| `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
         
@@ -540,7 +542,7 @@ Government
         
 * |OK_ICON| `Germany <https://www-genesis.destatis.de/genesis/online>`_
         
-* |OK_ICON| `Ghent, Belgium <https://data.stad.gent/data>`_
+* |FIXME_ICON| `Ghent, Belgium <https://data.stad.gent/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ghent-Belgium.yml>`_]
         
 * |FIXME_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`_]
         
@@ -660,7 +662,7 @@ Government
         
 * |OK_ICON| `Singapore Government Data <https://data.gov.sg/>`_
         
-* |FIXME_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/South-Africa-Trade-Statistics.yml>`_]
+* |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
         
 * |OK_ICON| `South Africa <http://www.statssa.gov.za/>`_
         
@@ -680,7 +682,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -772,7 +774,7 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
-* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+* |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
@@ -1122,9 +1124,9 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1234,7 +1236,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
         
-* |FIXME_ICON| `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |OK_ICON| `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
         
 * |FIXME_ICON| `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Scrape-Calufa-May-2011.yml>`_]
         
@@ -1365,7 +1367,7 @@ Sports
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
         
-* |FIXME_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Ergast-Formula-1-from-1950-up-to-date-API.yml>`_]
+* |OK_ICON| `Ergast Formula 1, from 1950 up to date (API) <http://ergast.com/mrd/db>`_
         
 * |OK_ICON| `Football/Soccer resources (data and APIs) <http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/>`_
         
