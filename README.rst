@@ -49,15 +49,15 @@ Biology
         
 * |OK_ICON| `Cell Image Library - This library is a public and easily accessible [...] <http://www.cellimagelibrary.org>`_
         
-* |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_
+* |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
         
 * |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_
         
-* |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
+* |FIXME_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-Protein-Data-Bank-in-Europe.yml>`_]
         
 * |OK_ICON| `ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium is [...] <https://www.encodeproject.org>`_
         
-* |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
+* |FIXME_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Electron-Microscopy-Pilot-Image-Archive-EMPIAR.yml>`_]
         
 * |OK_ICON| `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
         
@@ -275,7 +275,7 @@ DataChallenges
         
 * |OK_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_
         
-* |OK_ICON| `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_
+* |FIXME_ICON| `Yelp Dataset Challenge <http://www.yelp.com/dataset_challenge>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
     
 EarthScience
 ------------
@@ -375,7 +375,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -447,7 +447,7 @@ GIS
         
 * |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
         
-* |FIXME_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/National-Weather-Service-GIS-Data-Portal.yml>`_]
+* |OK_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
         
 * |OK_ICON| `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
         
@@ -480,7 +480,7 @@ Government
         
 * |OK_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
         
-* |OK_ICON| `Argentina (non official) <http://datar.noip.me/>`_
+* |FIXME_ICON| `Argentina (non official) <http://datar.noip.me/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
 * |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`_
         
@@ -642,7 +642,7 @@ Government
         
 * |OK_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`_
         
-* |OK_ICON| `Romania <http://data.gov.ro/>`_
+* |FIXME_ICON| `Romania <http://data.gov.ro/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
         
 * |OK_ICON| `Russia <http://data.gov.ru>`_
         
@@ -678,7 +678,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -1176,6 +1176,8 @@ SearchEngines
 * |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
         
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
+        
+* |OK_ICON| `Domains Project - Sorted list of Internet domains <https://github.com/tb0hdan/domains>`_
         
 * |OK_ICON| `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
         
