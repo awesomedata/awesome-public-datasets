@@ -53,11 +53,11 @@ Biology
         
 * |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_
         
-* |FIXME_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-Protein-Data-Bank-in-Europe.yml>`_]
+* |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
         
 * |OK_ICON| `ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium is [...] <https://www.encodeproject.org>`_
         
-* |FIXME_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Electron-Microscopy-Pilot-Image-Archive-EMPIAR.yml>`_]
+* |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
         
 * |OK_ICON| `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
         
@@ -682,7 +682,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -729,6 +729,8 @@ Government
 Healthcare
 ----------
         
+* |OK_ICON| `2019 Novel Coronavirus COVID-19 Data Repository by Johns Hopkins CSSE - [...] <https://github.com/CSSEGISandData/COVID-19>`_
+        
 * |OK_ICON| `Composition of Foods Raw, Processed, Prepared USDA National Nutrient Database for Standard [...] <https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-27>`_
         
 * |OK_ICON| `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
@@ -774,7 +776,7 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
-* |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
         
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
@@ -1205,6 +1207,8 @@ SocialNetworks
 * |OK_ICON| `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
         
 * |OK_ICON| `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
+        
+* |OK_ICON| `A Twitter Dataset of 40+ million tweets related to COVID-19 - Due to the [...] <https://zenodo.org/record/3723940>`_
         
 * |OK_ICON| `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_
         
