@@ -682,7 +682,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -1130,7 +1130,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1152,7 +1152,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1402,7 +1402,7 @@ TimeSeries
         
 * |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
         
-* |FIXME_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
+* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://pkg.yangzhuoranyang.com/tsdl/>`_
         
 * |OK_ICON| `Turing Change Point Dataset - Contains 42 annotated time series collected [...] <https://github.com/alan-turing-institute/TCPD>`_
         
