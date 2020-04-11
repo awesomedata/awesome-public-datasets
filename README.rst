@@ -49,7 +49,7 @@ Biology
         
 * |OK_ICON| `Cell Image Library - This library is a public and easily accessible [...] <http://www.cellimagelibrary.org>`_
         
-* |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
+* |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_
         
 * |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_
         
@@ -109,7 +109,7 @@ Biology
         
 * |OK_ICON| `Sequence Read Archive(SRA) - The Sequence Read Archive (SRA) stores raw [...] <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_
         
-* |FIXME_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
+* |OK_ICON| `Stanford Microarray Data <http://smd.stanford.edu/>`_
         
 * |OK_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_
         
@@ -230,7 +230,7 @@ ComputerNetworks
         
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
-* |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
         
 * |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
         
@@ -327,6 +327,8 @@ Economics
         
 * |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
         
+* |OK_ICON| `Long-Term Productivity Database - The Long-Term Productivity database was [...] <http://longtermproductivity.com/download.html>`_
+        
 * |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
 * |OK_ICON| `Our World in Data <http://ourworldindata.org/>`_
@@ -375,7 +377,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -385,7 +387,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_
+* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_
         
@@ -678,7 +680,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -816,7 +818,7 @@ ImageProcessing
         
 * |FIXME_ICON| `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Several-Shape-from-Silhouette-Datasets.yml>`_]
         
-* |FIXME_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Stanford-Dogs-Dataset.yml>`_]
+* |OK_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
         
 * |OK_ICON| `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_
         
@@ -951,7 +953,7 @@ NaturalLanguage
         
 * |OK_ICON| `Personae Corpus <http://www.clips.uantwerpen.be/datasets/personae-corpus>`_
         
-* |FIXME_ICON| `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SMS-Spam-Collection-in-English.yml>`_]
+* |OK_ICON| `SMS Spam Collection in English <http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/>`_
         
 * |OK_ICON| `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_
         
@@ -994,7 +996,7 @@ Neuroscience
         
 * |OK_ICON| `NeuroData <http://neurodata.io>`_
         
-* |OK_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of [...] <http://neuromorpho.org/>`_
+* |FIXME_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of [...] <http://neuromorpho.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NeuroMorpho.yml>`_]
         
 * |OK_ICON| `Neuroelectro <http://neuroelectro.org/>`_
         
@@ -1138,7 +1140,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1152,7 +1154,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1277,7 +1279,7 @@ SocialSciences
         
 * |FIXME_ICON| `Fragile States Index <http://fundforpeace.org/fsi/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Fragile-States-Index.yml>`_]
         
-* |OK_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
+* |FIXME_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/GDELT-Global-Events-Database.yml>`_]
         
 * |OK_ICON| `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
         
