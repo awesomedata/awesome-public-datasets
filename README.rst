@@ -646,7 +646,7 @@ Government
         
 * |FIXME_ICON| `Romania <http://data.gov.ro/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
         
-* |OK_ICON| `Russia <http://data.gov.ru>`_
+* |FIXME_ICON| `Russia <http://data.gov.ru>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`_]
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
         
@@ -680,11 +680,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -816,6 +816,8 @@ ImageProcessing
         
 * |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
         
+* |OK_ICON| `SVIRO Synthetic Vehicle Interior Rear Seat Occupancy - 25.000 synthetic [...] <https://sviro.kl.dfki.de>`_
+        
 * |FIXME_ICON| `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Several-Shape-from-Silhouette-Datasets.yml>`_]
         
 * |OK_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_
@@ -905,7 +907,7 @@ NaturalLanguage
         
 * |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
         
-* |OK_ICON| `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
+* |FIXME_ICON| `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
         
 * |OK_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_
         
@@ -996,7 +998,7 @@ Neuroscience
         
 * |OK_ICON| `NeuroData <http://neurodata.io>`_
         
-* |FIXME_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of [...] <http://neuromorpho.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NeuroMorpho.yml>`_]
+* |OK_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of [...] <http://neuromorpho.org/>`_
         
 * |OK_ICON| `Neuroelectro <http://neuroelectro.org/>`_
         
@@ -1132,7 +1134,7 @@ PublicDomains
         
 * |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
         
@@ -1158,11 +1160,11 @@ PublicDomains
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
-* |OK_ICON| `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_
+* |FIXME_ICON| `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Sample-R-data-sets.yml>`_]
         
 * |OK_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_
         
-* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_
         
 * |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
         
@@ -1279,7 +1281,7 @@ SocialSciences
         
 * |FIXME_ICON| `Fragile States Index <http://fundforpeace.org/fsi/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Fragile-States-Index.yml>`_]
         
-* |FIXME_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/GDELT-Global-Events-Database.yml>`_]
+* |OK_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
         
 * |OK_ICON| `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
         
