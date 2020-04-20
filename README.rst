@@ -91,7 +91,7 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
-* |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
+* |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_
         
 * |OK_ICON| `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
         
@@ -361,7 +361,7 @@ Energy
         
 * |OK_ICON| `BLUEd - Building-Level fUlly labeled Electricity Disaggregation dataset <https://energy.duke.edu/content/building-level-fully-labeled-electricity-disaggregation-blued>`_
         
-* |OK_ICON| `COMBED <http://combed.github.io/>`_
+* |FIXME_ICON| `COMBED <http://combed.github.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/COMBED.yml>`_]
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_
         
@@ -387,7 +387,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
+* |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_
         
@@ -512,7 +512,7 @@ Government
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
-* |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
+* |FIXME_ICON| `Chile <http://datos.gob.cl/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
         
 * |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
         
@@ -1341,7 +1341,7 @@ SocialSciences
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
-* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
+* |FIXME_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
         
@@ -1425,7 +1425,7 @@ Transportation
         
 * |OK_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_
         
-* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
+* |FIXME_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
 * |OK_ICON| `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
         
