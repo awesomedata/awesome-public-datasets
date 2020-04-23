@@ -427,6 +427,8 @@ GIS
         
 * |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
         
+* |OK_ICON| `Database of all continents, countries, States/Subdivisions/Provinces and [...] <https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities>`_
+        
 * |OK_ICON| `Factual Global Location Data <https://places.factual.com/data/t/places>`_
         
 * |OK_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_
@@ -512,7 +514,7 @@ Government
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
-* |FIXME_ICON| `Chile <http://datos.gob.cl/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
+* |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
 * |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
         
@@ -884,7 +886,7 @@ MachineLearning
 Museums
 -------
         
-* |OK_ICON| `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_
+* |FIXME_ICON| `Canada Science and Technology Museums Corporation's Open Data <http://techno-science.ca/en/data.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Canada-Science-and-Technology-Museums-Corporations-Open-Data.yml>`_]
         
 * |OK_ICON| `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_
         
@@ -915,7 +917,7 @@ NaturalLanguage
         
 * |OK_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
         
-* |OK_ICON| `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
+* |FIXME_ICON| `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
         
 * |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
         
@@ -1341,7 +1343,7 @@ SocialSciences
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
-* |FIXME_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
+* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
         
