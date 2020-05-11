@@ -397,6 +397,13 @@ Energy
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_
     
+Environment
+------
+        
+* |OK_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_
+        
+* |OK_ICON| `Open Air Quality <https://openaq.org/>`_
+
 Finance
 -------
         
@@ -472,8 +479,6 @@ GIS
 * |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
         
 * |OK_ICON| `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
-        
-* |OK_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_
         
 * |OK_ICON| `World boundaries from  the U.S. Department of State <http://geonode.state.gov/layers/?limit=100&offset=0>`_
         
