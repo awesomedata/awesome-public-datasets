@@ -53,7 +53,7 @@ Biology
         
 * |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_
         
-* |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_
+* |FIXME_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data [...] <http://www.ebi.ac.uk/arrayexpress/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-ArrayExpress.yml>`_]
         
 * |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank [...] <http://www.ebi.ac.uk/pdbe/emdb/index.html/>`_
         
@@ -298,7 +298,7 @@ EarthScience
         
 * |OK_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_
         
-* |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - [...] <http://nerrsdata.org>`_
+* |FIXME_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - [...] <http://nerrsdata.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/NERRS-SWMP.yml>`_]
         
 * |OK_ICON| `Oil and Gas Authority Open Data - The dataset covers 12,500 offshore [...] <https://data-ogauthority.opendata.arcgis.com/>`_
         
@@ -568,6 +568,8 @@ Government
         
 * |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_
         
+* |OK_ICON| `Iowa - Welcome to the State of Iowa's data portal. Please explore data [...] <https://data.iowa.gov/>`_
+        
 * |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_
         
 * |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_
@@ -688,7 +690,7 @@ Government
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -947,7 +949,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset [...] <http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/M-AILABS-Speech.yml>`_]
         
-* |FIXME_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/MS-MARCO.yml>`_]
+* |OK_ICON| `Microsoft MAchine Reading COmprehension Dataset (or MS MARCO) <http://www.msmarco.org/dataset.aspx>`_
         
 * |OK_ICON| `Machine Comprehension Test (MCTest) of text from Microsoft Research <http://mattr1.github.io/mctest/>`_
         
@@ -1168,7 +1170,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
         
@@ -1224,7 +1226,7 @@ SocialNetworks
         
 * |OK_ICON| `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
         
-* |OK_ICON| `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
+* |FIXME_ICON| `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Cheng-Caverlee-Lee-Twitter-Scrape-September-2009~January-2010.yml>`_]
         
 * |OK_ICON| `A Twitter Dataset of 40+ million tweets related to COVID-19 - Due to the [...] <https://zenodo.org/record/3723940>`_
         
@@ -1234,7 +1236,7 @@ SocialNetworks
         
 * |OK_ICON| `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
         
-* |OK_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
+* |FIXME_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Foursquare-from-UMN-Sarwat-2013.yml>`_]
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_
         
@@ -1281,7 +1283,7 @@ SocialSciences
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
-* |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_
+* |FIXME_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
 * |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
         
@@ -1451,7 +1453,7 @@ Transportation
         
 * |OK_ICON| `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
         
-* |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* |FIXME_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/OpenFlights.yml>`_]
         
 * |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_
         
