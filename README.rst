@@ -365,7 +365,7 @@ Energy
         
 * |OK_ICON| `BLUEd - Building-Level fUlly labeled Electricity Disaggregation dataset <https://energy.duke.edu/content/building-level-fully-labeled-electricity-disaggregation-blued>`_
         
-* |OK_ICON| `COMBED <http://combed.github.io/>`_
+* |FIXME_ICON| `COMBED <http://combed.github.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/COMBED.yml>`_]
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_
         
@@ -435,7 +435,7 @@ GIS
         
 * |OK_ICON| `Factual Global Location Data <https://places.factual.com/data/t/places>`_
         
-* |OK_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_
+* |FIXME_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GRSS-DASE-Website.yml>`_]
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
         
@@ -578,7 +578,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
         
 * |OK_ICON| `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_
         
@@ -1004,7 +1004,7 @@ Neuroscience
         
 * |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
-* |FIXME_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Collaborative-Research-in-Computational-Neuroscience-CRCNS.yml>`_]
+* |OK_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_
         
 * |OK_ICON| `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_
         
