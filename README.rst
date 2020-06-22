@@ -97,6 +97,8 @@ Biology
         
 * |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
         
+* |OK_ICON| `Palmer Penguins - The goal of palmerpenguins is to provide a great [...] <https://allisonhorst.github.io/palmerpenguins/>`_
+        
 * |OK_ICON| `Pathguid - Protein-Protein Interactions Catalog <http://www.pathguide.org/>`_
         
 * |OK_ICON| `Protein Data Bank - This resource is powered by the Protein Data Bank [...] <http://www.rcsb.org/>`_
@@ -690,7 +692,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
