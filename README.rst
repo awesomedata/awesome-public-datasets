@@ -207,7 +207,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
-* |OK_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_
+* |FIXME_ICON| `The Koblenz Network Collection <http://konect.uni-koblenz.de/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_
         
@@ -216,6 +216,8 @@ ComplexNetworks
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
         
 * |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
+        
+* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains [...] <https://www.crawdad.org/>`_
     
 ComputerNetworks
 ----------------
@@ -383,7 +385,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -556,7 +558,7 @@ Government
         
 * |FIXME_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`_]
         
-* |OK_ICON| `Greece <http://www.data.gov.gr/>`_
+* |FIXME_ICON| `Greece <http://www.data.gov.gr/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece.yml>`_]
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
         
@@ -747,6 +749,8 @@ Healthcare
         
 * |OK_ICON| `AWS COVID-19 Datasets - We're working with organizations who make [...] <https://dj2taa9i652rf.cloudfront.net/>`_
         
+* |OK_ICON| `COVID-19 Case Surveillance Public Use Data - The COVID-19 case [...] <https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf>`_
+        
 * |OK_ICON| `2019 Novel Coronavirus COVID-19 Data Repository by Johns Hopkins CSSE - [...] <https://github.com/CSSEGISandData/COVID-19>`_
         
 * |OK_ICON| `Coronavirus (Covid-19) Data in the United States - The New York Times is [...] <https://github.com/nytimes/covid-19-data>`_
@@ -835,6 +839,8 @@ ImageProcessing
 * |FIXME_ICON| `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 [...] <https://storage.googleapis.com/openimages/web/download.html>`_
+        
+* |OK_ICON| `RuFa - Contains images of text written in one of two Arabic fonts (Ruqaa [...] <https://github.com/mhmoodlan/arabic-font-classification/releases/tag/v0.1.0>`_
         
 * |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_
         
@@ -925,9 +931,9 @@ NaturalLanguage
         
 * |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
         
-* |OK_ICON| `The Big Bad NLP Database <https://quantumstat.com/dataset/dataset.html>`_
+* |FIXME_ICON| `The Big Bad NLP Database <https://quantumstat.com/dataset/dataset.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/BigBadNLPDatabase.yml>`_]
         
-* |FIXME_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
+* |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
         
 * |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
         
@@ -1289,7 +1295,7 @@ SocialSciences
         
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
         
-* |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
+* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
         
@@ -1399,7 +1405,7 @@ Sports
         
 * |OK_ICON| `American Ninja Warrior Obstacles - Contains every obstacle in the history [...] <https://data.world/ninja/anw-obstacle-history>`_
         
-* |FIXME_ICON| `Betfair Historical Exchange Data <http://data.betfair.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Betfair-Historical-Exchange-Data.yml>`_]
+* |OK_ICON| `Betfair Historical Exchange Data <http://data.betfair.com/>`_
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_
         
