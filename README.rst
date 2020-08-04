@@ -34,6 +34,8 @@ Agriculture
         
 * |OK_ICON| `Hyperspectral benchmark dataset on soil moisture - This dataset was [...] <https://doi.org/10.5281/zenodo.1227837>`_
         
+* |OK_ICON| `Lemons quality control dataset - Lemon dataset has been prepared to [...] <https://github.com/softwaremill/lemon-dataset>`_
+        
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_
         
 * |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
@@ -349,7 +351,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
-* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
     
@@ -390,6 +392,8 @@ Energy
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
 * |OK_ICON| `REDD <http://redd.csail.mit.edu/>`_
+        
+* |OK_ICON| `SYND - A synthetic energy dataset for non-intrusive load monitoring - [...] <https://www.nature.com/articles/s41597-020-0434-6>`_
         
 * |OK_ICON| `Smart Meter Data Portal - The Smart Meter Data Portal is part of the [...] <https://smda.github.io/smart-meter-data-portal>`_
         
@@ -443,7 +447,7 @@ GIS
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
         
-* |OK_ICON| `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
+* |FIXME_ICON| `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Geo-Spatial-Data-from-ASU.yml>`_]
         
 * |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
         
@@ -488,7 +492,7 @@ GIS
 Government
 ----------
         
-* |OK_ICON| `Alberta, Province of Canada <http://open.alberta.ca>`_
+* |FIXME_ICON| `Alberta, Province of Canada <http://open.alberta.ca>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Alberta-Province-of-Canada.yml>`_]
         
 * |OK_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
         
@@ -558,7 +562,7 @@ Government
         
 * |FIXME_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`_]
         
-* |FIXME_ICON| `Greece <http://www.data.gov.gr/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece.yml>`_]
+* |OK_ICON| `Greece <http://www.data.gov.gr/>`_
         
 * |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
         
@@ -694,7 +698,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
         
@@ -741,6 +745,8 @@ Government
 * |OK_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`_
         
 * |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
+        
+* |FIXME_ICON| `Statistics from the General Statistics Office of Vietnam - Data in [...] <https://www.gso.gov.vn/Default_en.aspx?tabid=491>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vietnam.yml>`_]
         
 * |OK_ICON| `U.S. Congressional Research Service (CRS) Reports <https://www.everycrsreport.com/>`_
     
@@ -804,7 +810,7 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
-* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_
+* |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
@@ -828,7 +834,7 @@ ImageProcessing
         
 * |OK_ICON| `International Affective Picture System, UFL <http://csea.phhp.ufl.edu/media/iapsmessage.html>`_
         
-* |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_
+* |FIXME_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
         
@@ -931,7 +937,7 @@ NaturalLanguage
         
 * |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
         
-* |FIXME_ICON| `The Big Bad NLP Database <https://quantumstat.com/dataset/dataset.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/BigBadNLPDatabase.yml>`_]
+* |OK_ICON| `The Big Bad NLP Database <https://datasets.quantumstat.com>`_
         
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_
         
@@ -1369,7 +1375,7 @@ SocialSciences
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
-* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
+* |FIXME_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
         
@@ -1386,7 +1392,7 @@ Software
         
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
         
-* |OK_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <ghtorrent.org>`_
+* |OK_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <https://ghtorrent.org>`_
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
         
