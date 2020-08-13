@@ -205,7 +205,7 @@ ComplexNetworks
         
 * |OK_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_
         
-* |OK_ICON| `Stanford GraphBase <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_
+* |FIXME_ICON| `Stanford GraphBase <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
         
 * |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_
         
@@ -401,7 +401,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_
+* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_
         
@@ -411,6 +411,8 @@ Energy
     
 Finance
 -------
+        
+* |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central [...] <https://www.bis.org/statistics/full_data_sets.htm>`_
         
 * |OK_ICON| `Blockmodo Coin Registry - A registry of JSON formatted information files [...] <https://github.com/Blockmodo/coin_registry>`_
         
@@ -1170,7 +1172,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |OK_ICON| `Data.World <https://data.world>`_
+* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
 * |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_
         
@@ -1394,7 +1396,7 @@ Software
         
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_
         
-* |FIXME_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <https://ghtorrent.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Software/GHTorrent.yml>`_]
+* |OK_ICON| `GHTorrent - Scalable, queriable, offline mirror of data offered through [...] <https://ghtorrent.org>`_
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
         
