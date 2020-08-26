@@ -518,7 +518,7 @@ Government
         
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
-* |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
+* |FIXME_ICON| `Brazil <http://dados.gov.br/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Brazil.yml>`_]
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
         
@@ -1350,6 +1350,8 @@ SocialSciences
 * |OK_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
         
 * |OK_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
+        
+* |OK_ICON| `Mass Mobilization Data Project - The Mass Mobilization (MM) data are an [...] <https://dataverse.harvard.edu/dataverse/MMdata>`_
         
 * |OK_ICON| `Microsoft Academic Knowledge Graph - The Microsoft Academic Knowledge [...] <http://ma-graph.org>`_
         
