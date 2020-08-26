@@ -65,7 +65,7 @@ Biology
         
 * |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_
         
-* |OK_ICON| `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_
+* |FIXME_ICON| `Ensembl Genomes <http://ensemblgenomes.org/info/genomes>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Ensembl-Genomes.yml>`_]
         
 * |OK_ICON| `Gene Expression Omnibus (GEO) - GEO is a public functional genomics data [...] <http://www.ncbi.nlm.nih.gov/geo/>`_
         
@@ -189,7 +189,7 @@ ComplexNetworks
         
 * |OK_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
-* |FIXME_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DIMACS-Road-Networks-Collection.yml>`_]
+* |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
 * |OK_ICON| `NBER Patent Citations <http://nber.org/patents/>`_
         
@@ -351,7 +351,7 @@ Economics
         
 * |OK_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_
         
-* |FIXME_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
+* |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
         
 * |FIXME_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
@@ -389,7 +389,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -401,7 +401,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_
         
-* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
+* |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_
         
@@ -526,13 +526,13 @@ Government
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
         
-* |FIXME_ICON| `Canada <http://open.canada.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Canada.yml>`_]
+* |OK_ICON| `Canada <http://open.canada.ca/>`_
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
 * |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
         
-* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
+* |FIXME_ICON| `China <http://data.stats.gov.cn/english/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/China>`_]
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
         
@@ -702,9 +702,9 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
-* |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
+* |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
 * |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
@@ -955,6 +955,8 @@ NaturalLanguage
         
 * |OK_ICON| `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
         
+* |OK_ICON| `Dirty Words - With millions of images in our library and billions of [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_
+        
 * |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_
         
 * |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
@@ -967,7 +969,7 @@ NaturalLanguage
         
 * |OK_ICON| `Google Web 5gram (1TB, 2006) <https://catalog.ldc.upenn.edu/LDC2006T13>`_
         
-* |OK_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_
+* |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
 * |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_
         
@@ -1182,7 +1184,7 @@ PublicDomains
         
 * |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
         
-* |OK_ICON| `Infochimps <http://www.infochimps.com/>`_
+* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
         
@@ -1268,7 +1270,7 @@ SocialNetworks
         
 * |FIXME_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
-* |FIXME_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
+* |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
         
 * |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
         
