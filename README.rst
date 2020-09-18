@@ -131,7 +131,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
+* |FIXME_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
         
@@ -333,7 +333,7 @@ Economics
         
 * |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
-* |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
+* |FIXME_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Internet-Product-Code-Database.yml>`_]
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
@@ -447,7 +447,7 @@ GIS
         
 * |OK_ICON| `Factual Global Location Data <https://places.factual.com/data/t/places>`_
         
-* |OK_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_
+* |FIXME_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GRSS-DASE-Website.yml>`_]
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
         
@@ -526,7 +526,7 @@ Government
         
 * |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
         
-* |FIXME_ICON| `Canada <http://open.canada.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Canada.yml>`_]
+* |OK_ICON| `Canada <http://open.canada.ca/>`_
         
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
         
@@ -576,7 +576,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
+* |FIXME_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-TX-US.yml>`_]
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -728,7 +728,7 @@ Government
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
         
-* |FIXME_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
+* |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_
         
 * |OK_ICON| `US Counties - This is a repository of various data, broken down by US [...] <https://github.com/evangambit/JsonOfCounties>`_
         
@@ -740,9 +740,9 @@ Government
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
-* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
+* |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_
         
-* |FIXME_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml>`_]
+* |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_
         
 * |FIXME_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vancouver-BC-Open-Data-Catalog.yml>`_]
         
@@ -1517,6 +1517,8 @@ Transportation
     
 eSports
 -------
+        
+* |OK_ICON| `FIFA-2021 Complete Player Dataset <https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data>`_
         
 * |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_
 
