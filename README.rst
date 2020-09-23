@@ -131,7 +131,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |FIXME_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
+* |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
         
@@ -331,9 +331,9 @@ Economics
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
         
-* |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
+* |FIXME_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
         
-* |FIXME_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Internet-Product-Code-Database.yml>`_]
+* |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
@@ -447,7 +447,7 @@ GIS
         
 * |OK_ICON| `Factual Global Location Data <https://places.factual.com/data/t/places>`_
         
-* |FIXME_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GRSS-DASE-Website.yml>`_]
+* |OK_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_
         
 * |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
         
@@ -686,7 +686,7 @@ Government
         
 * |OK_ICON| `Singapore Government Data <https://data.gov.sg/>`_
         
-* |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
+* |FIXME_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/South-Africa-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `South Africa <http://www.statssa.gov.za/>`_
         
@@ -740,7 +740,7 @@ Government
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
-* |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_
+* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
         
 * |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_
         
@@ -815,6 +815,8 @@ ImageProcessing
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_
         
 * |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
+        
+* |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain [...] <https://arquivos.ufsc.br/d/373be2177a33426a9e6c/>`_
         
 * |OK_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
         
