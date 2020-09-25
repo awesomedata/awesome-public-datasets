@@ -131,7 +131,7 @@ Biology
         
 * |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_
         
-* |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_
+* |FIXME_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
         
@@ -232,7 +232,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
         
-* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_
+* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_
         
@@ -331,7 +331,7 @@ Economics
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
         
-* |FIXME_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
+* |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
         
 * |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
         
@@ -389,7 +389,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_
         
-* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_
+* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy [...] <https://github.com/catalyst-cooperative/pudl>`_
         
@@ -417,6 +417,8 @@ Finance
 * |OK_ICON| `Blockmodo Coin Registry - A registry of JSON formatted information files [...] <https://github.com/Blockmodo/coin_registry>`_
         
 * |OK_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/market-data/>`_
+        
+* |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_
         
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_
         
@@ -686,7 +688,7 @@ Government
         
 * |OK_ICON| `Singapore Government Data <https://data.gov.sg/>`_
         
-* |FIXME_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/South-Africa-Trade-Statistics.yml>`_]
+* |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
         
 * |OK_ICON| `South Africa <http://www.statssa.gov.za/>`_
         
@@ -740,7 +742,7 @@ Government
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_
         
-* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
+* |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_
         
 * |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_
         
@@ -1389,7 +1391,7 @@ SocialSciences
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
         
-* |FIXME_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
+* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
         
