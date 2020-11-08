@@ -584,7 +584,7 @@ Government
         
 * |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
         
-* |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
+* |OK_ICON| `Indian Government Data <https://www.nic.in/projects/open-government-data-ogd-platform-india/>`_
         
 * |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_
         
@@ -648,7 +648,7 @@ Government
         
 * |OK_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_
         
-* |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
+* |OK_ICON| `Open Government Data (OGD) Platform India <https://www.nic.in/projects/open-government-data-ogd-platform-india/>`_
         
 * |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_
         
