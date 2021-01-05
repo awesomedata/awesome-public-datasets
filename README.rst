@@ -1532,6 +1532,8 @@ Transportation
 * |OK_ICON| `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
         
 * |OK_ICON| `U.S. National Highway Traffic Safety Administration - Fatalities since [...] <ftp://nhtsa.gov/FARS/>`_
+
+* |OK_ICON| `Aviation Accident API [...] <https://github.com/cwille97/Aviation-Accident-API/>`_
     
 eSports
 -------
