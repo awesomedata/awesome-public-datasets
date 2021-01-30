@@ -522,6 +522,8 @@ Government
         
 * |OK_ICON| `Belgium <http://data.gov.be/>`_
         
+* |OK_ICON| `Berkeley, CA, US <https://data.cityofberkeley.info/>`_
+        
 * |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
         
 * |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
