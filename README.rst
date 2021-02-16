@@ -221,7 +221,7 @@ ComplexNetworks
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_
         
-* |OK_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_
+* |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
         
 * |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains [...] <https://www.crawdad.org/>`_
     
@@ -1235,7 +1235,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |FIXME_ICON| `RevolutionAnalytics Collection <https://packages.revolutionanalytics.com/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/RevolutionAnalytics-Collection.yml>`_]
         
