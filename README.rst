@@ -32,7 +32,7 @@ Agriculture
         
 * |OK_ICON| `The global dataset of historical yields for major crops 1981–2016 - The [...] <https://doi.pangaea.de/10.1594/PANGAEA.909132>`_
         
-* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture - This dataset was [...] <https://doi.org/10.5281/zenodo.1227837>`_
+* |FIXME_ICON| `Hyperspectral benchmark dataset on soil moisture - This dataset was [...] <https://doi.org/10.5281/zenodo.1227837>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Hyperspectral-Benchmark-Dataset-On-Soil-Moisture.yml>`_]
         
 * |OK_ICON| `Lemons quality control dataset - Lemon dataset has been prepared to [...] <https://github.com/softwaremill/lemon-dataset>`_
         
@@ -83,7 +83,7 @@ Biology
         
 * |OK_ICON| `International HapMap Project <http://hapmap.ncbi.nlm.nih.gov/downloads/index.html.en>`_
         
-* |FIXME_ICON| `Journal of Cell Biology DataViewer <http://jcb-dataviewer.rupress.org>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
+* |FIXME_ICON| `Journal of Cell Biology DataViewer <https://rupress.org/jcb/pages/jcb-dataviewer>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Journal-of-Cell-Biology-DataViewer.yml>`_]
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions [...] <http://www.genome.jp/kegg/>`_
         
@@ -146,7 +146,7 @@ Climate+Weather
         
 * |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
         
-* |FIXME_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
+* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_
         
 * |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
         
@@ -156,7 +156,7 @@ Climate+Weather
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_
         
-* |FIXME_ICON| `German-Meteorological-Service-CDC <https://www.dwd.de/EN/climate_environment/cdc/cdc.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
+* |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_
         
 * |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
         
@@ -164,7 +164,7 @@ Climate+Weather
         
 * |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
         
-* |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
+* |FIXME_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
 * |OK_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
         
@@ -246,7 +246,7 @@ ComputerNetworks
         
 * |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
         
-* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
+* |FIXME_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/MIRAGE-2019.yml>`_]
         
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
@@ -261,7 +261,9 @@ ComputerNetworks
 CyberSecurity
 -------------
         
-* |OK_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This [...] <https://zenodo.org/record/3746129>`_
+* |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_
+        
+* |FIXME_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This [...] <https://zenodo.org/record/3746129>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Traffic-and-Log-Data-Captured-During-a-Cyber-Defense-Exercise.yml>`_]
     
 DataChallenges
 --------------
@@ -609,7 +611,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_
         
@@ -1295,7 +1297,7 @@ SocialNetworks
         
 * |OK_ICON| `China Biographical Database - The China Biographical Database is a freely [...] <https://projects.iq.harvard.edu/cbdb>`_
         
-* |OK_ICON| `A Twitter Dataset of 40+ million tweets related to COVID-19 - Due to the [...] <https://zenodo.org/record/3723940>`_
+* |FIXME_ICON| `A Twitter Dataset of 40+ million tweets related to COVID-19 - Due to the [...] <https://zenodo.org/record/3723940>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Covid19-40-Million-Tweets.yml>`_]
         
 * |OK_ICON| `43k+ Donald Trump Twitter Screenshots - This archive contains screenshots [...] <https://pikaso.me/blog/trump-twitter-archive>`_
         
@@ -1451,7 +1453,7 @@ Software
         
 * |OK_ICON| `GHTorrent - Scalable, queryable, offline mirror of data offered through [...] <https://ghtorrent.org>`_
         
-* |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_
+* |FIXME_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`_]
         
 * |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top- [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_
         
