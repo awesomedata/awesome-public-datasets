@@ -185,13 +185,13 @@ Climate+Weather
 ComplexNetworks
 ---------------
         
-* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_
+* |FIXME_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
 * |OK_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_
         
-* |FIXME_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DIMACS-Road-Networks-Collection.yml>`_]
+* |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
         
 * |OK_ICON| `NBER Patent Citations <http://nber.org/patents/>`_
         
@@ -246,7 +246,7 @@ ComputerNetworks
         
 * |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
         
-* |FIXME_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/MIRAGE-2019.yml>`_]
+* |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
         
 * |OK_ICON| `OONI: Open Observatory of Network Interference - Internet censorship data <https://ooni.torproject.org/data/>`_
         
@@ -458,7 +458,7 @@ GIS
         
 * |OK_ICON| `ArcGIS Open Data portal <http://opendata.arcgis.com/>`_
         
-* |FIXME_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Cambridge-MA-US-GIS-data-on-GitHub.yml>`_]
+* |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
         
 * |OK_ICON| `Database of all continents, countries, States/Subdivisions/Provinces and [...] <https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities>`_
         
@@ -611,7 +611,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
         
 * |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_
         
@@ -725,11 +725,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -855,7 +855,7 @@ ImageProcessing
         
 * |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
-* |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
+* |OK_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -1550,7 +1550,7 @@ Transportation
         
 * |FIXME_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/RITA-BTS-transport-data-collection-TranStat.yml>`_]
         
-* |FIXME_ICON| `Renfe (Spanish National Railway Network) dataset <https://data.renfe.com>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Spanish-train-system-by-Renfe.yml>`_]
+* |OK_ICON| `Renfe (Spanish National Railway Network) dataset <https://data.renfe.com>`_
         
 * |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_
         
@@ -1568,6 +1568,8 @@ Transportation
     
 eSports
 -------
+        
+* |OK_ICON| `CS:GO Competitive Matchmaking Data - In this data set we have data about [...] <https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage>`_
         
 * |OK_ICON| `FIFA-2021 Complete Player Dataset <https://www.kaggle.com/aayushmishra1512/fifa-2021-complete-player-data>`_
         
