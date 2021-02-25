@@ -185,7 +185,7 @@ Climate+Weather
 ComplexNetworks
 ---------------
         
-* |FIXME_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
+* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
         
@@ -244,7 +244,7 @@ ComputerNetworks
         
 * |OK_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_
         
-* |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_
         
 * |OK_ICON| `MIRAGE-2019 - MIRAGE-2019 is a human-generated dataset for mobile traffic [...] <http://traffic.comics.unina.it/mirage/>`_
         
@@ -290,7 +290,7 @@ DataChallenges
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
         
-* |OK_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_
+* |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
         
 * |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_
         
@@ -421,6 +421,11 @@ Energy
 * |OK_ICON| `WHITED <http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf>`_
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_
+    
+Entertainment
+-------------
+        
+* |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from [...] <https://www.kaggle.com/aayushmishra1512/twitchdata>`_
     
 Finance
 -------
@@ -597,7 +602,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
+* |FIXME_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-TX-US.yml>`_]
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -633,7 +638,7 @@ Government
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_
         
-* |FIXME_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
+* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_
         
 * |OK_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
         
@@ -729,7 +734,7 @@ Government
         
 * |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
