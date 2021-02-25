@@ -1267,8 +1267,6 @@ SearchEngines
         
 * |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
         
-* |FIXME_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/DataMarket-Qlik.yml>`_]
-        
 * |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
         
 * |OK_ICON| `Domains Project - Sorted list of Internet domains <https://github.com/tb0hdan/domains>`_
