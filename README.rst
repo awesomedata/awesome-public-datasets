@@ -602,7 +602,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |FIXME_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-TX-US.yml>`_]
+* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -616,7 +616,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_
         
@@ -730,11 +730,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
         
 * |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -884,7 +884,7 @@ ImageProcessing
         
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - [...] <https://mediatum.ub.tum.de/1548761>`_
         
-* |FIXME_ICON| `Massive Visual Memory Stimuli, MIT <http://cvcl.mit.edu/MM/stimuli.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
+* |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_
         
 * |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content [...] <https://news-navigator.labs.loc.gov/>`_
         
@@ -935,7 +935,7 @@ MachineLearning
         
 * |OK_ICON| `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
         
-* |OK_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_
+* |FIXME_ICON| `Machine Learning Data Set Repository <http://mldata.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Machine-Learning-Data-Set-Repository.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
         
@@ -1220,7 +1220,7 @@ PublicDomains
         
 * |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* |OK_ICON| `Data.World <https://data.world>`_
         
 * |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
