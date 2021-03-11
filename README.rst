@@ -602,7 +602,7 @@ Government
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
         
-* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
+* |FIXME_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Houston-TX-US.yml>`_]
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
         
@@ -616,7 +616,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_
         
-* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
         
 * |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_
         
@@ -696,7 +696,7 @@ Government
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
-* |OK_ICON| `Russia <http://data.gov.ru>`_
+* |FIXME_ICON| `Russia <http://data.gov.ru>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`_]
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
         
@@ -730,11 +730,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -880,7 +880,7 @@ ImageProcessing
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
         
-* |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
+* |FIXME_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - [...] <https://mediatum.ub.tum.de/1548761>`_
         
@@ -950,6 +950,8 @@ MachineLearning
 * |FIXME_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
         
 * |OK_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_
+        
+* |OK_ICON| `TikTok Dataset - More than 300 dance videos that capture a single person [...] <https://www.yasamin.page/hdnet_tiktok>`_
         
 * |OK_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
         
@@ -1242,7 +1244,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
         
 * |FIXME_ICON| `RevolutionAnalytics Collection <https://packages.revolutionanalytics.com/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/RevolutionAnalytics-Collection.yml>`_]
         
