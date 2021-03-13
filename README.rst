@@ -1533,7 +1533,7 @@ Transportation
         
 * |OK_ICON| `U.S. National Highway Traffic Safety Administration - Fatalities since [...] <ftp://nhtsa.gov/FARS/>`_
 
-* |OK_ICON| `Aviation Accident API [...] <https://github.com/cwille97/Aviation-Accident-API/>`_
+* |OK_ICON| `Aviation Accident API [...] <https://www.ntsb.gov/investigations/AccidentReports/_layouts/ntsb.aviation/Index.aspx/>`_
     
 eSports
 -------
