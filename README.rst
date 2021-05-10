@@ -454,6 +454,8 @@ Finance
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_
         
+* |OK_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval [...] <https://www.sec.gov/edgar/about>`_
+        
 * |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_
         
 * |OK_ICON| `Yahoo Finance <http://finance.yahoo.com/>`_
@@ -526,7 +528,7 @@ Government
         
 * |FIXME_ICON| `Argentina (non official) <http://datar.noip.me/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`_
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_
         
@@ -698,7 +700,7 @@ Government
         
 * |OK_ICON| `Romania <http://data.gov.ro/>`_
         
-* |OK_ICON| `Russia <http://data.gov.ru>`_
+* |FIXME_ICON| `Russia <http://data.gov.ru>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`_]
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
         
@@ -732,11 +734,11 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
         
-* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_
+* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |FIXME_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
-* |OK_ICON| `Tunisia <http://www.data.gov.tn/>`_
+* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_
         
@@ -864,7 +866,7 @@ ImageProcessing
         
 * |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
-* |OK_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_
+* |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
         
@@ -884,7 +886,7 @@ ImageProcessing
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - [...] <http://lila.science>`_
         
-* |FIXME_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
+* |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_
         
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - [...] <https://mediatum.ub.tum.de/1548761>`_
         
@@ -949,7 +951,7 @@ MachineLearning
         
 * |OK_ICON| `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_
         
-* |FIXME_ICON| `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/RDataMining.yml>`_]
+* |OK_ICON| `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_
         
 * |FIXME_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
         
@@ -957,7 +959,7 @@ MachineLearning
         
 * |OK_ICON| `TikTok Dataset - More than 300 dance videos that capture a single person [...] <https://www.yasamin.page/hdnet_tiktok>`_
         
-* |OK_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_
+* |FIXME_ICON| `UCI Machine Learning Repository <http://archive.ics.uci.edu/ml/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/UCI-Machine-Learning-Repository.yml>`_]
         
 * |OK_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_
         
@@ -1003,7 +1005,7 @@ NaturalLanguage
         
 * |OK_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_
         
-* |OK_ICON| `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_
+* |FIXME_ICON| `DBpedia - 4.58M things with 583M facts <http://wiki.dbpedia.org/Datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_
         
@@ -1248,7 +1250,7 @@ PublicDomains
         
 * |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
         
-* |OK_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_
+* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
 * |FIXME_ICON| `RevolutionAnalytics Collection <https://packages.revolutionanalytics.com/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/RevolutionAnalytics-Collection.yml>`_]
         
