@@ -328,6 +328,8 @@ EarthScience
 * |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_
         
 * |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_
+
+* |OK_ICON| `TLE Satellite information <https://tle.ivanstanojevic.me/#/docs>`_
     
 Economics
 ---------
