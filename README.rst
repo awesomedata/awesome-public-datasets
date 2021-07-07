@@ -136,6 +136,9 @@ Biology
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource [...] <http://www.uniprot.org/downloads>`_
         
 * |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each [...] <https://docs.rfam.org/en/latest/database.html>`_
+
+* |OK_ICON| `RNAcentral - The non-coding RNA sequence database <https://rnacentral.org/downloads>`_
+
     
 Climate+Weather
 ---------------
