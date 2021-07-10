@@ -95,7 +95,7 @@ Biology
         
 * |OK_ICON| `NCI Genomic Data Commons - The GDC Data Portal is a robust data-driven [...] <https://gdc.cancer.gov/access-data/gdc-data-portal>`_
         
-* |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
+* |OK_ICON| `NIH Microarray data <https://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_
         
 * |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer [...] <https://opensnp.org/>`_
         
