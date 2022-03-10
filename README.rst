@@ -264,6 +264,8 @@ CyberSecurity
 * |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_
         
 * |OK_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This [...] <https://zenodo.org/record/3746129>`_
+
+* |OK_ICON| `CISA.gov Known Exploited Vulnerabilities Catalog [...] <https://www.cisa.gov/known-exploited-vulnerabilities-catalog>`_
     
 DataChallenges
 --------------
