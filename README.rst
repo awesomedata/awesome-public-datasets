@@ -333,20 +333,38 @@ Economics
 ---------
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
+
+* |OK_ICON| `Asian Productivity Organization (APO) <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_
+
+* |OK_ICON| `Asian KLEMS <http://www.asiaklems.net/data/archive.asp>`_
+
+* |OK_ICON| `ASEAN Stats <https://data.aseanstats.org/>`_
+
+* |OK_ICON| `Barro-Lee Educational Attainment Dataset <http://www.barrolee.com/>`_
+
+* |OK_ICON| `BIS Financial Database <https://www.bis.org/statistics/full_data_sets.htm>`_
+
+* |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
         
-* |FIXME_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/EconData-from-UMD.yml>`_]
+* |OK_ICON| `EconData from UMD <http://inforumweb.inforumecon.com/econdata/econdatacontents.html>`_
         
 * |OK_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+
+* |OK_ICON| `EUKLEMS <https://euklems.eu/query/>`_
         
 * |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_
-        
-* |FIXME_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
-        
-* |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of [...] <https://db.nomics.world/>`_
+
+* |OK_ICON| `Historical National Accounts <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_
         
 * |FIXME_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
+
+* |OK_ICON| `Latin America KLEMS (LAKLEMS) <http://laklems.net/stats/result>`_
+
+* |OK_ICON| `Maddison Project Database <https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/>`_
+
+* |OK_ICON| `National Transfer Accounts (NTA) <https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo>`_
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
         
@@ -357,18 +375,22 @@ Economics
 * |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
         
 * |OK_ICON| `Our World in Data <http://ourworldindata.org/>`_
+
+* |OK_ICON| `Penn World Table <https://www.rug.nl/ggdc/productivity/pwt/?lang=en/>`_
         
-* |FIXME_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
-        
-* |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
-        
+* |OK_ICON| `SciencesPo World Trade Gravity Datasets (Now CEPII Database) <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_
+                
 * |OK_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_
         
-* |FIXME_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
+* |OK_ICON| `The Atlas of Economic Complexity (Harvard) <https://dataverse.harvard.edu/dataverse/atlas>`_
         
 * |OK_ICON| `UN Commodity Trade Statistics <https://comtrade.un.org/data/>`_
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
+
+* |OK_ICON| `World KLEMS <https://www.worldklems.net/wkanalytical>`_
+
+* |OK_ICON| `World Input-Output Database <https://www.rug.nl/ggdc/valuechain/wiod/>`_
     
 Education
 ---------
