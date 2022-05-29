@@ -71,6 +71,8 @@ Biology
         
 * |OK_ICON| `Gene Ontology (GO) - GO annotation files <http://geneontology.org/docs/download-go-annotations/>`_
         
+* |OK_ICON| `Global Biodiversity Information Facility (GBIF) <https://www.gbif.org/occurrence-snapshots>`_
+
 * |OK_ICON| `Global Biotic Interactions (GloBI) <https://github.com/jhpoelen/eol-globi-data/wiki#accessing-species-interaction-data>`_
         
 * |OK_ICON| `Harvard Medical School (HMS) LINCS Project - The Harvard Medical School [...] <http://lincs.hms.harvard.edu>`_
