@@ -494,7 +494,9 @@ GIS
 * |OK_ICON| `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
         
 * |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
-        
+
+* |OK_ICON| `List of all parking lots world wide <https://www.geolocationservices.org/page/nextparkinglot-datastructure.html>`_
+
 * |OK_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
         
 * |FIXME_ICON| `Natural Earth - vectors and rasters of the world <https://www.naturalearthdata.com/downloads/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Natural-Earth.yml>`_]
