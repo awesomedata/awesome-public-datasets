@@ -288,7 +288,7 @@ DataChallenges
         
 * |OK_ICON| `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
         
-* |OK_ICON| `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
+* |OK_ICON| `Netflix Prize <https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data>`_
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_
         
