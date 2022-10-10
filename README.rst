@@ -895,6 +895,8 @@ ImageProcessing
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - [...] <https://mediatum.ub.tum.de/1548761>`_
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_
+
+* |OK_ICON| `MVTec Anomaly Detection Dataset <https://www.mvtec.com/company/research/datasets/mvtec-ad>`_
         
 * |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content [...] <https://news-navigator.labs.loc.gov/>`_
         
