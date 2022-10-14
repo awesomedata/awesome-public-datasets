@@ -302,7 +302,7 @@ DataChallenges
         
 * |OK_ICON| `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Localytics-Data-Visualization-Challenge.yml>`_]
         
-* |OK_ICON| `Netflix Prize <http://netflixprize.com/leaderboard.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Netflix-Prize.yml>`_]
+* |OK_ICON| `Netflix Prize <https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Netflix-Prize.yml>`_]
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Space-Apps-Challenge.yml>`_]
         
@@ -910,7 +910,7 @@ ImageProcessing
         
 * |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
-* |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain Technique - The dataset [...] <https://arquivos.ufsc.br/d/373be2177a33426a9e6c/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CCAgT.yml>`_]
+* |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain Technique - Contains 9339 [...] <https://doi.org/10.17632/wg4bpm33hj.2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CCAgT.yml>`_]
         
 * |FIXME_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Caltech-Pedestrian-Detection-Benchmark.yml>`_]
         
@@ -1365,7 +1365,7 @@ SearchEngines
         
 * |OK_ICON| `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/OpenDataNetwork.yml>`_]
         
-* |FIXME_ICON| `Statista.com - statistics and Studies <http://www.statista.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Statista.com.yml>`_]
+* |OK_ICON| `Statista.com - statistics and Studies <http://www.statista.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Statista.com.yml>`_]
         
 * |OK_ICON| `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Zenodo.yml>`_]
     
