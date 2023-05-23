@@ -231,7 +231,7 @@ ComplexNetworks
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Laboratory-for-Web-Algorithmics-UNIMI.yml>`_]
         
-* |OK_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UCI-Network-Data-Repository.yml>`_]
+* |FIXME_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UCI-Network-Data-Repository.yml>`_]
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UFL-sparse-matrix-collection.yml>`_]
         
@@ -341,7 +341,7 @@ EarthScience
         
 * |OK_ICON| `Oil and Gas Authority Open Data - The dataset covers 12,500 offshore wellbores, 5,000 seismic [...] <https://data-ogauthority.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Oil-and-Gas-Authority-UK.yml>`_]
         
-* |FIXME_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
+* |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
         
 * |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/USGS-Earthquake-Archives.yml>`_]
         
