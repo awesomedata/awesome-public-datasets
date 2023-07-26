@@ -227,7 +227,7 @@ ComplexNetworks
         
 * |OK_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Small-Network-Data.yml>`_]
         
-* |OK_ICON| `Stanford GraphBase <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
+* |FIXME_ICON| `Stanford GraphBase <http://www3.cs.stonybrook.edu/~algorith/implement/graphbase/implement.shtml>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
         
 * |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`_]
         
@@ -256,9 +256,9 @@ ComputerNetworks
         
 * |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
-* |FIXME_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
+* |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
-* |FIXME_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
+* |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
         
 * |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
@@ -462,7 +462,7 @@ Energy
         
 * |OK_ICON| `PEM1 - Proton Exchange Membrane (PEM) Fuel Cell Dataset <https://github.com/ECSIM/pem-dataset1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PEM1.yml>`_]
         
-* |FIXME_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
+* |OK_ICON| `PLAID - The Plug Load Appliance Identification Dataset <http://plaidplug.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PLAID.yml>`_]
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy data easier to [...] <https://github.com/catalyst-cooperative/pudl>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PUDL.yml>`_]
         
@@ -588,7 +588,7 @@ Government
         
 * |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
@@ -646,7 +646,7 @@ Government
         
 * |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
-* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+* |FIXME_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
         
 * |OK_ICON| `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Gatineau-QC-Canada.yml>`_]
         
@@ -794,7 +794,7 @@ Government
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
 * |OK_ICON| `Toronto, ON, Canada <https://open.toronto.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Toronto-ON-Canada.yml>`_]
         
@@ -916,7 +916,7 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Animals-with-attributes.yml>`_]
         
-* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
+* |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
 * |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain Technique - Contains 9339 [...] <https://doi.org/10.17632/wg4bpm33hj.2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CCAgT.yml>`_]
         
@@ -1073,9 +1073,9 @@ NaturalLanguage
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
         
-* |FIXME_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb09-FACC.yml>`_]
+* |OK_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb09-FACC.yml>`_]
         
-* |FIXME_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb12-FACC.yml>`_]
+* |OK_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb12-FACC.yml>`_]
         
 * |OK_ICON| `DBpedia - Structured data from Wikipedia <https://databus.dbpedia.org/dbpedia/collections/latest-core>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
         
@@ -1412,7 +1412,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1479,7 +1479,7 @@ SocialSciences
         
 * |OK_ICON| `German Social Survey <http://www.gesis.org/en/home/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/German-Social-Survey.yml>`_]
         
-* |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Global-Religious-Futures-Project.yml>`_]
+* |FIXME_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Global-Religious-Futures-Project.yml>`_]
         
 * |OK_ICON| `Gun Violence Data - A comprehensive, accessible database that contains records of over 260k [...] <https://github.com/jamesqo/gun-violence-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Gun-Violence-Data.yml>`_]
         
@@ -1552,7 +1552,7 @@ Software
         
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/FLOSSmole-data-about-free-libre-and-open-source-software-development.yml>`_]
         
-* |FIXME_ICON| `GHTorrent - Scalable, queryable, offline mirror of data offered through the GitHub REST API. <https://ghtorrent.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/GHTorrent.yml>`_]
+* |OK_ICON| `GHTorrent - Scalable, queryable, offline mirror of data offered through the GitHub REST API. <https://ghtorrent.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/GHTorrent.yml>`_]
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`_]
         
@@ -1632,6 +1632,8 @@ Transportation
 * |OK_ICON| `German train system by Deutsche Bahn <https://data.deutschebahn.com/dataset.groups.datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/German-train-system-by-Deutsche-Bahn.yml>`_]
         
 * |OK_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Hubway-Million-Rides-in-MA.yml>`_]
+        
+* |OK_ICON| `Melbourne Pedestrian Counting - This dataset contains hourly pedestrian counts since 2009 [...] <https://data.melbourne.vic.gov.au/explore/dataset/pedestrian-counting-system-monthly-counts-per-hour/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Melbourne-pedestrian-counting.yml>`_]
         
 * |OK_ICON| `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Montreal-BIXI-Bike-Share.yml>`_]
         
