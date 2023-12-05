@@ -72,7 +72,7 @@ Biology
         
 * |OK_ICON| `Cell Image Library - This library is a public and easily accessible resource database of [...] <http://www.cellimagelibrary.org/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
         
-* |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes are freely [...] <https://completegenomics.mgiamericas.com/demodata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
+* |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes are freely [...] <https://completegenomics.mgiamericas.com/demodata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
         
 * |OK_ICON| `CytoImageNet - A large-scale dataset of microscopy images. Contains 890,737 total grayscale [...] <https://www.kaggle.com/stanleyhua/cytoimagenet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CytoImageNet.yml>`_]
         
@@ -94,7 +94,7 @@ Biology
         
 * |OK_ICON| `Harvard Medical School (HMS) LINCS Project - The Harvard Medical School (HMS) LINCS Center is [...] <http://lincs.hms.harvard.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Harvard-Medical-School-LINCS-Project.yml>`_]
         
-* |OK_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <http://www.hagsc.org/hgdp/files.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
+* |FIXME_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <http://www.hagsc.org/hgdp/files.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
         
 * |OK_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
         
@@ -114,7 +114,7 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
         
-* |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer genetic tests to [...] <https://opensnp.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
+* |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer genetic tests to [...] <https://opensnp.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
         
 * |OK_ICON| `Palmer Penguins - The goal of palmerpenguins is to provide a great dataset for data [...] <https://allisonhorst.github.io/palmerpenguins/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Palmer-Penguins.yml>`_]
         
@@ -168,11 +168,11 @@ Climate+Weather
         
 * |FIXME_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/index.shtml>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Australian-Weather.yml>`_]
         
-* |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather information for the world [...] <https://aviationweather.gov/adds/dataserver>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Aviation-Weather-Center.yml>`_]
+* |FIXME_ICON| `Aviation Weather Center - Consistent, timely and accurate weather information for the world [...] <https://aviationweather.gov/adds/dataserver>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Aviation-Weather-Center.yml>`_]
         
 * |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to climate and weather [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
         
-* |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Canadian-Meteorological-Centre.yml>`_]
+* |FIXME_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Canadian-Meteorological-Centre.yml>`_]
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
@@ -243,7 +243,7 @@ ComplexNetworks
         
 * |OK_ICON| `The Laboratory for Web Algorithmics (UNIMI) <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Laboratory-for-Web-Algorithmics-UNIMI.yml>`_]
         
-* |FIXME_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UCI-Network-Data-Repository.yml>`_]
+* |OK_ICON| `UCI Network Data Repository <https://networkdata.ics.uci.edu/resources.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UCI-Network-Data-Repository.yml>`_]
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UFL-sparse-matrix-collection.yml>`_]
         
@@ -386,7 +386,7 @@ Economics
         
 * |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
-* |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
+* |FIXME_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of millions of time series [...] <https://db.nomics.world/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
         
@@ -412,13 +412,13 @@ Economics
         
 * |OK_ICON| `Penn World Table - PWT version 10.0 is a database with information on relative levels of [...] <https://www.rug.nl/ggdc/productivity/pwt/?lang=en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Penn World Table.yml>`_]
         
-* |FIXME_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
+* |OK_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
         
 * |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Atlas-of-Economic-Complexity.yml>`_]
         
 * |OK_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml>`_]
         
-* |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
+* |FIXME_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
         
 * |FIXME_ICON| `UN Commodity Trade Statistics <https://comtrade.un.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
@@ -444,7 +444,7 @@ Energy
         
 * |OK_ICON| `AMPds - The Almanac of Minutely Power dataset <http://ampds.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/AMPds.yml>`_]
         
-* |OK_ICON| `BLUEd - Building-Level fUlly labeled Electricity Disaggregation dataset <https://energy.duke.edu/content/building-level-fully-labeled-electricity-disaggregation-blued>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/BLUEd.yml>`_]
+* |FIXME_ICON| `BLUEd - Building-Level fUlly labeled Electricity Disaggregation dataset <https://energy.duke.edu/content/building-level-fully-labeled-electricity-disaggregation-blued>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/BLUEd.yml>`_]
         
 * |OK_ICON| `COMBED <http://combed.github.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/COMBED.yml>`_]
         
@@ -458,7 +458,7 @@ Energy
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
-* |FIXME_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/HES.yml>`_]
+* |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/HES.yml>`_]
         
 * |OK_ICON| `HFED <http://hfed.github.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/HFED.yml>`_]
         
@@ -518,7 +518,7 @@ Finance
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
-* |OK_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
+* |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
         
@@ -730,13 +730,13 @@ Government
         
 * |OK_ICON| `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-Zealand.yml>`_]
         
-* |FIXME_ICON| `OECD <https://data.oecd.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OECD.yml>`_]
+* |OK_ICON| `OECD <https://data.oecd.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OECD.yml>`_]
         
 * |FIXME_ICON| `Oakland, California, US <https://data.oaklandnet.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Oakland-California-US.yml>`_]
         
 * |OK_ICON| `Oklahoma <https://data.ok.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Oklahoma.yml>`_]
         
-* |OK_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Data-for-Africa.yml>`_]
+* |FIXME_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Data-for-Africa.yml>`_]
         
 * |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
@@ -796,7 +796,7 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
+* |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
@@ -912,7 +912,7 @@ ImageProcessing
         
 * |OK_ICON| `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/10k-US-Adult-Faces-Database.yml>`_]
         
-* |OK_ICON| `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/2GB-of-Photos-of-Cats.yml>`_]
+* |FIXME_ICON| `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/2GB-of-Photos-of-Cats.yml>`_]
         
 * |OK_ICON| `Audience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Adience-Unfiltered-faces-for-gender-and-age-classification.yml>`_]
         
@@ -922,13 +922,13 @@ ImageProcessing
         
 * |OK_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Animals-with-attributes.yml>`_]
         
-* |FIXME_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
+* |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
 * |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain Technique - Contains 9339 [...] <https://doi.org/10.17632/wg4bpm33hj.2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CCAgT.yml>`_]
         
 * |FIXME_ICON| `Caltech Pedestrian Detection Benchmark <http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Caltech-Pedestrian-Detection-Benchmark.yml>`_]
         
-* |OK_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Chars74K-dataset.yml>`_]
+* |FIXME_ICON| `Chars74K dataset - Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Chars74K-dataset.yml>`_]
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
@@ -938,7 +938,7 @@ ImageProcessing
         
 * |FIXME_ICON| `DukeMTMC Data Set - DukeMTMC aims to accelerate advances in multi-target multi-camera [...] <http://vision.cs.duke.edu/DukeMTMC/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DukeMTMC-Data-Set.yml>`_]
         
-* |OK_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
+* |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
         
@@ -962,7 +962,7 @@ ImageProcessing
         
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
-* |FIXME_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
+* |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
 * |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
@@ -1031,7 +1031,7 @@ MachineLearning
         
 * |FIXME_ICON| `RDataMining - "R and Data Mining" ebook data <http://www.rdatamining.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/RDataMining.yml>`_]
         
-* |OK_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
+* |FIXME_ICON| `Registered Meteorites on Earth <http://publichealthintelligence.org/content/registered-meteorites-has-impacted-earth-visualized>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Registered-Meteorites-on-Earth.yml>`_]
         
 * |OK_ICON| `Restaurants Health Score Data in San Francisco <https://data.sfgov.org/Health-and-Social-Services/Restaurant-Scores-LIVES-Standard/pyih-qa8i?row_index=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Restaurants-Health-Score-Data-in-San-Francisco.yml>`_]
         
@@ -1075,7 +1075,7 @@ NaturalLanguage
         
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from professional audiobooks [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
         
-* |OK_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
+* |FIXME_ICON| `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
         
@@ -1147,7 +1147,7 @@ NaturalLanguage
         
 * |OK_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
-* |OK_ICON| `Wordbank - Open, de-identified database of vocabulary development from 84,138 children and [...] <http://wordbank.stanford.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wordbank.yml>`_]
+* |FIXME_ICON| `Wordbank - Open, de-identified database of vocabulary development from 84,138 children and [...] <http://wordbank.stanford.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wordbank.yml>`_]
         
 * |OK_ICON| `WorldTree Corpus of Explanation Graphs for Elementary Science Questions - a corpus of [...] <http://www.cognitiveai.org/explanationbank>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Worldtree-Explanation-Corpus.yml>`_]
     
@@ -1160,7 +1160,7 @@ Neuroscience
         
 * |FIXME_ICON| `Brainomics <http://brainomics.cea.fr/localizer>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Brainomics.yml>`_]
         
-* |OK_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
+* |FIXME_ICON| `CodeNeuro Datasets <http://datasets.codeneuro.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/CodeNeuro-Datasets.yml>`_]
         
 * |OK_ICON| `Collaborative Research in Computational Neuroscience (CRCNS) <http://crcns.org/data-sets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Collaborative-Research-in-Computational-Neuroscience-CRCNS.yml>`_]
         
@@ -1299,7 +1299,7 @@ Psychology+Cognition
         
 * |FIXME_ICON| `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/OSU-Cognitive-Modeling-Repository-Datasets.yml>`_]
         
-* |OK_ICON| `Open Cognitive Science Data - Pubicly available behavioral datasets from across cognitive [...] <https://nivlab.github.io/opendata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/Open-Cognitive-Science-Data-Repository.yml>`_]
+* |OK_ICON| `Open Cognitive Science Data - Pubicly available cognitive task datasets from across cognitive [...] <https://nimh-dsst.github.io/OpenCogData/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/Open-Cognitive-Science-Data-Repository.yml>`_]
     
 PublicDomains
 -------------
@@ -1318,7 +1318,7 @@ PublicDomains
         
 * |OK_ICON| `Data.World <https://data.world>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
-* |OK_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Enigma-Public.yml>`_]
         
@@ -1330,7 +1330,7 @@ PublicDomains
         
 * |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
-* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
+* |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Data-Science-for-Research.yml>`_]
         
@@ -1651,7 +1651,7 @@ Transportation
         
 * |OK_ICON| `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Traffic-collection.yml>`_]
         
-* |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/OpenFlights.yml>`_]
+* |FIXME_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/OpenFlights.yml>`_]
         
 * |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
         
