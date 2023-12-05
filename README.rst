@@ -44,7 +44,7 @@ Agriculture
         
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working with remote sensing [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Optimized Soil Adjusted Vegetation Index>`_]
         
-* |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
+* |FIXME_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
         
 * |OK_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS Checklist is nearly 7 [...] <https://plants.usda.gov/home/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-PLANTS-Database.yml>`_]
     
@@ -114,7 +114,7 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
         
-* |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer genetic tests to [...] <https://opensnp.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
+* |OK_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer genetic tests to [...] <https://opensnp.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
         
 * |OK_ICON| `Palmer Penguins - The goal of palmerpenguins is to provide a great dataset for data [...] <https://allisonhorst.github.io/palmerpenguins/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Palmer-Penguins.yml>`_]
         
@@ -173,6 +173,8 @@ Climate+Weather
 * |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to climate and weather [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
         
 * |FIXME_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Canadian-Meteorological-Centre.yml>`_]
+        
+* |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
 * |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
@@ -688,7 +690,7 @@ Government
         
 * |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
-* |OK_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
+* |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
 * |OK_ICON| `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Japan.yml>`_]
         
@@ -1299,7 +1301,7 @@ Psychology+Cognition
         
 * |FIXME_ICON| `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/OSU-Cognitive-Modeling-Repository-Datasets.yml>`_]
         
-* |OK_ICON| `Open Cognitive Science Data - Pubicly available cognitive task datasets from across cognitive [...] <https://nimh-dsst.github.io/OpenCogData/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/Open-Cognitive-Science-Data-Repository.yml>`_]
+* |OK_ICON| `Open Cognitive Science Data - Publicly available behavioral datasets from across cognitive [...] <https://nimh-dsst.github.io/OpenCogData/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/Open-Cognitive-Science-Data-Repository.yml>`_]
     
 PublicDomains
 -------------
