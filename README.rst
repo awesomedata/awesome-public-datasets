@@ -482,7 +482,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Tracebase.yml>`_]
         
-* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.org/en/operativ/menu/menu_e/energ.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
+* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.gov.ua//operativ/menu/menu_e/energ.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-DALE.yml>`_]
         
