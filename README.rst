@@ -1296,7 +1296,9 @@ Psychology+Cognition
 * |FIXME_ICON| `OSU Cognitive Modeling Repository Datasets <http://www.cmr.osu.edu/browse/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/OSU-Cognitive-Modeling-Repository-Datasets.yml>`_]
         
 * |OK_ICON| `Open Cognitive Science Data - Publicly available behavioral datasets from across cognitive [...] <https://nimh-dsst.github.io/OpenCogData/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Psychology+Cognition/Open-Cognitive-Science-Data-Repository.yml>`_]
-    
+
+* |OK_ICON| `Mental Health Dataset - A comprehensive dataset containing mental health survey results [...] <https://www.kaggle.com/datasets/programmerrdai/mental-health-dataset>`_
+
 PublicDomains
 -------------
         
