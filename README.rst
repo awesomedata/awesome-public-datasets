@@ -205,7 +205,9 @@ Climate+Weather
 * |OK_ICON| `Wahington Post Climate Change - To analyze warming temperatures in the United States, The [...] <https://github.com/washingtonpost/data-2C-beyond-the-limit-usa>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Washington Post Climate Change.yml>`_]
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
-    
+
+* |OK_ICON| `Global Surface Summary of the Day - GSOD <https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00516>`_ [`Meta <https://www.ncei.noaa.gov/data/global-summary-of-the-day/doc/readme.txt>`_]
+
 ComplexNetworks
 ---------------
         
