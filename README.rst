@@ -1629,7 +1629,7 @@ Transportation
         
 * |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Bike-Share-Systems-BSS-collection.yml>`_]
         
-* |FIXME_ICON| `Dutch Traffic Information <https://www.ndw.nu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Dutch-Traffic-Information.yml>`_]
+* |FIXME_ICON| `Dutch Traffic Information <https://opendata.ndw.nu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Dutch-Traffic-Information.yml>`_]
         
 * |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
