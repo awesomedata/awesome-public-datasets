@@ -1068,7 +1068,8 @@ Museums
     
 NaturalLanguage
 ---------------
-        
+* [OK_ICON] `Russian Storytelling Video Dataset <https://huggingface.co/datasets/MaratDV/video-dataset>`_ - Russian-language multimodal dataset: 700+ native speakers, full-body HD videos, emotion-rich speech. Meta <https://github.com/MaratDV/storytelling-video-dataset>
+
 * |OK_ICON| `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Automatic-Keyphrase-Extraction.yml>`_]
         
 * |OK_ICON| `The Big Bad NLP Database <https://datasets.quantumstat.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/BigBadNLPDatabase.yml>`_]
