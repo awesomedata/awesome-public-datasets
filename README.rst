@@ -172,7 +172,7 @@ Climate+Weather
         
 * |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
-* |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
+* |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
 * |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
@@ -431,7 +431,7 @@ Economics
 Education
 ---------
         
-* |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
@@ -688,7 +688,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
-* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
@@ -756,7 +756,7 @@ Government
         
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portland-Oregon.yml>`_]
         
-* |FIXME_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
+* |OK_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
         
 * |FIXME_ICON| `Puerto Rico Government <https://data.pr.gov//>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Puerto-Rico-Government.yml>`_]
         
@@ -800,7 +800,7 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
+* |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
@@ -831,8 +831,6 @@ Government
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Open-Government.yml>`_]
         
 * |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
-        
-* |OK_ICON| `UNESCO Data Hub - UNESCO's official data catalog providing authoritative global statistics [...] <https://data.unesco.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UNESCO-Data-Hub.yml>`_]
         
 * |OK_ICON| `US Counties - This is a repository of various data, broken down by US county. While most of [...] <https://github.com/evangambit/JsonOfCounties>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Counties.yml>`_]
         
@@ -883,7 +881,7 @@ Healthcare
         
 * |OK_ICON| `Gapminder World demographic databases <http://www.gapminder.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Gapminder-World-demographic-databases.yml>`_]
         
-* |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MeSH-the-vocabulary-thesaurus-used-for-indexing-articles-for-PubMed.yml>`_]
+* |FIXME_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MeSH-the-vocabulary-thesaurus-used-for-indexing-articles-for-PubMed.yml>`_]
         
 * |OK_ICON| `MeDAL - A large medical text dataset curated for abbreviation disambiguation - Medical [...] <https://github.com/BruceWen120/medal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medal-medical-abbreviations.yml>`_]
         
