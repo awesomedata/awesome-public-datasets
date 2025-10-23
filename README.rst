@@ -587,9 +587,9 @@ GIS
         
 * |OK_ICON| `MAP-VERSE - MAP usability - Validated Empirical Research by Systematic Evaluation - A curated [...] <https://map-verse.github.io/Repository/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/map-verse.yml>`_]
 
-* |OK_ICON| Open Data Hub – Tourism: Accommodation Listings & Availability <https://databrowser.opendatahub.com/dataset-overview/7c8f490d-7b54-4a88-801f-f7669f5aaed9/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Open-Data-Hub-Tourism-Accommodations.yml>_] 
+* |OK_ICON| `Open Data Hub – Tourism: Accommodation Listings & Availability <https://databrowser.opendatahub.com/dataset-overview/7c8f490d-7b54-4a88-801f-f7669f5aaed9/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Open-Data-Hub-Tourism-Accommodations.yml>_] 
 
-* |OK_ICON| Open Data Hub – Tourism: Points of Interest and Accommodations <https://databrowser.opendatahub.com/dataset-overview/a1f5de8e-f624-4ccb-baad-a09e0c8b044f/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Open-Data-Hub-Tourism-Points-of-Interest.yml>_]
+* |OK_ICON| `Open Data Hub – Tourism: Points of Interest and Accommodations <https://databrowser.opendatahub.com/dataset-overview/a1f5de8e-f624-4ccb-baad-a09e0c8b044f/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Open-Data-Hub-Tourism-Points-of-Interest.yml>_]
 
     
 Government
@@ -1570,7 +1570,7 @@ SocialSciences
         
 * |FIXME_ICON| `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/WorldPop-project.yml>`_]
 
-* |OK_ICON| Open Data Hub – Tourism: Visitor Flow and Events Data <https://databrowser.opendatahub.com/dataset-overview/36324970-9687-4c85-a471-9d216df18040/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Open-Data-Hub-Tourism-Visitor-Flow.yml>_] 
+* |OK_ICON| `Open Data Hub – Tourism: Visitor Flow and Events Data <https://databrowser.opendatahub.com/dataset-overview/36324970-9687-4c85-a471-9d216df18040/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Open-Data-Hub-Tourism-Visitor-Flow.yml>_] 
     
 Software
 --------
@@ -1696,13 +1696,13 @@ Transportation
         
 * |FIXME_ICON| `U.S. National Highway Traffic Safety Administration - Fatalities since 1975 - Contains CSV [...] <https://nhtsa.gov/FARS/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/U.S.-National-Highway-Traffic-Safety-Administation-Fatalities-since-1975.yml>`_]
 
-* |OK_ICON| Open Data Hub – Mobility: Bikesharing Stations Availability <https://databrowser.opendatahub.com/dataset-overview/adf0b7b8-ad94-4e03-9a3c-c1731239d8ae/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Bikesharing-Stations.yml>_] 
+* `|OK_ICON| Open Data Hub – Mobility: Bikesharing Stations Availability <https://databrowser.opendatahub.com/dataset-overview/adf0b7b8-ad94-4e03-9a3c-c1731239d8ae/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Bikesharing-Stations.yml>_] 
 
-* |OK_ICON| Open Data Hub – Mobility: Parking Availability and Occupancy <https://databrowser.opendatahub.com/dataset-overview/178ea911-cc54-418e-b42e-52cad18f1ec1/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Parking-Availability.yml>_] 
+* `|OK_ICON| Open Data Hub – Mobility: Parking Availability and Occupancy <https://databrowser.opendatahub.com/dataset-overview/178ea911-cc54-418e-b42e-52cad18f1ec1/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Parking-Availability.yml>_] 
 
-* |OK_ICON| Open Data Hub – Mobility: EV Charging Stations and E-Mobility Status <https://databrowser.opendatahub.com/dataset-overview/6c9722ae-129f-47e9-92cc-0bde13a47ef3/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-EV-Charging-Stations.yml>_] 
+* `|OK_ICON| Open Data Hub – Mobility: EV Charging Stations and E-Mobility Status <https://databrowser.opendatahub.com/dataset-overview/6c9722ae-129f-47e9-92cc-0bde13a47ef3/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-EV-Charging-Stations.yml>_] 
 
-* |OK_ICON| Open Data Hub – Mobility: Real-time Public Transport Positions <https://databrowser.opendatahub.com/dataset-overview/12d40f95-c5fe-4ff3-bb78-808b7137f5e8/>_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Real-time-Public-Transport-Positions.yml>_] 
+* |OK_ICON| `Open Data Hub – Mobility: Real-time Public Transport Positions <https://databrowser.opendatahub.com/dataset-overview/12d40f95-c5fe-4ff3-bb78-808b7137f5e8/>`_ [Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Real-time-Public-Transport-Positions.yml>_] 
     
 eSports
 -------
