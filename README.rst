@@ -1696,11 +1696,11 @@ Transportation
         
 * |FIXME_ICON| `U.S. National Highway Traffic Safety Administration - Fatalities since 1975 - Contains CSV [...] <https://nhtsa.gov/FARS/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/U.S.-National-Highway-Traffic-Safety-Administation-Fatalities-since-1975.yml>`_]
 
-* `|OK_ICON| Open Data Hub – Mobility: Bikesharing Stations Availability <https://databrowser.opendatahub.com/dataset-overview/adf0b7b8-ad94-4e03-9a3c-c1731239d8ae/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Bikesharing-Stations.yml>`_] 
+* |OK_ICON| `Open Data Hub – Mobility: Bikesharing Stations Availability <https://databrowser.opendatahub.com/dataset-overview/adf0b7b8-ad94-4e03-9a3c-c1731239d8ae/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Bikesharing-Stations.yml>`_] 
 
-* `|OK_ICON| Open Data Hub – Mobility: Parking Availability and Occupancy <https://databrowser.opendatahub.com/dataset-overview/178ea911-cc54-418e-b42e-52cad18f1ec1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Parking-Availability.yml>`_] 
+* |OK_ICON| `Open Data Hub – Mobility: Parking Availability and Occupancy <https://databrowser.opendatahub.com/dataset-overview/178ea911-cc54-418e-b42e-52cad18f1ec1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Parking-Availability.yml>`_] 
 
-* `|OK_ICON| Open Data Hub – Mobility: EV Charging Stations and E-Mobility Status <https://databrowser.opendatahub.com/dataset-overview/6c9722ae-129f-47e9-92cc-0bde13a47ef3/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-EV-Charging-Stations.yml>`_] 
+* |OK_ICON| `Open Data Hub – Mobility: EV Charging Stations and E-Mobility Status <https://databrowser.opendatahub.com/dataset-overview/6c9722ae-129f-47e9-92cc-0bde13a47ef3/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-EV-Charging-Stations.yml>`_] 
 
 * |OK_ICON| `Open Data Hub – Mobility: Real-time Public Transport Positions <https://databrowser.opendatahub.com/dataset-overview/12d40f95-c5fe-4ff3-bb78-808b7137f5e8/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Open-Data-Hub-Mobility-Real-time-Public-Transport-Positions.yml>`_] 
     
