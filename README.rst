@@ -74,7 +74,7 @@ Biology
         
 * |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank (EMDB) is a public [...] <https://www.ebi.ac.uk/emdb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-Protein-Data-Bank-in-Europe.yml>`_]
         
-* |OK_ICON| `ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium is an ongoing [...] <https://www.encodeproject.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ENCODE-project.yml>`_]
+* |FIXME_ICON| `ENCODE project - The Encyclopedia of DNA Elements (ENCODE) Consortium is an ongoing [...] <https://www.encodeproject.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ENCODE-project.yml>`_]
         
 * |OK_ICON| `Electron Microscopy Pilot Image Archive (EMPIAR) - EMPIAR, the Electron Microscopy Public [...] <http://www.ebi.ac.uk/pdbe/emdb/empiar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Electron-Microscopy-Pilot-Image-Archive-EMPIAR.yml>`_]
         
@@ -192,7 +192,7 @@ Climate+Weather
         
 * |FIXME_ICON| `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Realtime-Weather-Models.yml>`_]
         
-* |OK_ICON| `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-SURFRAD-Meteorology-and-Radiation-Datasets.yml>`_]
+* |FIXME_ICON| `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-SURFRAD-Meteorology-and-Radiation-Datasets.yml>`_]
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
@@ -355,7 +355,7 @@ EarthScience
         
 * |OK_ICON| `Radiance GeoJSON — Global Light Pollution - Global nighttime light pollution dataset derived [...] <https://archive.org/details/radiance-geojson-data-2025>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Radiance-GeoJSON-Light-Pollution.yml>`_]
         
-* |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
+* |FIXME_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
         
 * |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/USGS-Earthquake-Archives.yml>`_]
         
@@ -429,6 +429,8 @@ Economics
 * |OK_ICON| `World Input-Output Database - World Input-Output Tables and underlying data, covering 43 [...] <https://www.rug.nl/ggdc/valuechain/wiod/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World Input-Output Database.yml>`_]
         
 * |OK_ICON| `World KLEMS - Analytical KLEMS-type data sets for a broad set of countries around the world. [...] <https://www.worldklems.net/wkanalytical>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World KLEMS.yml>`_]
+        
+* |OK_ICON| `Prop-Metrics — U.S. ZIP-Code-Level Real Estate Analytics Dataset - A comprehensive dataset [...] <https://www.prop-metrics.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/prop-metrics-real-estate-data.yml>`_]
     
 Education
 ---------
@@ -596,9 +598,9 @@ Government
         
 * |FIXME_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
         
-* |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+* |FIXME_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
@@ -846,7 +848,7 @@ Government
         
 * |OK_ICON| `Ukraine <https://data.gov.ua/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ukraine.yml>`_]
         
-* |OK_ICON| `United Nations <http://data.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
+* |FIXME_ICON| `United Nations <http://data.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
         
 * |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
         
@@ -1080,7 +1082,7 @@ Museums
         
 * |OK_ICON| `Tate Collection metadata <https://github.com/tategallery/collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Tate-Collection-metadata.yml>`_]
         
-* |OK_ICON| `The Getty vocabularies <http://vocab.getty.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/The-Getty-vocabularies.yml>`_]
+* |FIXME_ICON| `The Getty vocabularies <http://vocab.getty.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/The-Getty-vocabularies.yml>`_]
     
 NaturalLanguage
 ---------------
