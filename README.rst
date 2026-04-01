@@ -528,6 +528,8 @@ Finance
         
 * |FIXME_ICON| `OSU Financial data <http://fisher.osu.edu/fin/fdf/osudata.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OSU-Financial-data.yml>`_]
         
+* |OK_ICON| `ProofBets API - Free API for crypto casino data: 50+ casinos, verified bonus codes, withdrawal speeds, prediction market fees, World Cup odds. OpenAPI 3.1. <https://proofbets.com/developers/>`_
+        
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
