@@ -891,6 +891,8 @@ Government
 Healthcare
 ----------
         
+* |OK_ICON| `Andean Medicinal Plants Database - Open dataset of 250 medicinal plants from the Andes and Amazon with drug interaction data for 53 drug classes. Includes scientific names, common names (ES/EN), traditional uses. <https://github.com/tapirro/andean-plants-database>`_ [`Meta <https://github.com/tapirro/andean-plants-database>`_]
+        
 * |OK_ICON| `AWS COVID-19 Datasets - We're working with organizations who make COVID-19-related data [...] <https://dj2taa9i652rf.cloudfront.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Aws-COVID-19.yml>`_]
         
 * |OK_ICON| `COVID-19 Case Surveillance Public Use Data - The COVID-19 case surveillance system database [...] <https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/COVID-19-Case-Surveillance-Public-Use-Data.yml>`_]
