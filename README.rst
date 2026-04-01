@@ -732,7 +732,7 @@ Government
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
-* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
+* |FIXME_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
         
 * |OK_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
         
@@ -858,6 +858,8 @@ Government
         
 * |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
         
+* |FIXME_ICON| `UK Food Hygiene Rating Scheme (FHRS) API - Food hygiene ratings for 600,000+ food [...] <https://api.ratings.food.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-Food-Hygiene-Rating-Scheme-FHRS-API.yml>`_]
+        
 * |OK_ICON| `UNESCO Data Hub - UNESCO's official data catalog providing authoritative global statistics [...] <https://data.unesco.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UNESCO-Data-Hub.yml>`_]
         
 * |OK_ICON| `US Counties - This is a repository of various data, broken down by US county. While most of [...] <https://github.com/evangambit/JsonOfCounties>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Counties.yml>`_]
@@ -943,7 +945,7 @@ Healthcare
         
 * |OK_ICON| `Yahoo Knowledge Graph COVID-19 Datasets - The Yahoo Knowledge Graph team at Verizon Media is [...] <https://github.com/yahoo/covid-19-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Yahoo-COVID-19.yml>`_]
         
-* |OK_ICON| `Informatics for Integrating Biology and the Bedside <https://www.i2b2.org/NLP/DataSets/Main.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/i2b2.yml>`_]
+* |FIXME_ICON| `Informatics for Integrating Biology and the Bedside <https://www.i2b2.org/NLP/DataSets/Main.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/i2b2.yml>`_]
     
 ImageProcessing
 ---------------
@@ -1187,13 +1189,13 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
 * |OK_ICON| `Wordbank - Open, de-identified database of vocabulary development from 84,138 children and [...] <http://wordbank.stanford.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wordbank.yml>`_]
         
-* |FIXME_ICON| `WorldTree Corpus of Explanation Graphs for Elementary Science Questions - a corpus of [...] <http://www.cognitiveai.org/explanationbank>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Worldtree-Explanation-Corpus.yml>`_]
+* |OK_ICON| `WorldTree Corpus of Explanation Graphs for Elementary Science Questions - a corpus of [...] <http://www.cognitiveai.org/explanationbank>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Worldtree-Explanation-Corpus.yml>`_]
         
 * |OK_ICON| `Etymology Atlas - Word origins and etymological data covering millions of entries across [...] <https://huggingface.co/datasets/lukeslp/etymology-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/etymology-atlas.yaml>`_]
         
@@ -1583,7 +1585,7 @@ SocialSciences
         
 * |FIXME_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Terrorism-Research-and-Analysis-Consortium.yml>`_]
         
-* |FIXME_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
+* |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Titanic-Survival-Data-Set.yml>`_]
         
