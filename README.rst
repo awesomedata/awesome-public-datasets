@@ -1773,4 +1773,5 @@ Special thanks to
    :target: https://github.com/Bai-Yu-Lan
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for data pipeline orchestration, automated dataset management, and multi-agent coordination. MIT licensed.
 
