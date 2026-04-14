@@ -172,7 +172,7 @@ Climate+Weather
         
 * |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
-* |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
+* |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
 * |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
@@ -268,7 +268,7 @@ ComputerNetworks
         
 * |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
         
-* |FIXME_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
+* |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
 * |OK_ICON| `Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information <https://github.com/coveooss/shopper-intent-prediction-nature-2020>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Coveo-Shopper-Intent-Prediction.yaml>`_]
         
@@ -382,7 +382,7 @@ Economics
         
 * |OK_ICON| `BIS Financial Database - The files contain the same data as in the BIS Statistics Explorer [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/BIS Financial Database.yml>`_]
         
-* |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
+* |OK_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
 * |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
@@ -392,7 +392,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -445,7 +445,7 @@ Economics
 Education
 ---------
         
-* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+* |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
@@ -521,6 +521,8 @@ Finance
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
         
 * |OK_ICON| `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Trends.yml>`_]
+        
+* |OK_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`_]
         
 * |OK_ICON| `NASDAQ <https://data.nasdaq.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NASDAQ.yml>`_]
         
@@ -710,7 +712,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
@@ -1012,7 +1014,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1249,7 +1251,7 @@ Physics
         
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
-* |FIXME_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
+* |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
