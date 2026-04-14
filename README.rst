@@ -40,7 +40,7 @@ Agriculture
         
 * |FIXME_ICON| `U.S. Department of Agriculture's Nutrient Database - USDA National Nutrient Database for [...] <https://fdc.nal.usda.gov/download-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
         
-* |FIXME_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS Checklist is nearly 7 [...] <https://plants.usda.gov/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-PLANTS-Database.yml>`_]
+* |OK_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS Checklist is nearly 7 [...] <https://plants.usda.gov/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-PLANTS-Database.yml>`_]
     
 Architecture
 ------------
@@ -130,7 +130,7 @@ Biology
         
 * |OK_ICON| `Serratus - Analysis of 7.1 million RNA/DNA sequencing datasets to discover the total [...] <https://github.com/ababaian/serratus/wiki/Access-Data-Release>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Serratus-Open-Virome.yml>`_]
         
-* |FIXME_ICON| `Stanford Microarray Data (Retired NOW) <http://smd.princeton.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
+* |OK_ICON| `Stanford Microarray Data (Retired NOW) <http://smd.princeton.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
         
 * |FIXME_ICON| `Stowers Institute Original Data Repository <http://www.stowers.org/research/publications/odr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stowers-Institute-Original-Data-Repository.yml>`_]
         
@@ -172,7 +172,7 @@ Climate+Weather
         
 * |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
-* |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
+* |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
 * |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
@@ -268,7 +268,7 @@ ComputerNetworks
         
 * |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
         
-* |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
+* |FIXME_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
 * |OK_ICON| `Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information <https://github.com/coveooss/shopper-intent-prediction-nature-2020>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Coveo-Shopper-Intent-Prediction.yaml>`_]
         
@@ -382,7 +382,7 @@ Economics
         
 * |OK_ICON| `BIS Financial Database - The files contain the same data as in the BIS Statistics Explorer [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/BIS Financial Database.yml>`_]
         
-* |OK_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
+* |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
 * |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
@@ -445,7 +445,7 @@ Economics
 Education
 ---------
         
-* |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
@@ -494,7 +494,7 @@ Energy
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Tracebase.yml>`_]
         
-* |FIXME_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.gov.ua/operativ/menu/menu_e/energ.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
+* |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.gov.ua/operativ/menu/menu_e/energ.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-DALE.yml>`_]
         
@@ -628,7 +628,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -700,7 +700,7 @@ Government
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indian-Government-Data.yml>`_]
         
-* |FIXME_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
+* |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
         
 * |OK_ICON| `Iowa - Welcome to the State of Iowa's data portal. Please explore data about Iowa and your [...] <https://data.iowa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Iowa.yml>`_]
         
@@ -708,9 +708,9 @@ Government
         
 * |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
-* |FIXME_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
+* |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
-* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
@@ -734,11 +734,11 @@ Government
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
-* |FIXME_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
+* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
         
 * |OK_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
         
-* |FIXME_ICON| `Moldova <http://data.gov.md/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`_]
+* |OK_ICON| `Moldova <http://data.gov.md/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`_]
         
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
         
@@ -872,7 +872,7 @@ Government
         
 * |FIXME_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uganda-Bureau-of-Statistics.yml>`_]
         
-* |FIXME_ICON| `Ukraine <https://data.gov.ua/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ukraine.yml>`_]
+* |OK_ICON| `Ukraine <https://data.gov.ua/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ukraine.yml>`_]
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
         
@@ -1012,7 +1012,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1249,7 +1249,7 @@ Physics
         
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
-* |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
+* |FIXME_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
@@ -1334,7 +1334,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
@@ -1549,7 +1549,7 @@ SocialSciences
         
 * |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Humanitarian-Data-Exchange.yml>`_]
         
-* |FIXME_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
+* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
         
 * |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Institute-for-Demographic-Studies.yml>`_]
         
@@ -1568,6 +1568,8 @@ SocialSciences
 * |FIXME_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MacroData-Guide-by-Norsk-samfunnsvitenskapelig-datatjeneste.yml>`_]
         
 * |OK_ICON| `Mass Mobilization Data Project - The Mass Mobilization (MM) data are an effort to understand [...] <https://dataverse.harvard.edu/dataverse/MMdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Mass-Mobilization-Data-Project.yml>`_]
+        
+* |FIXME_ICON| `Measured World - Demographic, economic, education, and energy data for up to 237 countries [...] <https://measuredworld.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Measured-World.yml>`_]
         
 * |FIXME_ICON| `Microsoft Academic Knowledge Graph - The Microsoft Academic Knowledge Graph is a large RDF [...] <http://ma-graph.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Microsoft-Academic-Knowledge-Graph.yml>`_]
         
