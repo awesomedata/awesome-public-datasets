@@ -611,7 +611,9 @@ GIS
     
 Government
 ----------
-        
+* |OK_ICON| `India Government Open Data Platform (data.gov.in) <https://data.gov.in>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/India-data.gov.in.yaml>`_]
+
+* |OK_ICON| `Reserve Bank of India - Database on Indian Economy (DBIE) <https://dbie.rbi.org.in>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/India-RBI-DBIE.yaml>`_]        
 * |OK_ICON| `Alberta, Province of Canada <http://open.alberta.ca>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Alberta-Province-of-Canada.yml>`_]
         
 * |FIXME_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
