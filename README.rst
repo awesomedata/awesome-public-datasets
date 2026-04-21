@@ -866,6 +866,8 @@ Government
         
 * |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Open-Government.yml>`_]
         
+* |OK_ICON| `U.S. Secretary of State Business Entity Data - Search business entity registrations across 17 U.S. state Secretary of State databases. Includes LLC, corporation, and partnership filings with status, agents, and officers. <https://apify.com/pink_comic/us-business-entity-search>`_
+        
 * |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-2011-Census-Open-Atlas-Project.yml>`_]
         
 * |FIXME_ICON| `UK Food Hygiene Rating Scheme (FHRS) API - Food hygiene ratings for 600,000+ food [...] <https://api.ratings.food.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/UK-Food-Hygiene-Rating-Scheme-FHRS-API.yml>`_]
