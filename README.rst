@@ -1781,6 +1781,7 @@ Complementary Collections
 * InnoTrek: `Leveraging open data to understand urban lives <https://web.archive.org/web/20210427004644/http://caesar0301.github.io/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 
 * CV Papers: `CV Datasets on the web <https://web.archive.org/web/20180318042653/http://cvpapers.com/datasets.html>`_
+- [CCHub](https://github.com/Moresll/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 Special thanks to
 
