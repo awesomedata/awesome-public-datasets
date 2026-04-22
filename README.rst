@@ -38,7 +38,7 @@ Agriculture
         
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working with remote sensing [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Optimized Soil Adjusted Vegetation Index>`_]
         
-* |FIXME_ICON| `U.S. Department of Agriculture's Nutrient Database - USDA National Nutrient Database for [...] <https://fdc.nal.usda.gov/download-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
+* |FIXME_ICON| `USDA FoodData Central - The primary source for food composition data from the USDA, providing [...] <https://fdc.nal.usda.gov/download-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-Nutrient-Database.yml>`_]
         
 * |OK_ICON| `U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS Checklist is nearly 7 [...] <https://plants.usda.gov/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/U.S.-Department-of-Agricultures-PLANTS-Database.yml>`_]
     
@@ -172,7 +172,7 @@ Climate+Weather
         
 * |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
-* |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
+* |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
 * |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
@@ -198,7 +198,7 @@ Climate+Weather
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
-* |OK_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
+* |FIXME_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
         
 * |FIXME_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/UEA-Climatic-Research-Unit.yml>`_]
         
@@ -264,9 +264,9 @@ ComputerNetworks
         
 * |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
-* |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
+* |FIXME_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
-* |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
+* |FIXME_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
         
 * |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
@@ -286,7 +286,7 @@ ComputerNetworks
         
 * |FIXME_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role in studying the [...] <http://p2pta.ewi.tudelft.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/P2P-Trace-Archive.yml>`_]
         
-* |FIXME_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
+* |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/UCSD-Network-Telescope-IPv4-slash8-net.yml>`_]
     
@@ -432,7 +432,7 @@ Economics
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
         
-* |OK_ICON| `UN Commodity Trade Statistics - The United Nations Comtrade database aggregates detailed [...] <https://comtradeplus.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
+* |FIXME_ICON| `UN Commodity Trade Statistics - The United Nations Comtrade database aggregates detailed [...] <https://comtradeplus.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Commodity-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/UN-Human-Development-Reports.yml>`_]
         
@@ -445,7 +445,7 @@ Economics
 Education
 ---------
         
-* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+* |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
@@ -714,7 +714,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
@@ -738,7 +738,7 @@ Government
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
-* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
+* |FIXME_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mexico.yml>`_]
         
 * |OK_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
         
@@ -1201,7 +1201,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1236,7 +1236,7 @@ Neuroscience
         
 * |OK_ICON| `NeuroData <http://neurodata.io>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NeuroData.yml>`_]
         
-* |FIXME_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of digitally reconstructed [...] <http://neuromorpho.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NeuroMorpho.yml>`_]
+* |OK_ICON| `NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of digitally reconstructed [...] <http://neuromorpho.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NeuroMorpho.yml>`_]
         
 * |OK_ICON| `Neuroelectro <http://neuroelectro.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Neuroelectro.yml>`_]
         
@@ -1458,7 +1458,7 @@ SocialNetworks
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
         
-* |OK_ICON| `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/CMU-Enron-Email-of-150-users.yml>`_]
+* |FIXME_ICON| `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/CMU-Enron-Email-of-150-users.yml>`_]
         
 * |OK_ICON| `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Cheng-Caverlee-Lee-Twitter-Scrape-September-2009~January-2010.yml>`_]
         
@@ -1601,7 +1601,7 @@ SocialSciences
         
 * |FIXME_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Terrorism-Research-and-Analysis-Consortium.yml>`_]
         
-* |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
+* |FIXME_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Titanic-Survival-Data-Set.yml>`_]
         
@@ -1692,7 +1692,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Hard-Drive-Failure-Rates.yml>`_]
         
-* |FIXME_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
+* |OK_ICON| `Heart Rate Time Series from MIT <https://physionet.org/content/mitdb/1.0.0/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://pkg.yangzhuoranyang.com/tsdl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
