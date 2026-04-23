@@ -64,7 +64,7 @@ Biology
         
 * |OK_ICON| `CIMA: Histological Microscopy Tissue Slices - CIMA dataset includes images of 2D histological [...] <https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CIMA.yml>`_]
         
-* |FIXME_ICON| `Cell Image Library - This library is a public and easily accessible resource database of [...] <http://www.cellimagelibrary.org/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
+* |FIXME_ICON| `Cell Image Library <https://www.cellimagelibrary.org/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
         
 * |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes are freely [...] <https://completegenomics.mgiamericas.com/demodata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
         
@@ -172,7 +172,7 @@ Climate+Weather
         
 * |OK_ICON| `Caravan - a dataset for large-sample hydrology - Caravan is an open community dataset of [...] <https://zenodo.org/record/7540792#.Y-QQGK3MKUn>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Caravan.yml>`_]
         
-* |OK_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
+* |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
 * |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
@@ -198,7 +198,7 @@ Climate+Weather
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
-* |FIXME_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
+* |OK_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
         
 * |FIXME_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/UEA-Climatic-Research-Unit.yml>`_]
         
@@ -264,9 +264,9 @@ ComputerNetworks
         
 * |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
-* |FIXME_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
+* |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
-* |FIXME_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
+* |OK_ICON| `ClueWeb12 - 733M web pages <http://lemurproject.org/clueweb12/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb12.yml>`_]
         
 * |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
@@ -392,7 +392,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -445,7 +445,7 @@ Economics
 Education
 ---------
         
-* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
+* |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
@@ -716,7 +716,7 @@ Government
         
 * |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
+* |FIXME_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati relativi ai dati [...] <https://www.dati.gov.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italy.yml>`_]
         
 * |FIXME_ICON| `Jail deaths in America - The U.S. government does not release jail by jail mortality data, [...] <https://www.reuters.com/investigates/special-report/usa-jails-graphic/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Jail-deaths-in-America.yml>`_]
         
@@ -1020,7 +1020,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1203,7 +1203,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1342,7 +1342,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
