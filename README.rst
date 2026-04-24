@@ -70,6 +70,8 @@ Biology
         
 * |OK_ICON| `CytoImageNet - A large-scale dataset of microscopy images. Contains 890,737 total grayscale [...] <https://www.kaggle.com/stanleyhua/cytoimagenet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CytoImageNet.yml>`_]
         
+        
+* |OK_ICON| `DNA Claude Analysis - Personal genome analysis toolkit with Python scripts analyzing raw DNA data across 17 categories (ancestry, health risks, nutrition, sports, pharmacogenomics, and more) with terminal-style HTML visualization. <https://github.com/shmlkv/dna-claude-analysis>`_
 * |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data stores data from high- [...] <http://www.ebi.ac.uk/arrayexpress/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-ArrayExpress.yml>`_]
         
 * |OK_ICON| `EBI Protein Data Bank in Europe - The Electron Microscopy Data Bank (EMDB) is a public [...] <https://www.ebi.ac.uk/emdb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-Protein-Data-Bank-in-Europe.yml>`_]
