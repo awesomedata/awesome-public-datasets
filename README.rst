@@ -45,8 +45,10 @@ Agriculture
 Architecture
 ------------
         
+* |OK_ICON| `Roofing Replacement Costs, Pitch Reference & Gutter Sizing - Open CC-BY datasets covering residential roof replacement costs by material across 10 markets, X/12-to-degrees pitch conversion, and SMACNA / AS/NZS 3500.3 gutter sizing tables. <https://roofingcalculatorhq.com/data/>`_
+
 * |OK_ICON| `Swiss Apartment Models - This dataset contains detailed data on 42,207 apartments (242,257 [...] <https://zenodo.org/record/7070952#.Y0mACy0RqO0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Architecture/appartment-models.yml>`_]
-    
+
 Biology
 -------
         
@@ -495,7 +497,9 @@ Energy
 * |OK_ICON| `SYND - A synthetic energy dataset for non-intrusive load monitoring - With SynD, we present a [...] <https://www.nature.com/articles/s41597-020-0434-6>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/SYND.yml>`_]
         
 * |FIXME_ICON| `Smart Meter Data Portal - The Smart Meter Data Portal is part of the National Science [...] <https://smda.github.io/smart-meter-data-portal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Smart Meter Data Portal.yml>`_]
-        
+
+* |OK_ICON| `Solar Installation Costs, Tilt Angles & Tax Incentives by Locale - Open CC-BY datasets covering residential solar PV installation costs, optimal tilt angles by latitude, and national tax incentives across 10 markets. <https://solarcalculatorhq.com/data/>`_
+
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Tracebase.yml>`_]
         
 * |OK_ICON| `Ukraine Energy Centre Datasets <https://ukrstat.gov.ua/operativ/menu/menu_e/energ.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UDEC.yml>`_]
