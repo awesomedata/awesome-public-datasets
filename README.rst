@@ -436,6 +436,8 @@ Economics
         
 * |OK_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SciencesPo-World-Trade-Gravity-Datasets.yml>`_]
         
+
+* |OK_ICON| `S.C.A.L.A. Score - Free business intelligence database with 156M+ companies across 232 countries. Search by name, VAT, or tax ID for financial data and health scoring. <https://score.get-scala.com>`_
 * |OK_ICON| `Statistics of the World — Global Economic Data for 218 Countries - 440+ economic, [...] <https://statisticsoftheworld.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Statistics-of-the-World.yml>`_]
         
 * |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Atlas-of-Economic-Complexity.yml>`_]
