@@ -160,6 +160,8 @@ Chemistry
 ---------
         
 * |OK_ICON| `Ionic Liquids Database - ILThermo <https://ilthermo.boulder.nist.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/ionicliquids.yml>`_]
+        
+* |OK_ICON| `State of Peptides 2026 - Open reference dataset of 156 peptide and peptide-adjacent [...] <https://peptahub.com/state-of-peptides-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/state-of-peptides-2026.yml>`_]
     
 Climate+Weather
 ---------------
@@ -196,7 +198,7 @@ Climate+Weather
         
 * |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
-* |FIXME_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Climate-Datasets.yml>`_]
+* |OK_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Climate-Datasets.yml>`_]
         
 * |FIXME_ICON| `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Realtime-Weather-Models.yml>`_]
         
@@ -816,7 +818,7 @@ Government
         
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portland-Oregon.yml>`_]
         
-* |OK_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
+* |FIXME_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
         
 * |FIXME_ICON| `PottyDirectory — US Portable Restroom & Public Restroom Open Data - Open dataset of 3,649 US [...] <https://pottydirectory.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PottyDirectory-USA.yml>`_]
         
@@ -1018,7 +1020,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1026,7 +1028,7 @@ ImageProcessing
         
 * |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
-* |FIXME_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
+* |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
         
 * |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
         
@@ -1048,7 +1050,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1235,7 +1237,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1293,7 +1295,7 @@ Physics
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
@@ -1374,7 +1376,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
@@ -1668,6 +1670,8 @@ SocialSciences
 * |OK_ICON| `Wounded Warriors Veteran Resources Directory - Open dataset of 100,437 verified U.S. veteran- [...] <https://warriorsfund.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Wounded-Warriors-Veteran-Resources.yml>`_]
         
 * |OK_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
+        
+* |OK_ICON| `Australian Church Directory - 5,106 active Christian church listings across all 8 Australian [...] <https://auschurches.com.au/about/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/australian-church-directory.yaml>`_]
         
 * |OK_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
         
