@@ -206,7 +206,7 @@ Climate+Weather
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
-* |OK_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
+* |FIXME_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
         
 * |FIXME_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/UEA-Climatic-Research-Unit.yml>`_]
         
@@ -239,11 +239,11 @@ ComplexNetworks
         
 * |OK_ICON| `Scopus Citation Database <https://www.elsevier.com/solutions/scopus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Scopus-Citation-Database.yml>`_]
         
-* |OK_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Small-Network-Data.yml>`_]
+* |FIXME_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Small-Network-Data.yml>`_]
         
-* |OK_ICON| `Stanford GraphBase <https://cs.stanford.edu/~knuth/sgb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
+* |FIXME_ICON| `Stanford GraphBase <https://cs.stanford.edu/~knuth/sgb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
         
-* |OK_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`_]
+* |FIXME_ICON| `Stanford Large Network Dataset Collection <http://snap.stanford.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`_]
         
 * |FIXME_ICON| `Stanford Longitudinal Network Data Sources <http://stanford.edu/group/sonia/dataSources/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Longitudinal-Network-Data-Sources.yml>`_]
         
@@ -465,6 +465,8 @@ Education
         
 * |OK_ICON| `Cert Atlas - Certification Exam Blueprints - An open, machine-readable dataset of [...] <https://atlas.quizforge.ai/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Cert-Atlas.yml>`_]
         
+* |OK_ICON| `Childery ZIP-Level Daycare Quality Dataset - Aggregate quality and supply statistics for US [...] <https://childery.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Childery-ZIP-Level-Daycare-Quality-Dataset.yml>`_]
+        
 * |FIXME_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/College-Scorecard-Data.yml>`_]
         
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
@@ -591,7 +593,7 @@ GIS
         
 * |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Geo-Wiki-Project.yml>`_]
         
-* |OK_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
+* |FIXME_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoNames-Worldwide.yml>`_]
         
@@ -646,7 +648,7 @@ Government
         
 * |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
@@ -662,7 +664,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -979,7 +981,7 @@ Healthcare
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/OpenPaymentsData-Healthcare-financial-relationship-data.yml>`_]
         
-* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/PhysioBank-Databases.yml>`_]
+* |FIXME_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/PhysioBank-Databases.yml>`_]
         
 * |OK_ICON| `Romanian Hazardous Medical Waste Procurement Dataset (CPV 9052*) - Open dataset of all [...] <https://licitatiimedicale.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Romania-Medical-Waste-Procurement-Dataset.yml>`_]
         
@@ -1042,7 +1044,7 @@ ImageProcessing
         
 * |OK_ICON| `HumanEva Dataset - The HumanEva-I dataset contains 7 calibrated video sequences (4 grayscale [...] <http://humaneva.is.tue.mpg.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/HumanEva-Dataset.yml>`_]
         
-* |OK_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
+* |FIXME_ICON| `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ImageNet.yml>`_]
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Indoor-Scene-Recognition.yml>`_]
         
@@ -1058,7 +1060,7 @@ ImageProcessing
         
 * |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
-* |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
+* |FIXME_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
 * |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
@@ -1066,13 +1068,13 @@ ImageProcessing
         
 * |OK_ICON| `RuFa - Contains images of text written in one of two Arabic fonts (Ruqaa and Nastaliq [...] <https://github.com/mhmoodlan/arabic-font-classification/releases/tag/v0.1.0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/RuFa-Arabic-font-dataset.yml>`_]
         
-* |OK_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/SUN-database-MIT.yml>`_]
+* |FIXME_ICON| `SUN database, MIT <http://groups.csail.mit.edu/vision/SUN/hierarchy.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/SUN-database-MIT.yml>`_]
         
 * |OK_ICON| `SVIRO Synthetic Vehicle Interior Rear Seat Occupancy - 25.000 synthetic scenery's across ten [...] <https://sviro.kl.dfki.de>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/SVIRO.yml>`_]
         
 * |FIXME_ICON| `Several Shape-from-Silhouette Datasets <http://kaiwolf.no-ip.org/3d-model-repository.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Several-Shape-from-Silhouette-Datasets.yml>`_]
         
-* |OK_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Stanford-Dogs-Dataset.yml>`_]
+* |FIXME_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Stanford-Dogs-Dataset.yml>`_]
         
 * |OK_ICON| `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/The-Action-Similarity-Labeling-ASLAN-Challenge.yml>`_]
         
@@ -1080,7 +1082,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1336,17 +1338,17 @@ ProstateCancer
         
 * |FIXME_ICON| `Neuroendocrine-Prostate-Cancer - Whole exome and RNA Seq data of castration resistant [...] <http://www.cbioportal.org/study?id=nepc_wcm_2016>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Neuroendocrine-Prostate-Cancer.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate-Diagnostic-Procedures - The Prostate Diagnostic Procedures dataset (95,837 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Diagnostic-Procedures.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate-Diagnostic-Procedures - The Prostate Diagnostic Procedures dataset (95,837 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Diagnostic-Procedures.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate-Medical-Complications - The Prostate Medical Complications dataset (3,350 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Medical-Complications.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate-Medical-Complications - The Prostate Medical Complications dataset (3,350 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Medical-Complications.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate-Screening-Abnormalities - The Prostate Screening Abnormalities dataset (10,527 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Screening-Abnormalities.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate-Screening-Abnormalities - The Prostate Screening Abnormalities dataset (10,527 [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Screening-Abnormalities.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate-Screening - The Prostate Screening dataset (177,315 records, 35,875 subjects, [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Screening.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate-Screening - The Prostate Screening dataset (177,315 records, 35,875 subjects, [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Screening.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate-Treatments - The Prostate Treatments dataset (13,409 records, 7,614 subjects, [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Treatments.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate-Treatments - The Prostate Treatments dataset (13,409 records, 7,614 subjects, [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate-Treatments.yml>`_]
         
-* |OK_ICON| `PLCO-Prostate - The Prostate dataset is a comprehensive dataset that contains nearly all the [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate.yml>`_]
+* |FIXME_ICON| `PLCO-Prostate - The Prostate dataset is a comprehensive dataset that contains nearly all the [...] <https://biometry.nci.nih.gov/cdas/plco/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PLCO-Prostate.yml>`_]
         
 * |OK_ICON| `PRAD-CA-Prostate-Adenocarcinoma-Canada - Prostate Adenocarcinoma - Canada. Collected by the [...] <https://dcc.icgc.org/projects/PRAD-CA>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PRAD-CA-Prostate-Adenocarcinoma-Canada.yml>`_]
         
@@ -1384,19 +1386,19 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE - The QIN PROSTATE collection of the Quantitative Imaging Network (QIN) contains [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN+PROSTATE>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE.yml>`_]
         
-* |OK_ICON| `SEER-YR1973_2015.SEER9 - The SEER November 2017 Research Data files from nine SEER registries [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR1973_2015.SEER9.yml>`_]
+* |FIXME_ICON| `SEER-YR1973_2015.SEER9 - The SEER November 2017 Research Data files from nine SEER registries [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR1973_2015.SEER9.yml>`_]
         
-* |OK_ICON| `SEER-YR1992_2015.SJ_LA_RG_AK - The SEER November 2017 Research Data files from the San Jose- [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR1992_2015.SJ_LA_RG_AK.yml>`_]
+* |FIXME_ICON| `SEER-YR1992_2015.SJ_LA_RG_AK - The SEER November 2017 Research Data files from the San Jose- [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR1992_2015.SJ_LA_RG_AK.yml>`_]
         
-* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The SEER November 2017 Research Data files from the Greater [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR2000_2015.CA_KY_LO_NJ_GA.yml>`_]
+* |FIXME_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The SEER November 2017 Research Data files from the Greater [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR2000_2015.CA_KY_LO_NJ_GA.yml>`_]
         
-* |OK_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The July - December 2005 diagnoses for Louisiana from their [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR2005.LO_2ND_HALF.yml>`_]
+* |FIXME_ICON| `SEER-YR2000_2015.CA_KY_LO_NJ_GA - The July - December 2005 diagnoses for Louisiana from their [...] <https://seer.cancer.gov/data/seerstat/nov2017/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/SEER-YR2005.LO_2ND_HALF.yml>`_]
         
 * |FIXME_ICON| `TCGA-PRAD-US - TCGA Prostate Adenocarcinoma (499 samples). <http://www.cbioportal.org/study?id=prad_tcga>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/TCGA-PRAD-US.yml>`_]
     
@@ -1536,13 +1538,13 @@ SocialNetworks
         
 * |OK_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml>`_]
         
-* |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
+* |FIXME_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
 * |FIXME_ICON| `Reddit Comments <http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
-* |OK_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Social-Twitter-Data.yml>`_]
+* |FIXME_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Social-Twitter-Data.yml>`_]
         
 * |FIXME_ICON| `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/SourceForge.net-Research-Data.yml>`_]
         
@@ -1621,7 +1623,7 @@ SocialSciences
         
 * |OK_ICON| `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/James-McGuire-Cross-National-Data.yml>`_]
         
-* |OK_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MIT-Reality-Mining-Dataset.yml>`_]
+* |FIXME_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MIT-Reality-Mining-Dataset.yml>`_]
         
 * |FIXME_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MacroData-Guide-by-Norsk-samfunnsvitenskapelig-datatjeneste.yml>`_]
         
@@ -1746,7 +1748,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Hard-Drive-Failure-Rates.yml>`_]
         
-* |OK_ICON| `Heart Rate Time Series from MIT <https://physionet.org/content/mitdb/1.0.0/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
+* |FIXME_ICON| `Heart Rate Time Series from MIT <https://physionet.org/content/mitdb/1.0.0/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://pkg.yangzhuoranyang.com/tsdl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
