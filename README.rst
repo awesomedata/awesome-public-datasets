@@ -192,7 +192,7 @@ Climate+Weather
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `Average city temperatures - Contains daily time series of average air temperatures in about [...] <https://www.fetchseries.com/climate/average-city-temperatures-fsr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NEW_DATASET.yml>`_]
         
@@ -294,7 +294,7 @@ ComputerNetworks
         
 * |FIXME_ICON| `The Peer-to-Peer Trace Archive - Real-world measurements play a key role in studying the [...] <http://p2pta.ewi.tudelft.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/P2P-Trace-Archive.yml>`_]
         
-* |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
+* |FIXME_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Rapid7-Sonar-Internet-Scans.yml>`_]
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/UCSD-Network-Telescope-IPv4-slash8-net.yml>`_]
         
@@ -371,7 +371,7 @@ EarthScience
         
 * |OK_ICON| `Radiance GeoJSON — Global Light Pollution - Global nighttime light pollution dataset derived [...] <https://archive.org/details/radiance-geojson-data-2025>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Radiance-GeoJSON-Light-Pollution.yml>`_]
         
-* |OK_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
+* |FIXME_ICON| `Smithsonian Institution Global Volcano and Eruption Database <http://volcano.si.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Smithsonian-Institution-Global-Volcano-and-Eruption-Database.yml>`_]
         
 * |OK_ICON| `USGS Earthquake Archives <http://earthquake.usgs.gov/earthquakes/search/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/USGS-Earthquake-Archives.yml>`_]
         
@@ -402,13 +402,15 @@ Economics
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
+* |OK_ICON| `Cloud GPU Price Index - An open dataset tracking daily public list prices for cloud GPU [...] <https://gpucloudcompare.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Cloud-GPU-Price-Index.yml>`_]
+        
 * |OK_ICON| `EUKLEMS - EU KLEMS is an industry level, growth and productivity research project. EU KLEMS [...] <https://euklems.eu/query/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/EUKLEMS.yml>`_]
         
 * |FIXME_ICON| `Economic Freedom of the World Data <https://www.fraserinstitute.org/economic-freedom/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Economic-Freedom-of-the-World-Data.yml>`_]
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -706,7 +708,7 @@ Government
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
-* |FIXME_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
+* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
 * |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`_]
         
@@ -736,7 +738,7 @@ Government
         
 * |FIXME_ICON| `Halifax, NS, Canada <https://www.halifax.ca/home/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Halifax-NS-Canada.yml>`_]
         
-* |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Helsinki-Region-Finland.yml>`_]
+* |FIXME_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Helsinki-Region-Finland.yml>`_]
         
 * |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China.yml>`_]
         
@@ -786,7 +788,7 @@ Government
         
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
         
-* |OK_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
+* |FIXME_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mountain-View-California-US-GIS.yml>`_]
         
@@ -975,7 +977,7 @@ Healthcare
         
 * |OK_ICON| `MeDAL - A large medical text dataset curated for abbreviation disambiguation - Medical [...] <https://github.com/BruceWen120/medal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medal-medical-abbreviations.yml>`_]
         
-* |OK_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Coverage-Database-MCD-U.S..yml>`_]
+* |FIXME_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-Coverage-Database-MCD-U.S..yml>`_]
         
 * |OK_ICON| `Medicare and Medicaid Data - This site gives you direct access to public data released by the [...] <https://data.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-and-Medicaid-Data.yml>`_]
         
@@ -1651,7 +1653,7 @@ SocialSciences
         
 * |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
