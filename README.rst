@@ -1,4 +1,4 @@
-Awesome Public Datasets
+﻿Awesome Public Datasets
 =======================
 
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
@@ -885,6 +885,8 @@ Government
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
+        
+* |OK_ICON| `Texas TDLR Contractor Bond Compliance - Bond status for 816,000+ Texas-licensed contractors and notaries from TDLR and Texas SOS public records. 29.3% non-compliance rate across 22 license types (Apprentice Electricians 46.9%, Tow Truck Operators 44.8%). Published by Quantum Surety Bond Watch. <https://contact219.github.io/texas-tdlr-bond-compliance-2026/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-TDLR-Bond-Compliance.yml>`_]
         
 * |OK_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
         
