@@ -575,6 +575,7 @@ Finance
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
+* |OK_ICON| `ProofBets API - Free REST API for crypto casino data: 50+ casinos, bonus codes, withdrawal speeds, P2P prediction market platforms (Polymarket, Kalshi, Azuro), and on-chain verification. 16 endpoints, OpenAPI 3.1 spec. <https://proofbets.com/developers/>`_
         
 * |OK_ICON| `VC Deal Flow Signal (GitHub-Derived Early-Stage Venture Signals) - An open dataset of GitHub- [...] <https://huggingface.co/datasets/the-data-nerd/vc-deal-flow-signal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/VC-Deal-Flow-Signal.yml>`_]
         
