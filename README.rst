@@ -520,7 +520,7 @@ Energy
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy data easier to [...] <https://github.com/catalyst-cooperative/pudl>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PUDL.yml>`_]
         
-* |OK_ICON| `Publicly Available Datasets For Electric Load Forecasting - Contains an active maintained [...] <https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PubliclyAvailableLoadForecastingDatasets.yml>`_]
+* |OK_ICON| `Publicly Available Datasets For Electric Load Forecasting - Contains an active maintained [...] <https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Publicly%20Available%20Load%20Forecasting%20Datasets.yml>`_]
         
 * |FIXME_ICON| `REDD <http://redd.csail.mit.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/REDD.yml>`_]
         
