@@ -814,6 +814,8 @@ Government
         
 * |OK_ICON| `NYC betanyc <http://betanyc.us/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-betanyc.yml>`_]
         
+* |OK_ICON| `US State Name-Change (DMV) Requirements - State-by-state requirements for updating a driver's [...] <https://namechangepacket.com/name-change-requirements-by-state>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NameChangePacket-US-State-Requirements.yml>`_]
+        
 * |OK_ICON| `Netherlands <https://data.overheid.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Netherlands.yml>`_]
         
 * |OK_ICON| `New York Department of Sanitation Monthly Tonnage - DSNY Monthly Tonnage Data provides [...] <https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-York-Department-of-Sanitation.yml>`_]
@@ -1062,7 +1064,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1092,7 +1094,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1279,7 +1281,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1450,7 +1452,7 @@ PublicDomains
         
 * |OK_ICON| `Amazon <http://aws.amazon.com/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Amazon.yml>`_]
         
-* |FIXME_ICON| `Archive.org Datasets <https://archive.org/details/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.org-Datasets.yml>`_]
+* |OK_ICON| `Archive.org Datasets <https://archive.org/details/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.org-Datasets.yml>`_]
         
 * |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.yml>`_]
         
@@ -1480,7 +1482,7 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Research-Open-Data>`_]
         
-* |FIXME_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
+* |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
         
 * |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
