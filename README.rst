@@ -196,7 +196,7 @@ Climate+Weather
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `Average city temperatures - Contains daily time series of average air temperatures in about [...] <https://www.fetchseries.com/climate/average-city-temperatures-fsr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NEW_DATASET.yml>`_]
         
@@ -402,7 +402,7 @@ Economics
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
-* |FIXME_ICON| `Asian KLEMS - Asia KLEMS is an Asian regional research consortium to promote building [...] <http://www.asiaklems.net/data/archive.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Asian KLEMS.yml>`_]
+* |OK_ICON| `Asian KLEMS - Asia KLEMS is an Asian regional research consortium to promote building [...] <http://www.asiaklems.net/data/archive.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Asian KLEMS.yml>`_]
         
 * |OK_ICON| `Harvard Atlas of Economic Complexity - A database for people to explore global trade flows [...] <https://dataverse.harvard.edu/dataverse/atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Atlas Economic Complexity.yml>`_]
         
@@ -422,7 +422,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -1088,7 +1088,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1096,7 +1096,7 @@ ImageProcessing
         
 * |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
-* |FIXME_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
+* |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
         
 * |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
         
@@ -1118,7 +1118,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1307,7 +1307,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1367,7 +1367,7 @@ Physics
         
 * |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
@@ -1448,7 +1448,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
@@ -1484,9 +1484,9 @@ PublicDomains
         
 * |OK_ICON| `CCTV Camera Database - Open database of 1,000+ IP/CCTV camera specifications across 49 brands [...] <https://github.com/ch-bas/cctv-camera-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CCTV-Camera-Database.yml>`_]
         
-* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
+* |FIXME_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-JASA-data-archive.yml>`_]
         
-* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
+* |FIXME_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/CMU-StatLab-collections.yml>`_]
         
 * |OK_ICON| `Data.World <https://data.world>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
         
@@ -1721,7 +1721,7 @@ SocialSciences
         
 * |FIXME_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Terrorism-Research-and-Analysis-Consortium.yml>`_]
         
-* |FIXME_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
+* |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Titanic-Survival-Data-Set.yml>`_]
         
@@ -1748,6 +1748,8 @@ SocialSciences
 * |OK_ICON| `Wounded Warriors Veteran Resources Directory - Open dataset of 100,437 verified U.S. veteran- [...] <https://warriorsfund.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Wounded-Warriors-Veteran-Resources.yml>`_]
         
 * |OK_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
+        
+* |OK_ICON| `humans.top — Influential People Ranking - A live, daily-refreshed public-domain ranking of [...] <https://huggingface.co/datasets/dsfox/humans-top>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/humans-top.yml>`_]
         
 * |OK_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
         
