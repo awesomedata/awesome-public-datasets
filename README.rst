@@ -1517,6 +1517,8 @@ SocialNetworks
 SocialSciences
 --------------
         
+* |OK_ICON| `Helium News Bias Corpus - 212 news outlets × 37 framing dimensions (MIT; Hugging Face + free API) <https://huggingface.co/datasets/HeliumTrades/helium-news-bias-corpus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Helium-News-Bias-Corpus.yml>`_]
+        
 * |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/ACLED.yml>`_]
         
 * |OK_ICON| `Authoritarian Ruling Elites Database - The Authoritarian Ruling Elites Database (ARED) is a [...] <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QZ9BSA>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Authoritarian-Ruling-Elites.yml>`_]
