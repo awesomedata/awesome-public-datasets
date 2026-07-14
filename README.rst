@@ -72,7 +72,7 @@ Biology
         
 * |OK_ICON| `CIMA: Histological Microscopy Tissue Slices - CIMA dataset includes images of 2D histological [...] <https://www.kaggle.com/datasets/jirkaborovec/histology-cima-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CIMA.yml>`_]
         
-* |FIXME_ICON| `Cell Image Library <https://www.cellimagelibrary.org/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
+* |OK_ICON| `Cell Image Library <https://www.cellimagelibrary.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Cell-Image-Library.yml>`_]
         
 * |FIXME_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes are freely [...] <https://completegenomics.mgiamericas.com/demodata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Complete-Genomics-Public-Data.yml>`_]
         
@@ -1205,7 +1205,7 @@ MachineLearning
         
 * |OK_ICON| `Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval - Industrial-scale [...] <https://huggingface.co/datasets/yandex/yambda>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YaMBDa-5B-Music-Interaction-Dataset.yml>`_]
         
-* |FIXME_ICON| `Yahoo! Ratings and Classification Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=r>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Yahoo-Ratings-and-Classification-Data.yml>`_]
+* |OK_ICON| `MovieLens Ratings Dataset <https://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Yahoo-Ratings-and-Classification-Data.yml>`_]
         
 * |OK_ICON| `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YouTube-BoundingBoxes.yml>`_]
         
