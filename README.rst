@@ -1036,6 +1036,7 @@ Healthcare
 * |OK_ICON| `Nightingale Open Science <https://docs.nightingalescience.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Nightingale.yml>`_]
         
 * |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Number-of-Ebola-Cases-and-Deaths-in-Affected-Countries-2014.yml>`_]
+* |OK_ICON| `OOPI - Open Out-of-Pocket Pricing Index - Monthly cross-source US cash drug prices across CVS, GoodRx, Costco, Cost Plus Drugs, Amazon Pharmacy, SingleCare. 109 molecules. CC-BY-4.0 <https://www.rxpricetracker.com/data>`_ [`Mirror1 <https://huggingface.co/datasets/pharmax-ai/oopi-pricing-index>`_] [`Mirror2 DOI <https://zenodo.org/record/20969232>`_]
         
 * |OK_ICON| `Open-ODS (structure of the UK NHS) <https://www.odsdatasearchandexport.nhs.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Open-ODS.yml>`_]
         
