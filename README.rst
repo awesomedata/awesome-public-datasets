@@ -564,7 +564,9 @@ Entertainment
 * |OK_ICON| `Rope Drop News Theme Park Data - First-party live wait times, ride reliability, crowd levels, [...] <https://ropedropnews.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/RopeDropNewsThemeParkData.yml>`_]
         
 * |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from past year. <https://www.kaggle.com/aayushmishra1512/twitchdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/TwitchStreamersData.yml>`_]
-    
+
+* |OK_ICON| `Online Slot Machine Data - 2600+ slots with RTP, volatility, max win from 21 providers <https://slot.report/api/>`_
+
 Finance
 -------
         
