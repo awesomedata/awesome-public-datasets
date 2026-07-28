@@ -488,6 +488,9 @@ Economics
         
 * |OK_ICON| `Prop-Metrics — U.S. ZIP-Code-Level Real Estate Analytics Dataset - A comprehensive dataset [...] <https://www.prop-metrics.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/prop-metrics-real-estate-data.yml>`_]
     
+        
+* |OK_ICON| `VC Deal Flow Signal - Startup Engineering Velocity — GitHub commit velocity for 324 venture-backed startups across 20 sectors. Weekly refresh. CSV, JSON, MCP server, A2A endpoint. CC BY 4.0. <https://signals.gitdealflow.com/data/startup-signals>`_ 
+
 Education
 ---------
         
