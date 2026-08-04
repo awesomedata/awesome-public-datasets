@@ -102,7 +102,7 @@ Biology
         
 * |FIXME_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <http://www.hagsc.org/hgdp/files.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
         
-* |FIXME_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
+* |OK_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
         
 * |OK_ICON| `ICOS PSP Benchmark - The ICOS PSP benchmarks repository contains an adjustable real-world [...] <http://ico2s.org/datasets/psp_benchmark.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ICOS-PSP-Benchmark.yml>`_]
         
@@ -162,7 +162,7 @@ Biology
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
-* |FIXME_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
+* |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
     
 Chemistry
 ---------
@@ -778,7 +778,7 @@ Government
         
 * |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
-* |FIXME_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
         
 * |OK_ICON| `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Gatineau-QC-Canada.yml>`_]
         
@@ -1112,7 +1112,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1142,11 +1142,11 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1166,7 +1166,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1391,7 +1391,7 @@ Physics
         
 * |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
