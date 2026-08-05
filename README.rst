@@ -1837,6 +1837,8 @@ Sports
         
 * |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
+* |OK_ICON| `NbaPropLab Prop Predictions Track Record - Graded outcomes of 52,000+ NBA and WNBA player prop predictions with hit rates by tier and daily results, served as a public JSON API <https://nbaproplab.com/api/v1/track-record>`_
+
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
 * |OK_ICON| `OpenPowerlifting - Open archive of the world's powerlifting competition results — 3.9+ [...] <https://www.openpowerlifting.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/OpenPowerlifting.yml>`_]
