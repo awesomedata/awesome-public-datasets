@@ -1879,7 +1879,7 @@ TimeSeries
 Transportation
 --------------
 
-* `European Low Emission Zones <https://github.com/f4tihwin57/europe-emission-zones>`_ â€” 596 LEZ/ULEZ/ZTL zones with official source URLs and verification dates. [CC-BY-4.0]
+* `European Low Emission Zones <https://github.com/f4tihwin57/europe-emission-zones>`_ - 596 LEZ/ULEZ/ZTL zones with official source URLs and verification dates. [CC-BY-4.0]
 * |OK_ICON| `Airlines OD Data 1987-2008 <https://doi.org/10.7910/DVN/HG7NV7>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Airlines-OD-Data-1987~2008.yml>`_]
         
 * |OK_ICON| `Ford GoBike Data (formerly Bay Area Bike Share Data) <https://www.fordgobike.com/system-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Bay-Area-Bike-Share-Data.yml>`_]
