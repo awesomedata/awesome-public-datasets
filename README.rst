@@ -158,7 +158,7 @@ Biology
         
 * |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
-* |FIXME_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource (UniProt) is a [...] <http://www.uniprot.org/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Universal-Protein-Resource.yml>`_]
+* |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource (UniProt) is a [...] <http://www.uniprot.org/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Universal-Protein-Resource.yml>`_]
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
@@ -697,7 +697,7 @@ GIS
         
 * |FIXME_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/UN-Environmental-Data.yml>`_]
         
-* |OK_ICON| `World Notable Places (Detourmap) - 40,703 notable places worth a detour worldwide — natural [...] <https://detourmap.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/World-Notable-Places-Detourmap.yml>`_]
+* |OK_ICON| `World Notable Places (Detourmap) - 70,343 notable places worth a detour worldwide — ancient [...] <https://detourmap.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/World-Notable-Places-Detourmap.yml>`_]
         
 * |FIXME_ICON| `World boundaries from  the U.S. Department of State <http://geonode.state.gov/layers/?limit=100&offset=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/World-boundaries-from--the-U.S.-Department-of-State.yml>`_]
         
@@ -1124,7 +1124,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1154,7 +1154,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1347,7 +1347,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1518,7 +1518,7 @@ PublicDomains
         
 * |OK_ICON| `Amazon <http://aws.amazon.com/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Amazon.yml>`_]
         
-* |FIXME_ICON| `Archive.org Datasets <https://archive.org/details/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.org-Datasets.yml>`_]
+* |OK_ICON| `Archive.org Datasets <https://archive.org/details/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.org-Datasets.yml>`_]
         
 * |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Archive.yml>`_]
         
@@ -1624,7 +1624,7 @@ SocialNetworks
         
 * |FIXME_ICON| `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/EDRM-Enron-EMail-of-151-users-hosted-on-S3.yml>`_]
         
-* |FIXME_ICON| `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Facebook-Data-Scrape-2005.yml>`_]
+* |OK_ICON| `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Facebook-Data-Scrape-2005.yml>`_]
         
 * |OK_ICON| `Facebook Social Connectedness Index - We use an anonymized snapshot of all active Facebook [...] <https://data.humdata.org/dataset/social-connectedness-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Facebook-Social-Connectedness-Index.yml>`_]
         
