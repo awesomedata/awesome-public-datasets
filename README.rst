@@ -102,7 +102,7 @@ Biology
         
 * |FIXME_ICON| `Human Genome Diversity Project - A group of scientists at Stanford University have [...] <http://www.hagsc.org/hgdp/files.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Genome-Diversity-Project.yml>`_]
         
-* |FIXME_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
+* |OK_ICON| `Human Microbiome Project (HMP) - The HMP sequenced over 2000 reference genomes isolated from [...] <http://www.hmpdacc.org/reference_genomes/reference_genomes.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Human-Microbiome-Project-HMP.yml>`_]
         
 * |OK_ICON| `ICOS PSP Benchmark - The ICOS PSP benchmarks repository contains an adjustable real-world [...] <http://ico2s.org/datasets/psp_benchmark.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ICOS-PSP-Benchmark.yml>`_]
         
@@ -128,7 +128,7 @@ Biology
         
 * |OK_ICON| `Protein Data Bank - This resource is powered by the Protein Data Bank archive-information [...] <http://www.rcsb.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Protein-Data-Bank.yml>`_]
         
-* |OK_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics Consortium (PGC) is [...] <https://www.med.unc.edu/pgc/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
+* |FIXME_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics Consortium (PGC) is [...] <https://www.med.unc.edu/pgc/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
         
 * |OK_ICON| `PubChem Project - PubChem is the world's largest collection of freely accessible chemical [...] <https://pubchem.ncbi.nlm.nih.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubChem-Project.yml>`_]
         
@@ -198,11 +198,11 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |FIXME_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `Average city temperatures - Contains daily time series of average air temperatures in about [...] <https://www.fetchseries.com/climate/average-city-temperatures-fsr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NEW_DATASET.yml>`_]
         
@@ -504,6 +504,8 @@ Economics
         
 * |OK_ICON| `US Franchise FDD Disclosure Statistics - Per-brand headline facts from 450+ officially [...] <https://franchisefactsreport.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Franchise-FDD-Disclosures.yml>`_]
         
+* |OK_ICON| `US Wage Atlas - Pay Band Width and Price-Adjusted Pay by Occupation and Metro Area - Two [...] <https://voicedapp.co/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Wage-Atlas.yml>`_]
+        
 * |OK_ICON| `Upwork Market Index - Weekly Freelance Job Market Statistics - Weekly aggregate statistics of [...] <https://github.com/snipeworkapp-oss/upwork-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Upwork-Market-Index.yml>`_]
         
 * |OK_ICON| `World Input-Output Database - World Input-Output Tables and underlying data, covering 43 [...] <https://www.rug.nl/ggdc/valuechain/wiod/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World Input-Output Database.yml>`_]
@@ -746,7 +748,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -800,7 +802,7 @@ Government
         
 * |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
-* |FIXME_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
         
 * |OK_ICON| `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Gatineau-QC-Canada.yml>`_]
         
@@ -1146,7 +1148,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
