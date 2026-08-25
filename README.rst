@@ -521,6 +521,8 @@ Economics
 * |OK_ICON| `ZnajdzNajem Polish Rental Price Index - Open dataset of long-term residential rental market [...] <https://znajdznajem.pl/raporty>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ZnajdzNajem-Polish-Rental-Index.yml>`_]
         
 * |OK_ICON| `Prop-Metrics — U.S. ZIP-Code-Level Real Estate Analytics Dataset - A comprehensive dataset [...] <https://www.prop-metrics.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/prop-metrics-real-estate-data.yml>`_]
+        
+* |OK_ICON| `Property Comps — Comparable Property Sales Across 11 Global Markets - Free API providing 44M+ property transactions from government registries (HM Land Registry, DVF, HDB, NYC DOF) across UK, France, Singapore, NYC, Chicago, Dubai, and 5 more markets. Search by location, filter by property type, with Swagger docs. <https://api.nwc-advisory.com/docs>`_
     
 Education
 ---------
