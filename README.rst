@@ -544,6 +544,8 @@ Education
 * |FIXME_ICON| `Program for International Student Assessement (PISA) - Contains 15-year-old students' [...] <https://www.oecd.org/pisa/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/PISA.yml>`_]
         
 * |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Student-Data-from-Free-Code-Camp.yml>`_]
+        
+* |OK_ICON| `TOEIC raw-to-scaled score approximation curve - A transparent raw-correct to scaled-score [...] <https://github.com/alice51849/lumi-open-data/tree/master/toeic-score-conversion>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/TOEIC-Raw-to-Scaled-Approximation.yml>`_]
     
 Energy
 ------
@@ -742,9 +744,9 @@ Government
         
 * |FIXME_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
         
-* |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+* |FIXME_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
@@ -1168,7 +1170,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1177,6 +1179,8 @@ ImageProcessing
 * |FIXME_ICON| `ETH Entomological Collection (ETHEC) Fine Grained Butterfly (Lepidoptra) Images <https://doi.org/10.3929/ethz-b-000365379>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/ETH_Entomological_Collection_Fine_Grained_Butterfly_Images.yml>`_]
         
 * |OK_ICON| `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Face-Recognition-Benchmark.yml>`_]
+        
+* |OK_ICON| `Photographic film stocks reference - 25 well-known photographic film stocks with their [...] <https://github.com/alice51849/lumi-open-data/tree/master/film-stocks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Film-Stocks-Reference.yml>`_]
         
 * |FIXME_ICON| `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Flickr-32-Class-Brand-Logos.yml>`_]
         
@@ -1198,11 +1202,11 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1453,7 +1457,7 @@ Physics
         
 * |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
@@ -1606,7 +1610,7 @@ PublicDomains
         
 * |FIXME_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/The-Washington-Post-List.yml>`_]
         
@@ -1682,7 +1686,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |FIXME_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1718,6 +1722,8 @@ SocialNetworks
         
 * |OK_ICON| `United States Congress Twitter Data - Daily datasets with tweets of 1100+ accounts associated [...] <https://github.com/alexlitel/congresstweets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/United-States-Congressional-Twitter-Data.yml>`_]
         
+* |OK_ICON| `WhatsApp Business Platform Open Data - A dated, sourced open dataset of the WhatsApp Business [...] <https://github.com/procom-dev/whatsapp-open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/WhatsApp-Business-Platform-Open-Data.yml>`_]
+        
 * |FIXME_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Yahoo-Graph-and-Social-Data.yml>`_]
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
@@ -1738,6 +1744,8 @@ SocialSciences
 * |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
         
 * |FIXME_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Center-for-Systemic-Peace-Datasets.yml>`_]
+        
+* |OK_ICON| `Chinese zodiac sexagenary cycle, 1924-2044 - 121 consecutive years of the Chinese sexagenary [...] <https://github.com/alice51849/lumi-open-data/tree/master/chinese-zodiac>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Chinese-Zodiac-Sexagenary-Cycle.yml>`_]
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
