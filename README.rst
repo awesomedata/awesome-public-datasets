@@ -327,6 +327,8 @@ CyberSecurity
         
 * |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
         
+* |OK_ICON| `Open Dependency Risk - Daily-updated dataset of 1,500 widely-used npm and PyPI packages [...] <https://github.com/ConorsCode/open-dependency-risk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Open-Dependency-Risk.yml>`_]
+        
 * |OK_ICON| `PDF Tampering & Modification Statistics - Anonymized aggregate statistics from real-world [...] <https://htpbe.tech/statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/PDF-Tampering-and-Modification-Statistics.yml>`_]
         
 * |OK_ICON| `Romance Scam Statistics (2024-2026) - Verified, source-attributed statistics on romance scams [...] <https://github.com/lovevalentin-droid/romance-scam-statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Romance-Scam-Statistics.yml>`_]
@@ -362,7 +364,7 @@ DataChallenges
         
 * |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
         
-* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
+* |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
         
 * |FIXME_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TunedIT.yml>`_]
         
@@ -934,7 +936,7 @@ Government
         
 * |FIXME_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
-* |FIXME_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
+* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
         
 * |OK_ICON| `OpenMercantil Spanish Public Company Data - Independent, non-official access layer for [...] <https://openmercantil.es/descargas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenMercantil-Spanish-public-company-data.yml>`_]
         
@@ -1242,7 +1244,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1328,7 +1330,7 @@ Museums
         
 * |OK_ICON| `Tate Collection metadata <https://github.com/tategallery/collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Tate-Collection-metadata.yml>`_]
         
-* |OK_ICON| `The Getty vocabularies <http://vocab.getty.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/The-Getty-vocabularies.yml>`_]
+* |FIXME_ICON| `The Getty vocabularies <http://vocab.getty.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/The-Getty-vocabularies.yml>`_]
         
 * |OK_ICON| `Türkiye Cultural Heritage Atlas (Kahve Tabela) Open Data - 32,483 registered cultural- [...] <https://kahvetabela.com/tr/acik-veri>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Turkiye-Cultural-Heritage-Atlas-Kahve-Tabela.yml>`_]
     
@@ -1827,9 +1829,9 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
