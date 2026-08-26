@@ -362,7 +362,7 @@ DataChallenges
         
 * |FIXME_ICON| `Telecom Italia Big Data Challenge <https://dandelion.eu/datamine/open-big-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Telecom-Italia-Big-Data-Challenge.yml>`_]
         
-* |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
+* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
         
 * |FIXME_ICON| `TunedIT - Data mining & machine learning data sets, algorithms, challenges <http://tunedit.org/challenges/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TunedIT.yml>`_]
         
@@ -930,7 +930,9 @@ Government
         
 * |FIXME_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Data-for-Africa.yml>`_]
         
-* |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
+* |OK_ICON| `Open Fedspend Data - Daily-updated rolling 7-day window of US federal contract awards from [...] <https://github.com/ConorsCode/open-fedspend-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Fedspend-Data.yml>`_]
+        
+* |FIXME_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
 * |FIXME_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
         
@@ -1210,7 +1212,7 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
-* |FIXME_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
+* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
 * |OK_ICON| `Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos - This 360° video [...] <https://dx.doi.org/10.21227/6htp-py25>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Long-duration-stitched-and-unstitched-8K-30-fps-stereoscopic-360deg-videos.yml>`_]
         
@@ -1351,7 +1353,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
@@ -1825,9 +1827,9 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
