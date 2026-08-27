@@ -582,7 +582,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |FIXME_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -818,7 +818,7 @@ Government
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Dallas-Open-Data.yml>`_]
         
-* |FIXME_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
+* |OK_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
         
 * |OK_ICON| `Debt to the Penny - The Debt to the Penny dataset provides information about the total [...] <https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Debt-to-penny.yml>`_]
         
@@ -1137,6 +1137,8 @@ Healthcare
         
 * |OK_ICON| `Medicare and Medicaid Data - This site gives you direct access to public data released by the [...] <https://data.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Medicare-and-Medicaid-Data.yml>`_]
         
+* |OK_ICON| `Mental Health Startup Graveyard - 542 digital mental health organizations that left the [...] <https://zenodo.org/records/22125661>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Mental-Health-Startup-Graveyard.yml>`_]
+        
 * |OK_ICON| `Nightingale Open Science <https://docs.nightingalescience.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Nightingale.yml>`_]
         
 * |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Number-of-Ebola-Cases-and-Deaths-in-Affected-Countries-2014.yml>`_]
@@ -1198,7 +1200,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1224,13 +1226,13 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
-* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
+* |FIXME_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
 * |OK_ICON| `Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos - This 360° video [...] <https://dx.doi.org/10.21227/6htp-py25>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Long-duration-stitched-and-unstitched-8K-30-fps-stereoscopic-360deg-videos.yml>`_]
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1254,7 +1256,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1365,7 +1367,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
@@ -1379,7 +1381,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1714,7 +1716,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |FIXME_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1775,7 +1777,7 @@ SocialSciences
         
 * |OK_ICON| `Chinese zodiac sexagenary cycle, 1924-2044 - 121 consecutive years of the Chinese sexagenary [...] <https://github.com/alice51849/lumi-open-data/tree/master/chinese-zodiac>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Chinese-Zodiac-Sexagenary-Cycle.yml>`_]
         
-* |FIXME_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
+* |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
 * |FIXME_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
