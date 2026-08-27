@@ -204,7 +204,7 @@ Climate+Weather
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `Average city temperatures - Contains daily time series of average air temperatures in about [...] <https://www.fetchseries.com/climate/average-city-temperatures-fsr/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NEW_DATASET.yml>`_]
         
@@ -892,7 +892,7 @@ Government
         
 * |OK_ICON| `Indian Government Data <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indian-Government-Data.yml>`_]
         
-* |OK_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
+* |FIXME_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
         
 * |OK_ICON| `Iowa - Welcome to the State of Iowa's data portal. Please explore data about Iowa and your [...] <https://data.iowa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Iowa.yml>`_]
         
@@ -900,7 +900,7 @@ Government
         
 * |FIXME_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
-* |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
+* |FIXME_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
 * |OK_ICON| `Italian Workplace Safety Open Data (123Formazione) - Open dataset covering Italian workplace- [...] <https://123formazione.com/api/public/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italian-Workplace-Safety-123Formazione.yml>`_]
         
@@ -922,8 +922,6 @@ Government
         
 * |OK_ICON| `Los Angeles Open Data <https://data.lacity.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Los-Angeles-Open-Data.yml>`_]
         
-* |OK_ICON| `LottoLens PH Public PCSO Historical Results - Independently compiled Philippine Charity [...] <https://remo65588-boop.github.io/lottolens-ph-public-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/LottoLens-PH-Public-PCSO-Historical-Results.yml>`_]
-        
 * |OK_ICON| `Luxembourg - Luxembourgish Open Data Portal <https://data.public.lu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Luxembourg.yml>`_]
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
@@ -936,7 +934,7 @@ Government
         
 * |OK_ICON| `Mississauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Missisauga-ON-Canada.yml>`_]
         
-* |OK_ICON| `Moldova <http://data.gov.md/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`_]
+* |FIXME_ICON| `Moldova <http://data.gov.md/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moldova.yml>`_]
         
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
         
@@ -1284,7 +1282,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1395,7 +1393,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
@@ -1453,7 +1451,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1521,7 +1519,7 @@ Physics
         
 * |OK_ICON| `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NSSDC-NASA-data-of-550-space-spacecraft.yml>`_]
         
-* |OK_ICON| `Quantum simulations of an electron in a two dimensional potential well - The data was [...] <http://doi.org/10.4224/PhysRevA.96.042113.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Quantum.yml>`_]
+* |FIXME_ICON| `Quantum simulations of an electron in a two dimensional potential well - The data was [...] <http://doi.org/10.4224/PhysRevA.96.042113.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Quantum.yml>`_]
         
 * |OK_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Sloan-Digital-Sky-Survey-SDSS.yml>`_]
     
@@ -1833,7 +1831,7 @@ SocialSciences
         
 * |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Humanitarian-Data-Exchange.yml>`_]
         
-* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
+* |FIXME_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/INFORM-Index-for-Risk-Management.yml>`_]
         
 * |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Institute-for-Demographic-Studies.yml>`_]
         
