@@ -430,6 +430,8 @@ Economics
         
 * |OK_ICON| `BIS Financial Database - The files contain the same data as in the BIS Statistics Explorer [...] <https://www.bis.org/statistics/full_data_sets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/BIS Financial Database.yml>`_]
         
+* |OK_ICON| `Bangkok Off-Plan Housing Pipeline - Aggregate data on residential construction underway in [...] <https://baanscope.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Bangkok-Off-Plan-Housing-Pipeline.yml>`_]
+        
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
 * |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
@@ -824,7 +826,7 @@ Government
         
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Dallas-Open-Data.yml>`_]
         
-* |FIXME_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
+* |OK_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
         
 * |OK_ICON| `Debt to the Penny - The Debt to the Penny dataset provides information about the total [...] <https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Debt-to-penny.yml>`_]
         
@@ -910,7 +912,7 @@ Government
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
         
-* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
+* |FIXME_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
@@ -1206,7 +1208,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1232,17 +1234,17 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
-* |FIXME_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
+* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
 * |OK_ICON| `Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos - This 360° video [...] <https://dx.doi.org/10.21227/6htp-py25>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Long-duration-stitched-and-unstitched-8K-30-fps-stereoscopic-360deg-videos.yml>`_]
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1431,7 +1433,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1935,7 +1937,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
