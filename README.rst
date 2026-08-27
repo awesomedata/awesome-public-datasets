@@ -304,6 +304,8 @@ ComputerNetworks
         
 * |OK_ICON| `EOSL.ai Enterprise Hardware End-of-Life Dates - Enterprise datacenter hardware end-of-sale [...] <https://eosl.ai/dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/EOSL.ai-Enterprise-Hardware-End-of-Life-Dates.yml>`_]
         
+* |OK_ICON| `GeoCables Internet Latency & Routing Observations - Daily aggregated round-trip latency [...] <https://geocables.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/GeoCables-Internet-Latency-Observations.yml>`_]
+        
 * |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
         
 * |OK_ICON| `KI-Zugangsindex: robots.txt longitudinal panel of 600 German (.de) domains - A repeated [...] <https://peppe1337.github.io/ki-zugangsindex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/KI-Zugangsindex.yml>`_]
@@ -1230,13 +1232,13 @@ ImageProcessing
         
 * |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
-* |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
+* |FIXME_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
 * |OK_ICON| `Long duration stitched and unstitched 8K/30 fps stereoscopic 360° videos - This 360° video [...] <https://dx.doi.org/10.21227/6htp-py25>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Long-duration-stitched-and-unstitched-8K-30-fps-stereoscopic-360deg-videos.yml>`_]
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1342,7 +1344,7 @@ Museums
         
 * |FIXME_ICON| `Natural History Museum (London) Data Portal <http://data.nhm.ac.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Natural-History-Museum-London-Data-Portal.yml>`_]
         
-* |FIXME_ICON| `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Rijksmuseum-Historical-Art-Collection.yml>`_]
+* |OK_ICON| `Rijksmuseum Historical Art Collection <https://www.rijksmuseum.nl/en/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Rijksmuseum-Historical-Art-Collection.yml>`_]
         
 * |OK_ICON| `Tate Collection metadata <https://github.com/tategallery/collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Tate-Collection-metadata.yml>`_]
         
