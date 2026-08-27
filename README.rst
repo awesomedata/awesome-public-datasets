@@ -112,7 +112,7 @@ Biology
         
 * |OK_ICON| `KEGG - KEGG is a database resource for understanding high-level functions and utilities of [...] <http://www.genome.jp/kegg/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/KEGG.yml>`_]
         
-* |OK_ICON| `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NCBI-Proteins.yml>`_]
+* |FIXME_ICON| `NCBI Proteins <http://www.ncbi.nlm.nih.gov/guide/proteins/#databases>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NCBI-Proteins.yml>`_]
         
 * |OK_ICON| `NCBI Taxonomy - The NCBI Taxonomy database is a curated set of names and classifications for [...] <http://www.ncbi.nlm.nih.gov/taxonomy>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NCBI-Taxonomy.yml>`_]
         
@@ -631,6 +631,8 @@ Energy
 Entertainment
 -------------
         
+* |OK_ICON| `Tarot Card Meanings: A Complete 78-Card Semantic Dataset - A machine-readable dataset [...] <https://doi.org/10.5281/zenodo.19475329>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Deckaura-Tarot-Card-Meanings.yml>`_]
+        
 * |OK_ICON| `Rope Drop News Theme Park Data - First-party live wait times, ride reliability, crowd levels, [...] <https://ropedropnews.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/RopeDropNewsThemeParkData.yml>`_]
         
 * |OK_ICON| `Top Streamers on Twitch - This contains data of Top 1000 Streamers from past year. <https://www.kaggle.com/aayushmishra1512/twitchdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/TwitchStreamersData.yml>`_]
@@ -912,7 +914,7 @@ Government
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
         
-* |FIXME_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
+* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
@@ -1244,7 +1246,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
