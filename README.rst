@@ -733,7 +733,7 @@ GIS
         
 * |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Geo-Wiki-Project.yml>`_]
         
-* |FIXME_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
+* |OK_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoNames-Worldwide.yml>`_]
         
@@ -972,7 +972,7 @@ Government
         
 * |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
-* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
+* |FIXME_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
         
 * |OK_ICON| `OpenMercantil Spanish Public Company Data - Independent, non-official access layer for [...] <https://openmercantil.es/descargas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenMercantil-Spanish-public-company-data.yml>`_]
         
@@ -1411,7 +1411,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1513,7 +1513,7 @@ Physics
         
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
-* |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
+* |FIXME_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
         
 * |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
