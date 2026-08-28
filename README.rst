@@ -162,7 +162,7 @@ Biology
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
-* |FIXME_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
+* |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
     
 Chemistry
 ---------
@@ -273,7 +273,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
         
-* |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
         
 * |OK_ICON| `Steam Co-Review Network - 82,000-game Steam catalog with a 48,000-node co-review network [...] <https://github.com/lukeslp/steam-network-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/steam-network-data.yaml>`_]
     
@@ -288,7 +288,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
         
-* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
@@ -456,7 +456,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -598,7 +598,7 @@ Energy
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
-* |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
+* |FIXME_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
@@ -698,6 +698,8 @@ Finance
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
+* |OK_ICON| `SBA 7(a) Loan Charge-Off Rates 1992-2026 - Charge-off rates computed from the complete public [...] <https://github.com/Chadhauser/sba-7a-chargeoff-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SBA-7a-Charge-Off-Rates.yml>`_]
+        
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |OK_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
@@ -796,13 +798,13 @@ Government
         
 * |FIXME_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
         
-* |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+* |FIXME_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
-* |FIXME_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
+* |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
 * |OK_ICON| `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Australia-abs.gov.au.yml>`_]
         
@@ -938,7 +940,7 @@ Government
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
         
-* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
+* |FIXME_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
@@ -1294,7 +1296,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1419,7 +1421,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1463,7 +1465,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1606,7 +1608,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
@@ -1707,7 +1709,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/National-Technical-Reports-Library.yml>`_]
         
@@ -1879,9 +1881,9 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
