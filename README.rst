@@ -808,7 +808,7 @@ Government
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
-* |FIXME_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
+* |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
 * |OK_ICON| `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Australia-abs.gov.au.yml>`_]
         
@@ -1058,7 +1058,7 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
+* |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
@@ -1421,7 +1421,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Gutenberg eBooks List <http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1441,7 +1441,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |FIXME_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1465,7 +1465,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1954,8 +1954,6 @@ Sports
 ------
         
 * |OK_ICON| `American Ninja Warrior Obstacles - Contains every obstacle in the history of American Ninja [...] <https://data.world/ninja/anw-obstacle-history>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/American-Ninja-Warrior-Obstacles.yml>`_]
-        
-* |FIXME_ICON| `Betfair Historical Exchange Data <http://data.betfair.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Betfair-Historical-Exchange-Data.yml>`_]
         
 * |OK_ICON| `Cricsheet Matches (cricket) <http://cricsheet.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Cricsheet-Matches-cricket.yml>`_]
         
