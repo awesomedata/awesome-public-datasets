@@ -1405,8 +1405,6 @@ NaturalLanguage
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
         
-* |FIXME_ICON| `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb09-FACC.yml>`_]
-        
 * |FIXME_ICON| `ClueWeb12 FACC <http://lemurproject.org/clueweb12/FACC1/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/ClueWeb12-FACC.yml>`_]
         
 * |OK_ICON| `DBpedia - Structured data from Wikipedia <https://databus.dbpedia.org/dbpedia/collections/latest-core>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/DBpedia.yml>`_]
@@ -1467,7 +1465,7 @@ NaturalLanguage
         
 * |OK_ICON| `Universal Dependencies <http://universaldependencies.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Universal-Dependencies.yml>`_]
         
-* |OK_ICON| `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Webhose.yml>`_]
+* |FIXME_ICON| `Webhose - News/Blogs in multiple languages <https://webhose.io/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Webhose.yml>`_]
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
