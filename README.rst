@@ -273,7 +273,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
         
-* |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
         
 * |OK_ICON| `Steam Co-Review Network - 82,000-game Steam catalog with a 48,000-node co-review network [...] <https://github.com/lukeslp/steam-network-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/steam-network-data.yaml>`_]
     
@@ -288,7 +288,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
         
-* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
@@ -306,7 +306,7 @@ ComputerNetworks
         
 * |OK_ICON| `GeoCables Internet Latency & Routing Observations - Daily aggregated round-trip latency [...] <https://geocables.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/GeoCables-Internet-Latency-Observations.yml>`_]
         
-* |FIXME_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
+* |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
         
 * |OK_ICON| `KI-Zugangsindex: robots.txt longitudinal panel of 600 German (.de) domains - A repeated [...] <https://peppe1337.github.io/ki-zugangsindex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/KI-Zugangsindex.yml>`_]
         
@@ -416,7 +416,7 @@ Economics
         
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
-* |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
+* |FIXME_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
@@ -452,7 +452,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -834,7 +834,7 @@ Government
         
 * |OK_ICON| `EU Government Benefits — Structural Dataset - Catalogue of 106 government benefits across 27 [...] <https://github.com/Buronia-com/eu-benefits-schema>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Buronia-EU-Benefits.yml>`_]
         
-* |OK_ICON| `Calgary, AB, Canada <https://data.calgary.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Calgary-AB-Canada.yml>`_]
+* |FIXME_ICON| `Calgary, AB, Canada <https://data.calgary.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Calgary-AB-Canada.yml>`_]
         
 * |OK_ICON| `California Superior Court Financial-Disclosure Directory - An independently maintained 58-row [...] <https://communityproperty.ai/datasets/california-court-financial-disclosure-directory/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/California-Superior-Court-Financial-Disclosure-Directory.yml>`_]
         
@@ -862,7 +862,7 @@ Government
         
 * |OK_ICON| `Durham, NC Open Data <https://live-durhamnc.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Durham-NC-Open-Data.yml>`_]
         
-* |FIXME_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
+* |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
 * |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
@@ -1502,7 +1502,7 @@ Neuroscience
         
 * |OK_ICON| `FCP-INDI <http://fcon_1000.projects.nitrc.org/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/FCP-INDI.yml>`_]
         
-* |FIXME_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Human-Connectome-Project.yml>`_]
+* |OK_ICON| `Human Connectome Project <http://www.humanconnectome.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Human-Connectome-Project.yml>`_]
         
 * |FIXME_ICON| `NDAR <https://ndar.nih.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/NDAR.yml>`_]
         
@@ -1614,7 +1614,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
-* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `QIN-PROSTATE-Repeatability - The QIN-PROSTATE-Repeatability dataset is a dataset with [...] <https://wiki.cancerimagingarchive.net/display/Public/QIN-PROSTATE-Repeatability>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/QIN-PROSTATE-Repeatability.yml>`_]
         
@@ -1686,7 +1686,7 @@ PublicDomains
         
 * |FIXME_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/The-Washington-Post-List.yml>`_]
         
@@ -1760,7 +1760,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |FIXME_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1823,9 +1823,7 @@ SocialSciences
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
-* |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
-        
-* |FIXME_ICON| `Datacards <https://www.datacards.org/login/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml>`_]
+* |FIXME_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
 * |OK_ICON| `European Social Survey <http://www.europeansocialsurvey.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/European-Social-Survey.yml>`_]
         
