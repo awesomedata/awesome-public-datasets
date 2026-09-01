@@ -164,12 +164,12 @@ Biology
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
-* |FIXME_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
+* |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
     
 Chemistry
 ---------
         
-* |FIXME_ICON| `Ionic Liquids Database - ILThermo <https://ilthermo.boulder.nist.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/ionicliquids.yml>`_]
+* |OK_ICON| `Ionic Liquids Database - ILThermo <https://ilthermo.boulder.nist.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/ionicliquids.yml>`_]
         
 * |OK_ICON| `LibertyCES Industrial Chemical Equipment Data - Real, open industrial chemical equipment [...] <https://data.libertyces.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/libertyces-industrial-chemical-equipment-data.yml>`_]
         
@@ -202,7 +202,7 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |FIXME_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
@@ -430,7 +430,7 @@ Economics
         
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -494,7 +494,7 @@ Economics
         
 * |OK_ICON| `Project Cost Estimator - Website Cost Data - An open dataset of real-world website and web- [...] <https://projectcostestimator.com/api-docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Project-Cost-Estimator-Website-Cost-Data.yml>`_]
         
-* |FIXME_ICON| `Property Comps — Comparable Property Sales Across 11 Global Markets - Free API providing 44M+ [...] <https://api.nwc-advisory.com/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Property-Comps.yml>`_]
+* |OK_ICON| `Property Comps — Comparable Property Sales Across 11 Global Markets - Free API providing 44M+ [...] <https://api.nwc-advisory.com/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Property-Comps.yml>`_]
         
 * |OK_ICON| `SBA Loan Maturity Wall - An open dataset computing the maturity year of 66,307 SBA 7(a)/504 [...] <https://scouly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SBA-Loan-Maturity-Wall.yml>`_]
         
@@ -757,7 +757,7 @@ GIS
         
 * |OK_ICON| `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Landsat-8-on-AWS.yml>`_]
         
-* |FIXME_ICON| `Large Scale International Boundaries from  the U.S. Department of State <https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/metadata/3bdb81a0-c1b9-439a-a0b1-85dac30c59b2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Large-scale-international-boundaries-from--the-U.S.-Department-of-State.yml>`_]
+* |OK_ICON| `Large Scale International Boundaries from  the U.S. Department of State <https://geodata.state.gov/geonetwork/srv/eng/catalog.search#/metadata/3bdb81a0-c1b9-439a-a0b1-85dac30c59b2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Large-scale-international-boundaries-from--the-U.S.-Department-of-State.yml>`_]
         
 * |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/List-of-all-countries-in-all-languages.yml>`_]
         
@@ -808,7 +808,7 @@ Government
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
-* |FIXME_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
+* |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Austin-TX-US.yml>`_]
         
 * |OK_ICON| `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Australia-abs.gov.au.yml>`_]
         
@@ -842,7 +842,7 @@ Government
         
 * |OK_ICON| `Canada <http://open.canada.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Canada.yml>`_]
         
-* |FIXME_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
+* |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
         
 * |FIXME_ICON| `Chile <http://datos.gob.cl/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
         
@@ -864,7 +864,7 @@ Government
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
-* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
+* |FIXME_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
 * |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`_]
         
@@ -1304,7 +1304,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1413,7 +1413,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |FIXME_ICON| `Freebase of people, places, and things <http://www.freebase.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Freebase-of-people-places-and-things.yml>`_]
         
@@ -1686,7 +1686,7 @@ PublicDomains
         
 * |FIXME_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/The-Washington-Post-List.yml>`_]
         
@@ -1715,7 +1715,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/National-Technical-Reports-Library.yml>`_]
         
@@ -1823,7 +1823,7 @@ SocialSciences
         
 * |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
-* |FIXME_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
+* |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
 * |OK_ICON| `European Social Survey <http://www.europeansocialsurvey.org/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/European-Social-Survey.yml>`_]
         
@@ -1881,11 +1881,11 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
+* |FIXME_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
@@ -1909,7 +1909,7 @@ SocialSciences
         
 * |OK_ICON| `US Fragrance Trends 2026 — Most-Searched Fragrance by US State - A 12-month Google Trends [...] <https://github.com/ahmad-khan-97/us-fragrance-trends-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Fragrance-Trends-2026.yml>`_]
         
-* |OK_ICON| `US Sex Offender Registry Statistics - Aggregate statistics on registered sex offenders in the [...] <https://offendersearch.app/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Sex-Offender-Registry-Statistics.yml>`_]
+* |FIXME_ICON| `US Sex Offender Registry Statistics - Aggregate statistics on registered sex offenders in the [...] <https://offendersearch.app/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Sex-Offender-Registry-Statistics.yml>`_]
         
 * |OK_ICON| `Universities Worldwide <http://univ.cc/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Universities-Worldwide.yml>`_]
         
@@ -2058,6 +2058,8 @@ Transportation
 * |OK_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
         
 * |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Plane-Crash-Database-since-1920.yml>`_]
+        
+* |OK_ICON| `PlaneCrashData - Global Aviation Safety and Accident Database (1918-Present) - Comprehensive [...] <https://huggingface.co/datasets/MauroPello/planecrashdata>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/PlaneCrashData.yml>`_]
         
 * |OK_ICON| `US Vehicle Failure-Mileage & Reliability Datasets (NHTSA-derived) - Open datasets derived [...] <https://problemsbyvin.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/ProblemsByVin-NHTSA-Vehicle-Reliability.yml>`_]
         
