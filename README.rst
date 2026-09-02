@@ -596,7 +596,7 @@ Energy
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
-* |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
+* |FIXME_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
@@ -1224,7 +1224,7 @@ ImageProcessing
         
 * |OK_ICON| `10k US Adult Faces Database <http://wilmabainbridge.com/facememorability2.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/10k-US-Adult-Faces-Database.yml>`_]
         
-* |FIXME_ICON| `2GB of Photos of Cats <https://www.kaggle.com/crawford/cat-dataset/version/2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/2GB-of-Photos-of-Cats.yml>`_]
+* |OK_ICON| `2GB of Photos of Cats <https://www.kaggle.com/datasets/crawford/cat-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/2GB-of-Photos-of-Cats.yml>`_]
         
 * |OK_ICON| `AI Detector Arena Benchmark - A standardized benchmark dataset for evaluating AI-generated [...] <https://aidetectarena.com/benchmark-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/AI-Detector-Arena-Benchmark.yml>`_]
         
@@ -1469,7 +1469,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
