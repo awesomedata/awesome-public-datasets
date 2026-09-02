@@ -42,7 +42,7 @@ Agriculture
         
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working with remote sensing [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Optimized Soil Adjusted Vegetation Index>`_]
         
-* |FIXME_ICON| `TempoLife Food Nutrition Dataset - Per-100g nutrition values (kcal, protein, carbs, fat, [...] <https://zenodo.org/records/22208174>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/TempoLife-Food-Nutrition-Dataset.yml>`_]
+* |OK_ICON| `TempoLife Food Nutrition Dataset - Per-100g nutrition values (kcal, protein, carbs, fat, [...] <https://zenodo.org/records/22208174>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/TempoLife-Food-Nutrition-Dataset.yml>`_]
         
 * |OK_ICON| `Turkish Olive Production Data - Olive and olive oil production in Turkiye at province, region [...] <https://github.com/yudumnet/zeytinnet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Turkish-Olive-Production.yml>`_]
         
@@ -271,7 +271,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `WSU Graph Database <http://www.eecs.wsu.edu/mgd/gdb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/WSU-Graph-Database.yml>`_]
         
-* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+* |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
         
 * |OK_ICON| `Steam Co-Review Network - 82,000-game Steam catalog with a 48,000-node co-review network [...] <https://github.com/lukeslp/steam-network-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/steam-network-data.yaml>`_]
     
@@ -286,7 +286,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
         
-* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
@@ -408,8 +408,6 @@ Economics
         
 * |OK_ICON| `AI Career Threat Index - An open dataset scoring 76 professions on AI displacement risk [...] <https://github.com/Jott2121/ai-career-threat-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/AI-Career-Threat-Index.yml>`_]
         
-* |FIXME_ICON| `AI Displacement Tracker - A structured dataset tracking 109 documented cases of AI-driven [...] <https://github.com/noahaust2/ai-displacement-tracker>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/AI-Displacement-Tracker.yml>`_]
-        
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
 * |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
@@ -426,7 +424,7 @@ Economics
         
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
-* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -598,7 +596,7 @@ Energy
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
-* |FIXME_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
+* |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
@@ -645,9 +643,9 @@ Entertainment
         
 * |FIXME_ICON| `Tarot Card Meanings: A Complete 78-Card Semantic Dataset - A machine-readable dataset [...] <https://doi.org/10.5281/zenodo.19475329>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Deckaura-Tarot-Card-Meanings.yml>`_]
         
-* |FIXME_ICON| `Pokemon Card Centering Measurements - 320 measured centering readings (front-border [...] <https://zenodo.org/records/21788534>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Centering-Measurements.yml>`_]
+* |OK_ICON| `Pokemon Card Centering Measurements - 320 measured centering readings (front-border [...] <https://zenodo.org/records/21788534>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Centering-Measurements.yml>`_]
         
-* |FIXME_ICON| `Pokemon Card Sold-Price Reference by Grade - Median sold-price reference for 486 Pokemon [...] <https://zenodo.org/records/22124729>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Sold-Price-Reference.yml>`_]
+* |OK_ICON| `Pokemon Card Sold-Price Reference by Grade - Median sold-price reference for 486 Pokemon [...] <https://zenodo.org/records/22124729>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Pokemon-Card-Sold-Price-Reference.yml>`_]
         
 * |OK_ICON| `Rope Drop News Theme Park Data - First-party live wait times, ride reliability, crowd levels, [...] <https://ropedropnews.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/RopeDropNewsThemeParkData.yml>`_]
         
@@ -824,7 +822,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -866,7 +864,7 @@ Government
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
-* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
+* |FIXME_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
 * |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`_]
         
@@ -1040,7 +1038,7 @@ Government
         
 * |OK_ICON| `San Jose, California, US <http://data.sanjoseca.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Jose-California-US.yml>`_]
         
-* |FIXME_ICON| `San Mateo County, California, US <https://data.smcgov.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Mateo-County-California-US.yml>`_]
+* |OK_ICON| `San Mateo County, California, US <https://data.smcgov.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Mateo-County-California-US.yml>`_]
         
 * |FIXME_ICON| `Saskatchewan, Province of Canada <http://opendatask.ca/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Saskatchewan-Province-of-Canada.yml>`_]
         
@@ -1284,7 +1282,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1308,7 +1306,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome <http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1885,11 +1883,11 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |FIXME_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
+* |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
 * |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
@@ -1977,7 +1975,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
