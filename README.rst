@@ -253,7 +253,7 @@ ComplexNetworks
         
 * |OK_ICON| `Scopus Citation Database <https://www.elsevier.com/solutions/scopus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Scopus-Citation-Database.yml>`_]
         
-* |OK_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Small-Network-Data.yml>`_]
+* |FIXME_ICON| `Small Network Data <http://www-personal.umich.edu/~mejn/netdata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Small-Network-Data.yml>`_]
         
 * |OK_ICON| `Stanford GraphBase <https://cs.stanford.edu/~knuth/sgb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
         
@@ -424,7 +424,7 @@ Economics
         
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -514,7 +514,7 @@ Economics
         
 * |FIXME_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml>`_]
         
-* |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
+* |FIXME_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
         
 * |OK_ICON| `Turkey Business Digital Presence - Website, phone, email and social media presence for [...] <https://github.com/CRM-Solid/turkey-business-digital-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Turkey-Business-Digital-Presence.yml>`_]
         
@@ -596,7 +596,7 @@ Energy
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
-* |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
+* |FIXME_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
@@ -1195,7 +1195,7 @@ Healthcare
         
 * |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/OpenPaymentsData-Healthcare-financial-relationship-data.yml>`_]
         
-* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/PhysioBank-Databases.yml>`_]
+* |FIXME_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/PhysioBank-Databases.yml>`_]
         
 * |OK_ICON| `Romanian Hazardous Medical Waste Procurement Dataset (CPV 9052*) - Open dataset of all [...] <https://licitatiimedicale.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Romania-Medical-Waste-Procurement-Dataset.yml>`_]
         
@@ -1278,9 +1278,9 @@ ImageProcessing
         
 * |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
-* |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
+* |FIXME_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1417,7 +1417,7 @@ NaturalLanguage
         
 * |OK_ICON| `Gutenberg eBooks List <https://www.gutenberg.org/ebooks/offline_catalogs.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Gutenberg-eBooks-List.yml>`_]
         
-* |FIXME_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
+* |OK_ICON| `Hansards text chunks of Canadian Parliament <http://www.isi.edu/natural-language/download/hansard/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Hansards-text-chunks-of-Canadian-Parliament.yml>`_]
         
 * |OK_ICON| `LJ Speech - Speech dataset consisting of 13,100 short audio clips of a single speaker reading [...] <https://keithito.com/LJ-Speech-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/LJ-Speech.yml>`_]
         
@@ -1523,7 +1523,7 @@ Physics
         
 * |FIXME_ICON| `IceCube - South Pole Neutrino Observatory <http://icecube.wisc.edu/science/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
@@ -1648,7 +1648,7 @@ PublicDomains
         
 * |OK_ICON| `Enigma Public <https://public.enigma.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Enigma-Public.yml>`_]
         
-* |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Google.yml>`_]
+* |FIXME_ICON| `Google <http://www.google.com/publicdata/directory>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Google.yml>`_]
         
 * |FIXME_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, internet-based [...] <https://www.comics.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/GrandComics.yml>`_]
         
@@ -1701,7 +1701,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/National-Technical-Reports-Library.yml>`_]
         
@@ -1732,7 +1732,7 @@ SocialNetworks
         
 * |OK_ICON| `Donald Trump Truth Social Posts Archive - A source-linked archive of 35,882 public Truth [...] <https://huggingface.co/datasets/Cameronk199/donald-trump-truth-social-posts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Donald-Trump-Truth-Social-Posts-Archive.yml>`_]
         
-* |FIXME_ICON| `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/EDRM-Enron-EMail-of-151-users-hosted-on-S3.yml>`_]
+* |OK_ICON| `EDRM Enron EMail of 151 users, hosted on S3 - This dataset was collected and prepared by the [...] <https://www.cs.cmu.edu/~enron/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/EDRM-Enron-EMail-of-151-users-hosted-on-S3.yml>`_]
         
 * |OK_ICON| `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Facebook-Data-Scrape-2005.yml>`_]
         
@@ -1847,7 +1847,7 @@ SocialSciences
         
 * |OK_ICON| `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/James-McGuire-Cross-National-Data.yml>`_]
         
-* |OK_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MIT-Reality-Mining-Dataset.yml>`_]
+* |FIXME_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MIT-Reality-Mining-Dataset.yml>`_]
         
 * |FIXME_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/MacroData-Guide-by-Norsk-samfunnsvitenskapelig-datatjeneste.yml>`_]
         
@@ -1959,7 +1959,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
@@ -1994,7 +1994,7 @@ TimeSeries
         
 * |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Hard-Drive-Failure-Rates.yml>`_]
         
-* |OK_ICON| `Heart Rate Time Series from MIT <https://physionet.org/content/mitdb/1.0.0/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
+* |FIXME_ICON| `Heart Rate Time Series from MIT <https://physionet.org/content/mitdb/1.0.0/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Heart-Rate-Time-Series-from-MIT.yml>`_]
         
 * |OK_ICON| `Time Series Data Library (TSDL) from MU <https://pkg.yangzhuoranyang.com/tsdl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//TimeSeries/Time-Series-Data-Library-TSDL-from-MU.yml>`_]
         
