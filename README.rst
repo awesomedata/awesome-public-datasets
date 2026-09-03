@@ -426,7 +426,7 @@ Economics
         
 * |FIXME_ICON| `Barro-Lee Education Attainment - Barro-Lee Educational Attainment Data from 1950 to 2010. [...] <http://www.barrolee.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Barro Lee.yml>`_]
         
-* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -462,7 +462,7 @@ Economics
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`_]
         
-* |OK_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
+* |FIXME_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
         
 * |OK_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`_]
         
@@ -864,7 +864,7 @@ Government
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
-* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
+* |FIXME_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
 * |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`_]
         
@@ -944,7 +944,7 @@ Government
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
         
-* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
+* |FIXME_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
@@ -1171,7 +1171,7 @@ Healthcare
         
 * |OK_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/GDC.yml>`_]
         
@@ -1302,7 +1302,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <http://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |FIXME_ICON| `YouTube Faces Database <http://www.cs.tau.ac.il/~wolf/ytfaces/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/YouTube-Faces-Database.yml>`_]
     
@@ -1465,7 +1465,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1598,8 +1598,6 @@ ProstateCancer
         
 * |FIXME_ICON| `Prostate-Adenocarcinoma-Sun-Lab - Whole-genome and Transcriptome Sequencing of 65 Prostate [...] <http://www.cbioportal.org/study?id=prad_eururol_2017>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Adenocarcinoma-Sun-Lab.yml>`_]
         
-* |FIXME_ICON| `Prostate-Adenocarcinoma-TCGA-PanCancer-Atlas - Comprehensive TCGA PanCanAtlas data from 11k [...] <http://www.cbioportal.org/study?id=prad_tcga_pan_can_atlas_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Adenocarcinoma-TCGA-PanCancer-Atlas.yml>`_]
-        
 * |OK_ICON| `Prostate-Diagnosis - PCa T1- and T2-weighted magnetic resonance images (MRIs) were acquired [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-DIAGNOSIS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Diagnosis.yml>`_]
         
 * |OK_ICON| `Prostate-Fused-MRI-Pathology - The Prostate Fused-MRI-Pathology collection is a combination [...] <https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Fused-MRI-Pathology.yml>`_]
@@ -1676,9 +1674,9 @@ PublicDomains
         
 * |OK_ICON| `Stack Overflow Annual Developer Survey - Annual developer surverys full data sets from 2011 [...] <https://insights.stackoverflow.com/survey>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stack-Overflow-Annual-Developer-Survey.yml>`_]
         
-* |OK_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
+* |FIXME_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/The-Washington-Post-List.yml>`_]
         
@@ -1750,7 +1748,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1760,7 +1758,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
-* |OK_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |FIXME_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
@@ -1778,7 +1776,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`_]
         
-* |OK_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |FIXME_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`_]
         
@@ -1809,7 +1807,7 @@ SocialSciences
         
 * |OK_ICON| `Chinese zodiac sexagenary cycle, 1924-2044 - 121 consecutive years of the Chinese sexagenary [...] <https://github.com/alice51849/lumi-open-data/tree/master/chinese-zodiac>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Chinese-Zodiac-Sexagenary-Cycle.yml>`_]
         
-* |FIXME_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
+* |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Correlates-of-War-Project.yml>`_]
         
 * |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
@@ -1963,7 +1961,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
