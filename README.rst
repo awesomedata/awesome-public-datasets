@@ -208,7 +208,7 @@ Climate+Weather
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
@@ -410,7 +410,7 @@ Economics
         
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
-* |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
+* |FIXME_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
@@ -596,7 +596,7 @@ Energy
         
 * |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
-* |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
+* |FIXME_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
 * |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
@@ -678,7 +678,7 @@ Finance
         
 * |OK_ICON| `Google Trends <http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Trends.yml>`_]
         
-* |FIXME_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`_]
+* |OK_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`_]
         
 * |OK_ICON| `M&A Multiples Index (SMB & Lower-Middle-Market) - Open dataset of median EV/EBITDA and [...] <https://github.com/nickcals/multiples>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/MA-Multiples-Index.yml>`_]
         
@@ -743,7 +743,7 @@ GIS
         
 * |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Geo-Wiki-Project.yml>`_]
         
-* |OK_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
+* |FIXME_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoFabrik.yml>`_]
         
 * |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/GeoNames-Worldwide.yml>`_]
         
@@ -775,7 +775,7 @@ GIS
         
 * |OK_ICON| `Shadow Accrual Maps - The repository contains the accumulated shadow information for New York [...] <https://github.com/VIDA-NYU/shadow-accrual-maps/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Shadow-Accrual-Maps.yml>`_]
         
-* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
+* |FIXME_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TIGER-Line.yml>`_]
         
 * |OK_ICON| `TZ Timezones shapefile <http://efele.net/maps/tz/world/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/TZ-Timezones-shapfiles.yml>`_]
         
@@ -818,7 +818,7 @@ Government
         
 * |FIXME_ICON| `Beersheba, Israel - Open Data Portal (Smart7 OpenData) <https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Beersheba-Israel.yml>`_]
         
-* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -874,7 +874,7 @@ Government
         
 * |OK_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
         
-* |FIXME_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
+* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Fredericton-NB-Canada.yml>`_]
         
 * |OK_ICON| `Garage-Conversion and ADU Building Permit Timelines for Four U.S. Cities - 64,427 residential [...] <https://github.com/asafichaki/permittimelines>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Garage-Conversion-ADU-Permit-Timelines-2026.yml>`_]
         
@@ -912,7 +912,7 @@ Government
         
 * |FIXME_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
-* |FIXME_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
+* |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
 * |OK_ICON| `Italian Workplace Safety Open Data (123Formazione) - Open dataset covering Italian workplace- [...] <https://123formazione.com/api/public/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italian-Workplace-Safety-123Formazione.yml>`_]
         
@@ -952,7 +952,7 @@ Government
         
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Moncton-NB-Canada.yml>`_]
         
-* |FIXME_ICON| `Montreal, QC, Canada <https://donnees.montreal.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
+* |OK_ICON| `Montreal, QC, Canada <https://donnees.montreal.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Montreal-QC-Canada.yml>`_]
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Mountain-View-California-US-GIS.yml>`_]
         
@@ -1052,9 +1052,9 @@ Government
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland.yml>`_]
         
-* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
+* |FIXME_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
         
-* |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
+* |FIXME_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
@@ -1070,7 +1070,7 @@ Government
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
-* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
         
 * |FIXME_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-CDC-Public-Health-datasets.yml>`_]
         
@@ -1268,7 +1268,7 @@ ImageProcessing
         
 * |OK_ICON| `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Indoor-Scene-Recognition.yml>`_]
         
-* |FIXME_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
+* |OK_ICON| `KITTI Vision Benchmark Suite <http://www.cvlibs.net/datasets/kitti/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/KITTI-Vision-Benchmark-Suite.yml>`_]
         
 * |OK_ICON| `Labeled Information Library of Alexandria - Biology and Conservation - Contains over 10 [...] <http://lila.science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/LILA-BC.yml>`_]
         
@@ -1280,7 +1280,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1405,7 +1405,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from the German [...] <http://adrien.barbaresi.eu/corpora/speeches/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/German-Political-Speeches-Corpus.yml>`_]
         
@@ -1540,7 +1540,7 @@ ProstateCancer
         
 * |OK_ICON| `GENIE - Data from the Genomics Evidence Neoplasia Information Exchange (GENIE) project of the [...] <https://www.synapse.org/genie>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/GENIE.yml>`_]
         
-* |FIXME_ICON| `Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE - Comprehensive genomic profiling of 477 [...] <https://www.cbioportal.org/study/summary?id=prad_cpcg_2017>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE.yml>`_]
+* |OK_ICON| `Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE - Comprehensive genomic profiling of 477 [...] <https://www.cbioportal.org/study/summary?id=prad_cpcg_2017>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE.yml>`_]
         
 * |FIXME_ICON| `MSK-IMPACT-Clinical-Sequencing-Cohort-MSKCC-Prostate-Cancer - Targeted sequencing of clinical [...] <http://www.cbioportal.org/study?id=prad_mskcc_2017>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/MSK-IMPACT-Clinical-Sequencing-Cohort-MSKCC-Prostate-Cancer.yml>`_]
         
@@ -1600,7 +1600,7 @@ ProstateCancer
         
 * |OK_ICON| `Prostate-Diagnosis - PCa T1- and T2-weighted magnetic resonance images (MRIs) were acquired [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-DIAGNOSIS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Diagnosis.yml>`_]
         
-* |FIXME_ICON| `Prostate-Fused-MRI-Pathology - The Prostate Fused-MRI-Pathology collection is a combination [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate+Fused-MRI-Pathology>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Fused-MRI-Pathology.yml>`_]
+* |OK_ICON| `Prostate-Fused-MRI-Pathology - The Prostate Fused-MRI-Pathology collection is a combination [...] <https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Fused-MRI-Pathology.yml>`_]
         
 * |OK_ICON| `Prostate-MRI - The Prostate-MRI collection of prostate Magnetic Resonance Images (MRIs) was [...] <https://wiki.cancerimagingarchive.net/display/Public/Prostate-MRI>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-MRI.yml>`_]
         
@@ -1895,7 +1895,7 @@ SocialSciences
         
 * |OK_ICON| `US Sex Offender Registry Statistics - Aggregate statistics on registered sex offenders in the [...] <https://offendersearch.app/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Sex-Offender-Registry-Statistics.yml>`_]
         
-* |FIXME_ICON| `Universities Worldwide <http://univ.cc/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Universities-Worldwide.yml>`_]
+* |OK_ICON| `Universities Worldwide <http://univ.cc/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Universities-Worldwide.yml>`_]
         
 * |OK_ICON| `Uppsala Conflict Data Program <https://ucdp.uu.se/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Uppsala-Conflict-Data-Program.yml>`_]
         
