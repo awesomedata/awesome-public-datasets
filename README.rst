@@ -206,7 +206,7 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |FIXME_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
@@ -769,7 +769,7 @@ GIS
         
 * |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/OpenAddresses.yml>`_]
         
-* |OK_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/OpenStreetMap-OSM.yml>`_]
+* |FIXME_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/OpenStreetMap-OSM.yml>`_]
         
 * |OK_ICON| `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Pleiades.yml>`_]
         
@@ -944,7 +944,7 @@ Government
         
 * |OK_ICON| `Malaysia <https://data.gov.my/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Malaysia.yml>`_]
         
-* |FIXME_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
+* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/MassGIS-Massachusetts-U.S..yml>`_]
         
 * |OK_ICON| `Metropolitan Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Metropolitain-Transportation-Commission-MTC-California-US.yml>`_]
         
@@ -1573,8 +1573,6 @@ ProstateCancer
 * |FIXME_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://wiki.cancerimagingarchive.net/display/Public/SPIE-AAPM-NCI+PROSTATEx+Challenges>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
         
 * |OK_ICON| `Prostate-3T - The Prostate-3T project provided imaging data to TCIA as part of an ISBI [...] <https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-3T>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-3T.yml>`_]
-        
-* |FIXME_ICON| `Prostate-Adenocarcinoma-Broad-Cornell-2013 - Comprehensive profiling of 57 prostate cancer [...] <http://www.cbioportal.org/study?id=prad_broad_2013>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Adenocarcinoma-Broad-Cornell-2013.yml>`_]
         
 * |FIXME_ICON| `Prostate-Adenocarcinoma-CNA-study-MSKCC - Copy-number profiling of 103 primary prostate [...] <http://www.cbioportal.org/study?id=prad_mskcc_2014>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-Adenocarcinoma-CNA-study-MSKCC.yml>`_]
         
