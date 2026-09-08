@@ -202,7 +202,7 @@ Climate+Weather
         
 * |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/web/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
-* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://data.knmi.nl/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
+* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -862,7 +862,7 @@ Government
         
 * |OK_ICON| `Canada <http://open.canada.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Canada.yml>`_]
         
-* |FIXME_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
+* |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
         
 * |FIXME_ICON| `Chile <http://datos.gob.cl/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
         
@@ -1308,7 +1308,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1433,7 +1433,7 @@ NaturalLanguage
         
 * |OK_ICON| `Dirty Words - With millions of images in our library and billions of user-submitted keywords, [...] <https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Dirty-Words.yml>`_]
         
-* |FIXME_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
+* |OK_ICON| `Flickr Personal Taxonomies <http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Flickr-Personal-Taxonomies.yml>`_]
         
 * |OK_ICON| `German Political Speeches Corpus - Collection of political speeches from the German [...] <http://adrien.barbaresi.eu/corpora/speeches/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/German-Political-Speeches-Corpus.yml>`_]
         
@@ -1630,7 +1630,7 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Research-Open-Data>`_]
         
-* |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
+* |FIXME_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
         
 * |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
