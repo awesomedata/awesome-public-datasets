@@ -210,7 +210,7 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |FIXME_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
@@ -236,7 +236,7 @@ Climate+Weather
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
         
-* |OK_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
+* |FIXME_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
     
 ComplexNetworks
 ---------------
@@ -461,6 +461,8 @@ Economics
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
 * |OK_ICON| `Indeed Job Postings Sample Dataset (2026) - Structured Indeed job postings with parsed [...] <https://huggingface.co/datasets/fact-den/indeed-job-postings-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Indeed-Job-Postings-Sample-Dataset-2026.yml>`_]
+        
+* |OK_ICON| `Indie Software Revenue & Pricing Disclosures - An open dataset of 45+ small/indie software [...] <https://github.com/lttxzmj/proofstack-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Indie-Software-Revenue-Pricing.yml>`_]
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of millions of time series [...] <https://db.nomics.world/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
         
@@ -1537,7 +1539,7 @@ Physics
         
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
-* |FIXME_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
+* |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <https://icecube.wisc.edu/science/data-releases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
@@ -1576,7 +1578,7 @@ ProstateCancer
         
 * |OK_ICON| `U.S. Cancer Statistics Public Use Database - Database from CDC's National Program of Cancer [...] <https://www.cdc.gov/cancer/uscs/public-use>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/US_cancer_statistics_public_use_database.yml>`_]
         
-* |OK_ICON| `cBioPortal for Cancer Genomics Datasets - Integrated profiling of 333 primary prostate [...] <https://www.cbioportal.org/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/cBioPortal.yml>`_]
+* |FIXME_ICON| `cBioPortal for Cancer Genomics Datasets - Integrated profiling of 333 primary prostate [...] <https://www.cbioportal.org/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/cBioPortal.yml>`_]
     
 Psychology+Cognition
 --------------------
@@ -1620,7 +1622,7 @@ PublicDomains
         
 * |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Research-Open-Data>`_]
         
-* |FIXME_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
+* |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Open-Library-Data-Dumps.yml>`_]
         
 * |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
         
