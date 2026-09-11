@@ -1118,6 +1118,8 @@ Government
         
 * |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Department-of-Housing-and-Urban-Development-HUD.yml>`_]
         
+* |OK_ICON| `U.S. Fair Market Rents FY2026-FY2027 (HUD) - Fair market rents for 51,895 ZIP codes and 3,229 counties in FY2026 plus the FY2027 ZIP-level file, five bedroom sizes per row, free CSV downloads <https://jayjex.github.io/data-vault/>`_
+        
 * |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Agencies.yml>`_]
         
 * |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-Federal-Government-Data-Catalog.yml>`_]
