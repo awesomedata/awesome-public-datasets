@@ -170,7 +170,7 @@ Biology
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
-* |OK_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
+* |FIXME_ICON| `Rfam - The Rfam database is a collection of RNA families, each represented by multiple [...] <https://docs.rfam.org/en/latest/database.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/rfam.yml>`_]
     
 Chemistry
 ---------
@@ -210,11 +210,11 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |OK_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |FIXME_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
@@ -277,7 +277,7 @@ ComplexNetworks
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UFL-sparse-matrix-collection.yml>`_]
         
-* |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
         
 * |OK_ICON| `Steam Co-Review Network - 82,000-game Steam catalog with a 48,000-node co-review network [...] <https://github.com/lukeslp/steam-network-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/steam-network-data.yaml>`_]
     
@@ -292,7 +292,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
         
-* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
@@ -458,7 +458,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -533,6 +533,8 @@ Economics
 * |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Atlas-of-Economic-Complexity.yml>`_]
         
 * |FIXME_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Center-for-International-Data.yml>`_]
+        
+* |OK_ICON| `The Gold Barometer - A daily gold buying-conditions score (0 to 100) for the US market, built [...] <https://github.com/thegoldbarometer/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Gold-Barometer.yml>`_]
         
 * |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/The-Observatory-of-Economic-Complexity.yml>`_]
         
@@ -628,7 +630,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |FIXME_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -811,7 +813,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Reverse-Geocoder-using-OSM-data.yml>`_]
         
-* |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Robin-Wilson-Free-GIS-Datasets.yml>`_]
+* |FIXME_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Robin-Wilson-Free-GIS-Datasets.yml>`_]
         
 * |OK_ICON| `Shadow Accrual Maps - The repository contains the accumulated shadow information for New York [...] <https://github.com/VIDA-NYU/shadow-accrual-maps/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Shadow-Accrual-Maps.yml>`_]
         
@@ -950,7 +952,7 @@ Government
         
 * |OK_ICON| `Iowa - Welcome to the State of Iowa's data portal. Please explore data about Iowa and your [...] <https://data.iowa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Iowa.yml>`_]
         
-* |FIXME_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Irelands-Open-Data-Portal.yml>`_]
+* |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Irelands-Open-Data-Portal.yml>`_]
         
 * |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
@@ -1280,7 +1282,7 @@ ImageProcessing
         
 * |OK_ICON| `Audience Unfiltered faces for gender and age classification <http://www.openu.ac.il/home/hassner/Adience/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Adience-Unfiltered-faces-for-gender-and-age-classification.yml>`_]
         
-* |OK_ICON| `Affective Image Classification <http://www.imageemotion.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Affective-Image-Classification.yml>`_]
+* |FIXME_ICON| `Affective Image Classification <http://www.imageemotion.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Affective-Image-Classification.yml>`_]
         
 * |OK_ICON| `Airborne Object Detection and Tracking - The Airborne Object Tracking (AOT) dataset is a [...] <https://www.aicrowd.com/challenges/airborne-object-tracking-challenge>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Airborne-Object-Detection-and-Tracking.yml>`_]
         
@@ -1513,7 +1515,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1604,7 +1606,7 @@ ProstateCancer
         
 * |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
         
-* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `Surveillance, Epidemiology, and End Results (SEER) Cancer Statistics - Database from CDC's [...] <https://seer.cancer.gov/statistics/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Seer_cancer.yml>`_]
         
@@ -1708,7 +1710,7 @@ SearchEngines
 SocialNetworks
 --------------
         
-* |FIXME_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
+* |OK_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
         
@@ -1859,9 +1861,9 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
@@ -1932,9 +1934,9 @@ Software
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
-* |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
