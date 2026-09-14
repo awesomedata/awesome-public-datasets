@@ -241,7 +241,7 @@ Climate+Weather
 ComplexNetworks
 ---------------
         
-* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
+* |FIXME_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/CrossRef-DOI-URLs.yml>`_]
         
@@ -466,7 +466,7 @@ Economics
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of millions of time series [...] <https://db.nomics.world/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
         
-* |OK_ICON| `International Trade Statistics - The new link contains trade based on filtered search on the [...] <https://data.worldbank.org/topic/21>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
+* |FIXME_ICON| `International Trade Statistics - The new link contains trade based on filtered search on the [...] <https://data.worldbank.org/topic/21>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`_]
         
@@ -1006,7 +1006,7 @@ Government
         
 * |OK_ICON| `Netherlands <https://data.overheid.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Netherlands.yml>`_]
         
-* |FIXME_ICON| `New York Department of Sanitation Monthly Tonnage - DSNY Monthly Tonnage Data provides [...] <https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-York-Department-of-Sanitation.yml>`_]
+* |OK_ICON| `New York Department of Sanitation Monthly Tonnage - DSNY Monthly Tonnage Data provides [...] <https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-York-Department-of-Sanitation.yml>`_]
         
 * |OK_ICON| `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/New-Zealand.yml>`_]
         
@@ -1324,7 +1324,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1334,7 +1334,7 @@ ImageProcessing
         
 * |OK_ICON| `Stanford Dogs Dataset <http://vision.stanford.edu/aditya86/ImageNetDogs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Stanford-Dogs-Dataset.yml>`_]
         
-* |OK_ICON| `The Action Similarity Labeling (ASLAN) Challenge <http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/The-Action-Similarity-Labeling-ASLAN-Challenge.yml>`_]
+* |OK_ICON| `The Action Similarity Labeling (ASLAN) Challenge <https://talhassner.github.io/home/projects/ASLAN/ASLAN-main.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/The-Action-Similarity-Labeling-ASLAN-Challenge.yml>`_]
         
 * |OK_ICON| `The Oxford-IIIT Pet Dataset <http://www.robots.ox.ac.uk/~vgg/data/pets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/The-Oxford-IIIT-Pet-Dataset.yml>`_]
         
@@ -2009,7 +2009,7 @@ Transportation
         
 * |OK_ICON| `FAA Wildlife Strikes on Civil Aircraft 1990-2026 (aggregated) - Versioned CC BY 4.0 [...] <https://doi.org/10.5281/zenodo.21347859>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FAA-Wildlife-Strikes-Aggregated-1990-2026.yml>`_]
         
-* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
+* |FIXME_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
 * |OK_ICON| `German Car Roof Load Ratings (Dachlast) - 1,872 documented roof load (Dachlast) ratings for [...] <https://dachlast.de/daten/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/German-Car-Roof-Load-Ratings-Dachlast.yml>`_]
         
