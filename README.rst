@@ -337,7 +337,7 @@ ComputerNetworks
 CyberSecurity
 -------------
         
-* |FIXME_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
+* |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
         
 * |OK_ICON| `GitHub Bounty-Label Prompt-Exfiltration Traps and Merge Reality (563 issues, 5 dated scans, 2026-08-08 to [...] <https://github.com/sujeito-operator/bounty-trap-scan>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/GitHub-Bounty-Label-Prompt-Exfiltration-and-Merge-Reality.yml>`_]
         
@@ -982,7 +982,7 @@ Government
         
 * |FIXME_ICON| `London Datastore, UK <http://data.london.gov.uk/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/London-Datastore-UK.yml>`_]
         
-* |FIXME_ICON| `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/London-ON-Canada.yml>`_]
+* |OK_ICON| `London, ON, Canada <https://opendata.london.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/London-ON-Canada.yml>`_]
         
 * |OK_ICON| `Los Angeles Open Data <https://data.lacity.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Los-Angeles-Open-Data.yml>`_]
         
@@ -1523,7 +1523,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1720,7 +1720,7 @@ SearchEngines
 SocialNetworks
 --------------
         
-* |FIXME_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
+* |OK_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
         
@@ -1946,7 +1946,7 @@ Software
         
 * |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
