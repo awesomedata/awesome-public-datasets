@@ -896,7 +896,7 @@ Government
         
 * |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Edmonton-AB-Canada.yml>`_]
         
-* |FIXME_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
+* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/England-LGInform.yml>`_]
         
 * |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/EuroStat.yml>`_]
         
@@ -1066,7 +1066,7 @@ Government
         
 * |FIXME_ICON| `Romania <https://data.gov.ro/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
         
-* |FIXME_ICON| `Russia <http://data.gov.ru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`_]
+* |OK_ICON| `Open Data Portal of the Russian Federation <https://data.gov.ru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia.yml>`_]
         
 * |OK_ICON| `Russian Business Inspections Registry (ERKNM) - Aggregated statistics from the Unified [...] <https://kontragentpro.ru/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russian-Business-Inspections-Registry.yml>`_]
         
@@ -1487,7 +1487,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |FIXME_ICON| `Open Multilingual Wordnet <http://compling.hss.ntu.edu.sg/omw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1513,7 +1513,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1693,7 +1693,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1863,7 +1863,7 @@ SocialSciences
         
 * |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
@@ -1934,9 +1934,9 @@ Software
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
-* |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
@@ -2015,7 +2015,7 @@ Transportation
         
 * |OK_ICON| `FAA Wildlife Strikes on Civil Aircraft 1990-2026 (aggregated) - Versioned CC BY 4.0 [...] <https://doi.org/10.5281/zenodo.21347859>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FAA-Wildlife-Strikes-Aggregated-1990-2026.yml>`_]
         
-* |FIXME_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
+* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
 * |OK_ICON| `German Car Roof Load Ratings (Dachlast) - 1,872 documented roof load (Dachlast) ratings for [...] <https://dachlast.de/daten/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/German-Car-Roof-Load-Ratings-Dachlast.yml>`_]
         
