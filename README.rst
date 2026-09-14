@@ -44,7 +44,7 @@ Agriculture
         
 * |OK_ICON| `Optimized Soil Adjusted Vegetation Index - The IDB is a tool for working with remote sensing [...] <https://www.indexdatabase.de/db/i-single.php?id=63>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Optimized Soil Adjusted Vegetation Index>`_]
         
-* |OK_ICON| `Robot Lawn Mower Specs - Open dataset of specifications for 23 robot lawn mower models across [...] <https://github.com/yumaheymans/robot-lawn-mower-specs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Robot-Lawn-Mower-Specs.yml>`_]
+* |FIXME_ICON| `Robot Lawn Mower Specs - Open dataset of specifications for 23 robot lawn mower models across [...] <https://github.com/yumaheymans/robot-lawn-mower-specs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Robot-Lawn-Mower-Specs.yml>`_]
         
 * |OK_ICON| `TempoLife Food Nutrition Dataset - Per-100g nutrition values (kcal, protein, carbs, fat, [...] <https://zenodo.org/records/22208174>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/TempoLife-Food-Nutrition-Dataset.yml>`_]
         
@@ -76,7 +76,7 @@ Biology
         
 * |OK_ICON| `ANHIR - Automatic Non-rigid Histological Image Registration (ANHIR) consists of 2D [...] <https://anhir.grand-challenge.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/ANHIR.yml>`_]
         
-* |OK_ICON| `American Gut (Microbiome Project) - The American Gut project is the largest crowdsourced [...] <https://github.com/biocore/American-Gut>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/American-Gut-Microbiome-Project.yml>`_]
+* |FIXME_ICON| `American Gut (Microbiome Project) - The American Gut project is the largest crowdsourced [...] <https://github.com/biocore/American-Gut>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/American-Gut-Microbiome-Project.yml>`_]
         
 * |OK_ICON| `BCNB - There are WSIs of 1058 patients, part of tumor regions are annotated in WSIs. Except [...] <https://bupt-ai-cz.github.io/BCNB/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/BCNB.yml>`_]
         
@@ -90,7 +90,7 @@ Biology
         
 * |OK_ICON| `CytoImageNet - A large-scale dataset of microscopy images. Contains 890,737 total grayscale [...] <https://www.kaggle.com/stanleyhua/cytoimagenet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/CytoImageNet.yml>`_]
         
-* |OK_ICON| `DNA Chip Coverage - Which SNP markers are present on consumer DNA genotyping arrays. 70 [...] <https://github.com/AndreySoloviev/dna-chip-coverage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/DNA-Chip-Coverage.yml>`_]
+* |FIXME_ICON| `DNA Chip Coverage - Which SNP markers are present on consumer DNA genotyping arrays. 70 [...] <https://github.com/AndreySoloviev/dna-chip-coverage>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/DNA-Chip-Coverage.yml>`_]
         
 * |OK_ICON| `EBI ArrayExpress - ArrayExpress Archive of Functional Genomics Data stores data from high- [...] <http://www.ebi.ac.uk/arrayexpress/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/EBI-ArrayExpress.yml>`_]
         
@@ -302,7 +302,7 @@ ComputerNetworks
         
 * |OK_ICON| `CommonCrawl Web Data over 7 years <http://commoncrawl.org/the-data/get-started/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CommonCrawl-Web-Data-over-7-years.yml>`_]
         
-* |OK_ICON| `Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information <https://github.com/coveooss/shopper-intent-prediction-nature-2020>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Coveo-Shopper-Intent-Prediction.yaml>`_]
+* |FIXME_ICON| `Shopper Intent Prediction from Clickstream E‑Commerce Data with Minimal Browsing Information <https://github.com/coveooss/shopper-intent-prediction-nature-2020>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Coveo-Shopper-Intent-Prediction.yaml>`_]
         
 * |FIXME_ICON| `Criteo click-through data <http://labs.criteo.com/2015/03/criteo-releases-its-new-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Criteo-click-through-data.yml>`_]
         
@@ -337,11 +337,11 @@ ComputerNetworks
 CyberSecurity
 -------------
         
-* |OK_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
+* |FIXME_ICON| `CCCS-CIC-AndMal-2020 - The dataset includes 200K benign and 200K malware samples totalling to [...] <https://www.unb.ca/cic/datasets/andmal2020.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/CCCS-CIC-AndMal-2020.yml>`_]
         
 * |OK_ICON| `GitHub Bounty-Label Prompt-Exfiltration Traps and Merge Reality (563 issues, 5 dated scans, 2026-08-08 to [...] <https://github.com/sujeito-operator/bounty-trap-scan>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/GitHub-Bounty-Label-Prompt-Exfiltration-and-Merge-Reality.yml>`_]
         
-* |OK_ICON| `Open Dependency Risk - Daily-updated dataset of 1,500 widely-used npm and PyPI packages [...] <https://github.com/ConorsCode/open-dependency-risk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Open-Dependency-Risk.yml>`_]
+* |FIXME_ICON| `Open Dependency Risk - Daily-updated dataset of 1,500 widely-used npm and PyPI packages [...] <https://github.com/ConorsCode/open-dependency-risk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Open-Dependency-Risk.yml>`_]
         
 * |OK_ICON| `PDF Tampering & Modification Statistics - Anonymized aggregate statistics from real-world [...] <https://htpbe.tech/statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/PDF-Tampering-and-Modification-Statistics.yml>`_]
         
@@ -354,7 +354,7 @@ DataChallenges
         
 * |OK_ICON| `AIcrowd Competitions <https://www.aicrowd.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/AIcrowd-Competitions.yml>`_]
         
-* |OK_ICON| `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Bruteforce-Database.yml>`_]
+* |FIXME_ICON| `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Bruteforce-Database.yml>`_]
         
 * |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Challenges-in-Machine-Learning.yml>`_]
         
@@ -452,7 +452,7 @@ Economics
         
 * |OK_ICON| `FHA Mortgage Denial Data (US Federal Record) - Institution-level, metro-level, state-level [...] <https://financeratecalc.com/data-catalog.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/FHA-Mortgage-Denial-Data.yml>`_]
         
-* |OK_ICON| `Gumroad Digital Product Demand - 8,311 products, 4,532 sellers, 316 with real unit sales - A [...] <https://github.com/sujeito-operator/gumroad-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Gumroad-Digital-Product-Demand.yml>`_]
+* |FIXME_ICON| `Gumroad Digital Product Demand - 8,311 products, 4,532 sellers, 316 with real unit sales - A [...] <https://github.com/sujeito-operator/gumroad-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Gumroad-Digital-Product-Demand.yml>`_]
         
 * |OK_ICON| `HDD Price Index - An open dataset tracking the cheapest new internal 3.5" SATA hard-drive [...] <https://github.com/AdamDudley/hddhunt-price-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/HDD-Price-Index.yml>`_]
         
@@ -490,7 +490,7 @@ Economics
         
 * |OK_ICON| `National Transfer Accounts - The goal of the National Transfer Accounts (NTA) project is to [...] <https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NTA.yml>`_]
         
-* |OK_ICON| `Open Jobs Data - Open job postings collected daily from the public APIs of nine applicant [...] <https://github.com/ConorsCode/open-jobs-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Open-Jobs-Data.yml>`_]
+* |FIXME_ICON| `Open Jobs Data - Open job postings collected daily from the public APIs of nine applicant [...] <https://github.com/ConorsCode/open-jobs-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Open-Jobs-Data.yml>`_]
         
 * |OK_ICON| `Open Jobs - 3.1 million open job postings from 65,000 company career sites, crawled nightly, [...] <https://backend.dehnbostele.workers.dev/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Open-Jobs.yml>`_]
         
@@ -1190,8 +1190,6 @@ Government
         
 * |OK_ICON| `Warnely Travel Safety Dataset - Composite travel-safety risk score for 180 countries, [...] <https://warnely.com/developers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Warnely-Travel-Safety.yml>`_]
         
-* |OK_ICON| `WhoPaysTheRepair - US City Repair-Responsibility Dataset - Source-verified dataset of who [...] <https://whopaystherepair.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/WhoPaysTheRepair.yml>`_]
-        
 * |OK_ICON| `U.S. Congressional Research Service (CRS) Reports <https://www.everycrsreport.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/everycrsreport.yml>`_]
         
 * |OK_ICON| `Federal Data Terminations Tracker (USA) - The most policy-relevant, verified source of US [...] <https://dataindex.us/terminations-tracker>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/federal-data-terminations-tracker.yml>`_]
@@ -1383,8 +1381,6 @@ MachineLearning
         
 * |OK_ICON| `Free Music Archive <https://github.com/mdeff/fma>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Free-Music-Archive.yml>`_]
         
-* |OK_ICON| `GSPC Board Export (Council of AI) - Signed export of the GSPC board of AI behaviour [...] <https://huggingface.co/datasets/csoai/gspc-board>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/GSPC-Board-Export.yml>`_]
-        
 * |OK_ICON| `IMDb Database <http://www.imdb.com/interfaces>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/IMDb-Database.yml>`_]
         
 * |OK_ICON| `Iranis - A Large-scale Dataset of Farsi/Arabic License Plate Characters <https://alitourani.github.io/Iranis-dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Iranis.yml>`_]
@@ -1491,7 +1487,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction <http://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
-* |FIXME_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
+* |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Multi-Domain-Sentiment-Dataset-version-2.0.yml>`_]
         
@@ -1523,7 +1519,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <http://wordnet.princeton.edu/download/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1703,7 +1699,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1720,7 +1716,7 @@ SearchEngines
 SocialNetworks
 --------------
         
-* |OK_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
+* |FIXME_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
         
@@ -1946,7 +1942,7 @@ Software
         
 * |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
