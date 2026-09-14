@@ -80,7 +80,7 @@ Biology
         
 * |OK_ICON| `BCNB - There are WSIs of 1058 patients, part of tumor regions are annotated in WSIs. Except [...] <https://bupt-ai-cz.github.io/BCNB/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/BCNB.yml>`_]
         
-* |FIXME_ICON| `Broad Bioimage Benchmark Collection (BBBC) - The Broad Bioimage Benchmark Collection (BBBC) [...] <https://www.broadinstitute.org/bbbc>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Broad-Bioimage-Benchmark-Collection-BBBC.yml>`_]
+* |OK_ICON| `Broad Bioimage Benchmark Collection (BBBC) - The Broad Bioimage Benchmark Collection (BBBC) [...] <https://bbbc.broadinstitute.org/image_sets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Broad-Bioimage-Benchmark-Collection-BBBC.yml>`_]
         
 * |OK_ICON| `Broad Cancer Cell Line Encyclopedia (CCLE) <https://sites.broadinstitute.org/ccle>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Broad-Cancer-Cell-Line-Encyclopedia-CCLE.yml>`_]
         
@@ -162,7 +162,7 @@ Biology
         
 * |OK_ICON| `The Personal Genome Project - The Personal Genome Project, initiated in 2005, is a vision and [...] <http://www.personalgenomes.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/The-Personal-Genome-Project.yml>`_]
         
-* |FIXME_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UCSC-Public-Data.yml>`_]
+* |OK_ICON| `UCSC Public Data <http://hgdownload.soe.ucsc.edu/downloads.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UCSC-Public-Data.yml>`_]
         
 * |OK_ICON| `UniGene <https://ftp.ncbi.nlm.nih.gov/repository/UniGene/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/UniGene.yml>`_]
         
@@ -236,7 +236,7 @@ Climate+Weather
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
         
-* |OK_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
+* |FIXME_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
     
 ComplexNetworks
 ---------------
@@ -277,7 +277,7 @@ ComplexNetworks
         
 * |OK_ICON| `UFL sparse matrix collection <http://www.cise.ufl.edu/research/sparse/matrices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/UFL-sparse-matrix-collection.yml>`_]
         
-* |OK_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
+* |FIXME_ICON| `Community Resource for Archiving Wireless Data At Dartmouth - Contains datasets of pcap files [...] <https://www.crawdad.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/crawdad.yml>`_]
         
 * |OK_ICON| `Steam Co-Review Network - 82,000-game Steam catalog with a 48,000-node co-review network [...] <https://github.com/lukeslp/steam-network-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/steam-network-data.yaml>`_]
     
@@ -294,7 +294,7 @@ ComputerNetworks
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CAIDA-Internet-Datasets.yml>`_]
         
-* |OK_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
+* |FIXME_ICON| `CRAWDAD Wireless datasets from Dartmouth Univ. <https://crawdad.cs.dartmouth.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/CRAWDAD-Wireless-datasets-from-Dartmouth-Univ..yml>`_]
         
 * |OK_ICON| `ClueWeb09 - 1B web pages <http://lemurproject.org/clueweb09/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/ClueWeb09.yml>`_]
         
@@ -460,7 +460,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |FIXME_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -1108,7 +1108,7 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
-* |FIXME_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
+* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
         
@@ -1583,7 +1583,7 @@ Physics
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <https://icecube.wisc.edu/science/data-releases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
-* |FIXME_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
+* |OK_ICON| `Ligo Open Science Center (LOSC) - Gravitational wave data from the LIGO Hanford and [...] <https://losc.ligo.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/LIGO-Open-Science-Center.yml>`_]
         
 * |OK_ICON| `NASA Exoplanet Archive <http://exoplanetarchive.ipac.caltech.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NASA-Exoplanet-Archive.yml>`_]
         
@@ -1612,7 +1612,7 @@ ProstateCancer
         
 * |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
         
-* |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
+* |FIXME_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
 * |OK_ICON| `Surveillance, Epidemiology, and End Results (SEER) Cancer Statistics - Database from CDC's [...] <https://seer.cancer.gov/statistics/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Seer_cancer.yml>`_]
         
@@ -1654,7 +1654,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |FIXME_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1701,7 +1701,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1871,7 +1871,7 @@ SocialSciences
         
 * |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |FIXME_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Political-Polarity-Data.yml>`_]
         
@@ -1942,9 +1942,9 @@ Software
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
-* |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
