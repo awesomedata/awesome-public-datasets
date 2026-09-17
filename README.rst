@@ -434,7 +434,7 @@ Economics
         
 * |OK_ICON| `Beauty Brand Returns and Shipping Policies - A dated CSV and JSON comparison of return [...] <https://github.com/hoannguyen10101981-spec/beautypolicies>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Beauty-Brand-Purchase-Policies.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |FIXME_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -1048,7 +1048,7 @@ Government
         
 * |OK_ICON| `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ottawa-ON-Canada.yml>`_]
         
-* |OK_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
+* |FIXME_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
         
 * |OK_ICON| `Passport & Visa Photo Specifications (21 documents, 15+ countries) - Machine-readable photo [...] <https://compliantpassportphoto.com/specs.json>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Passport-Visa-Photo-Specifications.yml>`_]
         
@@ -1080,7 +1080,7 @@ Government
         
 * |OK_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`_]
         
-* |FIXME_ICON| `Romania <https://data.gov.ro/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
+* |OK_ICON| `Romania <https://data.gov.ro/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
         
 * |OK_ICON| `Russia Business Inspections (ERKNM) - Aggregated statistics of state control and supervision [...] <https://kontragentpro.ru/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia-Business-Inspections-ERKNM.yml>`_]
         
@@ -1497,7 +1497,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1656,7 +1656,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1763,8 +1763,6 @@ SocialNetworks
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
 * |OK_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Social-Twitter-Data.yml>`_]
-        
-* |FIXME_ICON| `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/SourceForge.net-Research-Data.yml>`_]
         
 * |FIXME_ICON| `The Reddit COVID dataset - This dataset attempts to capture the full extent of COVID-19 [...] <https://socialgrep.com/datasets/the-reddit-covid-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/The-Reddit-COVID-Dataset.yml>`_]
         
@@ -1965,7 +1963,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
