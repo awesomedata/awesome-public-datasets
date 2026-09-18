@@ -150,7 +150,7 @@ Biology
         
 * |OK_ICON| `Serratus - Analysis of 7.1 million RNA/DNA sequencing datasets to discover the total [...] <https://github.com/ababaian/serratus/wiki/Access-Data-Release>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Serratus-Open-Virome.yml>`_]
         
-* |FIXME_ICON| `Stanford Microarray Data (Retired NOW) <http://smd.princeton.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
+* |OK_ICON| `Stanford Microarray Data (Retired NOW) <http://smd.princeton.edu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stanford-Microarray-Data.yml>`_]
         
 * |FIXME_ICON| `Stowers Institute Original Data Repository <https://www.stowers.org/stowers-odr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Stowers-Institute-Original-Data-Repository.yml>`_]
         
@@ -418,7 +418,7 @@ Economics
         
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
-* |FIXME_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
+* |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
@@ -434,7 +434,7 @@ Economics
         
 * |OK_ICON| `Beauty Brand Returns and Shipping Policies - A dated CSV and JSON comparison of return [...] <https://github.com/hoannguyen10101981-spec/beautypolicies>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Beauty-Brand-Purchase-Policies.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <http://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |FIXME_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -489,6 +489,8 @@ Economics
 * |OK_ICON| `NAS Drive Data - An open dataset of 140+ NAS and enterprise hard drives covering full [...] <https://www.nasdisks.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NAS-Drive-Data.yml>`_]
         
 * |OK_ICON| `National Transfer Accounts - The goal of the National Transfer Accounts (NTA) project is to [...] <https://ntaccounts.org/web/nta/show/Browse%20database#H-zfl0oo>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NTA.yml>`_]
+        
+* |OK_ICON| `Official Offers Dataset - Offers that consumer brands publish on their own websites, one row [...] <https://github.com/promo2you-lab/official-offers-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Official-Offers-Dataset.yml>`_]
         
 * |OK_ICON| `Open Jobs Data - Open job postings collected daily from the public APIs of nine applicant [...] <https://github.com/ConorsCode/open-jobs-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Open-Jobs-Data.yml>`_]
         
@@ -708,7 +710,7 @@ Finance
         
 * |OK_ICON| `Dealaka US Sign-Up Bonuses - Every US bank, credit card, brokerage, app, travel-loyalty and [...] <https://dealaka.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dealaka-Sign-Up-Bonuses.yml>`_]
         
-* |FIXME_ICON| `Dividend Data Toolkit - SCHD Payments and Holdings - Dated SCHD payment and holdings [...] <https://github.com/holaclea/dividend-data-toolkit>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dividend-Data-Toolkit.yml>`_]
+* |OK_ICON| `Dividend Data Toolkit - SCHD Payments and Holdings - Dated SCHD payment and holdings [...] <https://github.com/holaclea/dividend-data-toolkit>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dividend-Data-Toolkit.yml>`_]
         
 * |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
         
@@ -821,7 +823,7 @@ GIS
         
 * |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Reverse-Geocoder-using-OSM-data.yml>`_]
         
-* |FIXME_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Robin-Wilson-Free-GIS-Datasets.yml>`_]
+* |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Robin-Wilson-Free-GIS-Datasets.yml>`_]
         
 * |OK_ICON| `Shadow Accrual Maps - The repository contains the accumulated shadow information for New York [...] <https://github.com/VIDA-NYU/shadow-accrual-maps/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Shadow-Accrual-Maps.yml>`_]
         
@@ -866,7 +868,7 @@ Government
         
 * |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Baton-Rouge-LA-US.yml>`_]
         
-* |FIXME_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
+* |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
 * |OK_ICON| `City of Berkeley Open Data <https://data.cityofberkeley.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Berkeley-CA-Open-Data.yml>`_]
         
@@ -888,7 +890,7 @@ Government
         
 * |OK_ICON| `Canada <http://open.canada.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Canada.yml>`_]
         
-* |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
+* |FIXME_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
         
 * |FIXME_ICON| `Chile <https://datos.gob.cl/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
         
@@ -1018,7 +1020,7 @@ Government
         
 * |OK_ICON| `NYC betanyc <http://betanyc.us/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-betanyc.yml>`_]
         
-* |OK_ICON| `US State Name-Change (DMV) Requirements - State-by-state requirements for updating a driver's [...] <https://namechangepacket.com/name-change-requirements-by-state>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NameChangePacket-US-State-Requirements.yml>`_]
+* |FIXME_ICON| `US State Name-Change (DMV) Requirements - State-by-state requirements for updating a driver's [...] <https://namechangepacket.com/name-change-requirements-by-state>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/NameChangePacket-US-State-Requirements.yml>`_]
         
 * |OK_ICON| `Netherlands <https://data.overheid.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Netherlands.yml>`_]
         
@@ -1192,7 +1194,7 @@ Government
         
 * |OK_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Victoria-BC-Canada.yml>`_]
         
-* |FIXME_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`_]
+* |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`_]
         
 * |FIXME_ICON| `Statistics from the General Statistics Office of Vietnam - Data in different categories are [...] <https://www.gso.gov.vn/Default_en.aspx?tabid=491>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vietnam.yml>`_]
         
@@ -1296,7 +1298,7 @@ ImageProcessing
         
 * |OK_ICON| `Audience Unfiltered faces for gender and age classification <https://talhassner.github.io/home/projects/Adience/Adience-data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Adience-Unfiltered-faces-for-gender-and-age-classification.yml>`_]
         
-* |FIXME_ICON| `Affective Image Classification <http://www.imageemotion.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Affective-Image-Classification.yml>`_]
+* |OK_ICON| `Affective Image Classification <http://www.imageemotion.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Affective-Image-Classification.yml>`_]
         
 * |OK_ICON| `Airborne Object Detection and Tracking - The Airborne Object Tracking (AOT) dataset is a [...] <https://www.aicrowd.com/challenges/airborne-object-tracking-challenge>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Airborne-Object-Detection-and-Tracking.yml>`_]
         
@@ -1523,7 +1525,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <https://wordnet.princeton.edu/download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1656,7 +1658,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1701,7 +1703,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1797,7 +1799,7 @@ SocialSciences
         
 * |FIXME_ICON| `Banned Books — Open Censorship Core - Open dataset documenting book bans and challenges [...] <https://www.banned-books.org/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Banned-Books-Open-Censorship-Core.yml>`_]
         
-* |FIXME_ICON| `Brightcast Global Hope Index - Daily 0-100 index measuring the volume and quality of verified [...] <https://www.brightcast.news/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Brightcast-Global-Hope-Index.yml>`_]
+* |OK_ICON| `Brightcast Global Hope Index - Daily 0-100 index measuring the volume and quality of verified [...] <https://www.brightcast.news/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Brightcast-Global-Hope-Index.yml>`_]
         
 * |FIXME_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Canadian-Legal-Information-Institute.yml>`_]
         
@@ -1865,7 +1867,7 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
@@ -1940,7 +1942,7 @@ Software
         
 * |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
