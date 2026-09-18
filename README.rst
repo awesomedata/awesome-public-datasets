@@ -202,7 +202,7 @@ Climate+Weather
         
 * |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
-* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
+* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -214,7 +214,7 @@ Climate+Weather
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
-* |FIXME_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
+* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NASA-Global-Imagery-Browse-Services.yml>`_]
         
 * |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Bering-Sea-Climate.yml>`_]
         
@@ -222,7 +222,7 @@ Climate+Weather
         
 * |OK_ICON| `NOAA Realtime Weather Models <https://www.ncei.noaa.gov/products/weather-climate-models/numerical-weather-prediction>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-Realtime-Weather-Models.yml>`_]
         
-* |OK_ICON| `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-SURFRAD-Meteorology-and-Radiation-Datasets.yml>`_]
+* |FIXME_ICON| `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/NOAA-SURFRAD-Meteorology-and-Radiation-Datasets.yml>`_]
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
@@ -236,12 +236,12 @@ Climate+Weather
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
         
-* |FIXME_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
+* |OK_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
     
 ComplexNetworks
 ---------------
         
-* |FIXME_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
+* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/AMiner-Citation-Network-Dataset.yml>`_]
         
 * |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/CrossRef-DOI-URLs.yml>`_]
         
@@ -640,7 +640,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |FIXME_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |OK_ICON| `EIA <http://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -868,7 +868,7 @@ Government
         
 * |OK_ICON| `BailleurVerif - French Non-Compliant Rental Listings Observatory - Time-stamped longitudinal [...] <https://www.data.gouv.fr/fr/datasets/annonces-de-location-francaises-non-conformes-observatoire-bailleurverif/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/BailleurVerif.yml>`_]
         
-* |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Baton-Rouge-LA-US.yml>`_]
+* |FIXME_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Baton-Rouge-LA-US.yml>`_]
         
 * |OK_ICON| `Belgium <http://data.gov.be/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Belgium.yml>`_]
         
@@ -1705,7 +1705,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1869,15 +1869,13 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |OK_ICON| `Russian and Belarusian Women in International Matchmaking (2026) - Aggregated, anonymised [...] <https://github.com/lovevalentin-droid/russian-women-matchmaking-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Russian-Belarusian-Matchmaking.yml>`_]
         
 * |FIXME_ICON| `StackExchange Data Explorer <https://data.stackexchange.com/help>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/StackExchange-Data-Explorer.yml>`_]
-        
-* |FIXME_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Terrorism-Research-and-Analysis-Consortium.yml>`_]
         
 * |FIXME_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
         
