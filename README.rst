@@ -742,6 +742,8 @@ Finance
         
 * |FIXME_ICON| `PairBook US Stock & ETF Correlation Data - Correlation, covariance, beta, volatility and ETF [...] <https://www.pairbook.io/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PairBook.yml>`_]
         
+* |OK_ICON| `Position Sizing Reference Data - Contract size, pip size and unit step for 131 instruments, plus pip value by lot size, equity left after losing streaks and the gain needed to recover from a drawdown. Formulas included. CSV, CC0. <https://positionsizetool.com/reference-data.html>`_ 
+        
 * |OK_ICON| `PredScope Prediction Markets API - Free public API providing 600+ live prediction market [...] <https://predscope.com/api/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PredScope-Prediction-Markets.yml>`_]
         
 * |OK_ICON| `Prop-Firm Rules Census - Sourced, dated registry of published prop-trading-firm evaluation- [...] <https://propsurvival.com/research/prop-firm-rules-census-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PropSurvival-Prop-Firm-Rules-Census.yml>`_]
