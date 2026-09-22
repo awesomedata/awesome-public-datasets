@@ -202,7 +202,7 @@ Climate+Weather
         
 * |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
-* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
+* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -372,7 +372,7 @@ DataChallenges
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Space-Apps-Challenge.yml>`_]
         
-* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
+* |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
         
 * |OK_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
     
@@ -1068,7 +1068,7 @@ Government
         
 * |OK_ICON| `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ottawa-ON-Canada.yml>`_]
         
-* |OK_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
+* |FIXME_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
         
 * |OK_ICON| `Passport & Visa Photo Specifications (21 documents, 15+ countries) - Machine-readable photo [...] <https://compliantpassportphoto.com/specs.json>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Passport-Visa-Photo-Specifications.yml>`_]
         
@@ -1110,7 +1110,7 @@ Government
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San Diego, CA.yml>`_]
         
-* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <http://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
+* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <https://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Francisco-Data-sets.yml>`_]
         
@@ -1525,7 +1525,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1901,7 +1901,7 @@ SocialSciences
         
 * |FIXME_ICON| `StackExchange Data Explorer <https://data.stackexchange.com/help>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/StackExchange-Data-Explorer.yml>`_]
         
-* |OK_ICON| `Texas Inmates Executed Since 1984 <https://www.tdcj.texas.gov/death_row/executed_inmates.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
+* |FIXME_ICON| `Texas Inmates Executed Since 1984 <https://www.tdcj.texas.gov/death_row/executed_inmates.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Texas-Inmates-Executed-Since-1984.yml>`_]
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Titanic-Survival-Data-Set.yml>`_]
         
