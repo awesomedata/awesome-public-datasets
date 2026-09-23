@@ -374,7 +374,7 @@ DataChallenges
         
 * |OK_ICON| `Space Apps Challenge <https://2015.spaceappschallenge.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Space-Apps-Challenge.yml>`_]
         
-* |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
+* |FIXME_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
         
 * |OK_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
     
@@ -766,7 +766,7 @@ Finance
         
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
-* |FIXME_ICON| `St Louis Federal <https://research.stlouisfed.org/fred2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
+* |FIXME_ICON| `St Louis Federal <https://fred.stlouisfed.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
         
 * |OK_ICON| `StateCalc Rent-to-Price Ratio by US State (2026) - A 50-state open dataset computing the [...] <https://statecalc.com/data/rent-to-price-ratio-by-state/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/StateCalc-Rent-to-Price-Ratio-by-State-2026.yml>`_]
         
@@ -1255,7 +1255,7 @@ Healthcare
         
 * |OK_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/GDC.yml>`_]
         
@@ -1382,7 +1382,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1515,7 +1515,7 @@ NaturalLanguage
         
 * |OK_ICON| `Machine Translation of European languages <http://statmt.org/wmt11/translation-task.html#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Machine-Translation-of-European-languages.yml>`_]
         
-* |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction (from Archive.org) <https://web.archive.org/web/20170325004450/https://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
+* |OK_ICON| `Making Sense of Microposts 2013 - Concept Extraction (from Archive.org) <https://web.archive.org/web/20170325004450/https://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
 * |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
         
@@ -1533,7 +1533,7 @@ NaturalLanguage
         
 * |OK_ICON| `Russian Given Names — 1,551 names with meanings and ZAGS popularity - 1,551 Russian given [...] <https://github.com/mdanina/nen-imena-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Russian-Given-Names-NEN.yml>`_]
         
-* |FIXME_ICON| `SMS Spam Collection in English - The SMS Spam Collection is a public set of SMS labeled [...] <https://archive.ics.uci.edu/dataset/228/sms+spam+collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SMS-Spam-Collection-in-English.yml>`_]
+* |OK_ICON| `SMS Spam Collection in English - The SMS Spam Collection is a public set of SMS labeled [...] <https://archive.ics.uci.edu/dataset/228/sms+spam+collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SMS-Spam-Collection-in-English.yml>`_]
         
 * |OK_ICON| `SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles) <https://github.com/ParallelMazen/SaudiNewsNet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/SaudiNewsNet-Collection-of-Saudi-Newspaper-Articles-Arabic-30K-articles.yml>`_]
         
@@ -1680,7 +1680,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1698,9 +1698,9 @@ PublicDomains
         
 * |OK_ICON| `Stack Overflow Annual Developer Survey - Annual developer surverys full data sets from 2011 [...] <https://insights.stackoverflow.com/survey>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stack-Overflow-Annual-Developer-Survey.yml>`_]
         
-* |FIXME_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
+* |OK_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `UFO Reports <https://nuforc.org/databank/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UFO-Reports.yml>`_]
         
@@ -1770,7 +1770,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1780,7 +1780,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
-* |FIXME_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
@@ -1796,7 +1796,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`_]
         
-* |FIXME_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |OK_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`_]
         
@@ -1885,11 +1885,11 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
+* |FIXME_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |OK_ICON| `Russian and Belarusian Women in International Matchmaking (2026) - Aggregated, anonymised [...] <https://github.com/lovevalentin-droid/russian-women-matchmaking-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Russian-Belarusian-Matchmaking.yml>`_]
         
@@ -1958,7 +1958,7 @@ Software
         
 * |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments since January 2015 till [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
