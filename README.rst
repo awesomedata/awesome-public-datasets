@@ -345,7 +345,7 @@ CyberSecurity
         
 * |OK_ICON| `Open Dependency Risk - Daily-updated dataset of 1,500 widely-used npm and PyPI packages [...] <https://github.com/ConorsCode/open-dependency-risk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Open-Dependency-Risk.yml>`_]
         
-* |OK_ICON| `PDF Tampering & Modification Statistics - Anonymized aggregate statistics from real-world [...] <https://htpbe.tech/statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/PDF-Tampering-and-Modification-Statistics.yml>`_]
+* |FIXME_ICON| `PDF Tampering & Modification Statistics - Anonymized aggregate statistics from real-world [...] <https://htpbe.tech/statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/PDF-Tampering-and-Modification-Statistics.yml>`_]
         
 * |OK_ICON| `Romance Scam Statistics (2024-2026) - Verified, source-attributed statistics on romance scams [...] <https://github.com/lovevalentin-droid/romance-scam-statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Romance-Scam-Statistics.yml>`_]
         
@@ -420,7 +420,7 @@ Economics
         
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
-* |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
+* |FIXME_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
@@ -468,7 +468,7 @@ Economics
         
 * |OK_ICON| `Historical National Accounts - The datahub on Comparative Historical National Accounts [...] <https://www.rug.nl/ggdc/historicaldevelopment/na/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical National Accounts.yml>`_]
         
-* |FIXME_ICON| `Historical MacroEconomic Statistics <https://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
+* |OK_ICON| `Historical MacroEconomic Statistics <https://www.historicalstatistics.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Historical-MacroEconomic-Statistics.yml>`_]
         
 * |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <https://inforumecon.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/INFORUM.yml>`_]
         
@@ -594,7 +594,7 @@ Economics
         
 * |OK_ICON| `World Company Database - 250M+ company records from 50+ countries with revenue, employees, [...] <https://github.com/Alessandro114/world-company-database>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/World-Company-Database.yml>`_]
         
-* |FIXME_ICON| `ZnajdzNajem Polish Rental Price Index - Open dataset of long-term residential rental market [...] <https://znajdznajem.pl/raporty>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ZnajdzNajem-Polish-Rental-Index.yml>`_]
+* |OK_ICON| `ZnajdzNajem Polish Rental Price Index - Open dataset of long-term residential rental market [...] <https://znajdznajem.pl/raporty>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ZnajdzNajem-Polish-Rental-Index.yml>`_]
         
 * |OK_ICON| `BestEOR Global Employment and EOR Provider Dataset - Two CSV and JSON datasets for cross- [...] <https://besteor.co/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/besteor-global-employment-dataset.yml>`_]
         
@@ -986,7 +986,7 @@ Government
         
 * |OK_ICON| `Israel's Open Data Portal <https://data.gov.il>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Israel.yml>`_]
         
-* |OK_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
+* |FIXME_ICON| `Istanbul Municipality Open Data Portal <https://data.ibb.gov.tr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Istanbul-Municipality-Open-Data.yml>`_]
         
 * |OK_ICON| `Italian Workplace Safety Open Data (123Formazione) - Open dataset covering Italian workplace- [...] <https://123formazione.com/api/public/docs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Italian-Workplace-Safety-123Formazione.yml>`_]
         
@@ -1255,7 +1255,7 @@ Healthcare
         
 * |OK_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/GDC.yml>`_]
         
@@ -1517,7 +1517,7 @@ NaturalLanguage
         
 * |OK_ICON| `Making Sense of Microposts 2013 - Concept Extraction (from Archive.org) <https://web.archive.org/web/20170325004450/https://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
-* |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
+* |FIXME_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Multi-Domain-Sentiment-Dataset-version-2.0.yml>`_]
         
@@ -1549,7 +1549,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <https://wordnet.princeton.edu/download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1590,7 +1590,7 @@ Neuroscience
         
 * |OK_ICON| `Neuroelectro <http://neuroelectro.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/Neuroelectro.yml>`_]
         
-* |OK_ICON| `OASIS <http://www.oasis-brains.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OASIS.yml>`_]
+* |FIXME_ICON| `OASIS <http://www.oasis-brains.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OASIS.yml>`_]
         
 * |OK_ICON| `OpenNEURO <https://openneuro.org/public/datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Neuroscience/OpenNEURO>`_]
         
@@ -1678,7 +1678,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -2079,7 +2079,7 @@ Transportation
         
 * |OK_ICON| `Renfe (Spanish National Railway Network) dataset <https://data.renfe.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Spanish-train-system-by-Renfe.yml>`_]
         
-* |FIXME_ICON| `StateCalc US Vehicle Registration Costs 2026 - Versioned source-backed first-year vehicle [...] <https://github.com/Pixels512/statecalc-open-data/tree/main/data/vehicle-registration-costs/2026-08-16.1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/StateCalc-US-Vehicle-Registration-Costs-2026.yml>`_]
+* |OK_ICON| `StateCalc US Vehicle Registration Costs 2026 - Versioned source-backed first-year vehicle [...] <https://statecalc.com/data/vehicle-registration-costs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/StateCalc-US-Vehicle-Registration-Costs-2026.yml>`_]
         
 * |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Toronto-Bike-Share-Stations-XML-file.yml>`_]
         
