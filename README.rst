@@ -128,8 +128,6 @@ Biology
         
 * |OK_ICON| `NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/NIH-Microarray-data.yml>`_]
         
-* |FIXME_ICON| `OpenSNP genotypes data - openSNP allows customers of direct-to-customer genetic tests to [...] <https://opensnp.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/OpenSNP-genotypes-data.yml>`_]
-        
 * |OK_ICON| `Palmer Penguins - The goal of palmerpenguins is to provide a great dataset for data [...] <https://allisonhorst.github.io/palmerpenguins/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Palmer-Penguins.yml>`_]
         
 * |OK_ICON| `Pathguide - Protein-Protein Interactions Catalog <https://pathguide.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Pathguid.yml>`_]
@@ -202,7 +200,7 @@ Climate+Weather
         
 * |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
-* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
+* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -436,7 +434,7 @@ Economics
         
 * |OK_ICON| `Beauty Brand Returns and Shipping Policies - A dated CSV and JSON comparison of return [...] <https://github.com/hoannguyen10101981-spec/beautypolicies>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Beauty-Brand-Purchase-Policies.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |FIXME_ICON| `China Aluminum Daily Prices - Daily CSV snapshots of China-focused aluminum reference prices [...] <https://github.com/Fisher521/china-aluminum-daily-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/China-Aluminum-Daily-Prices.yml>`_]
         
@@ -1082,7 +1080,7 @@ Government
         
 * |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portland-Oregon.yml>`_]
         
-* |FIXME_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
+* |OK_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Portugal.yml>`_]
         
 * |FIXME_ICON| `PottyDirectory — US Portable Restroom & Public Restroom Open Data - Open dataset of 3,649 US [...] <https://pottydirectory.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PottyDirectory-USA.yml>`_]
         
@@ -1110,7 +1108,7 @@ Government
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San Diego, CA.yml>`_]
         
-* |FIXME_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <https://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
+* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <https://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Francisco-Data-sets.yml>`_]
         
@@ -1152,7 +1150,7 @@ Government
         
 * |OK_ICON| `U.K. Government Data <https://data.gov.uk>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
         
-* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* |OK_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
         
 * |FIXME_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-CDC-Public-Health-datasets.yml>`_]
         
@@ -1255,7 +1253,7 @@ Healthcare
         
 * |OK_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/GDC.yml>`_]
         
@@ -1382,7 +1380,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1549,7 +1547,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <https://wordnet.princeton.edu/download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1768,7 +1766,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1778,7 +1776,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
-* |FIXME_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
@@ -1977,7 +1975,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `Tennis Match Outcome Studies - Aggregate outcome statistics counted from 116,382 completed [...] <https://livetennisapi.com/open-tennis-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Live-Tennis-API-Match-Outcome-Studies.yml>`_]
         
