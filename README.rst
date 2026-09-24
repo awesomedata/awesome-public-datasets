@@ -758,6 +758,8 @@ Finance
         
 * |OK_ICON| `Prop-Firm Rules Census - Sourced, dated registry of published prop-trading-firm evaluation- [...] <https://propsurvival.com/research/prop-firm-rules-census-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/PropSurvival-Prop-Firm-Rules-Census.yml>`_]
         
+* |OK_ICON| `ProofBets API - Free API for crypto casino data: 50+ casinos, verified bonus codes, withdrawal speeds, prediction market fees, World Cup odds. OpenAPI 3.1. <https://proofbets.com/developers/>`_
+        
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
 * |OK_ICON| `SBA 7(a) Loan Charge-Off Rates 1992-2026 - Charge-off rates computed from the complete public [...] <https://github.com/Chadhauser/sba-7a-chargeoff-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SBA-7a-Charge-Off-Rates.yml>`_]
