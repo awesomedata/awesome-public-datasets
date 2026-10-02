@@ -674,7 +674,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |FIXME_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |OK_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -1136,7 +1136,7 @@ Government
         
 * |OK_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Rio-de-Janeiro-Brazil.yml>`_]
         
-* |OK_ICON| `Romania <https://data.gov.ro/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
+* |FIXME_ICON| `Romania <https://data.gov.ro/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Romania.yml>`_]
         
 * |OK_ICON| `Russia Business Inspections (ERKNM) - Aggregated statistics of state control and supervision [...] <https://kontragentpro.ru/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Russia-Business-Inspections-ERKNM.yml>`_]
         
@@ -1167,6 +1167,8 @@ Government
 * |OK_ICON| `South Africa <http://www.statssa.gov.za/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/South-Africa.yml>`_]
         
 * |OK_ICON| `Utah, US State <https://www.utah.gov/government/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/State-of-Utah-US.yml>`_]
+        
+* |OK_ICON| `Swiss Household Employment Official Figures and Canton Rules 2026 - CC BY 4.0 CSV and JSON of [...] <https://clino.ch/en/sources>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland-Household-Employment-2026.yml>`_]
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland.yml>`_]
         
@@ -1246,7 +1248,7 @@ Government
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
         
-* |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
+* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
         
 * |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml>`_]
         
@@ -1412,7 +1414,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1428,7 +1430,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1476,7 +1478,7 @@ MachineLearning
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
-* |OK_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
+* |FIXME_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
@@ -1572,7 +1574,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1741,9 +1743,9 @@ PublicDomains
         
 * |OK_ICON| `Stack Overflow Annual Developer Survey - Annual developer surverys full data sets from 2011 [...] <https://insights.stackoverflow.com/survey>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stack-Overflow-Annual-Developer-Survey.yml>`_]
         
-* |FIXME_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
+* |OK_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `UFO Reports <https://nuforc.org/databank/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UFO-Reports.yml>`_]
         
@@ -1849,7 +1851,7 @@ SocialNetworks
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
         
-* |OK_ICON| `US Attention Data - Weekly cross-platform attention tracking for 2025 combining Wikipedia [...] <https://github.com/lukeslp/us-attention-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/us-attention-data.yaml>`_]
+* |FIXME_ICON| `US Attention Data - Weekly cross-platform attention tracking for 2025 combining Wikipedia [...] <https://github.com/lukeslp/us-attention-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/us-attention-data.yaml>`_]
     
 SocialSciences
 --------------
@@ -1930,9 +1932,9 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |OK_ICON| `Russian and Belarusian Women in International Matchmaking (2026) - Aggregated, anonymised [...] <https://github.com/lovevalentin-droid/russian-women-matchmaking-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Russian-Belarusian-Matchmaking.yml>`_]
         
@@ -1950,7 +1952,7 @@ SocialSciences
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UPJOHN-for-Labor-Employment-Research.yml>`_]
         
-* |OK_ICON| `US Fragrance Trends 2026 — Most-Searched Fragrance by US State - A 12-month Google Trends [...] <https://github.com/ahmad-khan-97/us-fragrance-trends-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Fragrance-Trends-2026.yml>`_]
+* |FIXME_ICON| `US Fragrance Trends 2026 — Most-Searched Fragrance by US State - A 12-month Google Trends [...] <https://github.com/ahmad-khan-97/us-fragrance-trends-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Fragrance-Trends-2026.yml>`_]
         
 * |OK_ICON| `US Sex Offender Registry Statistics - Aggregate statistics on registered sex offenders in the [...] <https://offendersearch.app/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Sex-Offender-Registry-Statistics.yml>`_]
         
@@ -1966,11 +1968,11 @@ SocialSciences
         
 * |OK_ICON| `Wounded Warriors Veteran Resources Directory - Open dataset of 100,437 verified U.S. veteran- [...] <https://warriorsfund.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Wounded-Warriors-Veteran-Resources.yml>`_]
         
-* |OK_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
+* |FIXME_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
         
 * |OK_ICON| `humans.top — Influential People Ranking - A live, daily-refreshed public-domain ranking of [...] <https://huggingface.co/datasets/dsfox/humans-top>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/humans-top.yml>`_]
         
-* |OK_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
+* |FIXME_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
         
 * |OK_ICON| `Meteorites vs UFOs Detection Bias - 1,279 records comparing meteorite fall/find reports with [...] <https://github.com/lukeslp/meteorites-ufos-detection-bias>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/meteorites-ufos-detection-bias.yaml>`_]
         
@@ -1997,15 +1999,15 @@ Software
         
 * |OK_ICON| `Software & AI-tool pricing comparison dataset - An open, dated index of software and AI-tool [...] <https://github.com/UNAUTH-ACCESS/software-pricing-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/software-pricing-dataset.yml>`_]
         
-* |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-bookmarked Git [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-Public-Git-Archive.yml>`_]
+* |FIXME_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-bookmarked Git [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-Public-Git-Archive.yml>`_]
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
 * |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
-* |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
+* |FIXME_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
 Sports
 ------
@@ -2084,7 +2086,7 @@ Transportation
         
 * |OK_ICON| `FAA Wildlife Strikes on Civil Aircraft 1990-2026 (aggregated) - Versioned CC BY 4.0 [...] <https://doi.org/10.5281/zenodo.21347859>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FAA-Wildlife-Strikes-Aggregated-1990-2026.yml>`_]
         
-* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
+* |FIXME_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
 * |OK_ICON| `German Car Roof Load Ratings (Dachlast) - 1,872 documented roof load (Dachlast) ratings for [...] <https://dachlast.de/daten/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/German-Car-Roof-Load-Ratings-Dachlast.yml>`_]
         
