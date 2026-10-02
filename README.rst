@@ -208,7 +208,7 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |OK_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |FIXME_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
@@ -234,7 +234,7 @@ Climate+Weather
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
         
-* |OK_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
+* |FIXME_ICON| `kanari - worldwide wildfire ignitions archive (satellite + verified witness reports) - [...] <https://kanari.io/opendata/feux.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/kanari-wildfire-ignitions.yml>`_]
     
 ComplexNetworks
 ---------------
@@ -666,7 +666,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |OK_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |FIXME_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -781,6 +781,8 @@ Finance
 * |OK_ICON| `UK Payment Practices 2017-2026 - Aggregate figures from 114,758 statutory payment practices [...] <https://github.com/Chadhauser/uk-payment-practices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/UK-Payment-Practices.yml>`_]
         
 * |OK_ICON| `US Executive-Branch Stock Trade Disclosures (OGE Form 278) - Stock and asset transactions [...] <https://github.com/disclosedcapitol/executive-branch-trades>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Executive-Branch-Stock-Trade-Disclosures.yml>`_]
+        
+* |OK_ICON| `US Options Market Structure Daily - Max Pain, Gamma Exposure, Call Wall and Put Floor for 12 US Stocks [...] <https://github.com/myjr0629-hue/options-market-structure-daily>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Options-Market-Structure-Daily.yml>`_]
         
 * |OK_ICON| `US State Income Tax 2026 (all 51 jurisdictions) - State individual income tax rules for tax [...] <https://github.com/mixseomin/us-state-income-tax>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Income-Tax-2026.yml>`_]
         
@@ -1269,7 +1271,7 @@ Healthcare
         
 * |FIXME_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/GDC.yml>`_]
         
@@ -1446,7 +1448,7 @@ MachineLearning
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
-* |OK_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
+* |FIXME_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
@@ -1536,13 +1538,13 @@ NaturalLanguage
         
 * |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction (from Archive.org) <https://web.archive.org/web/20170325004450/https://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
-* |FIXME_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
+* |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Multi-Domain-Sentiment-Dataset-version-2.0.yml>`_]
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1809,7 +1811,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`_]
         
-* |OK_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |FIXME_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`_]
         
@@ -1902,7 +1904,7 @@ SocialSciences
         
 * |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |OK_ICON| `Russian and Belarusian Women in International Matchmaking (2026) - Aggregated, anonymised [...] <https://github.com/lovevalentin-droid/russian-women-matchmaking-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Russian-Belarusian-Matchmaking.yml>`_]
         
@@ -1969,7 +1971,7 @@ Software
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
-* |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
 * |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
