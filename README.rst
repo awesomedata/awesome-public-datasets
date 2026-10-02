@@ -136,7 +136,7 @@ Biology
         
 * |OK_ICON| `Psychiatric Genomics Consortium - The purpose of the Psychiatric Genomics Consortium (PGC) is [...] <https://www.med.unc.edu/pgc/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Psychiatric-Genomics-Consortium.yml>`_]
         
-* |FIXME_ICON| `PubChem Project - PubChem is the world's largest collection of freely accessible chemical [...] <https://pubchem.ncbi.nlm.nih.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubChem-Project.yml>`_]
+* |OK_ICON| `PubChem Project - PubChem is the world's largest collection of freely accessible chemical [...] <https://pubchem.ncbi.nlm.nih.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubChem-Project.yml>`_]
         
 * |OK_ICON| `PubGene (now Coremine Medical) - COREMINE™ is a family of tools developed by the Norwegian [...] <https://www.coremine.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/PubGene-now-Coremine-Medical.yml>`_]
         
@@ -200,7 +200,7 @@ Climate+Weather
         
 * |FIXME_ICON| `Climate Data from UEA (updated monthly) <https://www.uea.ac.uk/groups-and-centres/climatic-research-unit/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Climate-Data-from-UEA-updated-monthly.yml>`_]
         
-* |FIXME_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
+* |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
@@ -376,7 +376,7 @@ DataChallenges
         
 * |OK_ICON| `TravisTorrent Dataset - MSR'2017 Mining Challenge <https://travistorrent.testroots.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/TravisTorrent-Dataset.yml>`_]
         
-* |OK_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
+* |FIXME_ICON| `Yelp Dataset Challenge - The Yelp dataset is a subset of our businesses, reviews, and user [...] <http://www.yelp.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//DataChallenges/Yelp-Dataset-Challenge.yml>`_]
     
 EarthScience
 ------------
@@ -422,7 +422,7 @@ Economics
         
 * |OK_ICON| `Asian Productivity Organization (APO) - The AEPM provides a graphic dashboard view of [...] <https://www.apo-tokyo.org/wedo/productivity-measurement/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/APO.yml>`_]
         
-* |FIXME_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
+* |OK_ICON| `ASEAN Stats - The ASEANstatsDataPortal was first launched in June 2018. The Portal is [...] <https://data.aseanstats.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/ASEAN Stats.yml>`_]
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
@@ -482,7 +482,7 @@ Economics
         
 * |OK_ICON| `DBnomics – the world's economic database - Aggregates hundreds of millions of time series [...] <https://db.nomics.world/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Economics-Database.yml>`_]
         
-* |FIXME_ICON| `International Trade Statistics - The new link contains trade based on filtered search on the [...] <https://data.worldbank.org/topic/21>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
+* |OK_ICON| `International Trade Statistics - The new link contains trade based on filtered search on the [...] <https://data.worldbank.org/topic/21>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/International-Trade-Statistics.yml>`_]
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`_]
         
@@ -664,7 +664,7 @@ Energy
         
 * |OK_ICON| `DBFC - Direct Borohydride Fuel Cell (DBFC) Dataset <https://github.com/ECSIM/dbfc-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DBFC.yml>`_]
         
-* |FIXME_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
+* |OK_ICON| `DEL - Domestic Electrical Load study datsets for South Africa (1994 - 2014) <https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/DELS>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/DEL.yml>`_]
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
@@ -1214,6 +1214,8 @@ Government
         
 * |OK_ICON| `US State Sales Tax 2026 - Free MIT-licensed dataset of 2026 US state sales tax rates and [...] <https://github.com/receiptedit/us-sales-tax-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Sales-Tax-2026.yml>`_]
         
+* |FIXME_ICON| `US Visa Bulletin Cutoff Dates, June 2005 to present (every printed cell) - Every cutoff the [...] <https://permtracker.app/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Visa-Bulletin-Cutoff-Dates-2005-Present.yml>`_]
+        
 * |OK_ICON| `US Visa Bulletin Priority Date History - The monthly US Department of State Visa Bulletin [...] <https://github.com/mixseomin/visa-bulletin-history>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Visa-Bulletin-Priority-Dates.yml>`_]
         
 * |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/USPTO-Bulk-Data-Products.yml>`_]
@@ -1699,7 +1701,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1797,7 +1799,7 @@ SocialNetworks
         
 * |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
-* |FIXME_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
+* |OK_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
@@ -1813,7 +1815,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`_]
         
-* |FIXME_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |OK_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`_]
         
@@ -1904,7 +1906,7 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
@@ -1973,9 +1975,9 @@ Software
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
-* |FIXME_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
+* |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
