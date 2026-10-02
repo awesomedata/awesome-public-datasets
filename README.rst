@@ -399,7 +399,7 @@ EarthScience
         
 * |OK_ICON| `Integrated Marine Observing System (IMOS) - roughly 30TB of ocean measurements <https://imos.aodn.org.au>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Integrated-Marine-Observing-System-IMOS.yml>`_]
         
-* |OK_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/MyMobileBay.yml>`_]
+* |FIXME_ICON| `Alabama Real-Time Coastal Observing System <http://mymobilebay.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/MyMobileBay.yml>`_]
         
 * |OK_ICON| `National Estuarine Research Reserves System-Wide Monitoring Program - long-term estuarine [...] <http://nerrsdata.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/NERRS-SWMP.yml>`_]
         
@@ -430,7 +430,7 @@ Economics
         
 * |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/American-Economic-Association-AEA.yml>`_]
         
-* |FIXME_ICON| `Asian KLEMS - Asia KLEMS is an Asian regional research consortium to promote building [...] <http://www.asiaklems.net/data/archive.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Asian KLEMS.yml>`_]
+* |OK_ICON| `Asian KLEMS - Asia KLEMS is an Asian regional research consortium to promote building [...] <http://www.asiaklems.net/data/archive.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Asian KLEMS.yml>`_]
         
 * |OK_ICON| `Harvard Atlas of Economic Complexity - A database for people to explore global trade flows [...] <https://dataverse.harvard.edu/dataverse/atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Atlas Economic Complexity.yml>`_]
         
@@ -1248,7 +1248,7 @@ Government
         
 * |OK_ICON| `United Nations <http://data.un.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/United-Nations.yml>`_]
         
-* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
+* |OK_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
         
 * |OK_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml>`_]
         
@@ -1335,13 +1335,15 @@ Healthcare
         
 * |OK_ICON| `Spanish Flu Dataset - Historical dataset about the 1918–1920 Spanish Flu pandemic, including [...] <https://www.kaggle.com/datasets/thepodclub/spanish-flu-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Spanish-Flu.yml>`_]
         
-* |OK_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
+* |FIXME_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
         
 * |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/The-Cancer-Genome-Atlas-project-TCGA.yml>`_]
         
 * |OK_ICON| `trove - Reference tools for two underused public-domain U.S. healthcare datasets. (1) FDA [...] <https://troveproject.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Trove.yml>`_]
         
 * |OK_ICON| `UK Council Life Expectancy and Healthy Life Expectancy (Lifemap) - Life expectancy at birth [...] <https://lifemap.org.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/UK-Council-Life-Expectancy-Lifemap.yml>`_]
+        
+* |OK_ICON| `US Provider Industry Payments (NPI registry joined to CMS Open Payments) - One row per US [...] <https://github.com/npiwho/us-provider-payments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/US-Provider-Industry-Payments.yml>`_]
         
 * |OK_ICON| `US Sauna & Cold Plunge Venue Data - Cold plunge, sauna and contrast-therapy venues across 23 [...] <https://github.com/findsaunaplunge/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/US-Sauna-Cold-Plunge-Venues.yml>`_]
         
@@ -1478,7 +1480,7 @@ MachineLearning
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
-* |FIXME_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
+* |OK_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
@@ -1574,7 +1576,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1671,7 +1673,7 @@ Physics
 ProstateCancer
 --------------
         
-* |OK_ICON| `The Cancer Imaging Program (CIP) - TCIA is a service which de-identifies and hosts a large [...] <https://www.cancerimagingarchive.net/dataset-explorer/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Cancer_imaging_program>`_]
+* |FIXME_ICON| `The Cancer Imaging Program (CIP) - TCIA is a service which de-identifies and hosts a large [...] <https://www.cancerimagingarchive.net/dataset-explorer/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Cancer_imaging_program>`_]
         
 * |OK_ICON| `EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer - Germany. [...] <https://dcc.icgc.org/projects/EOPC-DE>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/EOPC-DE-Early-Onset-Prostate-Cancer-Germany.yml>`_]
         
@@ -1685,7 +1687,7 @@ ProstateCancer
         
 * |OK_ICON| `PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom - Prostate Adenocarcinoma - United Kingdom. [...] <https://dcc.icgc.org/projects/PRAD-UK>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom.yml>`_]
         
-* |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
+* |FIXME_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
         
 * |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
@@ -1729,7 +1731,7 @@ PublicDomains
         
 * |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
-* |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
+* |FIXME_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
 * |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Data-Science-for-Research.yml>`_]
         
@@ -1851,7 +1853,7 @@ SocialNetworks
         
 * |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
         
-* |FIXME_ICON| `US Attention Data - Weekly cross-platform attention tracking for 2025 combining Wikipedia [...] <https://github.com/lukeslp/us-attention-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/us-attention-data.yaml>`_]
+* |OK_ICON| `US Attention Data - Weekly cross-platform attention tracking for 2025 combining Wikipedia [...] <https://github.com/lukeslp/us-attention-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/us-attention-data.yaml>`_]
     
 SocialSciences
 --------------
@@ -1952,7 +1954,7 @@ SocialSciences
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UPJOHN-for-Labor-Employment-Research.yml>`_]
         
-* |FIXME_ICON| `US Fragrance Trends 2026 — Most-Searched Fragrance by US State - A 12-month Google Trends [...] <https://github.com/ahmad-khan-97/us-fragrance-trends-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Fragrance-Trends-2026.yml>`_]
+* |OK_ICON| `US Fragrance Trends 2026 — Most-Searched Fragrance by US State - A 12-month Google Trends [...] <https://github.com/ahmad-khan-97/us-fragrance-trends-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Fragrance-Trends-2026.yml>`_]
         
 * |OK_ICON| `US Sex Offender Registry Statistics - Aggregate statistics on registered sex offenders in the [...] <https://offendersearch.app/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/US-Sex-Offender-Registry-Statistics.yml>`_]
         
@@ -1968,11 +1970,11 @@ SocialSciences
         
 * |OK_ICON| `Wounded Warriors Veteran Resources Directory - Open dataset of 100,437 verified U.S. veteran- [...] <https://warriorsfund.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Wounded-Warriors-Veteran-Resources.yml>`_]
         
-* |FIXME_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
+* |OK_ICON| `Accessibility Atlas - 62 datasets on disability in the US and globally — demographics, [...] <https://github.com/lukeslp/accessibility-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/accessibility-atlas.yaml>`_]
         
 * |OK_ICON| `humans.top — Influential People Ranking - A live, daily-refreshed public-domain ranking of [...] <https://huggingface.co/datasets/dsfox/humans-top>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/humans-top.yml>`_]
         
-* |FIXME_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
+* |OK_ICON| `Joshua Project Global Peoples Dataset - 16,382 people groups across 238 countries with 7,134 [...] <https://github.com/lukeslp/joshua-project-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/joshua-project-data.yaml>`_]
         
 * |OK_ICON| `Meteorites vs UFOs Detection Bias - 1,279 records comparing meteorite fall/find reports with [...] <https://github.com/lukeslp/meteorites-ufos-detection-bias>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/meteorites-ufos-detection-bias.yaml>`_]
         
@@ -1999,7 +2001,7 @@ Software
         
 * |OK_ICON| `Software & AI-tool pricing comparison dataset - An open, dated index of software and AI-tool [...] <https://github.com/UNAUTH-ACCESS/software-pricing-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/software-pricing-dataset.yml>`_]
         
-* |FIXME_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-bookmarked Git [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-Public-Git-Archive.yml>`_]
+* |OK_ICON| `Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-bookmarked Git [...] <https://github.com/src-d/datasets/tree/master/PublicGitArchive>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-Public-Git-Archive.yml>`_]
         
 * |OK_ICON| `Code duplicates - 2k Java file and 600 Java function pairs labeled as similar or different by [...] <https://github.com/src-d/datasets/tree/master/Duplicates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-code-duplicates.yml>`_]
         
@@ -2007,7 +2009,7 @@ Software
         
 * |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
-* |FIXME_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
+* |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
 Sports
 ------
@@ -2086,7 +2088,7 @@ Transportation
         
 * |OK_ICON| `FAA Wildlife Strikes on Civil Aircraft 1990-2026 (aggregated) - Versioned CC BY 4.0 [...] <https://doi.org/10.5281/zenodo.21347859>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FAA-Wildlife-Strikes-Aggregated-1990-2026.yml>`_]
         
-* |FIXME_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
+* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <https://www.microsoft.com/en-us/download/details.aspx?id=52367>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/GeoLife-GPS-Trajectory-from-Microsoft-Research.yml>`_]
         
 * |OK_ICON| `German Car Roof Load Ratings (Dachlast) - 1,872 documented roof load (Dachlast) ratings for [...] <https://dachlast.de/daten/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/German-Car-Roof-Load-Ratings-Dachlast.yml>`_]
         
