@@ -460,7 +460,7 @@ Economics
         
 * |OK_ICON| `CoworkingView European Coworking Price Index - Open dataset of flexible-office and coworking [...] <https://coworkingview.com/en/tools/price-index#price-index-downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CoworkingView-European-Coworking-Price-Index.yml>`_]
         
-* |FIXME_ICON| `DJI Drone Specs and Pre-Owned Listed Price Index - A Q3 2026 baseline containing 43 aircraft [...] <https://reboot-hub.com/pages/reboot-hub-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/DJI-Drone-Specs-and-Used-Price-Index.yml>`_]
+* |OK_ICON| `DJI Drone Specs and Pre-Owned Listed Price Index - A Q3 2026 baseline containing 43 aircraft [...] <https://reboot-hub.com/pages/reboot-hub-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/DJI-Drone-Specs-and-Used-Price-Index.yml>`_]
         
 * |OK_ICON| `Domain Renewal Prices (First Year vs Renewal by TLD) - First-year registration and yearly [...] <https://github.com/AlonDrilich/tld-renewal-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Domain-Renewal-Prices.yml>`_]
         
@@ -504,7 +504,7 @@ Economics
         
 * |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Joint-External-Debt-Data-Hub.yml>`_]
         
-* |OK_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
+* |FIXME_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
         
 * |OK_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`_]
         
@@ -1210,7 +1210,7 @@ Government
         
 * |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San Diego, CA.yml>`_]
         
-* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <https://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
+* |FIXME_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit serving Bexar (San [...] <https://cinow.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Antonio-TX-US-Community-Information-Now.yml>`_]
         
 * |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/San-Francisco-Data-sets.yml>`_]
         
@@ -1458,7 +1458,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1484,7 +1484,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1504,7 +1504,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1678,7 +1678,7 @@ NaturalLanguage
         
 * |OK_ICON| `Wikidata - Wikipedia databases <https://www.wikidata.org/wiki/Wikidata:Database_download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikidata.yml>`_]
         
-* |FIXME_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
+* |OK_ICON| `Wikipedia Links data - 40 Million Entities in Context <https://code.google.com/p/wiki-links/downloads/list>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Wikipedia-Links-data.yml>`_]
         
 * |FIXME_ICON| `WordNet databases and tools <https://wordnet.princeton.edu/download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/WordNet-databases-and-tools.yml>`_]
         
@@ -1807,7 +1807,7 @@ PublicDomains
         
 * |OK_ICON| `Infochimps <http://www.infochimps.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
         
-* |FIXME_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
+* |OK_ICON| `KDNuggets Data Collections <https://www.kdnuggets.com/datasets/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/KDNuggets-Data-Collections.yml>`_]
         
 * |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Microsoft-Azure-Data-Market-Free-DataSets.yml>`_]
         
@@ -1848,7 +1848,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |OK_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |FIXME_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -1865,7 +1865,7 @@ SearchEngines
 SocialNetworks
 --------------
         
-* |OK_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
+* |FIXME_ICON| `2021 Portuguese Elections Twitter Dataset - 57M+ tweets, 1M+ users - This dataset contains [...] <https://github.com/msramalho/election-watch/blob/master/datasets/01_portuguese_presidential_elections_2021_01_24.md>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/2021_Portuguese_Elections_Twitter_Dataset_57M_tweets_1M_users.yml>`_]
         
 * |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/72-hours-gamergate-Twitter-Scrape.yml>`_]
         
@@ -2014,9 +2014,9 @@ SocialSciences
         
 * |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Paul-Hensel-General-International-Data-Page.yml>`_]
         
-* |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
+* |FIXME_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
 * |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
@@ -2214,7 +2214,7 @@ Transportation
         
 * |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/RITA-BTS-transport-data-collection-TranStat.yml>`_]
         
-* |FIXME_ICON| `Reboot Hub DJI Drone Specs and Used Price Index - A quarterly baseline of listed price ranges [...] <https://reboot-hub.com/pages/reboot-hub-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Reboot-Hub-DJI-Drone-Specs-and-Used-Price-Index.yml>`_]
+* |OK_ICON| `Reboot Hub DJI Drone Specs and Used Price Index - A quarterly baseline of listed price ranges [...] <https://reboot-hub.com/pages/reboot-hub-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Reboot-Hub-DJI-Drone-Specs-and-Used-Price-Index.yml>`_]
         
 * |OK_ICON| `Road511 - Unified REST/GeoJSON API normalizing real-time traffic data from 65 US state and [...] <https://road511.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Road511.yml>`_]
         
