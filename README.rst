@@ -146,7 +146,7 @@ Biology
         
 * |OK_ICON| `Sanger Catalogue of Somatic Mutations in Cancer (COSMIC) - COSMIC, the Catalogue Of Somatic [...] <http://cancer.sanger.ac.uk/cosmic>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Catalogue-of-Somatic-Mutations-in-Cancer-COSMIC.yml>`_]
         
-* |OK_ICON| `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <https://cellmodelpassports.sanger.ac.uk/downloads/gdsc>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Genomics-of-Drug-Sensitivity-in-Cancer-Project-GDSC.yml>`_]
+* |FIXME_ICON| `Sanger Genomics of Drug Sensitivity in Cancer Project (GDSC) <https://cellmodelpassports.sanger.ac.uk/downloads/gdsc>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sanger-Genomics-of-Drug-Sensitivity-in-Cancer-Project-GDSC.yml>`_]
         
 * |OK_ICON| `Sequence Read Archive(SRA) - The Sequence Read Archive (SRA) stores raw sequence data from [...] <http://www.ncbi.nlm.nih.gov/Traces/sra/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Sequence-Read-ArchiveSRA.yml>`_]
         
@@ -196,7 +196,7 @@ Climate+Weather
         
 * |OK_ICON| `Bangkok and Thailand Flood Risk Data - Every standing-water episode recorded by the Bangkok [...] <https://github.com/aroblase/thailand-flood-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Bangkok-and-Thailand-Flood-Risk-Data.yml>`_]
         
-* |FIXME_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to climate and weather [...] <https://data.sinda.coene.inpe.br/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
+* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to climate and weather [...] <https://data.sinda.coene.inpe.br/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Brazilian-Weather.yml>`_]
         
 * |OK_ICON| `Canadian Climate Policy Inventory - This dataset contains a comprehensive and comparable [...] <https://doi.org/10.5683/SP3/SFYABX>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/CCPI.yml>`_]
         
@@ -401,7 +401,7 @@ EarthScience
         
 * |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
         
-* |FIXME_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/BODC.yml>`_]
+* |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/BODC.yml>`_]
         
 * |FIXME_ICON| `EOSDIS - NASA's Earth Observation System Data and Information System <https://www.earthdata.nasa.gov/about/esdis/eosdis>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/EOSDIS.yml>`_]
         
@@ -718,7 +718,7 @@ Energy
         
 * |OK_ICON| `ECO - The ECO data set is a comprehensive data set for non-intrusive load monitoring and [...] <http://www.vs.inf.ethz.ch/res/show.html?what=eco-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/ECO.yml>`_]
         
-* |OK_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
+* |FIXME_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
@@ -1389,7 +1389,7 @@ Healthcare
         
 * |FIXME_ICON| `Dietly Food & Nutrition Database - Open nutrition catalog of 4.2M+ foods with calories, [...] <https://www.getdietly.com/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Dietly-Food-Nutrition-Database.yml>`_]
         
-* |FIXME_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
+* |OK_ICON| `EHDP Large Health Data Sets (Archived) - Just links - can't vouch for how many are still valid <https://web.archive.org/web/20221208104145/https://www.ehdp.com/links/datasets.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/EHDP-Large-Health-Data-Sets.yml>`_]
         
 * |OK_ICON| `ENCLAI Reported Infectious-Disease Case Counts 2018-2024 - Openly downloadable panel of [...] <https://doi.org/10.5281/zenodo.21855170>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/ENCLAI-Disease-Surveillance.yml>`_]
         
@@ -1486,7 +1486,7 @@ ImageProcessing
         
 * |OK_ICON| `Cube++ - 4890 raw 18-megapixel images, each containing a SpyderCube color target in their [...] <https://github.com/Visillect/CubePlusPlus>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Cube-Plus-Plus.yml>`_]
         
-* |FIXME_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
+* |OK_ICON| `Densely Annotated Video Driving Data Set - This data set consists of 28 video sequences of [...] <https://mediatum.ub.tum.de/1596437>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/DAVID.yml>`_]
         
 * |OK_ICON| `Danbooru Tagged Anime Illustration Dataset - A large-scale anime image database with 3.33m+ [...] <https://www.gwern.net/Danbooru>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Danbooru-Tagged-Anime-Illustration-Dataset.yml>`_]
         
@@ -1512,7 +1512,7 @@ ImageProcessing
         
 * |OK_ICON| `MNIST database of handwritten digits, near 1 million examples <http://yann.lecun.com/exdb/mnist/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MNIST-database-of-handwritten-digits-near-1-million-examples.yml>`_]
         
-* |FIXME_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
+* |OK_ICON| `Multi-View Region of Interest Prediction Dataset for Autonomous Driving - Contains 16 driving [...] <https://mediatum.ub.tum.de/1548761>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/MV-ROI.yml>`_]
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
@@ -1532,7 +1532,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1586,7 +1586,7 @@ MachineLearning
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
-* |OK_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
+* |FIXME_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
@@ -1684,7 +1684,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1955,7 +1955,7 @@ SocialNetworks
         
 * |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Data-for-Sentiment-Analysis.yml>`_]
         
-* |FIXME_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
+* |OK_ICON| `Twitter Graph of entire Twitter site (Archived at Wayback) - Most of the data does appear to [...] <https://web.archive.org/web/20110222063252/http://an.kaist.ac.kr/traces/WWW2010.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Graph-of-entire-Twitter-site.yml>`_]
         
 * |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/UNIMILAW-Social-Network-Datasets.yml>`_]
         
@@ -2129,7 +2129,7 @@ Software
         
 * |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
@@ -2161,6 +2161,8 @@ Sports
 * |OK_ICON| `NFL play-by-play data - NFL play-by-play data sourced from: [...] <https://www.dolthub.com/repositories/Liquidata/nfl-play-by-play>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/NFL-play-by-play.yml>`_]
         
 * |OK_ICON| `OpenPowerlifting - Open archive of the world's powerlifting competition results — 3.9+ [...] <https://www.openpowerlifting.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/OpenPowerlifting.yml>`_]
+        
+* |OK_ICON| `Padel Racket Specifications with Source Provenance - Published padel racket specifications in [...] <https://github.com/odedkovach/padel-racket-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Padel-Racket-Specifications.yml>`_]
         
 * |OK_ICON| `Padel Snipe — World Padel Clubs Atlas - Open database of all mapped padel clubs across 9 [...] <https://padelsnipe.com/fr/world>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Padel-Snipe-World-Padel-Clubs-Atlas.yml>`_]
         
