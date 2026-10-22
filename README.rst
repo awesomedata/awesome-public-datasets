@@ -368,6 +368,8 @@ CyberSecurity
 * |OK_ICON| `Smartphone Software and Security Update Support - Open dataset of smartphone OS-upgrade [...] <https://www.kaggle.com/datasets/ferozsheikh1/smartphone-software-and-security-update-support>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Smartphone-Software-and-Security-Update-Support.yml>`_]
         
 * |OK_ICON| `Traffic and Log Data Captured During a Cyber Defense Exercise - This dataset was acquired [...] <https://zenodo.org/record/3746129>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/Traffic-and-Log-Data-Captured-During-a-Cyber-Defense-Exercise.yml>`_]
+        
+* |OK_ICON| `VPNRadarLab Top-100 VPN Ranking - One-time open snapshot (2026-10) of the top 100 of a [...] <https://github.com/vpnradarlab/vpn-ranking>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//CyberSecurity/VPNRadarLab-Top-100-VPN-Ranking.yml>`_]
     
 DataChallenges
 --------------
@@ -460,7 +462,7 @@ Economics
         
 * |OK_ICON| `Beauty Brand Returns and Shipping Policies - A dated CSV and JSON comparison of return [...] <https://github.com/hoannguyen10101981-spec/beautypolicies>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Beauty-Brand-Purchase-Policies.yml>`_]
         
-* |FIXME_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
+* |OK_ICON| `CEPII Database - A database of the world economy, through its country and region profiles, in [...] <https://www.cepii.fr/CEPII/en/bdd_modele/bdd_modele.asp>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CEPII Database.yml>`_]
         
 * |OK_ICON| `Chinese Restaurant Dumpling Menu Prices, US (Chopstick Compass Dumpling Price Index) - [...] <https://chopstickcompass.com/prices/soup-dumplings>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/CHOPSTICK_COMPASS_DUMPLING_PRICE_INDEX.yml>`_]
         
@@ -1198,7 +1200,7 @@ Government
         
 * |FIXME_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Open-Government-Data-OGD-Platform-India.yml>`_]
         
-* |FIXME_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
+* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenDataSofts-list-of-1600-open-data.yml>`_]
         
 * |OK_ICON| `OpenMercantil Spanish Public Company Data - Independent, non-official access layer for [...] <https://openmercantil.es/descargas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/OpenMercantil-Spanish-public-company-data.yml>`_]
         
@@ -1232,7 +1234,7 @@ Government
         
 * |OK_ICON| `Quebec City, QC, Canada <https://www.donneesquebec.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-City-QC-Canada.yml>`_]
         
-* |FIXME_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/recherche/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
+* |OK_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/recherche/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Quebec-Province-of-Canada.yml>`_]
         
 * |OK_ICON| `Regina SK, Canada <https://openregina.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Regina-SK-Canada.yml>`_]
         
@@ -1401,7 +1403,7 @@ Healthcare
         
 * |OK_ICON| `California IHSS Individual Provider County Wage Rates 2026 - The 2026 hourly wage each of [...] <https://github.com/asafichaki/california-senior-care-rates-open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/California-IHSS-County-Wage-Rates-2026.yml>`_]
         
-* |FIXME_ICON| `Composition of Foods Raw, Processed, Prepared USDA National Nutrient Database for Standard [...] <https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-27>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Composition-of-Foods-Raw-Processed-Prepared-USDA-National-Nutrient-Database-for-Standard-Reference.yml>`_]
+* |OK_ICON| `Composition of Foods Raw, Processed, Prepared USDA National Nutrient Database for Standard [...] <https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-27>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Composition-of-Foods-Raw-Processed-Prepared-USDA-National-Nutrient-Database-for-Standard-Reference.yml>`_]
         
 * |FIXME_ICON| `The COVID Tracking Project - The COVID Tracking Project collects and publishes the most [...] <https://covidtracking.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Covid-Tracking-Project.yml>`_]
         
@@ -1536,7 +1538,7 @@ ImageProcessing
         
 * |OK_ICON| `Massive Visual Memory Stimuli, MIT <http://olivalab.mit.edu/MM/stimuli.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Massive-Visual-Memory-Stimuli-MIT.yml>`_]
         
-* |FIXME_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
+* |OK_ICON| `Newspaper Navigator - This dataset consists of extracted visual content for 16,358,041 [...] <https://news-navigator.labs.loc.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Newspaper-Navigator.yml>`_]
         
 * |OK_ICON| `Open Images From Google - Pictures with segmentation masks for 2.8 million object instances [...] <https://storage.googleapis.com/openimages/web/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/OpenImagesByGoogle.yml>`_]
         
@@ -1670,7 +1672,7 @@ NaturalLanguage
         
 * |OK_ICON| `Blizzard Challenge Speech - The speech + text data comes from professional audiobooks [...] <https://www.synsig.org/index.php/Blizzard_Challenge_2018>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blizzard-Speech.yml>`_]
         
-* |OK_ICON| `Blogger Corpus - The Blog Authorship Corpus consists of the collected posts of 19,320 [...] <https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
+* |FIXME_ICON| `Blogger Corpus - The Blog Authorship Corpus consists of the collected posts of 19,320 [...] <https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Blogger-Corpus.yml>`_]
         
 * |OK_ICON| `CLiPS Stylometry Investigation Corpus <https://zenodo.org/record/4639616>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/CLiPS-Stylometry-Investigation-Corpus.yml>`_]
         
@@ -1702,7 +1704,7 @@ NaturalLanguage
         
 * |FIXME_ICON| `Making Sense of Microposts 2013 - Concept Extraction (from Archive.org) <https://web.archive.org/web/20170325004450/https://oak.dcs.shef.ac.uk/msm2013/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2013.yml>`_]
         
-* |FIXME_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
+* |OK_ICON| `Making Sense of Microposts 2016 - Named Entity rEcognition and Linking <http://microposts2016.seas.upenn.edu/challenge.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Making-Sense-of-Microposts-2016.yml>`_]
         
 * |OK_ICON| `Multi-Domain Sentiment Dataset (version 2.0) <http://www.cs.jhu.edu/~mdredze/datasets/sentiment/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Multi-Domain-Sentiment-Dataset-version-2.0.yml>`_]
         
@@ -1790,7 +1792,7 @@ Physics
         
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
-* |FIXME_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
+* |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
         
 * |OK_ICON| `IceCube - South Pole Neutrino Observatory <https://icecube.wisc.edu/science/data-releases/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/IceCube.yml>`_]
         
@@ -1904,7 +1906,7 @@ SearchEngines
         
 * |FIXME_ICON| `ICPSR (UMICH) <https://www.icpsr.umich.edu/web/pages/ICPSR/index.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/ICPSR-UMICH.yml>`_]
         
-* |FIXME_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
+* |OK_ICON| `Institute of Education Sciences (ERIC) <https://eric.ed.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Institute-of-Education-Sciences.yml>`_]
         
 * |OK_ICON| `Namebeam E1 AI Referral Index - Dated daily record of which businesses AI engines [...] <https://huggingface.co/datasets/Namebeam/namebeam-e1-ai-referral-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SearchEngines/Namebeam-E1-AI-Referral-Index.yml>`_]
         
@@ -2042,7 +2044,7 @@ SocialSciences
         
 * |FIXME_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Institute-for-Demographic-Studies.yml>`_]
         
-* |FIXME_ICON| `Inter-American Development Bank Open Data <https://data.iadb.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Inter-American-Development-Bank-Open-Data.yml>`_]
+* |OK_ICON| `Inter-American Development Bank Open Data <https://data.iadb.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Inter-American-Development-Bank-Open-Data.yml>`_]
         
 * |FIXME_ICON| `International Networks Archive <http://www.princeton.edu/~ina/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/International-Networks-Archive.yml>`_]
         
@@ -2180,7 +2182,7 @@ Sports
         
 * |OK_ICON| `Korean Football Team Names - English-to-Korean name mapping for 264 European club football [...] <https://github.com/dwoony0909-tech/korean-football-team-names>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Korean-Football-Team-Names.yml>`_]
         
-* |FIXME_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
+* |OK_ICON| `Lahman's Baseball Database <https://sabr.org/lahman-database/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Lahmans-Baseball-Database.yml>`_]
         
 * |OK_ICON| `Tennis Match Outcome Studies - Aggregate outcome statistics counted from 116,382 completed [...] <https://livetennisapi.com/open-tennis-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Live-Tennis-API-Match-Outcome-Studies.yml>`_]
         
