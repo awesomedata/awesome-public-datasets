@@ -767,6 +767,8 @@ Energy
 * |OK_ICON| `WHITED (A Worldwide Household and Industry Transient Energy Dataset) <https://huggingface.co/datasets/maduschek/WHITED>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/WHITED.yml>`_]
         
 * |OK_ICON| `iAWE <http://iawe.github.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/iAWE.yml>`_]
+
+* |OK_ICON| `US Emergency Power Outage & Grid Hazard Dataset 2026 <https://github.com/wangxf0892/US-Emergency-Power-Outage-Dataset-2026>`_ - Open-access metropolitan electrical outage durations and residential battery sizing benchmarks based on NOAA & EIA statutory filings.
     
 Entertainment
 -------------
