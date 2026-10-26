@@ -218,7 +218,7 @@ Climate+Weather
         
 * |OK_ICON| `German Climate Data Center <https://cdc.dwd.de/portal/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/German-Meteorological-Service-CDC.yml>`_]
         
-* |FIXME_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
+* |OK_ICON| `Global Climate Data Since 1929 <https://en.tutiempo.net/climate/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Global-Climate-Data-Since-1929.yml>`_]
         
 * |OK_ICON| `Charting The Global Climate Change News Narrative 2009-2020 - These four datasets represent [...] <https://blog.gdeltproject.org/four-massive-datasets-charting-the-global-climate-change-news-narrative-2009-2020/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GlobalClimateChangeNewsNarrative2009-2020.yml>`_]
         
@@ -263,7 +263,7 @@ ComplexNetworks
         
 * |OK_ICON| `Network Repository with Interactive Exploratory Analysis Tools <http://networkrepository.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Network-Repository-with-Interactive-Exploratory-Analysis-Tools.yml>`_]
         
-* |FIXME_ICON| `Protein-protein interaction network (At Wayback) - The original dataset is still available on [...] <https://web.archive.org/web/20240412112159/http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Protein.yml>`_]
+* |OK_ICON| `Protein-protein interaction network (At Wayback) - The original dataset is still available on [...] <https://web.archive.org/web/20240412112159/http://vlado.fmf.uni-lj.si/pub/networks/data/bio/Yeast/Yeast.htm>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Protein.yml>`_]
         
 * |OK_ICON| `PyPI and Maven Dependency Network <https://ogirardot.wordpress.com/2013/01/31/sharing-pypimaven-dependency-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/PyPI-and-Maven-Dependency-Network.yml>`_]
         
@@ -273,7 +273,7 @@ ComplexNetworks
         
 * |FIXME_ICON| `Stanford GraphBase <https://cs.stanford.edu/~knuth/sgb.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-GraphBase-Steven-Skiena.yml>`_]
         
-* |FIXME_ICON| `Stanford Large Network Dataset Collection <https://snap.stanford.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`_]
+* |OK_ICON| `Stanford Large Network Dataset Collection <https://snap.stanford.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/Stanford-Large-Network-Dataset-Collection.yml>`_]
         
 * |OK_ICON| `The Koblenz Network Collection <http://konect.cc/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/The-Koblenz-Network-Collection.yml>`_]
         
@@ -405,7 +405,7 @@ EarthScience
         
 * |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/AQUASTAT.yml>`_]
         
-* |FIXME_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/BODC.yml>`_]
+* |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/BODC.yml>`_]
         
 * |FIXME_ICON| `EOSDIS - NASA's Earth Observation System Data and Information System <https://www.earthdata.nasa.gov/about/esdis/eosdis>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/EOSDIS.yml>`_]
         
@@ -1457,7 +1457,7 @@ Healthcare
         
 * |OK_ICON| `SuplerMed Dietary Supplement-Drug Interactions (Polish) - Open dataset of documented [...] <https://doi.org/10.5281/zenodo.21532404>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/SuplerMed-Supplement-Drug-Interactions.yml>`_]
         
-* |OK_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
+* |FIXME_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCIA.yml>`_]
         
 * |OK_ICON| `TCM Arabic-Chinese Bilingual Dataset - The first open-source Arabic-Chinese bilingual dataset [...] <https://github.com/HeTaobaba123/tcm-arabic-dataset->`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/TCM-Arabic-Chinese-Bilingual-Dataset.yml>`_]
         
@@ -1556,7 +1556,7 @@ ImageProcessing
         
 * |OK_ICON| `Violent-Flows - Crowd Violence / Non-violence Database and benchmark <https://www.openu.ac.il/home/hassner/data/violentflows/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Violent-Flows.yml>`_]
         
-* |FIXME_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
+* |OK_ICON| `Visual genome (archived at Wayback) - Data still available for download from Wayback <https://web.archive.org/web/20151219035355/http://visualgenome.org/api/v0/api_home.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Visual-genome.yml>`_]
         
 * |OK_ICON| `WhatFontIs-Bench - Synthetic benchmark for font family identification. Contains 11,995 JPG [...] <https://github.com/whatfontis/WhatFontIs-Bench>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/WhatFontIs-Bench.yml>`_]
         
@@ -1612,13 +1612,13 @@ MachineLearning
         
 * |OK_ICON| `LLVIP - This dataset contains 30976 images, or 15488 pairs, most of which were taken at very [...] <https://bupt-ai-cz.github.io/LLVIP/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/LLVIP.yml>`_]
         
-* |FIXME_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
+* |OK_ICON| `Labeled Faces in the Wild (LFW) (at Archive.org) - Confirmed dataset is available to download [...] <https://web.archive.org/web/20250105084504/http://vis-www.cs.umass.edu/lfw/#download>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Labeled-Faces-in-the-Wild-LFW.yml>`_]
         
 * |OK_ICON| `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/Million-Song-Dataset.yml>`_]
         
 * |OK_ICON| `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/More-Song-Datasets.yml>`_]
         
-* |OK_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`_]
+* |FIXME_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`_]
         
 * |OK_ICON| `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/New-Yorker-caption-contest-ratings.yml>`_]
         
@@ -1712,7 +1712,7 @@ NaturalLanguage
         
 * |OK_ICON| `No Language Left Behind (NLLB - 200vo) - Dataset based on Meta's metadata for mined bitext. [...] <https://huggingface.co/datasets/allenai/nllb>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/NoLanguageLeftBehindNLLB200vo.yml>`_]
         
-* |FIXME_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
+* |OK_ICON| `Noisy speech database for training speech enhancement algorithms and TTS models - Clean and [...] <https://datashare.is.ed.ac.uk/handle/10283/2791>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Noisy-Speech.yml>`_]
         
 * |OK_ICON| `Open Multilingual Wordnet <https://github.com/omwn/omw-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//NaturalLanguage/Open-Multilingual-Wordnet.yml>`_]
         
@@ -1811,7 +1811,7 @@ Physics
 ProstateCancer
 --------------
         
-* |OK_ICON| `The Cancer Imaging Program (CIP) - TCIA is a service which de-identifies and hosts a large [...] <https://www.cancerimagingarchive.net/dataset-explorer/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Cancer_imaging_program>`_]
+* |FIXME_ICON| `The Cancer Imaging Program (CIP) - TCIA is a service which de-identifies and hosts a large [...] <https://www.cancerimagingarchive.net/dataset-explorer/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Cancer_imaging_program>`_]
         
 * |OK_ICON| `EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer - Germany. [...] <https://dcc.icgc.org/projects/EOPC-DE>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/EOPC-DE-Early-Onset-Prostate-Cancer-Germany.yml>`_]
         
@@ -1825,7 +1825,7 @@ ProstateCancer
         
 * |OK_ICON| `PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom - Prostate Adenocarcinoma - United Kingdom. [...] <https://dcc.icgc.org/projects/PRAD-UK>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PRAD-UK-Prostate-Adenocarcinoma-United-Kingdom.yml>`_]
         
-* |OK_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
+* |FIXME_ICON| `PROSTATEx-Challenge - Retrospective set of prostate MR studies. All studies included [...] <https://www.cancerimagingarchive.net/collection/prostatex/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/PROSTATEx-Challenge.yml>`_]
         
 * |OK_ICON| `Prostate-R - The R package 'ElemStatLearn' contains a prostate cancer dataset from Stamey et [...] <https://web.stanford.edu/~hastie/ElemStatLearn/datasets/prostate.data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ProstateCancer/Prostate-R.yml>`_]
         
@@ -1883,9 +1883,9 @@ PublicDomains
         
 * |OK_ICON| `Stack Overflow Annual Developer Survey - Annual developer surverys full data sets from 2011 [...] <https://insights.stackoverflow.com/survey>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stack-Overflow-Annual-Developer-Survey.yml>`_]
         
-* |FIXME_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
+* |OK_ICON| `StatSci.org (Archived at Wayback) - A list of links. <https://web.archive.org/web/20170704235833/http://www.statsci.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/StatSci.org.yml>`_]
         
-* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
+* |FIXME_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Stats4Stem-R-data-sets.yml>`_]
         
 * |FIXME_ICON| `UFO Reports <https://nuforc.org/databank/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/UFO-Reports.yml>`_]
         
@@ -1955,7 +1955,7 @@ SocialNetworks
         
 * |OK_ICON| `GitHub Collaboration Archive <https://www.gharchive.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/GitHub-Collaboration-Archive.yml>`_]
         
-* |FIXME_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
+* |OK_ICON| `Google Scholar citation relations <https://web.archive.org/web/20190522043016/http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Google-Scholar-citation-relations.yml>`_]
         
 * |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <https://sociopatterns.org/datasets.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/High-Resolution-Contact-Networks-from-Wearable-Sensors.yml>`_]
         
@@ -1965,13 +1965,13 @@ SocialNetworks
         
 * |OK_ICON| `Most Followed Instagram Accounts Daily - Daily follower counts for the 2,000 most-followed [...] <https://github.com/FastSocialCo/instagram-top-accounts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Most-Followed-Instagram-Accounts-Daily.yml>`_]
         
-* |FIXME_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
+* |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Network-Twitter-Data.yml>`_]
         
 * |FIXME_ICON| `Reddit Comments from /r/incels (archived on Wayback) <https://web.archive.org/web/20221206220437/http://files.pushshift.io/reddit/comments/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Reddit-Comments.yml>`_]
         
 * |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Skytrax-Air-Travel-Reviews-Dataset.yml>`_]
         
-* |FIXME_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Social-Twitter-Data.yml>`_]
+* |OK_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Social-Twitter-Data.yml>`_]
         
 * |OK_ICON| `The Reddit COVID dataset - This dataset attempts to capture the full extent of COVID-19 [...] <https://www.kaggle.com/datasets/pavellexyr/the-reddit-covid-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/The-Reddit-COVID-Dataset.yml>`_]
         
@@ -1991,7 +1991,7 @@ SocialNetworks
         
 * |OK_ICON| `WhatsApp Business Platform Open Data - A dated, sourced open dataset of the WhatsApp Business [...] <https://github.com/procom-dev/whatsapp-open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/WhatsApp-Business-Platform-Open-Data.yml>`_]
         
-* |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
+* |FIXME_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Youtube-Video-Social-Graph-in-2007~2008.yml>`_]
         
 * |OK_ICON| `US Attention Data - Weekly cross-platform attention tracking for 2025 combining Wikipedia [...] <https://github.com/lukeslp/us-attention-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/us-attention-data.yaml>`_]
     
@@ -2080,9 +2080,9 @@ SocialSciences
         
 * |OK_ICON| `Pew Religion Datasets <https://www.pewresearch.org/religion-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Pew-religion-datasets.yml>`_]
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
+* |FIXME_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Internet-Survey-Project.yml>`_]
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
+* |FIXME_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/PewResearch-Society-Data-Collection.yml>`_]
         
 * |OK_ICON| `Russian and Belarusian Women in International Matchmaking (2026) - Aggregated, anonymised [...] <https://github.com/lovevalentin-droid/russian-women-matchmaking-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Russian-Belarusian-Matchmaking.yml>`_]
         
@@ -2217,6 +2217,8 @@ Sports
 * |OK_ICON| `Transfermarkt Datasets - Clean, structured and automatically updated football (soccer) data [...] <https://github.com/dcaribou/transfermarkt-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Transfermarkt-Datasets.yml>`_]
         
 * |OK_ICON| `USA Soccer Teams and Locations - USA soccer teams and locations. MLS, NWSL, and USL [...] <https://github.com/gavinr/usa-soccer>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/USA-Soccer.yml>`_]
+        
+* |OK_ICON| `WNBA Finals Attendance by Game 2002-2025 - Published attendance for every WNBA Finals game [...] <https://github.com/ryanmoalemi/wnba-finals-attendance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/WNBA-Finals-Attendance.yml>`_]
     
 TimeSeries
 ----------
