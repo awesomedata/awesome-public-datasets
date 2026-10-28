@@ -694,6 +694,7 @@ Education
 * |OK_ICON| `CUET (UG) Official Closing Scores, India, 2024-2026 - 84,210 official closing scores (cut- [...] <https://github.com/EduFarming/cuet-ug-cutoffs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/CUET-UG-Official-Closing-Scores.yml>`_]
         
 * |OK_ICON| `Cert Atlas - Certification Exam Blueprints - An open, machine-readable dataset of [...] <https://atlas.quizforge.ai/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Cert-Atlas.yml>`_]
+* |OK_ICON| `Singapore AI Courses Open Dataset - Live dataset of 530 AI courses across 16 Singa [...] <https://github.com/Ashtonz/singapore-ai-courses-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Singapore-AI-Courses-Dataset.yml>`_]
         
 * |OK_ICON| `Childery ZIP-Level Daycare Quality Dataset - Aggregate quality and supply statistics for US [...] <https://childery.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Childery-ZIP-Level-Daycare-Quality-Dataset.yml>`_]
         
