@@ -2371,6 +2371,7 @@ eSports
         
 * |OK_ICON| `OpenDota data dump <https://blog.opendota.com/2017/03/24/datadump2/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//eSports/opendota-dump.yml>`_]
 
+* |OK_ICON| `UrunVeri - 4 Million Products & 2,000 Categories Universal Specifications Catalog <https://github.com/bekirboztas-lang/urunveri-4m-products-catalog>`_ - Multi-lingual product specifications, parametric hardware attributes, and benchmark comparison database covering over 4 million consumer tech items across 1,969 categories from `https://urunveri.com <https://urunveri.com>`_.
 
 Complementary Collections
 -------------------------
