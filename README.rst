@@ -2193,6 +2193,8 @@ Software
         
 * |OK_ICON| `MCP Registry servers - One row per server in the official Model Context Protocol (MCP) [...] <https://huggingface.co/datasets/tanod/mcp-registry-servers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/MCP-Registry-servers.yml>`_]
         
+* |OK_ICON| `ProtocolProbe MCP registry facts - One record per server in the official Model Context [...] <https://huggingface.co/datasets/sultan57/mcp-registry-facts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/ProtocolProbe-MCP-registry-facts.yml>`_]
+        
 * |OK_ICON| `AI Tools Mortality and Product Hunt Graveyard 2026 (RightAIChoice) - Survival study of 2,291 [...] <https://rightaichoice.com/state-of-ai-tools/graveyard>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/RightAIChoice-AI-Tools-Mortality-and-Product-Hunt-Graveyard-2026.yml>`_]
         
 * |OK_ICON| `VS Code Marketplace Extension Installs - 64,490 extensions, 50,468 publishers, real install [...] <https://github.com/sujeito-operator/vscode-marketplace-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/VS-Code-Marketplace-Extension-Installs.yml>`_]
