@@ -854,6 +854,8 @@ Finance
         
 * |OK_ICON| `Instant Crypto Exchange Delivered Amounts - Website Checks - Raw CSV rows of what instant [...] <https://github.com/cambio-one/exchange-fee-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Cambio-Instant-Exchange-Delivered-Amounts.yml>`_]
         
+* |OK_ICON| `Central Bank Exchange Rates - Daily official rates from 121 central banks and tax authorities [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Central-Bank-Exchange-Rates.yml>`_]
+        
 * |OK_ICON| `ChainCosts Exchange Withdrawal Fees - Cited snapshots of cryptocurrency centralized-exchange [...] <https://github.com/chaincosts/exchange-fees>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ChainCosts-Exchange-Fees.yml>`_]
         
 * |OK_ICON| `Card-Network Chargeback Reason Codes - Open reference dataset of all 64 active chargeback [...] <https://github.com/small-business-software-maker/chargeback-reason-codes>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Chargeback-Reason-Codes.yml>`_]
