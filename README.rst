@@ -1617,6 +1617,8 @@ InterDisciplinary
         
 * |OK_ICON| `Google Trends <https://trends.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/Google-Trends.yml>`_]
         
+* |OK_ICON| `Longze Fastener Standards Data - Open dimensional data for 16 DIN, ISO and ASME fastener [...] <https://github.com/w1372068887-pixel/longze-fastener-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/Longze-Fastener-Standards-Data.yml>`_]
+        
 * |OK_ICON| `A Placeholder <https://kagi.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/placeholder.yml>`_]
     
 MachineLearning
