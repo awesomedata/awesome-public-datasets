@@ -809,6 +809,8 @@ Entertainment
         
 * |OK_ICON| `LyricsWeb Song Title Originality and Reuse Dataset (1800-2026) - Versioned aggregate [...] <https://doi.org/10.5281/zenodo.23559663>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/LyricsWeb-Song-Title-Originality-and-Reuse.yml>`_]
         
+* |OK_ICON| `My Kids TV: Age-Graded Children's Film & Series Catalog (Ages 4-6, 7-10, 11-13) - Curated, [...] <https://github.com/suboss87/my-kids-tv/tree/main/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/My-Kids-TV-Age-Graded-Catalog.yml>`_]
+        
 * |OK_ICON| `OSTDB: Official Video Game Soundtracks - Community-curated database of official video game [...] <https://github.com/OSTDB/soundtracks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/OSTDB-Video-Game-Soundtracks.yml>`_]
         
 * |OK_ICON| `PC Game System Requirements and Estimated FPS by GPU - Minimum and recommended system [...] <https://doi.org/10.5281/zenodo.23162308>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/PC-Game-System-Requirements-FPS.yml>`_]
