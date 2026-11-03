@@ -778,6 +778,8 @@ Energy
         
 * |OK_ICON| `The Public Utility Data Liberation Project (PUDL) - PUDL makes US energy data easier to [...] <https://github.com/catalyst-cooperative/pudl>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PUDL.yml>`_]
         
+* |OK_ICON| `Pakistan Fuel Prices - Pakistan's notified petrol, diesel and kerosene prices since 2006, and [...] <https://eklitre.pk/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Pakistan-Fuel-Prices.yml>`_]
+        
 * |OK_ICON| `Pakistan Fuel Prices - Retail fuel prices for Pakistan as notified by the Oil and Gas [...] <https://github.com/quantanow/pakistan-fuel-prices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PakistanFuelPrices.yml>`_]
         
 * |OK_ICON| `Publicly Available Datasets For Electric Load Forecasting - Contains an active maintained [...] <https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PubliclyAvailableLoadForecastingDatasets.yml>`_]
