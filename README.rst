@@ -349,6 +349,8 @@ ComputerNetworks
 * |OK_ICON| `US Car Dealership Email and Website Census 2026 - Aggregate tables from a 2026 census of US [...] <https://github.com/danielmcgrattan2007/us-car-dealership-census>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/US-Car-Dealership-Email-and-Website-Census.yml>`_]
         
 * |OK_ICON| `Voidly Censorship Data: Global internet censorship measurements - Live and historical [...] <https://huggingface.co/datasets/emperor-mew/global-censorship-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Voidly-Censorship-Data.yml>`_]
+        
+* |OK_ICON| `WordPress in Europe 2026-09 (4.1M ccTLD homepages from Common Crawl) - Per-country aggregates [...] <https://nettingale.com/reports/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/WordPress-in-Europe-2026-09.yml>`_]
     
 CyberSecurity
 -------------
