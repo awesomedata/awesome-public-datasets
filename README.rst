@@ -1678,6 +1678,8 @@ MachineLearning
         
 * |FIXME_ICON| `USASI Catalog of U.S. AI Organizations and Open Models - Snapshot of an independent, sourced [...] <https://huggingface.co/datasets/usasihq/usasi-catalog>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/USASI-Catalog.yml>`_]
         
+* |FIXME_ICON| `What Agents Pick, default tool choices of AI coding agents - 360 Claude Code runs on hint [...] <https://github.com/nmbrthirteen/what-agents-pick-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/What-Agents-Pick.yml>`_]
+        
 * |FIXME_ICON| `Yambda-5B — A Large-Scale Multi-modal Dataset for Ranking And Retrieval - Industrial-scale [...] <https://huggingface.co/datasets/yandex/yambda>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YaMBDa-5B-Music-Interaction-Dataset.yml>`_]
         
 * |FIXME_ICON| `YouTube-BoundingBoxes <https://research.google.com/youtube-bb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/YouTube-BoundingBoxes.yml>`_]
