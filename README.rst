@@ -1430,6 +1430,8 @@ Government
         
 * |OK_ICON| `Federal Data Terminations Tracker (USA) - The most policy-relevant, verified source of US [...] <https://dataindex.us/terminations-tracker>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/federal-data-terminations-tracker.yml>`_]
         
+* |OK_ICON| `Project Blue Book UFO Case Files (Geocoded) - All 10,622 US Air Force Project Blue Book case [...] <https://encounteratlas.com/datasets/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/project-blue-book-case-files.yml>`_]
+        
 * |OK_ICON| `US Disasters Mashup - 48,592 disaster events from four US government sources — NTSB plane [...] <https://github.com/lukeslp/us-disasters-mashup>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/us-disasters-mashup.yaml>`_]
     
 Healthcare
