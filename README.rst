@@ -1270,6 +1270,8 @@ Government
         
 * |OK_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
         
+* |OK_ICON| `Pass2port Open Citizenship- and Residency-by-Investment (CBI/RBI) Programme Dataset - Source- [...] <https://doi.org/10.5281/zenodo.23689530>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Pass2port-CBI-RBI-Programmes.yml>`_]
+        
 * |OK_ICON| `Passport & Visa Photo Specifications (21 documents, 15+ countries) - Machine-readable photo [...] <https://compliantpassportphoto.com/specs.json>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Passport-Visa-Photo-Specifications.yml>`_]
         
 * |OK_ICON| `Passport, Visa & ID Photo Specifications (100+ countries, 276 formats) - Passport, visa, ID [...] <https://github.com/BlondDev-Art/passport-photo-specs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PassportPhotoSpecs.yml>`_]
