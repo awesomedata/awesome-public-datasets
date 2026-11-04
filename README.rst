@@ -38,6 +38,8 @@ Agriculture
         
 * |OK_ICON| `Hyperspectral benchmark dataset on soil moisture - This dataset was measured in a five-day [...] <https://doi.org/10.5281/zenodo.1227837>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Hyperspectral-Benchmark-Dataset-On-Soil-Moisture.yml>`_]
         
+* |OK_ICON| `India Agri Export Price Index - Weekly reference prices for 18 Indian agri exports (moringa, [...] <https://nidhi-bhai.github.io/india-agri-export-prices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/India-Agri-Export-Price-Index.yml>`_]
+        
 * |OK_ICON| `India Label Index - Category-level aggregates computed from Indian packaged-food products on [...] <https://huggingface.co/datasets/devnarsinghani/india-label-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/India-Label-Index.yml>`_]
         
 * |OK_ICON| `Indoor Light for Houseplants (meter readings, species light tiers, published figures) - Three [...] <https://github.com/ranson0318-dot/growspot-light-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Indoor-Light-for-Houseplants.yml>`_]
