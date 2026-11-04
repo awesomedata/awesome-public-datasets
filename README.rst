@@ -1640,6 +1640,8 @@ MachineLearning
         
 * |OK_ICON| `AI History Timeline - 78 milestones in the history of artificial intelligence from 1943 to [...] <https://github.com/chronicle-ai-history/ai-history-timeline>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/AI-History-Timeline.yml>`_]
         
+* |OK_ICON| `AI Timeline Dataset - 4,024 dated, source-linked real-world AI events from July 2025 to [...] <https://github.com/techa-ai/ai-timeline-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/AI-Timeline-Dataset.yml>`_]
+        
 * |OK_ICON| `AI Video Model Free-Tier Observations - 117 dated observations of what twelve AI video models [...] <https://videofreetier.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/AI-Video-Model-Free-Tier-Observations.yml>`_]
         
 * |OK_ICON| `All-Age-Faces Dataset - Contains 13'322 Asian face images distributed across all ages (from 2 [...] <https://github.com/JingchunCheng/All-Age-Faces-Dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/All-Age-Faces-Dataset.yml>`_]
