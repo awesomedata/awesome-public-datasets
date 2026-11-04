@@ -735,8 +735,6 @@ Education
         
 * |OK_ICON| `Make Data Count data citations - links between research articles and the datasets they cite [...] <https://makedatacount.org/data-citation/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Make-Data-Count.yml>`_]
         
-* |OK_ICON| `MeloLingua CEFR-Graded Multilingual Stories - 118 A1-B2 graded reading stories in German, [...] <https://github.com/MeloLingua/melolingua-language-stories-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/MeloLingua-CEFR-Graded-Multilingual-Stories.yml>`_]
-        
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
 * |FIXME_ICON| `Program for International Student Assessement (PISA) - Contains 15-year-old students' [...] <https://www.oecd.org/pisa/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/PISA.yml>`_]
