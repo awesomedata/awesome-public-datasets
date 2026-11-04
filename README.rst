@@ -1852,6 +1852,8 @@ Neuroscience
 Physics
 -------
         
+* |OK_ICON| `AgentFEM Material Loading Memory - 3,788 synthetic elastoplastic loading histories for path- [...] <https://huggingface.co/datasets/HaomingLuo/AgentFEM-Material-Loading-Memory>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/AgentFEM-Material-Loading-Memory.yml>`_]
+        
 * |OK_ICON| `CERN Open Data Portal <http://opendata.cern.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/CERN-Open-Data-Portal.yml>`_]
         
 * |OK_ICON| `Crystallography Open Database <http://www.crystallography.net/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Crystallography-Open-Database.yml>`_]
