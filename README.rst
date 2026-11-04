@@ -2199,6 +2199,8 @@ Software
         
 * |OK_ICON| `AI Tools Radar - open-source AI projects picked by arsentev.ai, with daily snapshots after [...] <https://doi.org/10.5281/zenodo.22730450>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/AI-Tools-Radar.yml>`_]
         
+* |OK_ICON| `Apple Device Screen Specs - Screen specs for 175 Apple devices released 2007-2026: 55 iPhone, [...] <https://github.com/aryansbtloe/apple-device-screen-specs>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Apple-Device-Screen-Specs.yml>`_]
+        
 * |OK_ICON| `Awesome Reverse-Engineered - 16,844 open-source projects built by reverse engineering closed [...] <https://github.com/alexgaoth/awesome-reverse-engineered>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Awesome-Reverse-Engineered.yml>`_]
         
 * |OK_ICON| `FLOSSmole data about free, libre, and open source software development <http://flossdata.syr.edu/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/FLOSSmole-data-about-free-libre-and-open-source-software-development.yml>`_]
