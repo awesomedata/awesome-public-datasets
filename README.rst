@@ -658,6 +658,8 @@ Economics
         
 * |OK_ICON| `US Tariff Announcement Database (USTAD) <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JH1JUA>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/USTAD.yml>`_]
         
+* |OK_ICON| `Upwork Jobs Data - Monthly aggregates of new job posts on the Upwork freelance marketplace. [...] <https://github.com/droopboop/upwork-jobs-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Upwork-Jobs-Data.yml>`_]
+        
 * |OK_ICON| `Upwork Market Index - Weekly Freelance Job Market Statistics - Weekly aggregate statistics of [...] <https://github.com/snipeworkapp-oss/upwork-market-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Upwork-Market-Index.yml>`_]
         
 * |OK_ICON| `VPS Price Snapshot - Published monthly and annual prices for virtual private server (VPS) [...] <https://github.com/jbbksam-ctrl/vpsticker-promo-radar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/VPS-Price-Snapshot.yml>`_]
