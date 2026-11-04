@@ -646,6 +646,8 @@ Economics
         
 * |OK_ICON| `US Coin Metal Content & Melt Values - Fine precious-metal and base-metal content of common US [...] <https://github.com/mixseomin/us-coin-melt-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Coin-Metal-Content-Melt-Values.yml>`_]
         
+* |OK_ICON| `US Employer Cost Dataset 2026-2027 (Hiring Cost Atlas) - Every official input behind the cost [...] <https://github.com/onyx-digital-holdings/us-employer-cost-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Employer-Cost-Dataset-2026-2027.yml>`_]
+        
 * |OK_ICON| `US Enforcement Actions Against Crypto Trading-Signal Fraud - A structured, primary-source- [...] <https://realcryptosignals.com/research/enforcement-actions/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Enforcement-Actions-Crypto-Signal-Fraud.yml>`_]
         
 * |OK_ICON| `US Franchise FDD Disclosure Statistics - Per-brand headline facts from 450+ officially [...] <https://franchisefactsreport.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Franchise-FDD-Disclosures.yml>`_]
