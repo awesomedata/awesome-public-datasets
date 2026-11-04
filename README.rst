@@ -2396,6 +2396,8 @@ Transportation
         
 * |OK_ICON| `US Traffic Camera Sources and Uptime - Open registry of official US traffic camera feed [...] <https://github.com/bzsasson/traffic-camera-sources>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/US-Traffic-Camera-Sources-and-Uptime.yml>`_]
         
+* |OK_ICON| `US Vehicle Owner Complaints by Model and Component 2010-2025 - NHTSA owner complaints for [...] <https://doi.org/10.5281/zenodo.23662820>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/US-Vehicle-Owner-Complaints-by-Model-Component-2010-2025.yml>`_]
+        
 * |OK_ICON| `US Vehicle Reliability - NHTSA Owner Complaints & Recalls - Derived open datasets from the US [...] <https://huggingface.co/ProblemsByVin>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/US-Vehicle-Reliability-NHTSA-ProblemsByVin.yml>`_]
         
 * |OK_ICON| `World Train Routes (TrainRouter Atlas) - 744 of the world's notable train routes — high- [...] <https://github.com/Flightmussy/trainrouter-atlas>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/World-Train-Routes-TrainRouter-Atlas.yml>`_]
