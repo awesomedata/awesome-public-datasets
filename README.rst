@@ -735,6 +735,8 @@ Education
         
 * |OK_ICON| `Make Data Count data citations - links between research articles and the datasets they cite [...] <https://makedatacount.org/data-citation/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/Make-Data-Count.yml>`_]
         
+* |OK_ICON| `MeloLingua CEFR-Graded Multilingual Stories - 118 A1-B2 graded reading stories in German, [...] <https://github.com/MeloLingua/melolingua-language-stories-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/MeloLingua-CEFR-Graded-Multilingual-Stories.yml>`_]
+        
 * |OK_ICON| `New York State Education Department Data - The New York State Education Department (NYSED) is [...] <https://data.nysed.gov/downloads.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/New-York-State-Education-Department.yml>`_]
         
 * |FIXME_ICON| `Program for International Student Assessement (PISA) - Contains 15-year-old students' [...] <https://www.oecd.org/pisa/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/PISA.yml>`_]
@@ -1002,8 +1004,6 @@ GIS
 * |OK_ICON| `Metro Detroit Basement Risk Index - Basement-flood exposure scores (0 to 100) for all 116 [...] <https://github.com/BasementRiskCheck/metro-detroit-basement-risk-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Metro-Detroit-Basement-Risk-Index.yml>`_]
         
 * |OK_ICON| `Mexico Postal Codes (SEPOMEX catalog, CSV/JSON) - Full national catalog of Mexican postal [...] <https://github.com/gomflo/codigos-postales-mexico>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Mexico-Postal-Codes-SEPOMEX.yml>`_]
-        
-* |FIXME_ICON| `MideaFind Germany DIY Store Locations - Versioned JSON dataset of 1,314 known DIY-store [...] <https://mideafind.com/marktabdeckung-karte.html#datenqualitaet>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/MideaFind-Germany-DIY-Store-Locations.yml>`_]
         
 * |OK_ICON| `National Weather Service GIS Data Portal <https://www.weather.gov/gis//>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/National-Weather-Service-GIS-Data-Portal.yml>`_]
         
