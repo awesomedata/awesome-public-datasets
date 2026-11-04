@@ -218,6 +218,8 @@ Climate+Weather
         
 * |OK_ICON| `Dutch Weather - The KNMI Data Center (KDC) portal provides access to KNMI data on weather, [...] <https://dataplatform.knmi.nl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Dutch-Weather.yml>`_]
         
+* |OK_ICON| `EU CBAM Default Values - Machine-readable copy of the European Commission's CBAM default [...] <https://github.com/vedacta/cbam-default-values>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/EU-CBAM-Default-Values.yml>`_]
+        
 * |OK_ICON| `European Climate Assessment & Dataset <https://www.ecad.eu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
         
 * |OK_ICON| `GeoRank City Climate and Cost Dataset - Monthly climate normals for 478 world cities - [...] <https://georank.place/data/cities-tools.json>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/GeoRank-City-Climate.yml>`_]
