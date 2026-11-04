@@ -1090,6 +1090,8 @@ Government
         
 * |OK_ICON| `CharitySense Nonprofit Data API and Research Dataset - Free, no-auth API and public research [...] <https://data.charitysense.com/agents>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/CharitySense-Nonprofit-Data-API.yml>`_]
         
+* |OK_ICON| `Cheltenham Open Data, UK - Local public data for Cheltenham, Gloucestershire, collected [...] <https://cheltenham-od.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Cheltenham-Open-Data-UK.yml>`_]
+        
 * |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chicago.yml>`_]
         
 * |OK_ICON| `Chile <https://datos.gob.cl/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Chile.yml>`_]
