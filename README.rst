@@ -189,6 +189,8 @@ Chemistry
         
 * |OK_ICON| `LibertyCES Industrial Chemical Equipment Data - Real, open industrial chemical equipment [...] <https://data.libertyces.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/libertyces-industrial-chemical-equipment-data.yml>`_]
         
+* |OK_ICON| `MoleculeFinder: the molecules in everyday foods, drinks and products - 915 molecules from [...] <https://doi.org/10.5281/zenodo.23605767>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/moleculefinder-molecules-in-everyday-products.yml>`_]
+        
 * |OK_ICON| `State of Peptides 2026 - Open reference dataset of 156 peptide and peptide-adjacent [...] <https://peptahub.com/state-of-peptides-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Chemistry/state-of-peptides-2026.yml>`_]
     
 Climate+Weather
