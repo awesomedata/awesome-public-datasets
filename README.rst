@@ -715,6 +715,8 @@ Economics
 Education
 ---------
         
+* |OK_ICON| `AI Certifications Dataset - JSON records of AI certifications from technology vendors and [...] <https://github.com/jakeboland/ai-certifications-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/AI-Certifications-Dataset.yml>`_]
+        
 * |OK_ICON| `BackPR Open Data for US Youth Programs - Rules for childcare, camps and after-school programs [...] <https://doi.org/10.5281/zenodo.23577823>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/BackPR-US-Youth-Program-Data.yml>`_]
         
 * |OK_ICON| `BrightKey University & International School Ratings - An open, independent dataset rating [...] <https://brightkey.co/en/rankings/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Education/BrightKey-University-International-School-Ratings.yml>`_]
