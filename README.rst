@@ -1883,6 +1883,8 @@ Physics
 * |OK_ICON| `NSSDC (NASA) data of 550 space spacecraft <http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/NSSDC-NASA-data-of-550-space-spacecraft.yml>`_]
         
 * |OK_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Sloan-Digital-Sky-Survey-SDSS.yml>`_]
+        
+* |OK_ICON| `Solar and Lunar Eclipses 1950-2050 - 453 computed solar and lunar eclipses whose greatest- [...] <https://huggingface.co/datasets/eatfreshapple/solar-lunar-eclipses-1950-2050>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Solar-and-Lunar-Eclipses-1950-2050.yml>`_]
     
 ProstateCancer
 --------------
