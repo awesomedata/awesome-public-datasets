@@ -2215,6 +2215,8 @@ Software
         
 * |OK_ICON| `Libraries.io Open Source Repository and Dependency Metadata <https://doi.org/10.5281/zenodo.1068916>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Libraries.io-Open-Source-Repository-and-Dependency-Metadata.yml>`_]
         
+* |OK_ICON| `Lowdown MCP Registry daily observations (fixed sample of 10,000 remote servers, from [...] <https://github.com/PetShopBros/lowdown-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/Lowdown-MCP-Registry-daily-observations.yml>`_]
+        
 * |OK_ICON| `MCP Registry servers - One row per server in the official Model Context Protocol (MCP) [...] <https://huggingface.co/datasets/tanod/mcp-registry-servers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/MCP-Registry-servers.yml>`_]
         
 * |OK_ICON| `ProtocolProbe MCP registry facts - One record per server in the official Model Context [...] <https://huggingface.co/datasets/sultan57/mcp-registry-facts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/ProtocolProbe-MCP-registry-facts.yml>`_]
