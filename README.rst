@@ -2336,6 +2336,8 @@ Transportation
         
 * |OK_ICON| `AirportMiles airport codes (IATA, ICAO, coordinates) - CC0 table of the 4,008 airports with [...] <https://airportmiles.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/AirportMiles-Airport-Codes.yml>`_]
         
+* |OK_ICON| `Atlas ZBE - Low Emission Zones of Spain - Open dataset of Spain's low emission zones (121 [...] <https://github.com/marcc992/atlaszbe-datos>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Atlas-ZBE-Low-Emission-Zones-Spain.yml>`_]
+        
 * |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Bike-Share-Systems-BSS-collection.yml>`_]
         
 * |OK_ICON| `Dutch Traffic Information <https://opendata.ndw.nu/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Dutch-Traffic-Information.yml>`_]
