@@ -969,6 +969,8 @@ GIS
         
 * |OK_ICON| `Audiala Places - 33,289 travel points of interest across 93 countries and about 1,360 cities, [...] <https://huggingface.co/datasets/audiala/audiala-places>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Audiala-Places.yml>`_]
         
+* |OK_ICON| `CASAS.ES open data - Buildings, dwellings and year of construction of the municipalities of Malaga [...] <https://github.com/casas-es/datos>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/CASAS-ES-Malaga-Buildings.yml>`_]
+        
 * |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Cambridge-MA-US-GIS-data-on-GitHub.yml>`_]
         
 * |OK_ICON| `Castles of the World - 7,044 documented castles, fortresses and palaces across 141 countries [...] <https://thecastlemap.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Castles-of-the-World.yml>`_]
