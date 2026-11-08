@@ -330,6 +330,8 @@ ComputerNetworks
         
 * |OK_ICON| `EOSL.ai Enterprise Hardware End-of-Life Dates - Enterprise datacenter hardware end-of-sale [...] <https://eosl.ai/dataset/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/EOSL.ai-Enterprise-Hardware-End-of-Life-Dates.yml>`_]
         
+* |OK_ICON| `GL-MT6000 Wi-Fi CSI 10-minute capture (80 MHz, 256 subcarriers) - A 10-minute raw IEEE [...] <https://doi.org/10.5281/zenodo.23434789>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/GL-MT6000-WiFi-CSI.yml>`_]
+        
 * |OK_ICON| `GeoCables Internet Latency & Routing Observations - Daily aggregated round-trip latency [...] <https://geocables.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/GeoCables-Internet-Latency-Observations.yml>`_]
         
 * |OK_ICON| `Internet-Wide Scan Data Repository <https://scans.io/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ComputerNetworks/Internet-Wide-Scan-Data-Repository.yml>`_]
