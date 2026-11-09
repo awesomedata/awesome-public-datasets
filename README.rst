@@ -560,6 +560,8 @@ Economics
         
 * |OK_ICON| `Marbella Price Data - Open datasets of consumer prices on the Marbella (Spain) beachfront, [...] <https://github.com/shiftdylson1/marbella-price-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Marbella-Price-Data.yml>`_]
         
+* |OK_ICON| `Metro Colo Advisory Open Data (US Data Center Power, Cost and Copper Landline Retirement) - A [...] <https://github.com/metrocoloadvisory/metro-colo-data/tree/main>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Metro-Colo-Advisory-Open-Data.yml>`_]
+        
 * |OK_ICON| `Most Expensive Watches Auction Records - Documented luxury-watch auction results — 1,156 [...] <https://mostexpensivewatches.net/api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Most-Expensive-Watches-Auction-Records.yml>`_]
         
 * |OK_ICON| `NAS Drive Data - An open dataset of 140+ NAS and enterprise hard drives covering full [...] <https://www.nasdisks.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/NAS-Drive-Data.yml>`_]
