@@ -176,7 +176,7 @@ Biology
         
 * |OK_ICON| `Universal Protein Resource (UnitProt) - The Universal Protein Resource (UniProt) is a [...] <http://www.uniprot.org/downloads>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/Universal-Protein-Resource.yml>`_]
         
-* |OK_ICON| `World Bird Species (IOC 15.2) with multilingual names and cross-database IDs - One record for [...] <https://huggingface.co/datasets/yunfeichen/world-bird-species>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/World-Bird-Species-IOC.yml>`_]
+* |OK_ICON| `World Bird Species (AviList v2026) with multilingual names and cross-database IDs - One [...] <https://huggingface.co/datasets/yunfeichen/world-bird-species>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/World-Bird-Species-IOC.yml>`_]
         
 * |OK_ICON| `iNaturalist - Community-maintained species observation database with 180M+ observations [...] <https://www.inaturalist.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Biology/iNaturalist.yml>`_]
         
