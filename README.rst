@@ -1574,6 +1574,8 @@ ImageProcessing
         
 * |FIXME_ICON| `Animals with attributes <http://attributes.kyb.tuebingen.mpg.de/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Animals-with-attributes.yml>`_]
         
+* |OK_ICON| `Browser Image Encoder Target-Size Benchmarks - 108 measured runs of the browser's own JPEG [...] <https://github.com/mingyuetutu0527-glitch/exact-size-benchmarks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/Browser-Image-Encoder-Target-Size-Benchmarks.yml>`_]
+        
 * |OK_ICON| `CADDY Underwater Stereo-Vision Dataset of divers' hand gestures - Contains 10K stereo pair [...] <http://caddy-underwater-datasets.ge.issia.cnr.it/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CADDY-Underwater-Stereo-Vision-Dataset-of-hand-gestures.yml>`_]
         
 * |OK_ICON| `Cytology Dataset – CCAgT: Images of Cervical Cells with AgNOR Stain Technique - Contains 9339 [...] <https://doi.org/10.17632/wg4bpm33hj.2>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//ImageProcessing/CCAgT.yml>`_]
