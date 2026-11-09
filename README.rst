@@ -2104,6 +2104,8 @@ SocialSciences
         
 * |OK_ICON| `Cryptome Conspiracy Theory Items <https://cryptome.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Cryptome-Conspiracy-Theory-Items.yml>`_]
         
+* |OK_ICON| `Future daily prayer times for 300+ cities - Calculated Islamic prayer times (Fajr, sunrise, [...] <https://huggingface.co/datasets/eatfreshapple/daily-prayer-times-2027>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Daily-Prayer-Times-2027.yml>`_]
+        
 * |OK_ICON| `DaoPath Taoist Metaphysics 4-Language Dataset - First open-source 4-language (English, [...] <https://github.com/HeTaobaba123/daopath-terms-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/DaoPath-Taoist-Metaphysics-Dataset.yml>`_]
         
 * |OK_ICON| `DroneLedger (drone incident dossiers) - Source-backed dossiers of drone incidents worldwide [...] <https://github.com/NewBegin-gif/droneledger-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/DroneLedger.yml>`_]
