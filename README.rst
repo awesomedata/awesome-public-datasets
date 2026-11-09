@@ -250,6 +250,8 @@ Climate+Weather
         
 * |OK_ICON| `US County AirData 5-Year Emission Trends - Five-year change classification (decrease, [...] <https://zenodo.org/records/20382475>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/US-County-AirData-5-Year-Emission-Trends.yml>`_]
         
+* |OK_ICON| `US Severe Weather Warning Counts by State, County and City - Yearly counts of tornado, severe [...] <https://github.com/kanevu93/us-severe-weather-warning-counts>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/US-Severe-Weather-Warning-Counts.yml>`_]
+        
 * |OK_ICON| `Wahington Post Climate Change - To analyze warming temperatures in the United States, The [...] <https://github.com/washingtonpost/data-2C-beyond-the-limit-usa>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Washington Post Climate Change.yml>`_]
         
 * |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/WorldClim.yml>`_]
@@ -1498,6 +1500,8 @@ Healthcare
 * |OK_ICON| `Kovera Labs Peptide Certificate Index (vialaudit mirror) - Index of 1,828 public certificates [...] <https://vialaudit.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Kovera-Labs-Peptide-Certificate-Index.yml>`_]
         
 * |OK_ICON| `Loa U.S. Healthcare Price Transparency Dataset - Source-labeled U.S. healthcare pricing data, [...] <https://www.loacare.com/methodology>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/Loa-U.S.-Healthcare-Price-Transparency.yml>`_]
+        
+* |OK_ICON| `OrganWatch - US Organ Procurement Organization Oversight Data - Dossiers for all 57 US organ [...] <https://morvs.ai/voidly/organwatch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MORVS-OrganWatch-US-Organ-Procurement-Oversight.yml>`_]
         
 * |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed - Check under 'Obtain [...] <https://www.nlm.nih.gov/mesh/meshhome.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Healthcare/MeSH-the-vocabulary-thesaurus-used-for-indexing-articles-for-PubMed.yml>`_]
         
