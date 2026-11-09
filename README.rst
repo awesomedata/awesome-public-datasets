@@ -598,6 +598,8 @@ Economics
         
 * |OK_ICON| `RecentProfit Official Brand Savings Data - A dated U.S. consumer-savings dataset covering 33 [...] <https://github.com/clouddress/recentprofit-official-savings-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/RecentProfit-Official-Brand-Savings.yml>`_]
         
+* |OK_ICON| `Regional Price Index - Digital Subscription Prices by Country - Local list prices of digital [...] <https://github.com/vidneat/regional-price-index-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Regional-Price-Index.yml>`_]
+        
 * |OK_ICON| `SBA Loan Maturity Wall - An open dataset computing the maturity year of 66,307 SBA 7(a)/504 [...] <https://scouly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SBA-Loan-Maturity-Wall.yml>`_]
         
 * |OK_ICON| `Specialty Coffee Bag Price Index (The Specialty Bag Index) - Public specialty coffee retail- [...] <https://mycoffeeexplorer.com/reference/coffee-statistics-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/SPECIALTY_BAG_INDEX.yml>`_]
