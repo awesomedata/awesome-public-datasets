@@ -1362,6 +1362,8 @@ Government
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
         
+* |OK_ICON| `Tally LA - Los Angeles Taxes, Budgets, Programs and Votes - Free CSVs of City of Los Angeles [...] <https://huggingface.co/datasets/tallyla/tally-la-los-angeles-taxes-budgets-votes>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tally-LA-Los-Angeles.yml>`_]
+        
 * |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/en/Pages/home.aspx>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tel-Aviv.yml>`_]
         
 * |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Texas-Open-Data.yml>`_]
