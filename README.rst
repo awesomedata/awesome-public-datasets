@@ -817,6 +817,8 @@ Energy
 Entertainment
 -------------
         
+* |OK_ICON| `Anime Filler Episodes: 13 Long Anime - Every episode of 13 long-running anime (One Piece, [...] <https://huggingface.co/datasets/FillerLists/anime-filler-episodes>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Anime-Filler-Episodes.yml>`_]
+        
 * |OK_ICON| `Antics Party Data: How Groups Play Party Games - Party start times by hour (UK time), parties [...] <https://github.com/GMAntics/party-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Antics-Party-Data.yml>`_]
         
 * |OK_ICON| `Tarot Card Meanings: A Complete 78-Card Semantic Dataset - A machine-readable dataset [...] <https://doi.org/10.5281/zenodo.19475329>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Deckaura-Tarot-Card-Meanings.yml>`_]
