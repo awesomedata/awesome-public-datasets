@@ -2350,6 +2350,8 @@ Transportation
         
 * |OK_ICON| `European Low Emission Zones - Continuously verified dataset of 596 European low-emission zone [...] <https://github.com/f4tihwin57/europe-emission-zones>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/European-Low-Emission-Zones.yml>`_]
         
+* |OK_ICON| `European Train Timetable Summaries - Station-to-station summaries of the official open [...] <https://zenodo.org/records/23827431>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/European-Train-Timetable-Summaries.yml>`_]
+        
 * |OK_ICON| `FAA Wildlife Strikes on Civil Aircraft 1990-2026 (aggregated) - Versioned CC BY 4.0 [...] <https://doi.org/10.5281/zenodo.21347859>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FAA-Wildlife-Strikes-Aggregated-1990-2026.yml>`_]
         
 * |OK_ICON| `FPV-DB - FPV Drone Component Specifications and Motor Thrust Tables - Spec sheets for 1,150 [...] <https://github.com/fpvdb/fpv-db-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/FPV-DB-FPV-Drone-Component-Specifications.yml>`_]
