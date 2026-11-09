@@ -802,6 +802,8 @@ Energy
         
 * |OK_ICON| `Publicly Available Datasets For Electric Load Forecasting - Contains an active maintained [...] <https://github.com/LSB-dev/Publicly-Available-Datasets-For-Electric-Load-Forecasting/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/PubliclyAvailableLoadForecastingDatasets.yml>`_]
         
+* |OK_ICON| `Small Modular Reactor Projects (SMRMap) - Source-linked small modular reactor project, [...] <https://smrmap.com/downloads.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/SMRMap-Small-Modular-Reactor-Projects.yml>`_]
+        
 * |OK_ICON| `SYND - A synthetic energy dataset for non-intrusive load monitoring - With SynD, we present a [...] <https://www.nature.com/articles/s41597-020-0434-6>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/SYND.yml>`_]
         
 * |OK_ICON| `Tracebase <https://github.com/areinhardt/tracebase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Tracebase.yml>`_]
@@ -986,6 +988,8 @@ GIS
 * |OK_ICON| `Castles of the World - 7,044 documented castles, fortresses and palaces across 141 countries [...] <https://thecastlemap.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Castles-of-the-World.yml>`_]
         
 * |OK_ICON| `Crusader Atlas - Hand-curated geographic gazetteer of 170 Crusader-era sites (castles, [...] <https://crusaderatlas.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Crusader-Atlas.yml>`_]
+        
+* |OK_ICON| `U.S. Data Center Facility Register (DataCenterData) - U.S. data center facility-register [...] <https://datacenterdata.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/DataCenterData-US-Facility-Register.yml>`_]
         
 * |OK_ICON| `Database of all continents, countries, States/Subdivisions/Provinces and Cities - Database [...] <https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//GIS/Database-of-Continents-Coutries-States-Cities.yml>`_]
         
@@ -1903,6 +1907,8 @@ Physics
 * |OK_ICON| `Sloan Digital Sky Survey (SDSS) - Mapping the Universe <http://www.sdss.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Sloan-Digital-Sky-Survey-SDSS.yml>`_]
         
 * |OK_ICON| `Solar and Lunar Eclipses 1950-2050 - 453 computed solar and lunar eclipses whose greatest- [...] <https://huggingface.co/datasets/eatfreshapple/solar-lunar-eclipses-1950-2050>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/Solar-and-Lunar-Eclipses-1950-2050.yml>`_]
+        
+* |OK_ICON| `Space Resources Organizations and Missions (SpaceMiningData) - Source-linked records of [...] <https://spaceminingdata.com/data.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Physics/SpaceMiningData-Space-Resources.yml>`_]
     
 ProstateCancer
 --------------
