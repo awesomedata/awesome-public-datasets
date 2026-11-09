@@ -823,6 +823,8 @@ Entertainment
         
 * |OK_ICON| `Antics Party Data: How Groups Play Party Games - Party start times by hour (UK time), parties [...] <https://github.com/GMAntics/party-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Antics-Party-Data.yml>`_]
         
+* |OK_ICON| `Boltshorts Mobile Games Data (App Store and Google Play) - Store facts for about 8,000 iPhone [...] <https://github.com/phescobbar/mobile-games-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Boltshorts-Mobile-Games-Data.yml>`_]
+        
 * |OK_ICON| `Tarot Card Meanings: A Complete 78-Card Semantic Dataset - A machine-readable dataset [...] <https://doi.org/10.5281/zenodo.19475329>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Deckaura-Tarot-Card-Meanings.yml>`_]
         
 * |OK_ICON| `Internet Radio M3U Playlists (weekly Radio Browser snapshot) - Weekly-rebuilt M3U playlists [...] <https://github.com/AlonDrilich/radio-playlists>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/Internet-Radio-M3U-Playlists.yml>`_]
