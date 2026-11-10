@@ -884,8 +884,6 @@ Finance
         
 * |OK_ICON| `Institutional AAOIFI Halal Cryptocurrency Dataset - Institutional open-access dataset of 820+ [...] <https://github.com/tffsgsff-ops/halal-crypto-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Halal-Cryptocurrency-AAOIFI-Dataset.yml>`_]
         
-* |OK_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`_]
-        
 * |OK_ICON| `HostDeFi Weekly Token Safety Snapshot - Weekly CC BY 4.0 CSV snapshot of deterministic A+–F [...] <https://hostdefi.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/HostDeFi-Safety-Snapshot.yml>`_]
         
 * |OK_ICON| `M&A Multiples Index (SMB & Lower-Middle-Market) - Open dataset of median EV/EBITDA and [...] <https://github.com/nickcals/multiples>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/MA-Multiples-Index.yml>`_]
