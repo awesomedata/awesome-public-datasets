@@ -884,8 +884,6 @@ Finance
         
 * |OK_ICON| `Central Bank Exchange Rates - Daily official rates from 121 central banks and tax authorities [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Central-Bank-Exchange-Rates.yml>`_]
         
-* |OK_ICON| `ChainCosts Exchange Withdrawal Fees - Cited snapshots of cryptocurrency centralized-exchange [...] <https://github.com/chaincosts/exchange-fees>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ChainCosts-Exchange-Fees.yml>`_]
-        
 * |OK_ICON| `Card-Network Chargeback Reason Codes - Open reference dataset of all 64 active chargeback [...] <https://github.com/small-business-software-maker/chargeback-reason-codes>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Chargeback-Reason-Codes.yml>`_]
         
 * |OK_ICON| `ClearTrace DEX Execution Quality - Longitudinal dataset of DEX aggregator execution quality [...] <https://github.com/RantumBits/cleartrace-dex-execution-quality>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ClearTrace-DEX-Execution-Quality.yml>`_]
