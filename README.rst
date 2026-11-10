@@ -924,8 +924,6 @@ Finance
         
 * |OK_ICON| `Quandl <https://www.quandl.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Quandl.yml>`_]
         
-* |FIXME_ICON| `Resimanor South Korea Stress DSR Mortgage Limit Reference Data (2026) - An open South Korea [...] <https://zenodo.org/records/22840870>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Resimanor-Korea-Stress-DSR-2026.yml>`_]
-        
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |FIXME_ICON| `St Louis Federal <https://fred.stlouisfed.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
