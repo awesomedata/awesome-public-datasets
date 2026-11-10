@@ -882,8 +882,6 @@ Finance
         
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
         
-* |OK_ICON| `The Most Active Venture Investors of 2026 - The 250 most active venture investors of 2026 so [...] <https://indexed.vc/reports/most-active-investors-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Most-Active-Investors-2026.yml>`_]
-        
 * |OK_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NYSE-Market-Data.yml>`_]
         
 * |OK_ICON| `OANDA <http://www.oanda.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OANDA.yml>`_]
