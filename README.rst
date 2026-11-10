@@ -880,8 +880,6 @@ Finance
         
 * |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
         
-* |OK_ICON| `Global Solo Banking Access Index - Evidence-cited matrix of which US business-banking [...] <https://www.globalsolo.global/data/banking-access-index>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Global-Solo-Banking-Access-Index.yml>`_]
-        
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
         
 * |OK_ICON| `Institutional AAOIFI Halal Cryptocurrency Dataset - Institutional open-access dataset of 820+ [...] <https://github.com/tffsgsff-ops/halal-crypto-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Halal-Cryptocurrency-AAOIFI-Dataset.yml>`_]
