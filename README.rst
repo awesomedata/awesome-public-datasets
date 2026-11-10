@@ -932,8 +932,6 @@ Finance
         
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
-* |OK_ICON| `S&P 500 Drawdowns Since 1999 - Worst fall from a running high, with peak, trough and recovery [...] <https://github.com/coopermb-glitch/sp500-drawdowns-since-1999>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SP500-Drawdowns-Since-1999.yml>`_]
-        
 * |FIXME_ICON| `St Louis Federal <https://fred.stlouisfed.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
         
 * |OK_ICON| `UK Payment Practices 2017-2026 - Aggregate figures from 114,758 statutory payment practices [...] <https://github.com/Chadhauser/uk-payment-practices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/UK-Payment-Practices.yml>`_]
