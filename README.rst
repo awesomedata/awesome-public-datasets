@@ -429,6 +429,8 @@ EarthScience
         
 * |OK_ICON| `Earth Models <https://www.earthmodels.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Earth-Models.yml>`_]
         
+* |OK_ICON| `Geoscience Data Portals - A catalogue of government geoscience data portals used in mineral [...] <https://github.com/XploraHub/geoscience-data-portals>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Geoscience-Data-Portals.yml>`_]
+        
 * |OK_ICON| `Global Wind Atlas - The Global Wind Atlas is a free, web-based application developed to help [...] <https://globalwindatlas.info/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/Global-Wind-Atlas.yml>`_]
         
 * |OK_ICON| `HotSpringsFind - US hot springs public index (~400 researched locations) - Maintained public [...] <https://hotspringsfind.com/hot-springs-statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//EarthScience/HotSpringsFind-US-Hot-Springs-Index.yml>`_]
