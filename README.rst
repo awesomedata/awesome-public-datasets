@@ -1176,6 +1176,8 @@ Government
         
 * |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Glasgow-Scotland-UK.yml>`_]
         
+* |OK_ICON| `Global Law - The law of 208 jurisdictions (714 corpora) as git histories. Each act is a [...] <https://github.com/lexifina/global-law>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Global-Law.yml>`_]
+        
 * |OK_ICON| `GlobeNomad Visa Dataset - long-stay and digital-nomad visa programmes, sourced and dated - 53 [...] <https://github.com/MSeutin/digital-nomad-visa-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/GlobeNomad-Visa-Dataset.yml>`_]
         
 * |FIXME_ICON| `Greece Public Procurement (Diavgis) - Greek public procurement records aggregated from [...] <https://diavgis.gr>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Greece-Public-Procurement-OCDS.yml>`_]
