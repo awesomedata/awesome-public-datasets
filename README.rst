@@ -870,8 +870,6 @@ Finance
         
 * |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://data.bis.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
         
-* |OK_ICON| `CBOE Futures Exchange <https://www.cboe.com/data/market-statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/CBOE-Futures-Exchange.yml>`_]
-        
 * |OK_ICON| `Central Bank Exchange Rates - Daily official rates from 121 central banks and tax authorities [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Central-Bank-Exchange-Rates.yml>`_]
         
 * |OK_ICON| `Dividend Data Toolkit - SCHD Payments and Holdings - Dated SCHD payment and holdings [...] <https://github.com/holaclea/dividend-data-toolkit>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dividend-Data-Toolkit.yml>`_]
