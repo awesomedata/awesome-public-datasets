@@ -928,8 +928,6 @@ Finance
         
 * |OK_ICON| `Major Customers of US Public Companies from SEC 10-K Filings (Ryufin) - Every major customer [...] <https://github.com/GerritPro/edgar-supply-chain>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Ryufin-SEC-10K-Major-Customers.yml>`_]
         
-* |OK_ICON| `SBA 7(a) Loan Charge-Off Rates 1992-2026 - Charge-off rates computed from the complete public [...] <https://github.com/Chadhauser/sba-7a-chargeoff-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SBA-7a-Charge-Off-Rates.yml>`_]
-        
 * |FIXME_ICON| `SEC EDGAR - EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, is the [...] <https://www.sec.gov/edgar/about>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/SEC-EDGAR.yml>`_]
         
 * |FIXME_ICON| `St Louis Federal <https://fred.stlouisfed.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/St-Louis-Federal.yml>`_]
