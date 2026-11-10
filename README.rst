@@ -884,8 +884,6 @@ Finance
         
 * |OK_ICON| `Institutional AAOIFI Halal Cryptocurrency Dataset - Institutional open-access dataset of 820+ [...] <https://github.com/tffsgsff-ops/halal-crypto-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Halal-Cryptocurrency-AAOIFI-Dataset.yml>`_]
         
-* |OK_ICON| `HostDeFi Weekly Token Safety Snapshot - Weekly CC BY 4.0 CSV snapshot of deterministic A+–F [...] <https://hostdefi.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/HostDeFi-Safety-Snapshot.yml>`_]
-        
 * |OK_ICON| `M&A Multiples Index (SMB & Lower-Middle-Market) - Open dataset of median EV/EBITDA and [...] <https://github.com/nickcals/multiples>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/MA-Multiples-Index.yml>`_]
         
 * |OK_ICON| `The Most Active Venture Investors of 2026 - The 250 most active venture investors of 2026 so [...] <https://indexed.vc/reports/most-active-investors-2026>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Most-Active-Investors-2026.yml>`_]
