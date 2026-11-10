@@ -872,8 +872,6 @@ Finance
         
 * |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://data.bis.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
         
-* |OK_ICON| `ByKaranteli Crypto Derivatives Datasets - Funding, Open Interest, Liquidations, Options, ETF Flows and [...] <https://github.com/bykarantelicom/crypto-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ByKaranteli-Crypto-Derivatives.yml>`_]
-        
 * |OK_ICON| `CBOE Futures Exchange <https://www.cboe.com/data/market-statistics>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/CBOE-Futures-Exchange.yml>`_]
         
 * |OK_ICON| `Instant Crypto Exchange Delivered Amounts - Website Checks - Raw CSV rows of what instant [...] <https://github.com/cambio-one/exchange-fee-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Cambio-Instant-Exchange-Delivered-Amounts.yml>`_]
