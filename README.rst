@@ -961,8 +961,6 @@ Finance
 * |OK_ICON| `Wiseek Filing Impact - Monthly statistics on how SEC filings move US stocks. Importance [...] <https://zenodo.org/records/22047734>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Wiseek Filing Impact.yml>`_]
         
 * |OK_ICON| `Zyphe AML Enforcement Tracker - Structured record of AML/BSA fines, sanctions actions, GDPR [...] <https://www.zyphe.com/resources/aml-enforcement-tracker>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Zyphe-AML-Enforcement-Tracker.yml>`_]
-        
-* |OK_ICON| `Korean Equity Daily Prices and DART Filing Impact - Every listed KOSPI, KOSDAQ and KONEX [...] <https://huggingface.co/datasets/aikstockdata/korea-equity-daily>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/aikstockdata-Korea-Equity-Daily.yml>`_]
     
 GIS
 ---
