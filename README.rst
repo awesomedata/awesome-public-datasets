@@ -658,6 +658,8 @@ Economics
         
 * |OK_ICON| `US Enforcement Actions Against Crypto Trading-Signal Fraud - A structured, primary-source- [...] <https://realcryptosignals.com/research/enforcement-actions/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Enforcement-Actions-Crypto-Signal-Fraud.yml>`_]
         
+* |OK_ICON| `US Fair Market Rents FY2027 by County (HUD, verified) - One CSV row per US county (3,268 rows [...] <https://github.com/rentlimit/us-fair-market-rents>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Fair-Market-Rents-FY2027-by-County.yml>`_]
+        
 * |OK_ICON| `US Franchise FDD Disclosure Statistics - Per-brand headline facts from 450+ officially [...] <https://franchisefactsreport.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-Franchise-FDD-Disclosures.yml>`_]
         
 * |OK_ICON| `US H-1B / LCA Open Data (Cleaned) - Cleaned aggregate tables derived from US Department of [...] <https://h1b.report/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/US-H-1B-LCA-Open-Data.yml>`_]
