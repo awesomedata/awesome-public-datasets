@@ -952,8 +952,6 @@ Finance
         
 * |OK_ICON| `UK Payment Practices 2017-2026 - Aggregate figures from 114,758 statutory payment practices [...] <https://github.com/Chadhauser/uk-payment-practices>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/UK-Payment-Practices.yml>`_]
         
-* |OK_ICON| `US Executive-Branch Stock Trade Disclosures (OGE Form 278) - Stock and asset transactions [...] <https://github.com/disclosedcapitol/executive-branch-trades>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Executive-Branch-Stock-Trade-Disclosures.yml>`_]
-        
 * |OK_ICON| `US Options Market Structure Daily - Max Pain, Gamma Exposure, Call Wall and Put Floor for 12 US Stocks [...] <https://github.com/myjr0629-hue/options-market-structure-daily>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-Options-Market-Structure-Daily.yml>`_]
         
 * |OK_ICON| `US State Income Tax 2026 (all 51 jurisdictions) - State individual income tax rules for tax [...] <https://github.com/mixseomin/us-state-income-tax>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Income-Tax-2026.yml>`_]
