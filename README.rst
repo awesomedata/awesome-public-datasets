@@ -870,8 +870,6 @@ Finance
         
 * |OK_ICON| `SEC Form 4 Insider Trading (AlphaAI) - US corporate insider trades parsed from SEC EDGAR Form [...] <https://huggingface.co/datasets/mikhailmakeev/sec-form4-insider-trading>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AlphaAI-SEC-Form4-Insider-Trading.yml>`_]
         
-* |FIXME_ICON| `AptToSell South Korea Housing Subscription Reference Data (2026) - An open South Korea [...] <https://zenodo.org/records/22842058>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/AptToSell-Korea-Housing-Subscription-2026.yml>`_]
-        
 * |OK_ICON| `BIS Statistics - BIS statistics, compiled in cooperation with central banks and other [...] <https://data.bis.org/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/BIS Statistics.yml>`_]
         
 * |OK_ICON| `ByKaranteli Crypto Derivatives Datasets - Funding, Open Interest, Liquidations, Options, ETF Flows and [...] <https://github.com/bykarantelicom/crypto-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/ByKaranteli-Crypto-Derivatives.yml>`_]
