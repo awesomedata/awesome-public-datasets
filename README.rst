@@ -888,8 +888,6 @@ Finance
         
 * |OK_ICON| `OpenCard DB - Community-maintained open dataset of credit card product metadata covering 189 [...] <https://github.com/thedavidweng/opencard-db>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenCard-DB.yml>`_]
         
-* |OK_ICON| `OpenChainBench - Live, reproducible benchmarks for crypto infrastructure. Continuously [...] <https://openchainbench.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/OpenChainBench.yml>`_]
-        
 * |OK_ICON| `US Online Card Processing Fees (Payney, September 2026) - Published online card-acceptance [...] <https://payney.com/reports/online-card-fees-us-2026-09/#method>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Payney-US-Online-Card-Fees-2026.yml>`_]
         
 * |OK_ICON| `Peru SMV Financial Statements - Normalized financial statements of 682 companies supervised [...] <https://github.com/AtlasLedger/smv-eeff>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Peru-SMV-Financial-Statements.yml>`_]
