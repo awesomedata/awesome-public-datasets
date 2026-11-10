@@ -872,8 +872,6 @@ Finance
         
 * |OK_ICON| `Central Bank Exchange Rates - Daily official rates from 121 central banks and tax authorities [...] <https://github.com/AllRates-Today/central-bank-exchange-rates>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Central-Bank-Exchange-Rates.yml>`_]
         
-* |OK_ICON| `Dividend Data Toolkit - SCHD Payments and Holdings - Dated SCHD payment and holdings [...] <https://github.com/holaclea/dividend-data-toolkit>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Dividend-Data-Toolkit.yml>`_]
-        
 * |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
         
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
