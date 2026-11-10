@@ -952,8 +952,6 @@ Finance
         
 * |OK_ICON| `US State Tax Lien and Tax Deed Dataset (2026) - A sourced, machine-readable dataset [...] <https://taxliensimple.com/dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/US-State-Tax-Lien-Deed.yml>`_]
         
-* |OK_ICON| `VASP Tracker - Crypto Licensing Deadlines by Jurisdiction - When virtual-asset / crypto-asset [...] <https://doi.org/10.5281/zenodo.23575353>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/VASP-Tracker-Crypto-Licensing-Deadlines.yml>`_]
-        
 * |OK_ICON| `VC Deal Flow Signal (GitHub-Derived Early-Stage Venture Signals) - An open dataset of GitHub- [...] <https://huggingface.co/datasets/the-data-nerd/vc-deal-flow-signal>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/VC-Deal-Flow-Signal.yml>`_]
         
 * |OK_ICON| `Webb Database - Aggregates and structures public financial data from HKEX, the SFC, the Hong [...] <https://webb-database.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Webb-Database.yml>`_]
