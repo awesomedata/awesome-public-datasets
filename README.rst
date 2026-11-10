@@ -900,8 +900,6 @@ Finance
         
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
         
-* |OK_ICON| `HEY Research Lab - Robinhood Chain Builder Records - Daily snapshots of the public builder [...] <https://heyresearch.xyz/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/HEY-Research-Lab-Robinhood-Chain-Builders.yml>`_]
-        
 * |OK_ICON| `Institutional AAOIFI Halal Cryptocurrency Dataset - Institutional open-access dataset of 820+ [...] <https://github.com/tffsgsff-ops/halal-crypto-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Halal-Cryptocurrency-AAOIFI-Dataset.yml>`_]
         
 * |OK_ICON| `Helium - Real-time news articles with political bias scoring (3.2M+ articles, 5,000+ [...] <https://heliumtrades.com/mcp-page/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Helium.yml>`_]
