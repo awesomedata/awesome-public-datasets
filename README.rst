@@ -861,6 +861,8 @@ Entertainment
         
 * |OK_ICON| `Blackjack Basic Strategy with Per-Action EV - All 340 blackjack basic-strategy decisions [...] <https://github.com/Blackjack-Verdict/blackjack-basic-strategy>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/blackjack-basic-strategy-per-action-ev.yml>`_]
         
+* |OK_ICON| `Smarter.Poker 2026 Open Quantitative Poker Research Datasets (v2026.11) - CC-BY 4.0 datasets (DOI: 10.5281/zenodo.24095049) covering 808 US cardrooms & rake structures, 210,000+ tournament payout distributions, 169-combo preflop Nash ranges, and 850+ solver strategy benchmarks <https://doi.org/10.5281/zenodo.24095049>`_ [`GitHub <https://github.com/Smarter-Poker/smarter-poker-open-datasets>`_]
+        
 * |OK_ICON| `Poker Nash Push/Fold Ranges (6-max and 9-max) - Chip-EV Nash shove frequency for all 169 [...] <https://github.com/hasuwini77/push-fold-ranges>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Entertainment/poker-nash-push-fold-ranges.yml>`_]
     
 Finance
