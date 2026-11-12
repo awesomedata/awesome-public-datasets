@@ -1284,6 +1284,8 @@ Government
         
 * |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Switzerland.yml>`_]
         
+* |OK_ICON| `Syria Official Gazette Records - Records built from the Official Gazette of the Syrian Arab [...] <https://doi.org/10.5281/zenodo.24122383>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Syria-Official-Gazette-Records.yml>`_]
+        
 * |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan-g0v.yml>`_]
         
 * |OK_ICON| `Taiwan <http://data.gov.tw/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Taiwan.yml>`_]
