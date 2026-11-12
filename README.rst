@@ -1340,6 +1340,8 @@ Government
         
 * |OK_ICON| `US Counties - This is a repository of various data, broken down by US county. While most of [...] <https://github.com/evangambit/JsonOfCounties>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Counties.yml>`_]
         
+* |OK_ICON| `US Data Center Moratorium Tracker - Tracker of US data center moratoriums, pauses, state [...] <https://pacificsoftwareventures.com/data-center-moratorium-tracker>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Data-Center-Moratorium-Tracker.yml>`_]
+        
 * |OK_ICON| `US Dog and Cat Food Recalls (FDA, 2012 onward) - Every dog and cat food recall the US Food [...] <https://github.com/perbowl/pet-food-recalls>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Dog-and-Cat-Food-Recalls-FDA.yml>`_]
         
 * |FIXME_ICON| `US Federal Campgrounds (Campsite Atlas Open Data) - All 5,780 campgrounds in the U.S. federal [...] <https://campsiteatlas.com/data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/US-Federal-Campgrounds-Campsite-Atlas.yml>`_]
