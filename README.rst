@@ -872,6 +872,8 @@ Finance
         
 * |OK_ICON| `Complete FAANG Stock data - This data set contains all the stock data of FAANG companies from [...] <https://www.kaggle.com/aayushmishra1512/faang-complete-stock-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FAANG-StockData.yml>`_]
         
+* |OK_ICON| `FOMC rate decisions register, 1990 to 2026 - All 317 Federal Open Market Committee rate [...] <https://doi.org/10.5281/zenodo.24128716>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/FOMC-Rate-Decisions-Register-1990-2026.yml>`_]
+        
 * |OK_ICON| `Google Finance <https://www.google.com/finance>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/Google-Finance.yml>`_]
         
 * |OK_ICON| `NYSE Market Data <ftp://ftp.nyxdata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Finance/NYSE-Market-Data.yml>`_]
