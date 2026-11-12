@@ -1214,6 +1214,8 @@ Government
         
 * |OK_ICON| `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Ottawa-ON-Canada.yml>`_]
         
+* |OK_ICON| `PURSUE Declassified UAP Files (structured index and page transcriptions) - Structured index [...] <https://github.com/tomasstankovic/uapinsight-pursue-dataset>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PURSUE-Declassified-UAP-Files.yml>`_]
+        
 * |OK_ICON| `Palo Alto, California, US <https://data.paloalto.gov/home>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Palo-Alto-California-US.yml>`_]
         
 * |OK_ICON| `Pass2port Open Citizenship- and Residency-by-Investment (CBI/RBI) Programme Dataset - Source- [...] <https://doi.org/10.5281/zenodo.23689530>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Pass2port-CBI-RBI-Programmes.yml>`_]
