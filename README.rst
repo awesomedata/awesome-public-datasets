@@ -1050,6 +1050,8 @@ Government
         
 * |OK_ICON| `Currawong Supplier-Verification Research - 25 published datasets from measurement studies on [...] <https://dataverse.harvard.edu/dataverse/currawong-verification>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Currawong-Supplier-Verification-Research.yml>`_]
         
+* |OK_ICON| `Czech Republic open data tables - 35 cleaned tables built from official Czech open data [...] <https://github.com/sth3no/czech-open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Czech-Republic-open-data-tables.yml>`_]
+        
 * |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Dallas-Open-Data.yml>`_]
         
 * |OK_ICON| `DataBC - data from the Province of British Columbia <https://www.data.gov.bc.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/DataBC.yml>`_]
