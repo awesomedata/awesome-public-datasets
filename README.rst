@@ -2284,6 +2284,10 @@ TimeSeries
 Transportation
 --------------
         
+* |OK_ICON| `Headway Open Transit Timetables & Frequency Dataset - Real-world GTFS-derived multi-modal transit schedules, route stops, and service frequency models across major transit systems <https://headway.shivrajsinh.in>`_ [`GitHub <https://github.com/shivrajsinhzala/headway>`_]
+        
+* |OK_ICON| `Stopwatch Multi-Country Public Transit Timetable Dataset - Comprehensive public transit dataset spanning 120+ networks and millions of scheduled trips across US, UK, Australia, Ireland, and Canada <https://transit.shivrajsinh.in>`_ [`GitHub <https://github.com/shivrajsinhzala/transit-timetables>`_]
+        
 * |OK_ICON| `ADSBiq Daily Aircraft State Diffs - Free daily worldwide ADS-B aircraft state-diff exports [...] <https://adsbiq.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/ADSBiq-Daily-Aircraft-State-Diffs.yml>`_]
         
 * |OK_ICON| `Airlines OD Data 1987-2008 <https://doi.org/10.7910/DVN/HG7NV7>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Airlines-OD-Data-1987~2008.yml>`_]
