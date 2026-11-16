@@ -1597,6 +1597,8 @@ ImageProcessing
 InterDisciplinary
 -----------------
         
+* |OK_ICON| `Error Correction Zoo - Semi-structured YAML data behind the Error Correction Zoo, covering [...] <https://github.com/errorcorrectionzoo/eczoo_data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/Error-Correction-Zoo.yml>`_]
+        
 * |OK_ICON| `Extremal Values Registry - Best-known values for 322 extremal mathematics problem variants, [...] <https://github.com/extremal-values-registry/extremal-values-registry>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/Extremal-Values-Registry.yml>`_]
         
 * |OK_ICON| `Google Trends <https://trends.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//InterDisciplinary/Google-Trends.yml>`_]
