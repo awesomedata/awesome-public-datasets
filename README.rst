@@ -2368,6 +2368,8 @@ Transportation
         
 * |OK_ICON| `Road511 - Unified REST/GeoJSON API normalizing real-time traffic data from 65 US state and [...] <https://road511.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Road511.yml>`_]
         
+* |OK_ICON| `Southeast Asia Transport Data (border crossings, routes, ferries and maps) - Open data for [...] <https://github.com/laosbustickets/southeast-asia-transport-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Southeast-Asia-Transport-Data.yml>`_]
+        
 * |OK_ICON| `Renfe (Spanish National Railway Network) dataset <https://data.renfe.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Spanish-train-system-by-Renfe.yml>`_]
         
 * |OK_ICON| `Speed Radars Announced in Spain (Radares Anunciados) - Open GeoJSON feed, rebuilt on a 6-hour [...] <https://github.com/GeiserX/radares-anunciados-ha>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Speed-Radars-Announced-in-Spain.yml>`_]
