@@ -244,6 +244,8 @@ Climate+Weather
         
 * |OK_ICON| `Open-Meteo - Open-Source Weather API - Open-source weather API with free access for non- [...] <https://open-meteo.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Open-Meteo.yml>`_]
         
+* |OK_ICON| `SOMA AI Emission Factors (SAEF) - Carbon and water emission factors per million tokens for [...] <https://github.com/guillermollopis/soma-ai-emission-factors>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/SAEF-AI-Inference-Emission-Factors.yml>`_]
+        
 * |OK_ICON| `Sunshine Atlas - Monthly sunshine scores for 3,833 airport-served destinations - Monthly [...] <https://zenodo.org/records/21630285>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/Sunshine-Atlas.yml>`_]
         
 * |OK_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/The-World-Bank-Open-Data-Resources-for-Climate-Change.yml>`_]
