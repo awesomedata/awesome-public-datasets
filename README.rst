@@ -1687,6 +1687,8 @@ MachineLearning
 Museums
 -------
         
+* |OK_ICON| `Artnap Public Domain Artworks - Metadata for about 310,000 public domain artworks gathered [...] <https://huggingface.co/datasets/artnap/public-domain-artworks>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Artnap-Public-Domain-Artworks.yml>`_]
+        
 * |OK_ICON| `Cooper-Hewitt's Collection Database <https://github.com/cooperhewitt/collection>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/Cooper-Hewitt-Collection-Database.yml>`_]
         
 * |OK_ICON| `CultureTechLens Black Cultural Knowledge Graph - An open, evidence-graded knowledge graph of [...] <https://doi.org/10.5281/zenodo.23403147>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Museums/CultureTechLens-Black-Cultural-Knowledge-Graph.yml>`_]
