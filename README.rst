@@ -66,8 +66,6 @@ Agriculture
         
 * |OK_ICON| `USDA Boxed Beef, Pork and Fed Cattle Prices by Cut - USDA Livestock Mandatory Reporting [...] <https://juantorresmi.github.io/usda-market-prices/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/USDA-Boxed-Beef-Pork-and-Fed-Cattle-Prices.yml>`_]
         
-* |FIXME_ICON| `USDA NASS County Crop Yields - Free static JSON API serving USDA NASS county-level annual [...] <https://productofamerica.github.io/usda-county-yields/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/USDA-NASS-County-Crop-Yields.yml>`_]
-        
 * |OK_ICON| `World Cuisine Ingredient Overlap - Ingredient overlap between 24 world cuisines, measured [...] <https://www.kaggle.com/datasets/alperacax/world-cuisine-ingredient-overlap-24-cuisines>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/World-Cuisine-Ingredient-Overlap.yml>`_]
         
 * |OK_ICON| `Yard Material Coverage Data - An open reference dataset for cubic-yard coverage by depth, [...] <https://demi-valerith.github.io/yard-material-coverage-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Agriculture/Yard-Material-Coverage-Data.yml>`_]
