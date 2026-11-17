@@ -784,6 +784,8 @@ Energy
         
 * |OK_ICON| `U.S. Energy Information Administration (EIA) <https://www.eia.gov/electricity/data/eia923/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/EIA.yml>`_]
         
+* |OK_ICON| `France Tempo Days and Winter Electricity Consumption - Daily colour of the French EDF Tempo [...] <https://huggingface.co/datasets/JourTempo/tempo-hivers-france>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/France-Tempo-Days-and-Winter-Consumption.yml>`_]
+        
 * |OK_ICON| `Global Power Plant Database - The Global Power Plant Database is a comprehensive, open source [...] <http://datasets.wri.org/dataset/globalpowerplantdatabase>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/Global Power Plant Database.yml>`_]
         
 * |OK_ICON| `HES - Household Electricity Study, UK <http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/HES.yml>`_]
