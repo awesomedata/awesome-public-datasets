@@ -1000,9 +1000,9 @@ Government
         
 * |FIXME_ICON| `Antwerp, Belgium <https://www.antwerpen.be/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Antwerp-Belgium.yml>`_]
         
-* |OK_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
+* |FIXME_ICON| `Argentina (non official) <http://datos.gob.ar>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina-non-official.yml>`_]
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
+* |FIXME_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. Encontrá datos públicos [...] <http://datos.gob.ar/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Argentina.yml>`_]
         
 * |OK_ICON| `AssessorSearch 2026 Property Tax Rates by State, County, and City - Public AssessorSearch [...] <https://assessorsearch.com/data/property-tax-rates-by-county>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/AssessorSearch-Property-Tax-Rates.yml>`_]
         
@@ -1122,7 +1122,7 @@ Government
         
 * |OK_ICON| `Halifax, NS, Canada <https://www.halifax.ca/home/open-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Halifax-NS-Canada.yml>`_]
         
-* |OK_ICON| `Helsinki Region, Finland <https://hri.fi/en_gb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Helsinki-Region-Finland.yml>`_]
+* |FIXME_ICON| `Helsinki Region, Finland <https://hri.fi/en_gb/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Helsinki-Region-Finland.yml>`_]
         
 * |OK_ICON| `Common Spatial Data Infrastructure (CSDI), Hong Kong, China <https://portal.csdi.gov.hk/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Hong-Kong-China-CSDI.yml>`_]
         
@@ -2154,7 +2154,7 @@ SocialSciences
         
 * |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UCLA-Social-Sciences-Data-Archive.yml>`_]
         
-* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
+* |FIXME_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UN-Civil-Society-Database.yml>`_]
         
 * |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/UPJOHN-for-Labor-Employment-Research.yml>`_]
         
