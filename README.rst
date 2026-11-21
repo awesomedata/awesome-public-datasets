@@ -2280,6 +2280,7 @@ Sports
         
 * |OK_ICON| `Tennis Match Charting Project <https://github.com/JeffSackmann/tennis_MatchChartingProject>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Tennis-database-of-rankings-results-and-stats-for-ATP.yml>`_]
         
+* |OK_ICON| `AsianScore Verifiable Football & NBA xG Prediction Ledger - Pre-kickoff SHA-256 locked probability forecasts with open JSON API and Brier Score settlement <https://asianscore.com/models.html#ledger>`_
 * |OK_ICON| `Transfermarkt Datasets - Clean, structured and automatically updated football (soccer) data [...] <https://github.com/dcaribou/transfermarkt-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/Transfermarkt-Datasets.yml>`_]
         
 * |OK_ICON| `USA Soccer Teams and Locations - USA soccer teams and locations. MLS, NWSL, and USL [...] <https://github.com/gavinr/usa-soccer>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Sports/USA-Soccer.yml>`_]
