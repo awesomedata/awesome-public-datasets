@@ -552,6 +552,8 @@ Economics
         
 * |OK_ICON| `Jon Haveman International Trade Data Links (Archived at Wayback) - at least some of the [...] <https://web.archive.org/web/20260425065427/https://www.freit.org/TradeResources/TradeData.php>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Jon-Haveman-International-Trade-Data-Links.yml>`_]
         
+* `KeepDwell Home Repair & Maintenance Costs <https://github.com/keepdwell/home-repair-costs>`_ - 3,067 US home repair & maintenance cost ranges from 620 guides. CSV + JSON, CC BY 4.0, auto-updated.
+
 * |OK_ICON| `LandedSpec Construction-Import Decision Registers - Three open CSV registers for [...] <https://landedspec.com/methodology/#research-assets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/LandedSpec-Construction-Import-Decision-Registers.yml>`_]
         
 * |OK_ICON| `Long-Term Productivity Database - The Long-Term Productivity database was created as a [...] <http://longtermproductivity.com/download.html>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Economics/Long-Term-Productivity-Database.yml>`_]
