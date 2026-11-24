@@ -818,6 +818,8 @@ Energy
         
 * |OK_ICON| `UK-DALE - UK Domestic Appliance-Level Electricity <https://jack-kelly.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-DALE.yml>`_]
         
+* |OK_ICON| `UK Home Battery Data - Public CSVs for UK home battery research. Includes a November 2026 [...] <https://github.com/NewBegin-gif/uk-home-battery-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/UK-Home-Battery-Data.yml>`_]
+        
 * |OK_ICON| `US Plug-In / Balcony Solar Legality (50 States) - Free, no-auth JSON dataset of plug-in / [...] <https://pluginsolarhub.org/developers/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/US-Plug-In-Solar-Legality.yml>`_]
         
 * |FIXME_ICON| `US Power Outage Burden by State 2013-2025 - State-by-year customer-weighted SAIDI and SAIFI [...] <https://doi.org/10.5281/zenodo.23548861>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Energy/US-Power-Outage-Burden-by-State.yml>`_]
