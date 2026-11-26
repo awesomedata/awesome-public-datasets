@@ -1400,7 +1400,7 @@ Government
         
 * |OK_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Victoria-BC-Canada.yml>`_]
         
-* |FIXME_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`_]
+* |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vienna-Austria.yml>`_]
         
 * |OK_ICON| `Statistics from the General Statistics Office of Vietnam - Data in different categories are [...] <https://www.nso.gov.vn/en/homepage/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Vietnam.yml>`_]
         
@@ -1662,7 +1662,7 @@ MachineLearning
         
 * |OK_ICON| `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/More-Song-Datasets.yml>`_]
         
-* |OK_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`_]
+* |FIXME_ICON| `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/MovieLens-Data-Sets.yml>`_]
         
 * |OK_ICON| `New Yorker caption contest ratings <https://github.com/nextml/caption-contest-data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//MachineLearning/New-Yorker-caption-contest-ratings.yml>`_]
         
@@ -2231,7 +2231,7 @@ Software
         
 * |OK_ICON| `Commit messages - 1.3 billion GitHub commit messages till March 2019 <https://github.com/src-d/datasets/blob/master/CommitMessages>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-commit-messages.yml>`_]
         
-* |FIXME_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
+* |OK_ICON| `Pull Request review comments - 25.3 million GitHub PR review comments from January 2015 to [...] <https://github.com/src-d/datasets/blob/master/ReviewComments>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-pull-request-review-comments.yml>`_]
         
 * |OK_ICON| `Source Code Identifiers - 41.7 million distinct splittable identifiers collected from 182,014 [...] <https://github.com/src-d/datasets/tree/master/Identifiers>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Software/source{d}-source-code-identifiers.yml>`_]
     
