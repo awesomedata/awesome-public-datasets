@@ -1250,6 +1250,8 @@ Government
         
 * |OK_ICON| `PottyDirectory — US Portable Restroom & Public Restroom Open Data - Open dataset of 3,649 US [...] <https://pottydirectory.com/data>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/PottyDirectory-USA.yml>`_]
         
+* |OK_ICON| `Prince George, BC Council Voting Records - Structured voting records from Prince George, [...] <https://princegeorgepulse.ca/civic/council-votes/>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/Prince-George-Council-Voting-Records.yml>`_]
+        
 * |OK_ICON| `ProcureData - Canadian Federal Procurement API - REST API for Canadian federal procurement [...] <https://procuredata.ca>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/ProcureData-Canadian-Federal-Procurement-API.yml>`_]
         
 * |FIXME_ICON| `Consumer Product Recalls by Barcode (EAN/GTIN) - 36,582 consumer product-safety recall [...] <https://doi.org/10.5281/zenodo.22685727>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Government/ProductGuru-Consumer-Product-Recalls-by-Barcode.yml>`_]
