@@ -2451,3 +2451,8 @@ Special thanks to
 
 
 
+
+Japan
+------
+
+* |OK_ICON| `Japan Places - Comprehensive Japanese facilities and locations database with geocoding and location intelligence <https://japan-places.com>`_ [`Meta <https://github.com/awesomedata/apd-core/tree/master/core//Japan/Japan-Places.yml>`_]
